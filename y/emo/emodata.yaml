@@ -1,0 +1,7536 @@
+grinning_face:
+    emo: 😀
+    name: 'grinning face'
+    uni: 1f600
+grinning_face_with_big_eyes:
+    emo: 😃
+    name: 'grinning face with big eyes'
+    uni: 1f603
+grinning_face_with_smiling_eyes:
+    emo: 😄
+    name: 'grinning face with smiling eyes'
+    uni: 1f604
+beaming_face_with_smiling_eyes:
+    emo: 😁
+    name: 'beaming face with smiling eyes'
+    uni: 1f601
+grinning_squinting_face:
+    emo: 😆
+    name: 'grinning squinting face'
+    uni: 1f606
+grinning_face_with_sweat:
+    emo: 😅
+    name: 'grinning face with sweat'
+    uni: 1f605
+rolling_on_the_floor_laughing:
+    emo: 🤣
+    name: 'rolling on the floor laughing'
+    uni: 1f923
+face_with_tears_of_joy:
+    emo: 😂
+    name: 'face with tears of joy'
+    uni: 1f602
+slightly_smiling_face:
+    emo: 🙂
+    name: 'slightly smiling face'
+    uni: 1f642
+upside_down_face:
+    emo: 🙃
+    name: 'upside-down face'
+    uni: 1f643
+melting_face:
+    emo: 🫠
+    name: 'melting face'
+    uni: 1fae0
+winking_face:
+    emo: 😉
+    name: 'winking face'
+    uni: 1f609
+smiling_face_with_smiling_eyes:
+    emo: 😊
+    name: 'smiling face with smiling eyes'
+    uni: 1f60a
+smiling_face_with_halo:
+    emo: 😇
+    name: 'smiling face with halo'
+    uni: 1f607
+smiling_face_with_hearts:
+    emo: 🥰
+    name: 'smiling face with hearts'
+    uni: 1f970
+smiling_face_with_heart_eyes:
+    emo: 😍
+    name: 'smiling face with heart-eyes'
+    uni: 1f60d
+star_struck:
+    emo: 🤩
+    name: star-struck
+    uni: 1f929
+face_blowing_a_kiss:
+    emo: 😘
+    name: 'face blowing a kiss'
+    uni: 1f618
+kissing_face:
+    emo: 😗
+    name: 'kissing face'
+    uni: 1f617
+smiling_face:
+    emo: ☺️
+    name: 'smiling face'
+    uni: 263a_fe0f
+kissing_face_with_closed_eyes:
+    emo: 😚
+    name: 'kissing face with closed eyes'
+    uni: 1f61a
+kissing_face_with_smiling_eyes:
+    emo: 😙
+    name: 'kissing face with smiling eyes'
+    uni: 1f619
+smiling_face_with_tear:
+    emo: 🥲
+    name: 'smiling face with tear'
+    uni: 1f972
+face_savoring_food:
+    emo: 😋
+    name: 'face savoring food'
+    uni: 1f60b
+face_with_tongue:
+    emo: 😛
+    name: 'face with tongue'
+    uni: 1f61b
+winking_face_with_tongue:
+    emo: 😜
+    name: 'winking face with tongue'
+    uni: 1f61c
+zany_face:
+    emo: 🤪
+    name: 'zany face'
+    uni: 1f92a
+squinting_face_with_tongue:
+    emo: 😝
+    name: 'squinting face with tongue'
+    uni: 1f61d
+money_mouth_face:
+    emo: 🤑
+    name: 'money-mouth face'
+    uni: 1f911
+smiling_face_with_open_hands:
+    emo: 🤗
+    name: 'smiling face with open hands'
+    uni: 1f917
+face_with_hand_over_mouth:
+    emo: 🤭
+    name: 'face with hand over mouth'
+    uni: 1f92d
+face_with_open_eyes_and_hand_over_mouth:
+    emo: 🫢
+    name: 'face with open eyes and hand over mouth'
+    uni: 1fae2
+face_with_peeking_eye:
+    emo: 🫣
+    name: 'face with peeking eye'
+    uni: 1fae3
+shushing_face:
+    emo: 🤫
+    name: 'shushing face'
+    uni: 1f92b
+thinking_face:
+    emo: 🤔
+    name: 'thinking face'
+    uni: 1f914
+saluting_face:
+    emo: 🫡
+    name: 'saluting face'
+    uni: 1fae1
+zipper_mouth_face:
+    emo: 🤐
+    name: 'zipper-mouth face'
+    uni: 1f910
+face_with_raised_eyebrow:
+    emo: 🤨
+    name: 'face with raised eyebrow'
+    uni: 1f928
+neutral_face:
+    emo: 😐
+    name: 'neutral face'
+    uni: 1f610
+expressionless_face:
+    emo: 😑
+    name: 'expressionless face'
+    uni: 1f611
+face_without_mouth:
+    emo: 😶
+    name: 'face without mouth'
+    uni: 1f636
+dotted_line_face:
+    emo: 🫥
+    name: 'dotted line face'
+    uni: 1fae5
+face_in_clouds:
+    emo: 😶‍🌫️
+    name: 'face in clouds'
+    uni: 1f636_200d_1f32b_fe0f
+smirking_face:
+    emo: 😏
+    name: 'smirking face'
+    uni: 1f60f
+unamused_face:
+    emo: 😒
+    name: 'unamused face'
+    uni: 1f612
+face_with_rolling_eyes:
+    emo: 🙄
+    name: 'face with rolling eyes'
+    uni: 1f644
+grimacing_face:
+    emo: 😬
+    name: 'grimacing face'
+    uni: 1f62c
+face_exhaling:
+    emo: 😮‍💨
+    name: 'face exhaling'
+    uni: 1f62e_200d_1f4a8
+lying_face:
+    emo: 🤥
+    name: 'lying face'
+    uni: 1f925
+shaking_face:
+    emo: 🫨
+    name: 'shaking face'
+    uni: 1fae8
+head_shaking_horizontally:
+    emo: 🙂‍↔️
+    name: 'head shaking horizontally'
+    uni: 1f642_200d_2194_fe0f
+head_shaking_vertically:
+    emo: 🙂‍↕️
+    name: 'head shaking vertically'
+    uni: 1f642_200d_2195_fe0f
+relieved_face:
+    emo: 😌
+    name: 'relieved face'
+    uni: 1f60c
+pensive_face:
+    emo: 😔
+    name: 'pensive face'
+    uni: 1f614
+sleepy_face:
+    emo: 😪
+    name: 'sleepy face'
+    uni: 1f62a
+drooling_face:
+    emo: 🤤
+    name: 'drooling face'
+    uni: 1f924
+sleeping_face:
+    emo: 😴
+    name: 'sleeping face'
+    uni: 1f634
+face_with_bags_under_eyes:
+    emo: 🫩
+    name: 'face with bags under eyes'
+    uni: 1fae9
+face_with_medical_mask:
+    emo: 😷
+    name: 'face with medical mask'
+    uni: 1f637
+face_with_thermometer:
+    emo: 🤒
+    name: 'face with thermometer'
+    uni: 1f912
+face_with_head_bandage:
+    emo: 🤕
+    name: 'face with head-bandage'
+    uni: 1f915
+nauseated_face:
+    emo: 🤢
+    name: 'nauseated face'
+    uni: 1f922
+face_vomiting:
+    emo: 🤮
+    name: 'face vomiting'
+    uni: 1f92e
+sneezing_face:
+    emo: 🤧
+    name: 'sneezing face'
+    uni: 1f927
+hot_face:
+    emo: 🥵
+    name: 'hot face'
+    uni: 1f975
+cold_face:
+    emo: 🥶
+    name: 'cold face'
+    uni: 1f976
+woozy_face:
+    emo: 🥴
+    name: 'woozy face'
+    uni: 1f974
+face_with_crossed_out_eyes:
+    emo: 😵
+    name: 'face with crossed-out eyes'
+    uni: 1f635
+face_with_spiral_eyes:
+    emo: 😵‍💫
+    name: 'face with spiral eyes'
+    uni: 1f635_200d_1f4ab
+exploding_head:
+    emo: 🤯
+    name: 'exploding head'
+    uni: 1f92f
+cowboy_hat_face:
+    emo: 🤠
+    name: 'cowboy hat face'
+    uni: 1f920
+partying_face:
+    emo: 🥳
+    name: 'partying face'
+    uni: 1f973
+disguised_face:
+    emo: 🥸
+    name: 'disguised face'
+    uni: 1f978
+smiling_face_with_sunglasses:
+    emo: 😎
+    name: 'smiling face with sunglasses'
+    uni: 1f60e
+nerd_face:
+    emo: 🤓
+    name: 'nerd face'
+    uni: 1f913
+face_with_monocle:
+    emo: 🧐
+    name: 'face with monocle'
+    uni: 1f9d0
+confused_face:
+    emo: 😕
+    name: 'confused face'
+    uni: 1f615
+face_with_diagonal_mouth:
+    emo: 🫤
+    name: 'face with diagonal mouth'
+    uni: 1fae4
+worried_face:
+    emo: 😟
+    name: 'worried face'
+    uni: 1f61f
+slightly_frowning_face:
+    emo: 🙁
+    name: 'slightly frowning face'
+    uni: 1f641
+frowning_face:
+    emo: ☹️
+    name: 'frowning face'
+    uni: 2639_fe0f
+face_with_open_mouth:
+    emo: 😮
+    name: 'face with open mouth'
+    uni: 1f62e
+hushed_face:
+    emo: 😯
+    name: 'hushed face'
+    uni: 1f62f
+astonished_face:
+    emo: 😲
+    name: 'astonished face'
+    uni: 1f632
+flushed_face:
+    emo: 😳
+    name: 'flushed face'
+    uni: 1f633
+distorted_face:
+    emo: 🫪
+    name: 'distorted face'
+    uni: 1faea
+pleading_face:
+    emo: 🥺
+    name: 'pleading face'
+    uni: 1f97a
+face_holding_back_tears:
+    emo: 🥹
+    name: 'face holding back tears'
+    uni: 1f979
+frowning_face_with_open_mouth:
+    emo: 😦
+    name: 'frowning face with open mouth'
+    uni: 1f626
+anguished_face:
+    emo: 😧
+    name: 'anguished face'
+    uni: 1f627
+fearful_face:
+    emo: 😨
+    name: 'fearful face'
+    uni: 1f628
+anxious_face_with_sweat:
+    emo: 😰
+    name: 'anxious face with sweat'
+    uni: 1f630
+sad_but_relieved_face:
+    emo: 😥
+    name: 'sad but relieved face'
+    uni: 1f625
+crying_face:
+    emo: 😢
+    name: 'crying face'
+    uni: 1f622
+loudly_crying_face:
+    emo: 😭
+    name: 'loudly crying face'
+    uni: 1f62d
+face_screaming_in_fear:
+    emo: 😱
+    name: 'face screaming in fear'
+    uni: 1f631
+confounded_face:
+    emo: 😖
+    name: 'confounded face'
+    uni: 1f616
+persevering_face:
+    emo: 😣
+    name: 'persevering face'
+    uni: 1f623
+disappointed_face:
+    emo: 😞
+    name: 'disappointed face'
+    uni: 1f61e
+downcast_face_with_sweat:
+    emo: 😓
+    name: 'downcast face with sweat'
+    uni: 1f613
+weary_face:
+    emo: 😩
+    name: 'weary face'
+    uni: 1f629
+tired_face:
+    emo: 😫
+    name: 'tired face'
+    uni: 1f62b
+yawning_face:
+    emo: 🥱
+    name: 'yawning face'
+    uni: 1f971
+face_with_steam_from_nose:
+    emo: 😤
+    name: 'face with steam from nose'
+    uni: 1f624
+enraged_face:
+    emo: 😡
+    name: 'enraged face'
+    uni: 1f621
+angry_face:
+    emo: 😠
+    name: 'angry face'
+    uni: 1f620
+face_with_symbols_on_mouth:
+    emo: 🤬
+    name: 'face with symbols on mouth'
+    uni: 1f92c
+smiling_face_with_horns:
+    emo: 😈
+    name: 'smiling face with horns'
+    uni: 1f608
+angry_face_with_horns:
+    emo: 👿
+    name: 'angry face with horns'
+    uni: 1f47f
+skull:
+    emo: 💀
+    name: skull
+    uni: 1f480
+skull_and_crossbones:
+    emo: ☠️
+    name: 'skull and crossbones'
+    uni: 2620_fe0f
+pile_of_poo:
+    emo: 💩
+    name: 'pile of poo'
+    uni: 1f4a9
+clown_face:
+    emo: 🤡
+    name: 'clown face'
+    uni: 1f921
+ogre:
+    emo: 👹
+    name: ogre
+    uni: 1f479
+goblin:
+    emo: 👺
+    name: goblin
+    uni: 1f47a
+ghost:
+    emo: 👻
+    name: ghost
+    uni: 1f47b
+alien:
+    emo: 👽
+    name: alien
+    uni: 1f47d
+alien_monster:
+    emo: 👾
+    name: 'alien monster'
+    uni: 1f47e
+robot:
+    emo: 🤖
+    name: robot
+    uni: 1f916
+grinning_cat:
+    emo: 😺
+    name: 'grinning cat'
+    uni: 1f63a
+grinning_cat_with_smiling_eyes:
+    emo: 😸
+    name: 'grinning cat with smiling eyes'
+    uni: 1f638
+cat_with_tears_of_joy:
+    emo: 😹
+    name: 'cat with tears of joy'
+    uni: 1f639
+smiling_cat_with_heart_eyes:
+    emo: 😻
+    name: 'smiling cat with heart-eyes'
+    uni: 1f63b
+cat_with_wry_smile:
+    emo: 😼
+    name: 'cat with wry smile'
+    uni: 1f63c
+kissing_cat:
+    emo: 😽
+    name: 'kissing cat'
+    uni: 1f63d
+weary_cat:
+    emo: 🙀
+    name: 'weary cat'
+    uni: 1f640
+crying_cat:
+    emo: 😿
+    name: 'crying cat'
+    uni: 1f63f
+pouting_cat:
+    emo: 😾
+    name: 'pouting cat'
+    uni: 1f63e
+see_no_evil_monkey:
+    emo: 🙈
+    name: 'see-no-evil monkey'
+    uni: 1f648
+hear_no_evil_monkey:
+    emo: 🙉
+    name: 'hear-no-evil monkey'
+    uni: 1f649
+speak_no_evil_monkey:
+    emo: 🙊
+    name: 'speak-no-evil monkey'
+    uni: 1f64a
+love_letter:
+    emo: 💌
+    name: 'love letter'
+    uni: 1f48c
+heart_with_arrow:
+    emo: 💘
+    name: 'heart with arrow'
+    uni: 1f498
+heart_with_ribbon:
+    emo: 💝
+    name: 'heart with ribbon'
+    uni: 1f49d
+sparkling_heart:
+    emo: 💖
+    name: 'sparkling heart'
+    uni: 1f496
+growing_heart:
+    emo: 💗
+    name: 'growing heart'
+    uni: 1f497
+beating_heart:
+    emo: 💓
+    name: 'beating heart'
+    uni: 1f493
+revolving_hearts:
+    emo: 💞
+    name: 'revolving hearts'
+    uni: 1f49e
+two_hearts:
+    emo: 💕
+    name: 'two hearts'
+    uni: 1f495
+heart_decoration:
+    emo: 💟
+    name: 'heart decoration'
+    uni: 1f49f
+heart_exclamation:
+    emo: ❣️
+    name: 'heart exclamation'
+    uni: 2763_fe0f
+broken_heart:
+    emo: 💔
+    name: 'broken heart'
+    uni: 1f494
+heart_on_fire:
+    emo: ❤️‍🔥
+    name: 'heart on fire'
+    uni: 2764_fe0f_200d_1f525
+mending_heart:
+    emo: ❤️‍🩹
+    name: 'mending heart'
+    uni: 2764_fe0f_200d_1fa79
+red_heart:
+    emo: ❤️
+    name: 'red heart'
+    uni: 2764_fe0f
+pink_heart:
+    emo: 🩷
+    name: 'pink heart'
+    uni: 1fa77
+orange_heart:
+    emo: 🧡
+    name: 'orange heart'
+    uni: 1f9e1
+yellow_heart:
+    emo: 💛
+    name: 'yellow heart'
+    uni: 1f49b
+green_heart:
+    emo: 💚
+    name: 'green heart'
+    uni: 1f49a
+blue_heart:
+    emo: 💙
+    name: 'blue heart'
+    uni: 1f499
+light_blue_heart:
+    emo: 🩵
+    name: 'light blue heart'
+    uni: 1fa75
+purple_heart:
+    emo: 💜
+    name: 'purple heart'
+    uni: 1f49c
+brown_heart:
+    emo: 🤎
+    name: 'brown heart'
+    uni: 1f90e
+black_heart:
+    emo: 🖤
+    name: 'black heart'
+    uni: 1f5a4
+grey_heart:
+    emo: 🩶
+    name: 'grey heart'
+    uni: 1fa76
+white_heart:
+    emo: 🤍
+    name: 'white heart'
+    uni: 1f90d
+kiss_mark:
+    emo: 💋
+    name: 'kiss mark'
+    uni: 1f48b
+hundred_points:
+    emo: 💯
+    name: 'hundred points'
+    uni: 1f4af
+anger_symbol:
+    emo: 💢
+    name: 'anger symbol'
+    uni: 1f4a2
+fight_cloud:
+    emo: 🫯
+    name: 'fight cloud'
+    uni: 1faef
+collision:
+    emo: 💥
+    name: collision
+    uni: 1f4a5
+dizzy:
+    emo: 💫
+    name: dizzy
+    uni: 1f4ab
+sweat_droplets:
+    emo: 💦
+    name: 'sweat droplets'
+    uni: 1f4a6
+dashing_away:
+    emo: 💨
+    name: 'dashing away'
+    uni: 1f4a8
+hole:
+    emo: 🕳️
+    name: hole
+    uni: 1f573_fe0f
+speech_balloon:
+    emo: 💬
+    name: 'speech balloon'
+    uni: 1f4ac
+eye_in_speech_bubble:
+    emo: 👁️‍🗨️
+    name: 'eye in speech bubble'
+    uni: 1f441_fe0f_200d_1f5e8_fe0f
+left_speech_bubble:
+    emo: 🗨️
+    name: 'left speech bubble'
+    uni: 1f5e8_fe0f
+right_anger_bubble:
+    emo: 🗯️
+    name: 'right anger bubble'
+    uni: 1f5ef_fe0f
+thought_balloon:
+    emo: 💭
+    name: 'thought balloon'
+    uni: 1f4ad
+zzz:
+    emo: 💤
+    name: ZZZ
+    uni: 1f4a4
+waving_hand:
+    emo: 👋
+    name: 'waving hand'
+    uni: 1f44b
+raised_back_of_hand:
+    emo: 🤚
+    name: 'raised back of hand'
+    uni: 1f91a
+hand_with_fingers_splayed:
+    emo: 🖐️
+    name: 'hand with fingers splayed'
+    uni: 1f590_fe0f
+raised_hand:
+    emo: ✋
+    name: 'raised hand'
+    uni: 270b
+vulcan_salute:
+    emo: 🖖
+    name: 'vulcan salute'
+    uni: 1f596
+rightwards_hand:
+    emo: 🫱
+    name: 'rightwards hand'
+    uni: 1faf1
+leftwards_hand:
+    emo: 🫲
+    name: 'leftwards hand'
+    uni: 1faf2
+palm_down_hand:
+    emo: 🫳
+    name: 'palm down hand'
+    uni: 1faf3
+palm_up_hand:
+    emo: 🫴
+    name: 'palm up hand'
+    uni: 1faf4
+leftwards_pushing_hand:
+    emo: 🫷
+    name: 'leftwards pushing hand'
+    uni: 1faf7
+rightwards_pushing_hand:
+    emo: 🫸
+    name: 'rightwards pushing hand'
+    uni: 1faf8
+ok_hand:
+    emo: 👌
+    name: 'OK hand'
+    uni: 1f44c
+pinched_fingers:
+    emo: 🤌
+    name: 'pinched fingers'
+    uni: 1f90c
+pinching_hand:
+    emo: 🤏
+    name: 'pinching hand'
+    uni: 1f90f
+victory_hand:
+    emo: ✌️
+    name: 'victory hand'
+    uni: 270c_fe0f
+crossed_fingers:
+    emo: 🤞
+    name: 'crossed fingers'
+    uni: 1f91e
+hand_with_index_finger_and_thumb_crossed:
+    emo: 🫰
+    name: 'hand with index finger and thumb crossed'
+    uni: 1faf0
+love_you_gesture:
+    emo: 🤟
+    name: 'love-you gesture'
+    uni: 1f91f
+sign_of_the_horns:
+    emo: 🤘
+    name: 'sign of the horns'
+    uni: 1f918
+call_me_hand:
+    emo: 🤙
+    name: 'call me hand'
+    uni: 1f919
+backhand_index_pointing_left:
+    emo: 👈
+    name: 'backhand index pointing left'
+    uni: 1f448
+backhand_index_pointing_right:
+    emo: 👉
+    name: 'backhand index pointing right'
+    uni: 1f449
+backhand_index_pointing_up:
+    emo: 👆
+    name: 'backhand index pointing up'
+    uni: 1f446
+middle_finger:
+    emo: 🖕
+    name: 'middle finger'
+    uni: 1f595
+backhand_index_pointing_down:
+    emo: 👇
+    name: 'backhand index pointing down'
+    uni: 1f447
+index_pointing_up:
+    emo: ☝️
+    name: 'index pointing up'
+    uni: 261d_fe0f
+index_pointing_at_the_viewer:
+    emo: 🫵
+    name: 'index pointing at the viewer'
+    uni: 1faf5
+thumbs_up:
+    emo: 👍
+    name: 'thumbs up'
+    uni: 1f44d
+thumbs_down:
+    emo: 👎
+    name: 'thumbs down'
+    uni: 1f44e
+raised_fist:
+    emo: ✊
+    name: 'raised fist'
+    uni: 270a
+oncoming_fist:
+    emo: 👊
+    name: 'oncoming fist'
+    uni: 1f44a
+left_facing_fist:
+    emo: 🤛
+    name: 'left-facing fist'
+    uni: 1f91b
+right_facing_fist:
+    emo: 🤜
+    name: 'right-facing fist'
+    uni: 1f91c
+clapping_hands:
+    emo: 👏
+    name: 'clapping hands'
+    uni: 1f44f
+raising_hands:
+    emo: 🙌
+    name: 'raising hands'
+    uni: 1f64c
+heart_hands:
+    emo: 🫶
+    name: 'heart hands'
+    uni: 1faf6
+open_hands:
+    emo: 👐
+    name: 'open hands'
+    uni: 1f450
+palms_up_together:
+    emo: 🤲
+    name: 'palms up together'
+    uni: 1f932
+handshake:
+    emo: 🤝
+    name: handshake
+    uni: 1f91d
+folded_hands:
+    emo: 🙏
+    name: 'folded hands'
+    uni: 1f64f
+writing_hand:
+    emo: ✍️
+    name: 'writing hand'
+    uni: 270d_fe0f
+nail_polish:
+    emo: 💅
+    name: 'nail polish'
+    uni: 1f485
+selfie:
+    emo: 🤳
+    name: selfie
+    uni: 1f933
+flexed_biceps:
+    emo: 💪
+    name: 'flexed biceps'
+    uni: 1f4aa
+mechanical_arm:
+    emo: 🦾
+    name: 'mechanical arm'
+    uni: 1f9be
+mechanical_leg:
+    emo: 🦿
+    name: 'mechanical leg'
+    uni: 1f9bf
+leg:
+    emo: 🦵
+    name: leg
+    uni: 1f9b5
+foot:
+    emo: 🦶
+    name: foot
+    uni: 1f9b6
+ear:
+    emo: 👂
+    name: ear
+    uni: 1f442
+ear_with_hearing_aid:
+    emo: 🦻
+    name: 'ear with hearing aid'
+    uni: 1f9bb
+nose:
+    emo: 👃
+    name: nose
+    uni: 1f443
+brain:
+    emo: 🧠
+    name: brain
+    uni: 1f9e0
+anatomical_heart:
+    emo: 🫀
+    name: 'anatomical heart'
+    uni: 1fac0
+lungs:
+    emo: 🫁
+    name: lungs
+    uni: 1fac1
+tooth:
+    emo: 🦷
+    name: tooth
+    uni: 1f9b7
+bone:
+    emo: 🦴
+    name: bone
+    uni: 1f9b4
+eyes:
+    emo: 👀
+    name: eyes
+    uni: 1f440
+eye:
+    emo: 👁️
+    name: eye
+    uni: 1f441_fe0f
+tongue:
+    emo: 👅
+    name: tongue
+    uni: 1f445
+mouth:
+    emo: 👄
+    name: mouth
+    uni: 1f444
+biting_lip:
+    emo: 🫦
+    name: 'biting lip'
+    uni: 1fae6
+baby:
+    emo: 👶
+    name: baby
+    uni: 1f476
+child:
+    emo: 🧒
+    name: child
+    uni: 1f9d2
+boy:
+    emo: 👦
+    name: boy
+    uni: 1f466
+girl:
+    emo: 👧
+    name: girl
+    uni: 1f467
+person:
+    emo: 🧑
+    name: person
+    uni: 1f9d1
+person_blond_hair:
+    emo: 👱
+    name: 'person: blond hair'
+    uni: 1f471
+man:
+    emo: 👨
+    name: man
+    uni: 1f468
+person_beard:
+    emo: 🧔
+    name: 'person: beard'
+    uni: 1f9d4
+man_beard:
+    emo: 🧔‍♂️
+    name: 'man: beard'
+    uni: 1f9d4_200d_2642_fe0f
+woman_beard:
+    emo: 🧔‍♀️
+    name: 'woman: beard'
+    uni: 1f9d4_200d_2640_fe0f
+man_red_hair:
+    emo: 👨‍🦰
+    name: 'man: red hair'
+    uni: 1f468_200d_1f9b0
+man_curly_hair:
+    emo: 👨‍🦱
+    name: 'man: curly hair'
+    uni: 1f468_200d_1f9b1
+man_white_hair:
+    emo: 👨‍🦳
+    name: 'man: white hair'
+    uni: 1f468_200d_1f9b3
+man_bald:
+    emo: 👨‍🦲
+    name: 'man: bald'
+    uni: 1f468_200d_1f9b2
+woman:
+    emo: 👩
+    name: woman
+    uni: 1f469
+woman_red_hair:
+    emo: 👩‍🦰
+    name: 'woman: red hair'
+    uni: 1f469_200d_1f9b0
+person_red_hair:
+    emo: 🧑‍🦰
+    name: 'person: red hair'
+    uni: 1f9d1_200d_1f9b0
+woman_curly_hair:
+    emo: 👩‍🦱
+    name: 'woman: curly hair'
+    uni: 1f469_200d_1f9b1
+person_curly_hair:
+    emo: 🧑‍🦱
+    name: 'person: curly hair'
+    uni: 1f9d1_200d_1f9b1
+woman_white_hair:
+    emo: 👩‍🦳
+    name: 'woman: white hair'
+    uni: 1f469_200d_1f9b3
+person_white_hair:
+    emo: 🧑‍🦳
+    name: 'person: white hair'
+    uni: 1f9d1_200d_1f9b3
+woman_bald:
+    emo: 👩‍🦲
+    name: 'woman: bald'
+    uni: 1f469_200d_1f9b2
+person_bald:
+    emo: 🧑‍🦲
+    name: 'person: bald'
+    uni: 1f9d1_200d_1f9b2
+woman_blond_hair:
+    emo: 👱‍♀️
+    name: 'woman: blond hair'
+    uni: 1f471_200d_2640_fe0f
+man_blond_hair:
+    emo: 👱‍♂️
+    name: 'man: blond hair'
+    uni: 1f471_200d_2642_fe0f
+older_person:
+    emo: 🧓
+    name: 'older person'
+    uni: 1f9d3
+old_man:
+    emo: 👴
+    name: 'old man'
+    uni: 1f474
+old_woman:
+    emo: 👵
+    name: 'old woman'
+    uni: 1f475
+person_frowning:
+    emo: 🙍
+    name: 'person frowning'
+    uni: 1f64d
+man_frowning:
+    emo: 🙍‍♂️
+    name: 'man frowning'
+    uni: 1f64d_200d_2642_fe0f
+woman_frowning:
+    emo: 🙍‍♀️
+    name: 'woman frowning'
+    uni: 1f64d_200d_2640_fe0f
+person_pouting:
+    emo: 🙎
+    name: 'person pouting'
+    uni: 1f64e
+man_pouting:
+    emo: 🙎‍♂️
+    name: 'man pouting'
+    uni: 1f64e_200d_2642_fe0f
+woman_pouting:
+    emo: 🙎‍♀️
+    name: 'woman pouting'
+    uni: 1f64e_200d_2640_fe0f
+person_gesturing_no:
+    emo: 🙅
+    name: 'person gesturing NO'
+    uni: 1f645
+man_gesturing_no:
+    emo: 🙅‍♂️
+    name: 'man gesturing NO'
+    uni: 1f645_200d_2642_fe0f
+woman_gesturing_no:
+    emo: 🙅‍♀️
+    name: 'woman gesturing NO'
+    uni: 1f645_200d_2640_fe0f
+person_gesturing_ok:
+    emo: 🙆
+    name: 'person gesturing OK'
+    uni: 1f646
+man_gesturing_ok:
+    emo: 🙆‍♂️
+    name: 'man gesturing OK'
+    uni: 1f646_200d_2642_fe0f
+woman_gesturing_ok:
+    emo: 🙆‍♀️
+    name: 'woman gesturing OK'
+    uni: 1f646_200d_2640_fe0f
+person_tipping_hand:
+    emo: 💁
+    name: 'person tipping hand'
+    uni: 1f481
+man_tipping_hand:
+    emo: 💁‍♂️
+    name: 'man tipping hand'
+    uni: 1f481_200d_2642_fe0f
+woman_tipping_hand:
+    emo: 💁‍♀️
+    name: 'woman tipping hand'
+    uni: 1f481_200d_2640_fe0f
+person_raising_hand:
+    emo: 🙋
+    name: 'person raising hand'
+    uni: 1f64b
+man_raising_hand:
+    emo: 🙋‍♂️
+    name: 'man raising hand'
+    uni: 1f64b_200d_2642_fe0f
+woman_raising_hand:
+    emo: 🙋‍♀️
+    name: 'woman raising hand'
+    uni: 1f64b_200d_2640_fe0f
+deaf_person:
+    emo: 🧏
+    name: 'deaf person'
+    uni: 1f9cf
+deaf_man:
+    emo: 🧏‍♂️
+    name: 'deaf man'
+    uni: 1f9cf_200d_2642_fe0f
+deaf_woman:
+    emo: 🧏‍♀️
+    name: 'deaf woman'
+    uni: 1f9cf_200d_2640_fe0f
+person_bowing:
+    emo: 🙇
+    name: 'person bowing'
+    uni: 1f647
+man_bowing:
+    emo: 🙇‍♂️
+    name: 'man bowing'
+    uni: 1f647_200d_2642_fe0f
+woman_bowing:
+    emo: 🙇‍♀️
+    name: 'woman bowing'
+    uni: 1f647_200d_2640_fe0f
+person_facepalming:
+    emo: 🤦
+    name: 'person facepalming'
+    uni: 1f926
+man_facepalming:
+    emo: 🤦‍♂️
+    name: 'man facepalming'
+    uni: 1f926_200d_2642_fe0f
+woman_facepalming:
+    emo: 🤦‍♀️
+    name: 'woman facepalming'
+    uni: 1f926_200d_2640_fe0f
+person_shrugging:
+    emo: 🤷
+    name: 'person shrugging'
+    uni: 1f937
+man_shrugging:
+    emo: 🤷‍♂️
+    name: 'man shrugging'
+    uni: 1f937_200d_2642_fe0f
+woman_shrugging:
+    emo: 🤷‍♀️
+    name: 'woman shrugging'
+    uni: 1f937_200d_2640_fe0f
+health_worker:
+    emo: 🧑‍⚕️
+    name: 'health worker'
+    uni: 1f9d1_200d_2695_fe0f
+man_health_worker:
+    emo: 👨‍⚕️
+    name: 'man health worker'
+    uni: 1f468_200d_2695_fe0f
+woman_health_worker:
+    emo: 👩‍⚕️
+    name: 'woman health worker'
+    uni: 1f469_200d_2695_fe0f
+student:
+    emo: 🧑‍🎓
+    name: student
+    uni: 1f9d1_200d_1f393
+man_student:
+    emo: 👨‍🎓
+    name: 'man student'
+    uni: 1f468_200d_1f393
+woman_student:
+    emo: 👩‍🎓
+    name: 'woman student'
+    uni: 1f469_200d_1f393
+teacher:
+    emo: 🧑‍🏫
+    name: teacher
+    uni: 1f9d1_200d_1f3eb
+man_teacher:
+    emo: 👨‍🏫
+    name: 'man teacher'
+    uni: 1f468_200d_1f3eb
+woman_teacher:
+    emo: 👩‍🏫
+    name: 'woman teacher'
+    uni: 1f469_200d_1f3eb
+judge:
+    emo: 🧑‍⚖️
+    name: judge
+    uni: 1f9d1_200d_2696_fe0f
+man_judge:
+    emo: 👨‍⚖️
+    name: 'man judge'
+    uni: 1f468_200d_2696_fe0f
+woman_judge:
+    emo: 👩‍⚖️
+    name: 'woman judge'
+    uni: 1f469_200d_2696_fe0f
+farmer:
+    emo: 🧑‍🌾
+    name: farmer
+    uni: 1f9d1_200d_1f33e
+man_farmer:
+    emo: 👨‍🌾
+    name: 'man farmer'
+    uni: 1f468_200d_1f33e
+woman_farmer:
+    emo: 👩‍🌾
+    name: 'woman farmer'
+    uni: 1f469_200d_1f33e
+cook:
+    emo: 🧑‍🍳
+    name: cook
+    uni: 1f9d1_200d_1f373
+man_cook:
+    emo: 👨‍🍳
+    name: 'man cook'
+    uni: 1f468_200d_1f373
+woman_cook:
+    emo: 👩‍🍳
+    name: 'woman cook'
+    uni: 1f469_200d_1f373
+mechanic:
+    emo: 🧑‍🔧
+    name: mechanic
+    uni: 1f9d1_200d_1f527
+man_mechanic:
+    emo: 👨‍🔧
+    name: 'man mechanic'
+    uni: 1f468_200d_1f527
+woman_mechanic:
+    emo: 👩‍🔧
+    name: 'woman mechanic'
+    uni: 1f469_200d_1f527
+factory_worker:
+    emo: 🧑‍🏭
+    name: 'factory worker'
+    uni: 1f9d1_200d_1f3ed
+man_factory_worker:
+    emo: 👨‍🏭
+    name: 'man factory worker'
+    uni: 1f468_200d_1f3ed
+woman_factory_worker:
+    emo: 👩‍🏭
+    name: 'woman factory worker'
+    uni: 1f469_200d_1f3ed
+office_worker:
+    emo: 🧑‍💼
+    name: 'office worker'
+    uni: 1f9d1_200d_1f4bc
+man_office_worker:
+    emo: 👨‍💼
+    name: 'man office worker'
+    uni: 1f468_200d_1f4bc
+woman_office_worker:
+    emo: 👩‍💼
+    name: 'woman office worker'
+    uni: 1f469_200d_1f4bc
+scientist:
+    emo: 🧑‍🔬
+    name: scientist
+    uni: 1f9d1_200d_1f52c
+man_scientist:
+    emo: 👨‍🔬
+    name: 'man scientist'
+    uni: 1f468_200d_1f52c
+woman_scientist:
+    emo: 👩‍🔬
+    name: 'woman scientist'
+    uni: 1f469_200d_1f52c
+technologist:
+    emo: 🧑‍💻
+    name: technologist
+    uni: 1f9d1_200d_1f4bb
+man_technologist:
+    emo: 👨‍💻
+    name: 'man technologist'
+    uni: 1f468_200d_1f4bb
+woman_technologist:
+    emo: 👩‍💻
+    name: 'woman technologist'
+    uni: 1f469_200d_1f4bb
+singer:
+    emo: 🧑‍🎤
+    name: singer
+    uni: 1f9d1_200d_1f3a4
+man_singer:
+    emo: 👨‍🎤
+    name: 'man singer'
+    uni: 1f468_200d_1f3a4
+woman_singer:
+    emo: 👩‍🎤
+    name: 'woman singer'
+    uni: 1f469_200d_1f3a4
+artist:
+    emo: 🧑‍🎨
+    name: artist
+    uni: 1f9d1_200d_1f3a8
+man_artist:
+    emo: 👨‍🎨
+    name: 'man artist'
+    uni: 1f468_200d_1f3a8
+woman_artist:
+    emo: 👩‍🎨
+    name: 'woman artist'
+    uni: 1f469_200d_1f3a8
+pilot:
+    emo: 🧑‍✈️
+    name: pilot
+    uni: 1f9d1_200d_2708_fe0f
+man_pilot:
+    emo: 👨‍✈️
+    name: 'man pilot'
+    uni: 1f468_200d_2708_fe0f
+woman_pilot:
+    emo: 👩‍✈️
+    name: 'woman pilot'
+    uni: 1f469_200d_2708_fe0f
+astronaut:
+    emo: 🧑‍🚀
+    name: astronaut
+    uni: 1f9d1_200d_1f680
+man_astronaut:
+    emo: 👨‍🚀
+    name: 'man astronaut'
+    uni: 1f468_200d_1f680
+woman_astronaut:
+    emo: 👩‍🚀
+    name: 'woman astronaut'
+    uni: 1f469_200d_1f680
+firefighter:
+    emo: 🧑‍🚒
+    name: firefighter
+    uni: 1f9d1_200d_1f692
+man_firefighter:
+    emo: 👨‍🚒
+    name: 'man firefighter'
+    uni: 1f468_200d_1f692
+woman_firefighter:
+    emo: 👩‍🚒
+    name: 'woman firefighter'
+    uni: 1f469_200d_1f692
+police_officer:
+    emo: 👮
+    name: 'police officer'
+    uni: 1f46e
+man_police_officer:
+    emo: 👮‍♂️
+    name: 'man police officer'
+    uni: 1f46e_200d_2642_fe0f
+woman_police_officer:
+    emo: 👮‍♀️
+    name: 'woman police officer'
+    uni: 1f46e_200d_2640_fe0f
+detective:
+    emo: 🕵️
+    name: detective
+    uni: 1f575_fe0f
+man_detective:
+    emo: 🕵️‍♂️
+    name: 'man detective'
+    uni: 1f575_fe0f_200d_2642_fe0f
+woman_detective:
+    emo: 🕵️‍♀️
+    name: 'woman detective'
+    uni: 1f575_fe0f_200d_2640_fe0f
+guard:
+    emo: 💂
+    name: guard
+    uni: 1f482
+man_guard:
+    emo: 💂‍♂️
+    name: 'man guard'
+    uni: 1f482_200d_2642_fe0f
+woman_guard:
+    emo: 💂‍♀️
+    name: 'woman guard'
+    uni: 1f482_200d_2640_fe0f
+ninja:
+    emo: 🥷
+    name: ninja
+    uni: 1f977
+construction_worker:
+    emo: 👷
+    name: 'construction worker'
+    uni: 1f477
+man_construction_worker:
+    emo: 👷‍♂️
+    name: 'man construction worker'
+    uni: 1f477_200d_2642_fe0f
+woman_construction_worker:
+    emo: 👷‍♀️
+    name: 'woman construction worker'
+    uni: 1f477_200d_2640_fe0f
+person_with_crown:
+    emo: 🫅
+    name: 'person with crown'
+    uni: 1fac5
+prince:
+    emo: 🤴
+    name: prince
+    uni: 1f934
+princess:
+    emo: 👸
+    name: princess
+    uni: 1f478
+person_wearing_turban:
+    emo: 👳
+    name: 'person wearing turban'
+    uni: 1f473
+man_wearing_turban:
+    emo: 👳‍♂️
+    name: 'man wearing turban'
+    uni: 1f473_200d_2642_fe0f
+woman_wearing_turban:
+    emo: 👳‍♀️
+    name: 'woman wearing turban'
+    uni: 1f473_200d_2640_fe0f
+person_with_skullcap:
+    emo: 👲
+    name: 'person with skullcap'
+    uni: 1f472
+woman_with_headscarf:
+    emo: 🧕
+    name: 'woman with headscarf'
+    uni: 1f9d5
+person_in_tuxedo:
+    emo: 🤵
+    name: 'person in tuxedo'
+    uni: 1f935
+man_in_tuxedo:
+    emo: 🤵‍♂️
+    name: 'man in tuxedo'
+    uni: 1f935_200d_2642_fe0f
+woman_in_tuxedo:
+    emo: 🤵‍♀️
+    name: 'woman in tuxedo'
+    uni: 1f935_200d_2640_fe0f
+person_with_veil:
+    emo: 👰
+    name: 'person with veil'
+    uni: 1f470
+man_with_veil:
+    emo: 👰‍♂️
+    name: 'man with veil'
+    uni: 1f470_200d_2642_fe0f
+woman_with_veil:
+    emo: 👰‍♀️
+    name: 'woman with veil'
+    uni: 1f470_200d_2640_fe0f
+pregnant_woman:
+    emo: 🤰
+    name: 'pregnant woman'
+    uni: 1f930
+pregnant_man:
+    emo: 🫃
+    name: 'pregnant man'
+    uni: 1fac3
+pregnant_person:
+    emo: 🫄
+    name: 'pregnant person'
+    uni: 1fac4
+breast_feeding:
+    emo: 🤱
+    name: breast-feeding
+    uni: 1f931
+woman_feeding_baby:
+    emo: 👩‍🍼
+    name: 'woman feeding baby'
+    uni: 1f469_200d_1f37c
+man_feeding_baby:
+    emo: 👨‍🍼
+    name: 'man feeding baby'
+    uni: 1f468_200d_1f37c
+person_feeding_baby:
+    emo: 🧑‍🍼
+    name: 'person feeding baby'
+    uni: 1f9d1_200d_1f37c
+baby_angel:
+    emo: 👼
+    name: 'baby angel'
+    uni: 1f47c
+santa_claus:
+    emo: 🎅
+    name: 'Santa Claus'
+    uni: 1f385
+mrs_claus:
+    emo: 🤶
+    name: 'Mrs. Claus'
+    uni: 1f936
+mx_claus:
+    emo: 🧑‍🎄
+    name: 'Mx Claus'
+    uni: 1f9d1_200d_1f384
+superhero:
+    emo: 🦸
+    name: superhero
+    uni: 1f9b8
+man_superhero:
+    emo: 🦸‍♂️
+    name: 'man superhero'
+    uni: 1f9b8_200d_2642_fe0f
+woman_superhero:
+    emo: 🦸‍♀️
+    name: 'woman superhero'
+    uni: 1f9b8_200d_2640_fe0f
+supervillain:
+    emo: 🦹
+    name: supervillain
+    uni: 1f9b9
+man_supervillain:
+    emo: 🦹‍♂️
+    name: 'man supervillain'
+    uni: 1f9b9_200d_2642_fe0f
+woman_supervillain:
+    emo: 🦹‍♀️
+    name: 'woman supervillain'
+    uni: 1f9b9_200d_2640_fe0f
+mage:
+    emo: 🧙
+    name: mage
+    uni: 1f9d9
+man_mage:
+    emo: 🧙‍♂️
+    name: 'man mage'
+    uni: 1f9d9_200d_2642_fe0f
+woman_mage:
+    emo: 🧙‍♀️
+    name: 'woman mage'
+    uni: 1f9d9_200d_2640_fe0f
+fairy:
+    emo: 🧚
+    name: fairy
+    uni: 1f9da
+man_fairy:
+    emo: 🧚‍♂️
+    name: 'man fairy'
+    uni: 1f9da_200d_2642_fe0f
+woman_fairy:
+    emo: 🧚‍♀️
+    name: 'woman fairy'
+    uni: 1f9da_200d_2640_fe0f
+vampire:
+    emo: 🧛
+    name: vampire
+    uni: 1f9db
+man_vampire:
+    emo: 🧛‍♂️
+    name: 'man vampire'
+    uni: 1f9db_200d_2642_fe0f
+woman_vampire:
+    emo: 🧛‍♀️
+    name: 'woman vampire'
+    uni: 1f9db_200d_2640_fe0f
+merperson:
+    emo: 🧜
+    name: merperson
+    uni: 1f9dc
+merman:
+    emo: 🧜‍♂️
+    name: merman
+    uni: 1f9dc_200d_2642_fe0f
+mermaid:
+    emo: 🧜‍♀️
+    name: mermaid
+    uni: 1f9dc_200d_2640_fe0f
+elf:
+    emo: 🧝
+    name: elf
+    uni: 1f9dd
+man_elf:
+    emo: 🧝‍♂️
+    name: 'man elf'
+    uni: 1f9dd_200d_2642_fe0f
+woman_elf:
+    emo: 🧝‍♀️
+    name: 'woman elf'
+    uni: 1f9dd_200d_2640_fe0f
+genie:
+    emo: 🧞
+    name: genie
+    uni: 1f9de
+man_genie:
+    emo: 🧞‍♂️
+    name: 'man genie'
+    uni: 1f9de_200d_2642_fe0f
+woman_genie:
+    emo: 🧞‍♀️
+    name: 'woman genie'
+    uni: 1f9de_200d_2640_fe0f
+zombie:
+    emo: 🧟
+    name: zombie
+    uni: 1f9df
+man_zombie:
+    emo: 🧟‍♂️
+    name: 'man zombie'
+    uni: 1f9df_200d_2642_fe0f
+woman_zombie:
+    emo: 🧟‍♀️
+    name: 'woman zombie'
+    uni: 1f9df_200d_2640_fe0f
+troll:
+    emo: 🧌
+    name: troll
+    uni: 1f9cc
+hairy_creature:
+    emo: 🫈
+    name: 'hairy creature'
+    uni: 1fac8
+person_getting_massage:
+    emo: 💆
+    name: 'person getting massage'
+    uni: 1f486
+man_getting_massage:
+    emo: 💆‍♂️
+    name: 'man getting massage'
+    uni: 1f486_200d_2642_fe0f
+woman_getting_massage:
+    emo: 💆‍♀️
+    name: 'woman getting massage'
+    uni: 1f486_200d_2640_fe0f
+person_getting_haircut:
+    emo: 💇
+    name: 'person getting haircut'
+    uni: 1f487
+man_getting_haircut:
+    emo: 💇‍♂️
+    name: 'man getting haircut'
+    uni: 1f487_200d_2642_fe0f
+woman_getting_haircut:
+    emo: 💇‍♀️
+    name: 'woman getting haircut'
+    uni: 1f487_200d_2640_fe0f
+person_walking:
+    emo: 🚶
+    name: 'person walking'
+    uni: 1f6b6
+man_walking:
+    emo: 🚶‍♂️
+    name: 'man walking'
+    uni: 1f6b6_200d_2642_fe0f
+woman_walking:
+    emo: 🚶‍♀️
+    name: 'woman walking'
+    uni: 1f6b6_200d_2640_fe0f
+person_walking_facing_right:
+    emo: 🚶‍➡️
+    name: 'person walking facing right'
+    uni: 1f6b6_200d_27a1_fe0f
+woman_walking_facing_right:
+    emo: 🚶‍♀️‍➡️
+    name: 'woman walking facing right'
+    uni: 1f6b6_200d_2640_fe0f_200d_27a1_fe0f
+man_walking_facing_right:
+    emo: 🚶‍♂️‍➡️
+    name: 'man walking facing right'
+    uni: 1f6b6_200d_2642_fe0f_200d_27a1_fe0f
+person_standing:
+    emo: 🧍
+    name: 'person standing'
+    uni: 1f9cd
+man_standing:
+    emo: 🧍‍♂️
+    name: 'man standing'
+    uni: 1f9cd_200d_2642_fe0f
+woman_standing:
+    emo: 🧍‍♀️
+    name: 'woman standing'
+    uni: 1f9cd_200d_2640_fe0f
+person_kneeling:
+    emo: 🧎
+    name: 'person kneeling'
+    uni: 1f9ce
+man_kneeling:
+    emo: 🧎‍♂️
+    name: 'man kneeling'
+    uni: 1f9ce_200d_2642_fe0f
+woman_kneeling:
+    emo: 🧎‍♀️
+    name: 'woman kneeling'
+    uni: 1f9ce_200d_2640_fe0f
+person_kneeling_facing_right:
+    emo: 🧎‍➡️
+    name: 'person kneeling facing right'
+    uni: 1f9ce_200d_27a1_fe0f
+woman_kneeling_facing_right:
+    emo: 🧎‍♀️‍➡️
+    name: 'woman kneeling facing right'
+    uni: 1f9ce_200d_2640_fe0f_200d_27a1_fe0f
+man_kneeling_facing_right:
+    emo: 🧎‍♂️‍➡️
+    name: 'man kneeling facing right'
+    uni: 1f9ce_200d_2642_fe0f_200d_27a1_fe0f
+person_with_white_cane:
+    emo: 🧑‍🦯
+    name: 'person with white cane'
+    uni: 1f9d1_200d_1f9af
+person_with_white_cane_facing_right:
+    emo: 🧑‍🦯‍➡️
+    name: 'person with white cane facing right'
+    uni: 1f9d1_200d_1f9af_200d_27a1_fe0f
+man_with_white_cane:
+    emo: 👨‍🦯
+    name: 'man with white cane'
+    uni: 1f468_200d_1f9af
+man_with_white_cane_facing_right:
+    emo: 👨‍🦯‍➡️
+    name: 'man with white cane facing right'
+    uni: 1f468_200d_1f9af_200d_27a1_fe0f
+woman_with_white_cane:
+    emo: 👩‍🦯
+    name: 'woman with white cane'
+    uni: 1f469_200d_1f9af
+woman_with_white_cane_facing_right:
+    emo: 👩‍🦯‍➡️
+    name: 'woman with white cane facing right'
+    uni: 1f469_200d_1f9af_200d_27a1_fe0f
+person_in_motorized_wheelchair:
+    emo: 🧑‍🦼
+    name: 'person in motorized wheelchair'
+    uni: 1f9d1_200d_1f9bc
+person_in_motorized_wheelchair_facing_right:
+    emo: 🧑‍🦼‍➡️
+    name: 'person in motorized wheelchair facing right'
+    uni: 1f9d1_200d_1f9bc_200d_27a1_fe0f
+man_in_motorized_wheelchair:
+    emo: 👨‍🦼
+    name: 'man in motorized wheelchair'
+    uni: 1f468_200d_1f9bc
+man_in_motorized_wheelchair_facing_right:
+    emo: 👨‍🦼‍➡️
+    name: 'man in motorized wheelchair facing right'
+    uni: 1f468_200d_1f9bc_200d_27a1_fe0f
+woman_in_motorized_wheelchair:
+    emo: 👩‍🦼
+    name: 'woman in motorized wheelchair'
+    uni: 1f469_200d_1f9bc
+woman_in_motorized_wheelchair_facing_right:
+    emo: 👩‍🦼‍➡️
+    name: 'woman in motorized wheelchair facing right'
+    uni: 1f469_200d_1f9bc_200d_27a1_fe0f
+person_in_manual_wheelchair:
+    emo: 🧑‍🦽
+    name: 'person in manual wheelchair'
+    uni: 1f9d1_200d_1f9bd
+person_in_manual_wheelchair_facing_right:
+    emo: 🧑‍🦽‍➡️
+    name: 'person in manual wheelchair facing right'
+    uni: 1f9d1_200d_1f9bd_200d_27a1_fe0f
+man_in_manual_wheelchair:
+    emo: 👨‍🦽
+    name: 'man in manual wheelchair'
+    uni: 1f468_200d_1f9bd
+man_in_manual_wheelchair_facing_right:
+    emo: 👨‍🦽‍➡️
+    name: 'man in manual wheelchair facing right'
+    uni: 1f468_200d_1f9bd_200d_27a1_fe0f
+woman_in_manual_wheelchair:
+    emo: 👩‍🦽
+    name: 'woman in manual wheelchair'
+    uni: 1f469_200d_1f9bd
+woman_in_manual_wheelchair_facing_right:
+    emo: 👩‍🦽‍➡️
+    name: 'woman in manual wheelchair facing right'
+    uni: 1f469_200d_1f9bd_200d_27a1_fe0f
+person_running:
+    emo: 🏃
+    name: 'person running'
+    uni: 1f3c3
+man_running:
+    emo: 🏃‍♂️
+    name: 'man running'
+    uni: 1f3c3_200d_2642_fe0f
+woman_running:
+    emo: 🏃‍♀️
+    name: 'woman running'
+    uni: 1f3c3_200d_2640_fe0f
+person_running_facing_right:
+    emo: 🏃‍➡️
+    name: 'person running facing right'
+    uni: 1f3c3_200d_27a1_fe0f
+woman_running_facing_right:
+    emo: 🏃‍♀️‍➡️
+    name: 'woman running facing right'
+    uni: 1f3c3_200d_2640_fe0f_200d_27a1_fe0f
+man_running_facing_right:
+    emo: 🏃‍♂️‍➡️
+    name: 'man running facing right'
+    uni: 1f3c3_200d_2642_fe0f_200d_27a1_fe0f
+ballet_dancer:
+    emo: 🧑‍🩰
+    name: 'ballet dancer'
+    uni: 1f9d1_200d_1fa70
+woman_dancing:
+    emo: 💃
+    name: 'woman dancing'
+    uni: 1f483
+man_dancing:
+    emo: 🕺
+    name: 'man dancing'
+    uni: 1f57a
+person_in_suit_levitating:
+    emo: 🕴️
+    name: 'person in suit levitating'
+    uni: 1f574_fe0f
+people_with_bunny_ears:
+    emo: 👯
+    name: 'people with bunny ears'
+    uni: 1f46f
+men_with_bunny_ears:
+    emo: 👯‍♂️
+    name: 'men with bunny ears'
+    uni: 1f46f_200d_2642_fe0f
+women_with_bunny_ears:
+    emo: 👯‍♀️
+    name: 'women with bunny ears'
+    uni: 1f46f_200d_2640_fe0f
+person_in_steamy_room:
+    emo: 🧖
+    name: 'person in steamy room'
+    uni: 1f9d6
+man_in_steamy_room:
+    emo: 🧖‍♂️
+    name: 'man in steamy room'
+    uni: 1f9d6_200d_2642_fe0f
+woman_in_steamy_room:
+    emo: 🧖‍♀️
+    name: 'woman in steamy room'
+    uni: 1f9d6_200d_2640_fe0f
+person_climbing:
+    emo: 🧗
+    name: 'person climbing'
+    uni: 1f9d7
+man_climbing:
+    emo: 🧗‍♂️
+    name: 'man climbing'
+    uni: 1f9d7_200d_2642_fe0f
+woman_climbing:
+    emo: 🧗‍♀️
+    name: 'woman climbing'
+    uni: 1f9d7_200d_2640_fe0f
+person_fencing:
+    emo: 🤺
+    name: 'person fencing'
+    uni: 1f93a
+horse_racing:
+    emo: 🏇
+    name: 'horse racing'
+    uni: 1f3c7
+skier:
+    emo: ⛷️
+    name: skier
+    uni: 26f7_fe0f
+snowboarder:
+    emo: 🏂
+    name: snowboarder
+    uni: 1f3c2
+person_golfing:
+    emo: 🏌️
+    name: 'person golfing'
+    uni: 1f3cc_fe0f
+man_golfing:
+    emo: 🏌️‍♂️
+    name: 'man golfing'
+    uni: 1f3cc_fe0f_200d_2642_fe0f
+woman_golfing:
+    emo: 🏌️‍♀️
+    name: 'woman golfing'
+    uni: 1f3cc_fe0f_200d_2640_fe0f
+person_surfing:
+    emo: 🏄
+    name: 'person surfing'
+    uni: 1f3c4
+man_surfing:
+    emo: 🏄‍♂️
+    name: 'man surfing'
+    uni: 1f3c4_200d_2642_fe0f
+woman_surfing:
+    emo: 🏄‍♀️
+    name: 'woman surfing'
+    uni: 1f3c4_200d_2640_fe0f
+person_rowing_boat:
+    emo: 🚣
+    name: 'person rowing boat'
+    uni: 1f6a3
+man_rowing_boat:
+    emo: 🚣‍♂️
+    name: 'man rowing boat'
+    uni: 1f6a3_200d_2642_fe0f
+woman_rowing_boat:
+    emo: 🚣‍♀️
+    name: 'woman rowing boat'
+    uni: 1f6a3_200d_2640_fe0f
+person_swimming:
+    emo: 🏊
+    name: 'person swimming'
+    uni: 1f3ca
+man_swimming:
+    emo: 🏊‍♂️
+    name: 'man swimming'
+    uni: 1f3ca_200d_2642_fe0f
+woman_swimming:
+    emo: 🏊‍♀️
+    name: 'woman swimming'
+    uni: 1f3ca_200d_2640_fe0f
+person_bouncing_ball:
+    emo: ⛹️
+    name: 'person bouncing ball'
+    uni: 26f9_fe0f
+man_bouncing_ball:
+    emo: ⛹️‍♂️
+    name: 'man bouncing ball'
+    uni: 26f9_fe0f_200d_2642_fe0f
+woman_bouncing_ball:
+    emo: ⛹️‍♀️
+    name: 'woman bouncing ball'
+    uni: 26f9_fe0f_200d_2640_fe0f
+person_lifting_weights:
+    emo: 🏋️
+    name: 'person lifting weights'
+    uni: 1f3cb_fe0f
+man_lifting_weights:
+    emo: 🏋️‍♂️
+    name: 'man lifting weights'
+    uni: 1f3cb_fe0f_200d_2642_fe0f
+woman_lifting_weights:
+    emo: 🏋️‍♀️
+    name: 'woman lifting weights'
+    uni: 1f3cb_fe0f_200d_2640_fe0f
+person_biking:
+    emo: 🚴
+    name: 'person biking'
+    uni: 1f6b4
+man_biking:
+    emo: 🚴‍♂️
+    name: 'man biking'
+    uni: 1f6b4_200d_2642_fe0f
+woman_biking:
+    emo: 🚴‍♀️
+    name: 'woman biking'
+    uni: 1f6b4_200d_2640_fe0f
+person_mountain_biking:
+    emo: 🚵
+    name: 'person mountain biking'
+    uni: 1f6b5
+man_mountain_biking:
+    emo: 🚵‍♂️
+    name: 'man mountain biking'
+    uni: 1f6b5_200d_2642_fe0f
+woman_mountain_biking:
+    emo: 🚵‍♀️
+    name: 'woman mountain biking'
+    uni: 1f6b5_200d_2640_fe0f
+person_cartwheeling:
+    emo: 🤸
+    name: 'person cartwheeling'
+    uni: 1f938
+man_cartwheeling:
+    emo: 🤸‍♂️
+    name: 'man cartwheeling'
+    uni: 1f938_200d_2642_fe0f
+woman_cartwheeling:
+    emo: 🤸‍♀️
+    name: 'woman cartwheeling'
+    uni: 1f938_200d_2640_fe0f
+people_wrestling:
+    emo: 🤼
+    name: 'people wrestling'
+    uni: 1f93c
+men_wrestling:
+    emo: 🤼‍♂️
+    name: 'men wrestling'
+    uni: 1f93c_200d_2642_fe0f
+women_wrestling:
+    emo: 🤼‍♀️
+    name: 'women wrestling'
+    uni: 1f93c_200d_2640_fe0f
+person_playing_water_polo:
+    emo: 🤽
+    name: 'person playing water polo'
+    uni: 1f93d
+man_playing_water_polo:
+    emo: 🤽‍♂️
+    name: 'man playing water polo'
+    uni: 1f93d_200d_2642_fe0f
+woman_playing_water_polo:
+    emo: 🤽‍♀️
+    name: 'woman playing water polo'
+    uni: 1f93d_200d_2640_fe0f
+person_playing_handball:
+    emo: 🤾
+    name: 'person playing handball'
+    uni: 1f93e
+man_playing_handball:
+    emo: 🤾‍♂️
+    name: 'man playing handball'
+    uni: 1f93e_200d_2642_fe0f
+woman_playing_handball:
+    emo: 🤾‍♀️
+    name: 'woman playing handball'
+    uni: 1f93e_200d_2640_fe0f
+person_juggling:
+    emo: 🤹
+    name: 'person juggling'
+    uni: 1f939
+man_juggling:
+    emo: 🤹‍♂️
+    name: 'man juggling'
+    uni: 1f939_200d_2642_fe0f
+woman_juggling:
+    emo: 🤹‍♀️
+    name: 'woman juggling'
+    uni: 1f939_200d_2640_fe0f
+person_in_lotus_position:
+    emo: 🧘
+    name: 'person in lotus position'
+    uni: 1f9d8
+man_in_lotus_position:
+    emo: 🧘‍♂️
+    name: 'man in lotus position'
+    uni: 1f9d8_200d_2642_fe0f
+woman_in_lotus_position:
+    emo: 🧘‍♀️
+    name: 'woman in lotus position'
+    uni: 1f9d8_200d_2640_fe0f
+person_taking_bath:
+    emo: 🛀
+    name: 'person taking bath'
+    uni: 1f6c0
+person_in_bed:
+    emo: 🛌
+    name: 'person in bed'
+    uni: 1f6cc
+people_holding_hands:
+    emo: 🧑‍🤝‍🧑
+    name: 'people holding hands'
+    uni: 1f9d1_200d_1f91d_200d_1f9d1
+women_holding_hands:
+    emo: 👭
+    name: 'women holding hands'
+    uni: 1f46d
+woman_and_man_holding_hands:
+    emo: 👫
+    name: 'woman and man holding hands'
+    uni: 1f46b
+men_holding_hands:
+    emo: 👬
+    name: 'men holding hands'
+    uni: 1f46c
+kiss:
+    emo: 💏
+    name: kiss
+    uni: 1f48f
+kiss_woman:
+    emo: 👩‍❤️‍💋‍👩
+    name: 'kiss: woman'
+    uni: woman
+kiss_man:
+    emo: 👨‍❤️‍💋‍👨
+    name: 'kiss: man'
+    uni: man
+couple_with_heart:
+    emo: 💑
+    name: 'couple with heart'
+    uni: 1f491
+couple_with_heart_woman:
+    emo: 👩‍❤️‍👩
+    name: 'couple with heart: woman'
+    uni: woman
+couple_with_heart_man:
+    emo: 👨‍❤️‍👨
+    name: 'couple with heart: man'
+    uni: man
+family_man:
+    emo: 👨‍👧‍👧
+    name: 'family: man'
+    uni: girl
+family_woman:
+    emo: 👩‍👧‍👧
+    name: 'family: woman'
+    uni: girl
+speaking_head:
+    emo: 🗣️
+    name: 'speaking head'
+    uni: 1f5e3_fe0f
+bust_in_silhouette:
+    emo: 👤
+    name: 'bust in silhouette'
+    uni: 1f464
+busts_in_silhouette:
+    emo: 👥
+    name: 'busts in silhouette'
+    uni: 1f465
+people_hugging:
+    emo: 🫂
+    name: 'people hugging'
+    uni: 1fac2
+family:
+    emo: 👪
+    name: family
+    uni: 1f46a
+family_adult:
+    emo: 🧑‍🧒‍🧒
+    name: 'family: adult'
+    uni: child
+footprints:
+    emo: 👣
+    name: footprints
+    uni: 1f463
+fingerprint:
+    emo: 🫆
+    name: fingerprint
+    uni: 1fac6
+monkey_face:
+    emo: 🐵
+    name: 'monkey face'
+    uni: 1f435
+monkey:
+    emo: 🐒
+    name: monkey
+    uni: 1f412
+gorilla:
+    emo: 🦍
+    name: gorilla
+    uni: 1f98d
+orangutan:
+    emo: 🦧
+    name: orangutan
+    uni: 1f9a7
+dog_face:
+    emo: 🐶
+    name: 'dog face'
+    uni: 1f436
+dog:
+    emo: 🐕
+    name: dog
+    uni: 1f415
+guide_dog:
+    emo: 🦮
+    name: 'guide dog'
+    uni: 1f9ae
+service_dog:
+    emo: 🐕‍🦺
+    name: 'service dog'
+    uni: 1f415_200d_1f9ba
+poodle:
+    emo: 🐩
+    name: poodle
+    uni: 1f429
+wolf:
+    emo: 🐺
+    name: wolf
+    uni: 1f43a
+fox:
+    emo: 🦊
+    name: fox
+    uni: 1f98a
+raccoon:
+    emo: 🦝
+    name: raccoon
+    uni: 1f99d
+cat_face:
+    emo: 🐱
+    name: 'cat face'
+    uni: 1f431
+cat:
+    emo: 🐈
+    name: cat
+    uni: 1f408
+black_cat:
+    emo: 🐈‍⬛
+    name: 'black cat'
+    uni: 1f408_200d_2b1b
+lion:
+    emo: 🦁
+    name: lion
+    uni: 1f981
+tiger_face:
+    emo: 🐯
+    name: 'tiger face'
+    uni: 1f42f
+tiger:
+    emo: 🐅
+    name: tiger
+    uni: 1f405
+leopard:
+    emo: 🐆
+    name: leopard
+    uni: 1f406
+horse_face:
+    emo: 🐴
+    name: 'horse face'
+    uni: 1f434
+moose:
+    emo: 🫎
+    name: moose
+    uni: 1face
+donkey:
+    emo: 🫏
+    name: donkey
+    uni: 1facf
+horse:
+    emo: 🐎
+    name: horse
+    uni: 1f40e
+unicorn:
+    emo: 🦄
+    name: unicorn
+    uni: 1f984
+zebra:
+    emo: 🦓
+    name: zebra
+    uni: 1f993
+deer:
+    emo: 🦌
+    name: deer
+    uni: 1f98c
+bison:
+    emo: 🦬
+    name: bison
+    uni: 1f9ac
+cow_face:
+    emo: 🐮
+    name: 'cow face'
+    uni: 1f42e
+ox:
+    emo: 🐂
+    name: ox
+    uni: 1f402
+water_buffalo:
+    emo: 🐃
+    name: 'water buffalo'
+    uni: 1f403
+cow:
+    emo: 🐄
+    name: cow
+    uni: 1f404
+pig_face:
+    emo: 🐷
+    name: 'pig face'
+    uni: 1f437
+pig:
+    emo: 🐖
+    name: pig
+    uni: 1f416
+boar:
+    emo: 🐗
+    name: boar
+    uni: 1f417
+pig_nose:
+    emo: 🐽
+    name: 'pig nose'
+    uni: 1f43d
+ram:
+    emo: 🐏
+    name: ram
+    uni: 1f40f
+ewe:
+    emo: 🐑
+    name: ewe
+    uni: 1f411
+goat:
+    emo: 🐐
+    name: goat
+    uni: 1f410
+camel:
+    emo: 🐪
+    name: camel
+    uni: 1f42a
+two_hump_camel:
+    emo: 🐫
+    name: 'two-hump camel'
+    uni: 1f42b
+llama:
+    emo: 🦙
+    name: llama
+    uni: 1f999
+giraffe:
+    emo: 🦒
+    name: giraffe
+    uni: 1f992
+elephant:
+    emo: 🐘
+    name: elephant
+    uni: 1f418
+mammoth:
+    emo: 🦣
+    name: mammoth
+    uni: 1f9a3
+rhinoceros:
+    emo: 🦏
+    name: rhinoceros
+    uni: 1f98f
+hippopotamus:
+    emo: 🦛
+    name: hippopotamus
+    uni: 1f99b
+mouse_face:
+    emo: 🐭
+    name: 'mouse face'
+    uni: 1f42d
+mouse:
+    emo: 🐁
+    name: mouse
+    uni: 1f401
+rat:
+    emo: 🐀
+    name: rat
+    uni: 1f400
+hamster:
+    emo: 🐹
+    name: hamster
+    uni: 1f439
+rabbit_face:
+    emo: 🐰
+    name: 'rabbit face'
+    uni: 1f430
+rabbit:
+    emo: 🐇
+    name: rabbit
+    uni: 1f407
+chipmunk:
+    emo: 🐿️
+    name: chipmunk
+    uni: 1f43f_fe0f
+beaver:
+    emo: 🦫
+    name: beaver
+    uni: 1f9ab
+hedgehog:
+    emo: 🦔
+    name: hedgehog
+    uni: 1f994
+bat:
+    emo: 🦇
+    name: bat
+    uni: 1f987
+bear:
+    emo: 🐻
+    name: bear
+    uni: 1f43b
+polar_bear:
+    emo: 🐻‍❄️
+    name: 'polar bear'
+    uni: 1f43b_200d_2744_fe0f
+koala:
+    emo: 🐨
+    name: koala
+    uni: 1f428
+panda:
+    emo: 🐼
+    name: panda
+    uni: 1f43c
+sloth:
+    emo: 🦥
+    name: sloth
+    uni: 1f9a5
+otter:
+    emo: 🦦
+    name: otter
+    uni: 1f9a6
+skunk:
+    emo: 🦨
+    name: skunk
+    uni: 1f9a8
+kangaroo:
+    emo: 🦘
+    name: kangaroo
+    uni: 1f998
+badger:
+    emo: 🦡
+    name: badger
+    uni: 1f9a1
+paw_prints:
+    emo: 🐾
+    name: 'paw prints'
+    uni: 1f43e
+turkey:
+    emo: 🦃
+    name: turkey
+    uni: 1f983
+chicken:
+    emo: 🐔
+    name: chicken
+    uni: 1f414
+rooster:
+    emo: 🐓
+    name: rooster
+    uni: 1f413
+hatching_chick:
+    emo: 🐣
+    name: 'hatching chick'
+    uni: 1f423
+baby_chick:
+    emo: 🐤
+    name: 'baby chick'
+    uni: 1f424
+front_facing_baby_chick:
+    emo: 🐥
+    name: 'front-facing baby chick'
+    uni: 1f425
+bird:
+    emo: 🐦
+    name: bird
+    uni: 1f426
+penguin:
+    emo: 🐧
+    name: penguin
+    uni: 1f427
+dove:
+    emo: 🕊️
+    name: dove
+    uni: 1f54a_fe0f
+eagle:
+    emo: 🦅
+    name: eagle
+    uni: 1f985
+duck:
+    emo: 🦆
+    name: duck
+    uni: 1f986
+swan:
+    emo: 🦢
+    name: swan
+    uni: 1f9a2
+owl:
+    emo: 🦉
+    name: owl
+    uni: 1f989
+dodo:
+    emo: 🦤
+    name: dodo
+    uni: 1f9a4
+feather:
+    emo: 🪶
+    name: feather
+    uni: 1fab6
+flamingo:
+    emo: 🦩
+    name: flamingo
+    uni: 1f9a9
+peacock:
+    emo: 🦚
+    name: peacock
+    uni: 1f99a
+parrot:
+    emo: 🦜
+    name: parrot
+    uni: 1f99c
+wing:
+    emo: 🪽
+    name: wing
+    uni: 1fabd
+black_bird:
+    emo: 🐦‍⬛
+    name: 'black bird'
+    uni: 1f426_200d_2b1b
+goose:
+    emo: 🪿
+    name: goose
+    uni: 1fabf
+phoenix:
+    emo: 🐦‍🔥
+    name: phoenix
+    uni: 1f426_200d_1f525
+crocodile:
+    emo: 🐊
+    name: crocodile
+    uni: 1f40a
+turtle:
+    emo: 🐢
+    name: turtle
+    uni: 1f422
+lizard:
+    emo: 🦎
+    name: lizard
+    uni: 1f98e
+snake:
+    emo: 🐍
+    name: snake
+    uni: 1f40d
+dragon_face:
+    emo: 🐲
+    name: 'dragon face'
+    uni: 1f432
+dragon:
+    emo: 🐉
+    name: dragon
+    uni: 1f409
+sauropod:
+    emo: 🦕
+    name: sauropod
+    uni: 1f995
+t_rex:
+    emo: 🦖
+    name: T-Rex
+    uni: 1f996
+spouting_whale:
+    emo: 🐳
+    name: 'spouting whale'
+    uni: 1f433
+whale:
+    emo: 🐋
+    name: whale
+    uni: 1f40b
+dolphin:
+    emo: 🐬
+    name: dolphin
+    uni: 1f42c
+orca:
+    emo: 🫍
+    name: orca
+    uni: 1facd
+seal:
+    emo: 🦭
+    name: seal
+    uni: 1f9ad
+fish:
+    emo: 🐟
+    name: fish
+    uni: 1f41f
+tropical_fish:
+    emo: 🐠
+    name: 'tropical fish'
+    uni: 1f420
+blowfish:
+    emo: 🐡
+    name: blowfish
+    uni: 1f421
+shark:
+    emo: 🦈
+    name: shark
+    uni: 1f988
+octopus:
+    emo: 🐙
+    name: octopus
+    uni: 1f419
+spiral_shell:
+    emo: 🐚
+    name: 'spiral shell'
+    uni: 1f41a
+coral:
+    emo: 🪸
+    name: coral
+    uni: 1fab8
+jellyfish:
+    emo: 🪼
+    name: jellyfish
+    uni: 1fabc
+crab:
+    emo: 🦀
+    name: crab
+    uni: 1f980
+lobster:
+    emo: 🦞
+    name: lobster
+    uni: 1f99e
+shrimp:
+    emo: 🦐
+    name: shrimp
+    uni: 1f990
+squid:
+    emo: 🦑
+    name: squid
+    uni: 1f991
+oyster:
+    emo: 🦪
+    name: oyster
+    uni: 1f9aa
+snail:
+    emo: 🐌
+    name: snail
+    uni: 1f40c
+butterfly:
+    emo: 🦋
+    name: butterfly
+    uni: 1f98b
+bug:
+    emo: 🐛
+    name: bug
+    uni: 1f41b
+ant:
+    emo: 🐜
+    name: ant
+    uni: 1f41c
+honeybee:
+    emo: 🐝
+    name: honeybee
+    uni: 1f41d
+beetle:
+    emo: 🪲
+    name: beetle
+    uni: 1fab2
+lady_beetle:
+    emo: 🐞
+    name: 'lady beetle'
+    uni: 1f41e
+cricket:
+    emo: 🦗
+    name: cricket
+    uni: 1f997
+cockroach:
+    emo: 🪳
+    name: cockroach
+    uni: 1fab3
+spider:
+    emo: 🕷️
+    name: spider
+    uni: 1f577_fe0f
+spider_web:
+    emo: 🕸️
+    name: 'spider web'
+    uni: 1f578_fe0f
+scorpion:
+    emo: 🦂
+    name: scorpion
+    uni: 1f982
+mosquito:
+    emo: 🦟
+    name: mosquito
+    uni: 1f99f
+fly:
+    emo: 🪰
+    name: fly
+    uni: 1fab0
+worm:
+    emo: 🪱
+    name: worm
+    uni: 1fab1
+microbe:
+    emo: 🦠
+    name: microbe
+    uni: 1f9a0
+bouquet:
+    emo: 💐
+    name: bouquet
+    uni: 1f490
+cherry_blossom:
+    emo: 🌸
+    name: 'cherry blossom'
+    uni: 1f338
+white_flower:
+    emo: 💮
+    name: 'white flower'
+    uni: 1f4ae
+lotus:
+    emo: 🪷
+    name: lotus
+    uni: 1fab7
+rosette:
+    emo: 🏵️
+    name: rosette
+    uni: 1f3f5_fe0f
+rose:
+    emo: 🌹
+    name: rose
+    uni: 1f339
+wilted_flower:
+    emo: 🥀
+    name: 'wilted flower'
+    uni: 1f940
+hibiscus:
+    emo: 🌺
+    name: hibiscus
+    uni: 1f33a
+sunflower:
+    emo: 🌻
+    name: sunflower
+    uni: 1f33b
+blossom:
+    emo: 🌼
+    name: blossom
+    uni: 1f33c
+tulip:
+    emo: 🌷
+    name: tulip
+    uni: 1f337
+hyacinth:
+    emo: 🪻
+    name: hyacinth
+    uni: 1fabb
+seedling:
+    emo: 🌱
+    name: seedling
+    uni: 1f331
+potted_plant:
+    emo: 🪴
+    name: 'potted plant'
+    uni: 1fab4
+evergreen_tree:
+    emo: 🌲
+    name: 'evergreen tree'
+    uni: 1f332
+deciduous_tree:
+    emo: 🌳
+    name: 'deciduous tree'
+    uni: 1f333
+palm_tree:
+    emo: 🌴
+    name: 'palm tree'
+    uni: 1f334
+cactus:
+    emo: 🌵
+    name: cactus
+    uni: 1f335
+sheaf_of_rice:
+    emo: 🌾
+    name: 'sheaf of rice'
+    uni: 1f33e
+herb:
+    emo: 🌿
+    name: herb
+    uni: 1f33f
+shamrock:
+    emo: ☘️
+    name: shamrock
+    uni: 2618_fe0f
+four_leaf_clover:
+    emo: 🍀
+    name: 'four leaf clover'
+    uni: 1f340
+maple_leaf:
+    emo: 🍁
+    name: 'maple leaf'
+    uni: 1f341
+fallen_leaf:
+    emo: 🍂
+    name: 'fallen leaf'
+    uni: 1f342
+leaf_fluttering_in_wind:
+    emo: 🍃
+    name: 'leaf fluttering in wind'
+    uni: 1f343
+empty_nest:
+    emo: 🪹
+    name: 'empty nest'
+    uni: 1fab9
+nest_with_eggs:
+    emo: 🪺
+    name: 'nest with eggs'
+    uni: 1faba
+mushroom:
+    emo: 🍄
+    name: mushroom
+    uni: 1f344
+leafless_tree:
+    emo: 🪾
+    name: 'leafless tree'
+    uni: 1fabe
+grapes:
+    emo: 🍇
+    name: grapes
+    uni: 1f347
+melon:
+    emo: 🍈
+    name: melon
+    uni: 1f348
+watermelon:
+    emo: 🍉
+    name: watermelon
+    uni: 1f349
+tangerine:
+    emo: 🍊
+    name: tangerine
+    uni: 1f34a
+lemon:
+    emo: 🍋
+    name: lemon
+    uni: 1f34b
+lime:
+    emo: 🍋‍🟩
+    name: lime
+    uni: 1f34b_200d_1f7e9
+banana:
+    emo: 🍌
+    name: banana
+    uni: 1f34c
+pineapple:
+    emo: 🍍
+    name: pineapple
+    uni: 1f34d
+mango:
+    emo: 🥭
+    name: mango
+    uni: 1f96d
+red_apple:
+    emo: 🍎
+    name: 'red apple'
+    uni: 1f34e
+green_apple:
+    emo: 🍏
+    name: 'green apple'
+    uni: 1f34f
+pear:
+    emo: 🍐
+    name: pear
+    uni: 1f350
+peach:
+    emo: 🍑
+    name: peach
+    uni: 1f351
+cherries:
+    emo: 🍒
+    name: cherries
+    uni: 1f352
+strawberry:
+    emo: 🍓
+    name: strawberry
+    uni: 1f353
+blueberries:
+    emo: 🫐
+    name: blueberries
+    uni: 1fad0
+kiwi_fruit:
+    emo: 🥝
+    name: 'kiwi fruit'
+    uni: 1f95d
+tomato:
+    emo: 🍅
+    name: tomato
+    uni: 1f345
+olive:
+    emo: 🫒
+    name: olive
+    uni: 1fad2
+coconut:
+    emo: 🥥
+    name: coconut
+    uni: 1f965
+avocado:
+    emo: 🥑
+    name: avocado
+    uni: 1f951
+eggplant:
+    emo: 🍆
+    name: eggplant
+    uni: 1f346
+potato:
+    emo: 🥔
+    name: potato
+    uni: 1f954
+carrot:
+    emo: 🥕
+    name: carrot
+    uni: 1f955
+ear_of_corn:
+    emo: 🌽
+    name: 'ear of corn'
+    uni: 1f33d
+hot_pepper:
+    emo: 🌶️
+    name: 'hot pepper'
+    uni: 1f336_fe0f
+bell_pepper:
+    emo: 🫑
+    name: 'bell pepper'
+    uni: 1fad1
+cucumber:
+    emo: 🥒
+    name: cucumber
+    uni: 1f952
+leafy_green:
+    emo: 🥬
+    name: 'leafy green'
+    uni: 1f96c
+broccoli:
+    emo: 🥦
+    name: broccoli
+    uni: 1f966
+garlic:
+    emo: 🧄
+    name: garlic
+    uni: 1f9c4
+onion:
+    emo: 🧅
+    name: onion
+    uni: 1f9c5
+peanuts:
+    emo: 🥜
+    name: peanuts
+    uni: 1f95c
+beans:
+    emo: 🫘
+    name: beans
+    uni: 1fad8
+chestnut:
+    emo: 🌰
+    name: chestnut
+    uni: 1f330
+ginger_root:
+    emo: 🫚
+    name: 'ginger root'
+    uni: 1fada
+pea_pod:
+    emo: 🫛
+    name: 'pea pod'
+    uni: 1fadb
+brown_mushroom:
+    emo: 🍄‍🟫
+    name: 'brown mushroom'
+    uni: 1f344_200d_1f7eb
+root_vegetable:
+    emo: 🫜
+    name: 'root vegetable'
+    uni: 1fadc
+bread:
+    emo: 🍞
+    name: bread
+    uni: 1f35e
+croissant:
+    emo: 🥐
+    name: croissant
+    uni: 1f950
+baguette_bread:
+    emo: 🥖
+    name: 'baguette bread'
+    uni: 1f956
+flatbread:
+    emo: 🫓
+    name: flatbread
+    uni: 1fad3
+pretzel:
+    emo: 🥨
+    name: pretzel
+    uni: 1f968
+bagel:
+    emo: 🥯
+    name: bagel
+    uni: 1f96f
+pancakes:
+    emo: 🥞
+    name: pancakes
+    uni: 1f95e
+waffle:
+    emo: 🧇
+    name: waffle
+    uni: 1f9c7
+cheese_wedge:
+    emo: 🧀
+    name: 'cheese wedge'
+    uni: 1f9c0
+meat_on_bone:
+    emo: 🍖
+    name: 'meat on bone'
+    uni: 1f356
+poultry_leg:
+    emo: 🍗
+    name: 'poultry leg'
+    uni: 1f357
+cut_of_meat:
+    emo: 🥩
+    name: 'cut of meat'
+    uni: 1f969
+bacon:
+    emo: 🥓
+    name: bacon
+    uni: 1f953
+hamburger:
+    emo: 🍔
+    name: hamburger
+    uni: 1f354
+french_fries:
+    emo: 🍟
+    name: 'french fries'
+    uni: 1f35f
+pizza:
+    emo: 🍕
+    name: pizza
+    uni: 1f355
+hot_dog:
+    emo: 🌭
+    name: 'hot dog'
+    uni: 1f32d
+sandwich:
+    emo: 🥪
+    name: sandwich
+    uni: 1f96a
+taco:
+    emo: 🌮
+    name: taco
+    uni: 1f32e
+burrito:
+    emo: 🌯
+    name: burrito
+    uni: 1f32f
+tamale:
+    emo: 🫔
+    name: tamale
+    uni: 1fad4
+stuffed_flatbread:
+    emo: 🥙
+    name: 'stuffed flatbread'
+    uni: 1f959
+falafel:
+    emo: 🧆
+    name: falafel
+    uni: 1f9c6
+egg:
+    emo: 🥚
+    name: egg
+    uni: 1f95a
+cooking:
+    emo: 🍳
+    name: cooking
+    uni: 1f373
+shallow_pan_of_food:
+    emo: 🥘
+    name: 'shallow pan of food'
+    uni: 1f958
+pot_of_food:
+    emo: 🍲
+    name: 'pot of food'
+    uni: 1f372
+fondue:
+    emo: 🫕
+    name: fondue
+    uni: 1fad5
+bowl_with_spoon:
+    emo: 🥣
+    name: 'bowl with spoon'
+    uni: 1f963
+green_salad:
+    emo: 🥗
+    name: 'green salad'
+    uni: 1f957
+popcorn:
+    emo: 🍿
+    name: popcorn
+    uni: 1f37f
+butter:
+    emo: 🧈
+    name: butter
+    uni: 1f9c8
+salt:
+    emo: 🧂
+    name: salt
+    uni: 1f9c2
+canned_food:
+    emo: 🥫
+    name: 'canned food'
+    uni: 1f96b
+bento_box:
+    emo: 🍱
+    name: 'bento box'
+    uni: 1f371
+rice_cracker:
+    emo: 🍘
+    name: 'rice cracker'
+    uni: 1f358
+rice_ball:
+    emo: 🍙
+    name: 'rice ball'
+    uni: 1f359
+cooked_rice:
+    emo: 🍚
+    name: 'cooked rice'
+    uni: 1f35a
+curry_rice:
+    emo: 🍛
+    name: 'curry rice'
+    uni: 1f35b
+steaming_bowl:
+    emo: 🍜
+    name: 'steaming bowl'
+    uni: 1f35c
+spaghetti:
+    emo: 🍝
+    name: spaghetti
+    uni: 1f35d
+roasted_sweet_potato:
+    emo: 🍠
+    name: 'roasted sweet potato'
+    uni: 1f360
+oden:
+    emo: 🍢
+    name: oden
+    uni: 1f362
+sushi:
+    emo: 🍣
+    name: sushi
+    uni: 1f363
+fried_shrimp:
+    emo: 🍤
+    name: 'fried shrimp'
+    uni: 1f364
+fish_cake_with_swirl:
+    emo: 🍥
+    name: 'fish cake with swirl'
+    uni: 1f365
+moon_cake:
+    emo: 🥮
+    name: 'moon cake'
+    uni: 1f96e
+dango:
+    emo: 🍡
+    name: dango
+    uni: 1f361
+dumpling:
+    emo: 🥟
+    name: dumpling
+    uni: 1f95f
+fortune_cookie:
+    emo: 🥠
+    name: 'fortune cookie'
+    uni: 1f960
+takeout_box:
+    emo: 🥡
+    name: 'takeout box'
+    uni: 1f961
+soft_ice_cream:
+    emo: 🍦
+    name: 'soft ice cream'
+    uni: 1f366
+shaved_ice:
+    emo: 🍧
+    name: 'shaved ice'
+    uni: 1f367
+ice_cream:
+    emo: 🍨
+    name: 'ice cream'
+    uni: 1f368
+doughnut:
+    emo: 🍩
+    name: doughnut
+    uni: 1f369
+cookie:
+    emo: 🍪
+    name: cookie
+    uni: 1f36a
+birthday_cake:
+    emo: 🎂
+    name: 'birthday cake'
+    uni: 1f382
+shortcake:
+    emo: 🍰
+    name: shortcake
+    uni: 1f370
+cupcake:
+    emo: 🧁
+    name: cupcake
+    uni: 1f9c1
+pie:
+    emo: 🥧
+    name: pie
+    uni: 1f967
+chocolate_bar:
+    emo: 🍫
+    name: 'chocolate bar'
+    uni: 1f36b
+candy:
+    emo: 🍬
+    name: candy
+    uni: 1f36c
+lollipop:
+    emo: 🍭
+    name: lollipop
+    uni: 1f36d
+custard:
+    emo: 🍮
+    name: custard
+    uni: 1f36e
+honey_pot:
+    emo: 🍯
+    name: 'honey pot'
+    uni: 1f36f
+baby_bottle:
+    emo: 🍼
+    name: 'baby bottle'
+    uni: 1f37c
+glass_of_milk:
+    emo: 🥛
+    name: 'glass of milk'
+    uni: 1f95b
+hot_beverage:
+    emo: ☕
+    name: 'hot beverage'
+    uni: '2615'
+teapot:
+    emo: 🫖
+    name: teapot
+    uni: 1fad6
+teacup_without_handle:
+    emo: 🍵
+    name: 'teacup without handle'
+    uni: 1f375
+sake:
+    emo: 🍶
+    name: sake
+    uni: 1f376
+bottle_with_popping_cork:
+    emo: 🍾
+    name: 'bottle with popping cork'
+    uni: 1f37e
+wine_glass:
+    emo: 🍷
+    name: 'wine glass'
+    uni: 1f377
+cocktail_glass:
+    emo: 🍸
+    name: 'cocktail glass'
+    uni: 1f378
+tropical_drink:
+    emo: 🍹
+    name: 'tropical drink'
+    uni: 1f379
+beer_mug:
+    emo: 🍺
+    name: 'beer mug'
+    uni: 1f37a
+clinking_beer_mugs:
+    emo: 🍻
+    name: 'clinking beer mugs'
+    uni: 1f37b
+clinking_glasses:
+    emo: 🥂
+    name: 'clinking glasses'
+    uni: 1f942
+tumbler_glass:
+    emo: 🥃
+    name: 'tumbler glass'
+    uni: 1f943
+pouring_liquid:
+    emo: 🫗
+    name: 'pouring liquid'
+    uni: 1fad7
+cup_with_straw:
+    emo: 🥤
+    name: 'cup with straw'
+    uni: 1f964
+bubble_tea:
+    emo: 🧋
+    name: 'bubble tea'
+    uni: 1f9cb
+beverage_box:
+    emo: 🧃
+    name: 'beverage box'
+    uni: 1f9c3
+mate:
+    emo: 🧉
+    name: mate
+    uni: 1f9c9
+ice:
+    emo: 🧊
+    name: ice
+    uni: 1f9ca
+chopsticks:
+    emo: 🥢
+    name: chopsticks
+    uni: 1f962
+fork_and_knife_with_plate:
+    emo: 🍽️
+    name: 'fork and knife with plate'
+    uni: 1f37d_fe0f
+fork_and_knife:
+    emo: 🍴
+    name: 'fork and knife'
+    uni: 1f374
+spoon:
+    emo: 🥄
+    name: spoon
+    uni: 1f944
+kitchen_knife:
+    emo: 🔪
+    name: 'kitchen knife'
+    uni: 1f52a
+jar:
+    emo: 🫙
+    name: jar
+    uni: 1fad9
+amphora:
+    emo: 🏺
+    name: amphora
+    uni: 1f3fa
+globe_showing_europe_africa:
+    emo: 🌍
+    name: 'globe showing Europe-Africa'
+    uni: 1f30d
+globe_showing_americas:
+    emo: 🌎
+    name: 'globe showing Americas'
+    uni: 1f30e
+globe_showing_asia_australia:
+    emo: 🌏
+    name: 'globe showing Asia-Australia'
+    uni: 1f30f
+globe_with_meridians:
+    emo: 🌐
+    name: 'globe with meridians'
+    uni: 1f310
+world_map:
+    emo: 🗺️
+    name: 'world map'
+    uni: 1f5fa_fe0f
+map_of_japan:
+    emo: 🗾
+    name: 'map of Japan'
+    uni: 1f5fe
+compass:
+    emo: 🧭
+    name: compass
+    uni: 1f9ed
+snow_capped_mountain:
+    emo: 🏔️
+    name: 'snow-capped mountain'
+    uni: 1f3d4_fe0f
+mountain:
+    emo: ⛰️
+    name: mountain
+    uni: 26f0_fe0f
+landslide:
+    emo: 🛘
+    name: landslide
+    uni: 1f6d8
+volcano:
+    emo: 🌋
+    name: volcano
+    uni: 1f30b
+mount_fuji:
+    emo: 🗻
+    name: 'mount fuji'
+    uni: 1f5fb
+camping:
+    emo: 🏕️
+    name: camping
+    uni: 1f3d5_fe0f
+beach_with_umbrella:
+    emo: 🏖️
+    name: 'beach with umbrella'
+    uni: 1f3d6_fe0f
+desert:
+    emo: 🏜️
+    name: desert
+    uni: 1f3dc_fe0f
+desert_island:
+    emo: 🏝️
+    name: 'desert island'
+    uni: 1f3dd_fe0f
+national_park:
+    emo: 🏞️
+    name: 'national park'
+    uni: 1f3de_fe0f
+stadium:
+    emo: 🏟️
+    name: stadium
+    uni: 1f3df_fe0f
+classical_building:
+    emo: 🏛️
+    name: 'classical building'
+    uni: 1f3db_fe0f
+building_construction:
+    emo: 🏗️
+    name: 'building construction'
+    uni: 1f3d7_fe0f
+brick:
+    emo: 🧱
+    name: brick
+    uni: 1f9f1
+rock:
+    emo: 🪨
+    name: rock
+    uni: 1faa8
+wood:
+    emo: 🪵
+    name: wood
+    uni: 1fab5
+hut:
+    emo: 🛖
+    name: hut
+    uni: 1f6d6
+houses:
+    emo: 🏘️
+    name: houses
+    uni: 1f3d8_fe0f
+derelict_house:
+    emo: 🏚️
+    name: 'derelict house'
+    uni: 1f3da_fe0f
+house:
+    emo: 🏠
+    name: house
+    uni: 1f3e0
+house_with_garden:
+    emo: 🏡
+    name: 'house with garden'
+    uni: 1f3e1
+office_building:
+    emo: 🏢
+    name: 'office building'
+    uni: 1f3e2
+japanese_post_office:
+    emo: 🏣
+    name: 'Japanese post office'
+    uni: 1f3e3
+post_office:
+    emo: 🏤
+    name: 'post office'
+    uni: 1f3e4
+hospital:
+    emo: 🏥
+    name: hospital
+    uni: 1f3e5
+bank:
+    emo: 🏦
+    name: bank
+    uni: 1f3e6
+hotel:
+    emo: 🏨
+    name: hotel
+    uni: 1f3e8
+love_hotel:
+    emo: 🏩
+    name: 'love hotel'
+    uni: 1f3e9
+convenience_store:
+    emo: 🏪
+    name: 'convenience store'
+    uni: 1f3ea
+school:
+    emo: 🏫
+    name: school
+    uni: 1f3eb
+department_store:
+    emo: 🏬
+    name: 'department store'
+    uni: 1f3ec
+factory:
+    emo: 🏭
+    name: factory
+    uni: 1f3ed
+japanese_castle:
+    emo: 🏯
+    name: 'Japanese castle'
+    uni: 1f3ef
+castle:
+    emo: 🏰
+    name: castle
+    uni: 1f3f0
+wedding:
+    emo: 💒
+    name: wedding
+    uni: 1f492
+tokyo_tower:
+    emo: 🗼
+    name: 'Tokyo tower'
+    uni: 1f5fc
+statue_of_liberty:
+    emo: 🗽
+    name: 'Statue of Liberty'
+    uni: 1f5fd
+church:
+    emo: ⛪
+    name: church
+    uni: 26ea
+mosque:
+    emo: 🕌
+    name: mosque
+    uni: 1f54c
+hindu_temple:
+    emo: 🛕
+    name: 'hindu temple'
+    uni: 1f6d5
+synagogue:
+    emo: 🕍
+    name: synagogue
+    uni: 1f54d
+shinto_shrine:
+    emo: ⛩️
+    name: 'shinto shrine'
+    uni: 26e9_fe0f
+kaaba:
+    emo: 🕋
+    name: kaaba
+    uni: 1f54b
+fountain:
+    emo: ⛲
+    name: fountain
+    uni: 26f2
+tent:
+    emo: ⛺
+    name: tent
+    uni: 26fa
+foggy:
+    emo: 🌁
+    name: foggy
+    uni: 1f301
+night_with_stars:
+    emo: 🌃
+    name: 'night with stars'
+    uni: 1f303
+cityscape:
+    emo: 🏙️
+    name: cityscape
+    uni: 1f3d9_fe0f
+sunrise_over_mountains:
+    emo: 🌄
+    name: 'sunrise over mountains'
+    uni: 1f304
+sunrise:
+    emo: 🌅
+    name: sunrise
+    uni: 1f305
+cityscape_at_dusk:
+    emo: 🌆
+    name: 'cityscape at dusk'
+    uni: 1f306
+sunset:
+    emo: 🌇
+    name: sunset
+    uni: 1f307
+bridge_at_night:
+    emo: 🌉
+    name: 'bridge at night'
+    uni: 1f309
+hot_springs:
+    emo: ♨️
+    name: 'hot springs'
+    uni: 2668_fe0f
+carousel_horse:
+    emo: 🎠
+    name: 'carousel horse'
+    uni: 1f3a0
+playground_slide:
+    emo: 🛝
+    name: 'playground slide'
+    uni: 1f6dd
+ferris_wheel:
+    emo: 🎡
+    name: 'ferris wheel'
+    uni: 1f3a1
+roller_coaster:
+    emo: 🎢
+    name: 'roller coaster'
+    uni: 1f3a2
+barber_pole:
+    emo: 💈
+    name: 'barber pole'
+    uni: 1f488
+circus_tent:
+    emo: 🎪
+    name: 'circus tent'
+    uni: 1f3aa
+locomotive:
+    emo: 🚂
+    name: locomotive
+    uni: 1f682
+railway_car:
+    emo: 🚃
+    name: 'railway car'
+    uni: 1f683
+high_speed_train:
+    emo: 🚄
+    name: 'high-speed train'
+    uni: 1f684
+bullet_train:
+    emo: 🚅
+    name: 'bullet train'
+    uni: 1f685
+train:
+    emo: 🚆
+    name: train
+    uni: 1f686
+metro:
+    emo: 🚇
+    name: metro
+    uni: 1f687
+light_rail:
+    emo: 🚈
+    name: 'light rail'
+    uni: 1f688
+station:
+    emo: 🚉
+    name: station
+    uni: 1f689
+tram:
+    emo: 🚊
+    name: tram
+    uni: 1f68a
+monorail:
+    emo: 🚝
+    name: monorail
+    uni: 1f69d
+mountain_railway:
+    emo: 🚞
+    name: 'mountain railway'
+    uni: 1f69e
+tram_car:
+    emo: 🚋
+    name: 'tram car'
+    uni: 1f68b
+bus:
+    emo: 🚌
+    name: bus
+    uni: 1f68c
+oncoming_bus:
+    emo: 🚍
+    name: 'oncoming bus'
+    uni: 1f68d
+trolleybus:
+    emo: 🚎
+    name: trolleybus
+    uni: 1f68e
+minibus:
+    emo: 🚐
+    name: minibus
+    uni: 1f690
+ambulance:
+    emo: 🚑
+    name: ambulance
+    uni: 1f691
+fire_engine:
+    emo: 🚒
+    name: 'fire engine'
+    uni: 1f692
+police_car:
+    emo: 🚓
+    name: 'police car'
+    uni: 1f693
+oncoming_police_car:
+    emo: 🚔
+    name: 'oncoming police car'
+    uni: 1f694
+taxi:
+    emo: 🚕
+    name: taxi
+    uni: 1f695
+oncoming_taxi:
+    emo: 🚖
+    name: 'oncoming taxi'
+    uni: 1f696
+automobile:
+    emo: 🚗
+    name: automobile
+    uni: 1f697
+oncoming_automobile:
+    emo: 🚘
+    name: 'oncoming automobile'
+    uni: 1f698
+sport_utility_vehicle:
+    emo: 🚙
+    name: 'sport utility vehicle'
+    uni: 1f699
+pickup_truck:
+    emo: 🛻
+    name: 'pickup truck'
+    uni: 1f6fb
+delivery_truck:
+    emo: 🚚
+    name: 'delivery truck'
+    uni: 1f69a
+articulated_lorry:
+    emo: 🚛
+    name: 'articulated lorry'
+    uni: 1f69b
+tractor:
+    emo: 🚜
+    name: tractor
+    uni: 1f69c
+racing_car:
+    emo: 🏎️
+    name: 'racing car'
+    uni: 1f3ce_fe0f
+motorcycle:
+    emo: 🏍️
+    name: motorcycle
+    uni: 1f3cd_fe0f
+motor_scooter:
+    emo: 🛵
+    name: 'motor scooter'
+    uni: 1f6f5
+manual_wheelchair:
+    emo: 🦽
+    name: 'manual wheelchair'
+    uni: 1f9bd
+motorized_wheelchair:
+    emo: 🦼
+    name: 'motorized wheelchair'
+    uni: 1f9bc
+auto_rickshaw:
+    emo: 🛺
+    name: 'auto rickshaw'
+    uni: 1f6fa
+bicycle:
+    emo: 🚲
+    name: bicycle
+    uni: 1f6b2
+kick_scooter:
+    emo: 🛴
+    name: 'kick scooter'
+    uni: 1f6f4
+skateboard:
+    emo: 🛹
+    name: skateboard
+    uni: 1f6f9
+roller_skate:
+    emo: 🛼
+    name: 'roller skate'
+    uni: 1f6fc
+bus_stop:
+    emo: 🚏
+    name: 'bus stop'
+    uni: 1f68f
+motorway:
+    emo: 🛣️
+    name: motorway
+    uni: 1f6e3_fe0f
+railway_track:
+    emo: 🛤️
+    name: 'railway track'
+    uni: 1f6e4_fe0f
+oil_drum:
+    emo: 🛢️
+    name: 'oil drum'
+    uni: 1f6e2_fe0f
+fuel_pump:
+    emo: ⛽
+    name: 'fuel pump'
+    uni: 26fd
+wheel:
+    emo: 🛞
+    name: wheel
+    uni: 1f6de
+police_car_light:
+    emo: 🚨
+    name: 'police car light'
+    uni: 1f6a8
+horizontal_traffic_light:
+    emo: 🚥
+    name: 'horizontal traffic light'
+    uni: 1f6a5
+vertical_traffic_light:
+    emo: 🚦
+    name: 'vertical traffic light'
+    uni: 1f6a6
+stop_sign:
+    emo: 🛑
+    name: 'stop sign'
+    uni: 1f6d1
+construction:
+    emo: 🚧
+    name: construction
+    uni: 1f6a7
+anchor:
+    emo: ⚓
+    name: anchor
+    uni: '2693'
+ring_buoy:
+    emo: 🛟
+    name: 'ring buoy'
+    uni: 1f6df
+sailboat:
+    emo: ⛵
+    name: sailboat
+    uni: 26f5
+canoe:
+    emo: 🛶
+    name: canoe
+    uni: 1f6f6
+speedboat:
+    emo: 🚤
+    name: speedboat
+    uni: 1f6a4
+passenger_ship:
+    emo: 🛳️
+    name: 'passenger ship'
+    uni: 1f6f3_fe0f
+ferry:
+    emo: ⛴️
+    name: ferry
+    uni: 26f4_fe0f
+motor_boat:
+    emo: 🛥️
+    name: 'motor boat'
+    uni: 1f6e5_fe0f
+ship:
+    emo: 🚢
+    name: ship
+    uni: 1f6a2
+airplane:
+    emo: ✈️
+    name: airplane
+    uni: 2708_fe0f
+small_airplane:
+    emo: 🛩️
+    name: 'small airplane'
+    uni: 1f6e9_fe0f
+airplane_departure:
+    emo: 🛫
+    name: 'airplane departure'
+    uni: 1f6eb
+airplane_arrival:
+    emo: 🛬
+    name: 'airplane arrival'
+    uni: 1f6ec
+parachute:
+    emo: 🪂
+    name: parachute
+    uni: 1fa82
+seat:
+    emo: 💺
+    name: seat
+    uni: 1f4ba
+helicopter:
+    emo: 🚁
+    name: helicopter
+    uni: 1f681
+suspension_railway:
+    emo: 🚟
+    name: 'suspension railway'
+    uni: 1f69f
+mountain_cableway:
+    emo: 🚠
+    name: 'mountain cableway'
+    uni: 1f6a0
+aerial_tramway:
+    emo: 🚡
+    name: 'aerial tramway'
+    uni: 1f6a1
+satellite:
+    emo: 🛰️
+    name: satellite
+    uni: 1f6f0_fe0f
+rocket:
+    emo: 🚀
+    name: rocket
+    uni: 1f680
+flying_saucer:
+    emo: 🛸
+    name: 'flying saucer'
+    uni: 1f6f8
+bellhop_bell:
+    emo: 🛎️
+    name: 'bellhop bell'
+    uni: 1f6ce_fe0f
+luggage:
+    emo: 🧳
+    name: luggage
+    uni: 1f9f3
+hourglass_done:
+    emo: ⌛
+    name: 'hourglass done'
+    uni: 231b
+hourglass_not_done:
+    emo: ⏳
+    name: 'hourglass not done'
+    uni: 23f3
+watch:
+    emo: ⌚
+    name: watch
+    uni: 231a
+alarm_clock:
+    emo: ⏰
+    name: 'alarm clock'
+    uni: 23f0
+stopwatch:
+    emo: ⏱️
+    name: stopwatch
+    uni: 23f1_fe0f
+timer_clock:
+    emo: ⏲️
+    name: 'timer clock'
+    uni: 23f2_fe0f
+mantelpiece_clock:
+    emo: 🕰️
+    name: 'mantelpiece clock'
+    uni: 1f570_fe0f
+twelve_o_clock:
+    emo: 🕛
+    name: 'twelve o’clock'
+    uni: 1f55b
+twelve_thirty:
+    emo: 🕧
+    name: twelve-thirty
+    uni: 1f567
+one_o_clock:
+    emo: 🕐
+    name: 'one o’clock'
+    uni: 1f550
+one_thirty:
+    emo: 🕜
+    name: one-thirty
+    uni: 1f55c
+two_o_clock:
+    emo: 🕑
+    name: 'two o’clock'
+    uni: 1f551
+two_thirty:
+    emo: 🕝
+    name: two-thirty
+    uni: 1f55d
+three_o_clock:
+    emo: 🕒
+    name: 'three o’clock'
+    uni: 1f552
+three_thirty:
+    emo: 🕞
+    name: three-thirty
+    uni: 1f55e
+four_o_clock:
+    emo: 🕓
+    name: 'four o’clock'
+    uni: 1f553
+four_thirty:
+    emo: 🕟
+    name: four-thirty
+    uni: 1f55f
+five_o_clock:
+    emo: 🕔
+    name: 'five o’clock'
+    uni: 1f554
+five_thirty:
+    emo: 🕠
+    name: five-thirty
+    uni: 1f560
+six_o_clock:
+    emo: 🕕
+    name: 'six o’clock'
+    uni: 1f555
+six_thirty:
+    emo: 🕡
+    name: six-thirty
+    uni: 1f561
+seven_o_clock:
+    emo: 🕖
+    name: 'seven o’clock'
+    uni: 1f556
+seven_thirty:
+    emo: 🕢
+    name: seven-thirty
+    uni: 1f562
+eight_o_clock:
+    emo: 🕗
+    name: 'eight o’clock'
+    uni: 1f557
+eight_thirty:
+    emo: 🕣
+    name: eight-thirty
+    uni: 1f563
+nine_o_clock:
+    emo: 🕘
+    name: 'nine o’clock'
+    uni: 1f558
+nine_thirty:
+    emo: 🕤
+    name: nine-thirty
+    uni: 1f564
+ten_o_clock:
+    emo: 🕙
+    name: 'ten o’clock'
+    uni: 1f559
+ten_thirty:
+    emo: 🕥
+    name: ten-thirty
+    uni: 1f565
+eleven_o_clock:
+    emo: 🕚
+    name: 'eleven o’clock'
+    uni: 1f55a
+eleven_thirty:
+    emo: 🕦
+    name: eleven-thirty
+    uni: 1f566
+new_moon:
+    emo: 🌑
+    name: 'new moon'
+    uni: 1f311
+waxing_crescent_moon:
+    emo: 🌒
+    name: 'waxing crescent moon'
+    uni: 1f312
+first_quarter_moon:
+    emo: 🌓
+    name: 'first quarter moon'
+    uni: 1f313
+waxing_gibbous_moon:
+    emo: 🌔
+    name: 'waxing gibbous moon'
+    uni: 1f314
+full_moon:
+    emo: 🌕
+    name: 'full moon'
+    uni: 1f315
+waning_gibbous_moon:
+    emo: 🌖
+    name: 'waning gibbous moon'
+    uni: 1f316
+last_quarter_moon:
+    emo: 🌗
+    name: 'last quarter moon'
+    uni: 1f317
+waning_crescent_moon:
+    emo: 🌘
+    name: 'waning crescent moon'
+    uni: 1f318
+crescent_moon:
+    emo: 🌙
+    name: 'crescent moon'
+    uni: 1f319
+new_moon_face:
+    emo: 🌚
+    name: 'new moon face'
+    uni: 1f31a
+first_quarter_moon_face:
+    emo: 🌛
+    name: 'first quarter moon face'
+    uni: 1f31b
+last_quarter_moon_face:
+    emo: 🌜
+    name: 'last quarter moon face'
+    uni: 1f31c
+thermometer:
+    emo: 🌡️
+    name: thermometer
+    uni: 1f321_fe0f
+sun:
+    emo: ☀️
+    name: sun
+    uni: 2600_fe0f
+full_moon_face:
+    emo: 🌝
+    name: 'full moon face'
+    uni: 1f31d
+sun_with_face:
+    emo: 🌞
+    name: 'sun with face'
+    uni: 1f31e
+ringed_planet:
+    emo: 🪐
+    name: 'ringed planet'
+    uni: 1fa90
+star:
+    emo: ⭐
+    name: star
+    uni: 2b50
+glowing_star:
+    emo: 🌟
+    name: 'glowing star'
+    uni: 1f31f
+shooting_star:
+    emo: 🌠
+    name: 'shooting star'
+    uni: 1f320
+milky_way:
+    emo: 🌌
+    name: 'milky way'
+    uni: 1f30c
+cloud:
+    emo: ☁️
+    name: cloud
+    uni: 2601_fe0f
+sun_behind_cloud:
+    emo: ⛅
+    name: 'sun behind cloud'
+    uni: 26c5
+cloud_with_lightning_and_rain:
+    emo: ⛈️
+    name: 'cloud with lightning and rain'
+    uni: 26c8_fe0f
+sun_behind_small_cloud:
+    emo: 🌤️
+    name: 'sun behind small cloud'
+    uni: 1f324_fe0f
+sun_behind_large_cloud:
+    emo: 🌥️
+    name: 'sun behind large cloud'
+    uni: 1f325_fe0f
+sun_behind_rain_cloud:
+    emo: 🌦️
+    name: 'sun behind rain cloud'
+    uni: 1f326_fe0f
+cloud_with_rain:
+    emo: 🌧️
+    name: 'cloud with rain'
+    uni: 1f327_fe0f
+cloud_with_snow:
+    emo: 🌨️
+    name: 'cloud with snow'
+    uni: 1f328_fe0f
+cloud_with_lightning:
+    emo: 🌩️
+    name: 'cloud with lightning'
+    uni: 1f329_fe0f
+tornado:
+    emo: 🌪️
+    name: tornado
+    uni: 1f32a_fe0f
+fog:
+    emo: 🌫️
+    name: fog
+    uni: 1f32b_fe0f
+wind_face:
+    emo: 🌬️
+    name: 'wind face'
+    uni: 1f32c_fe0f
+cyclone:
+    emo: 🌀
+    name: cyclone
+    uni: 1f300
+rainbow:
+    emo: 🌈
+    name: rainbow
+    uni: 1f308
+closed_umbrella:
+    emo: 🌂
+    name: 'closed umbrella'
+    uni: 1f302
+umbrella:
+    emo: ☂️
+    name: umbrella
+    uni: 2602_fe0f
+umbrella_with_rain_drops:
+    emo: ☔
+    name: 'umbrella with rain drops'
+    uni: '2614'
+umbrella_on_ground:
+    emo: ⛱️
+    name: 'umbrella on ground'
+    uni: 26f1_fe0f
+high_voltage:
+    emo: ⚡
+    name: 'high voltage'
+    uni: 26a1
+snowflake:
+    emo: ❄️
+    name: snowflake
+    uni: 2744_fe0f
+snowman:
+    emo: ☃️
+    name: snowman
+    uni: 2603_fe0f
+snowman_without_snow:
+    emo: ⛄
+    name: 'snowman without snow'
+    uni: 26c4
+comet:
+    emo: ☄️
+    name: comet
+    uni: 2604_fe0f
+fire:
+    emo: 🔥
+    name: fire
+    uni: 1f525
+droplet:
+    emo: 💧
+    name: droplet
+    uni: 1f4a7
+water_wave:
+    emo: 🌊
+    name: 'water wave'
+    uni: 1f30a
+jack_o_lantern:
+    emo: 🎃
+    name: jack-o-lantern
+    uni: 1f383
+christmas_tree:
+    emo: 🎄
+    name: 'Christmas tree'
+    uni: 1f384
+fireworks:
+    emo: 🎆
+    name: fireworks
+    uni: 1f386
+sparkler:
+    emo: 🎇
+    name: sparkler
+    uni: 1f387
+firecracker:
+    emo: 🧨
+    name: firecracker
+    uni: 1f9e8
+sparkles:
+    emo: ✨
+    name: sparkles
+    uni: '2728'
+balloon:
+    emo: 🎈
+    name: balloon
+    uni: 1f388
+party_popper:
+    emo: 🎉
+    name: 'party popper'
+    uni: 1f389
+confetti_ball:
+    emo: 🎊
+    name: 'confetti ball'
+    uni: 1f38a
+tanabata_tree:
+    emo: 🎋
+    name: 'tanabata tree'
+    uni: 1f38b
+pine_decoration:
+    emo: 🎍
+    name: 'pine decoration'
+    uni: 1f38d
+japanese_dolls:
+    emo: 🎎
+    name: 'Japanese dolls'
+    uni: 1f38e
+carp_streamer:
+    emo: 🎏
+    name: 'carp streamer'
+    uni: 1f38f
+wind_chime:
+    emo: 🎐
+    name: 'wind chime'
+    uni: 1f390
+moon_viewing_ceremony:
+    emo: 🎑
+    name: 'moon viewing ceremony'
+    uni: 1f391
+red_envelope:
+    emo: 🧧
+    name: 'red envelope'
+    uni: 1f9e7
+ribbon:
+    emo: 🎀
+    name: ribbon
+    uni: 1f380
+wrapped_gift:
+    emo: 🎁
+    name: 'wrapped gift'
+    uni: 1f381
+reminder_ribbon:
+    emo: 🎗️
+    name: 'reminder ribbon'
+    uni: 1f397_fe0f
+admission_tickets:
+    emo: 🎟️
+    name: 'admission tickets'
+    uni: 1f39f_fe0f
+ticket:
+    emo: 🎫
+    name: ticket
+    uni: 1f3ab
+military_medal:
+    emo: 🎖️
+    name: 'military medal'
+    uni: 1f396_fe0f
+trophy:
+    emo: 🏆
+    name: trophy
+    uni: 1f3c6
+sports_medal:
+    emo: 🏅
+    name: 'sports medal'
+    uni: 1f3c5
+1st_place_medal:
+    emo: 🥇
+    name: '1st place medal'
+    uni: 1f947
+2nd_place_medal:
+    emo: 🥈
+    name: '2nd place medal'
+    uni: 1f948
+3rd_place_medal:
+    emo: 🥉
+    name: '3rd place medal'
+    uni: 1f949
+soccer_ball:
+    emo: ⚽
+    name: 'soccer ball'
+    uni: 26bd
+baseball:
+    emo: ⚾
+    name: baseball
+    uni: 26be
+softball:
+    emo: 🥎
+    name: softball
+    uni: 1f94e
+basketball:
+    emo: 🏀
+    name: basketball
+    uni: 1f3c0
+volleyball:
+    emo: 🏐
+    name: volleyball
+    uni: 1f3d0
+american_football:
+    emo: 🏈
+    name: 'american football'
+    uni: 1f3c8
+rugby_football:
+    emo: 🏉
+    name: 'rugby football'
+    uni: 1f3c9
+tennis:
+    emo: 🎾
+    name: tennis
+    uni: 1f3be
+flying_disc:
+    emo: 🥏
+    name: 'flying disc'
+    uni: 1f94f
+bowling:
+    emo: 🎳
+    name: bowling
+    uni: 1f3b3
+cricket_game:
+    emo: 🏏
+    name: 'cricket game'
+    uni: 1f3cf
+field_hockey:
+    emo: 🏑
+    name: 'field hockey'
+    uni: 1f3d1
+ice_hockey:
+    emo: 🏒
+    name: 'ice hockey'
+    uni: 1f3d2
+lacrosse:
+    emo: 🥍
+    name: lacrosse
+    uni: 1f94d
+ping_pong:
+    emo: 🏓
+    name: 'ping pong'
+    uni: 1f3d3
+badminton:
+    emo: 🏸
+    name: badminton
+    uni: 1f3f8
+boxing_glove:
+    emo: 🥊
+    name: 'boxing glove'
+    uni: 1f94a
+martial_arts_uniform:
+    emo: 🥋
+    name: 'martial arts uniform'
+    uni: 1f94b
+goal_net:
+    emo: 🥅
+    name: 'goal net'
+    uni: 1f945
+flag_in_hole:
+    emo: ⛳
+    name: 'flag in hole'
+    uni: 26f3
+ice_skate:
+    emo: ⛸️
+    name: 'ice skate'
+    uni: 26f8_fe0f
+fishing_pole:
+    emo: 🎣
+    name: 'fishing pole'
+    uni: 1f3a3
+diving_mask:
+    emo: 🤿
+    name: 'diving mask'
+    uni: 1f93f
+running_shirt:
+    emo: 🎽
+    name: 'running shirt'
+    uni: 1f3bd
+skis:
+    emo: 🎿
+    name: skis
+    uni: 1f3bf
+sled:
+    emo: 🛷
+    name: sled
+    uni: 1f6f7
+curling_stone:
+    emo: 🥌
+    name: 'curling stone'
+    uni: 1f94c
+bullseye:
+    emo: 🎯
+    name: bullseye
+    uni: 1f3af
+yo_yo:
+    emo: 🪀
+    name: yo-yo
+    uni: 1fa80
+kite:
+    emo: 🪁
+    name: kite
+    uni: 1fa81
+water_pistol:
+    emo: 🔫
+    name: 'water pistol'
+    uni: 1f52b
+pool_8_ball:
+    emo: 🎱
+    name: 'pool 8 ball'
+    uni: 1f3b1
+crystal_ball:
+    emo: 🔮
+    name: 'crystal ball'
+    uni: 1f52e
+magic_wand:
+    emo: 🪄
+    name: 'magic wand'
+    uni: 1fa84
+video_game:
+    emo: 🎮
+    name: 'video game'
+    uni: 1f3ae
+joystick:
+    emo: 🕹️
+    name: joystick
+    uni: 1f579_fe0f
+slot_machine:
+    emo: 🎰
+    name: 'slot machine'
+    uni: 1f3b0
+game_die:
+    emo: 🎲
+    name: 'game die'
+    uni: 1f3b2
+puzzle_piece:
+    emo: 🧩
+    name: 'puzzle piece'
+    uni: 1f9e9
+teddy_bear:
+    emo: 🧸
+    name: 'teddy bear'
+    uni: 1f9f8
+pi_ata:
+    emo: 🪅
+    name: piñata
+    uni: 1fa85
+mirror_ball:
+    emo: 🪩
+    name: 'mirror ball'
+    uni: 1faa9
+nesting_dolls:
+    emo: 🪆
+    name: 'nesting dolls'
+    uni: 1fa86
+spade_suit:
+    emo: ♠️
+    name: 'spade suit'
+    uni: 2660_fe0f
+heart_suit:
+    emo: ♥️
+    name: 'heart suit'
+    uni: 2665_fe0f
+diamond_suit:
+    emo: ♦️
+    name: 'diamond suit'
+    uni: 2666_fe0f
+club_suit:
+    emo: ♣️
+    name: 'club suit'
+    uni: 2663_fe0f
+chess_pawn:
+    emo: ♟️
+    name: 'chess pawn'
+    uni: 265f_fe0f
+joker:
+    emo: 🃏
+    name: joker
+    uni: 1f0cf
+mahjong_red_dragon:
+    emo: 🀄
+    name: 'mahjong red dragon'
+    uni: 1f004
+flower_playing_cards:
+    emo: 🎴
+    name: 'flower playing cards'
+    uni: 1f3b4
+performing_arts:
+    emo: 🎭
+    name: 'performing arts'
+    uni: 1f3ad
+framed_picture:
+    emo: 🖼️
+    name: 'framed picture'
+    uni: 1f5bc_fe0f
+artist_palette:
+    emo: 🎨
+    name: 'artist palette'
+    uni: 1f3a8
+thread:
+    emo: 🧵
+    name: thread
+    uni: 1f9f5
+sewing_needle:
+    emo: 🪡
+    name: 'sewing needle'
+    uni: 1faa1
+yarn:
+    emo: 🧶
+    name: yarn
+    uni: 1f9f6
+knot:
+    emo: 🪢
+    name: knot
+    uni: 1faa2
+glasses:
+    emo: 👓
+    name: glasses
+    uni: 1f453
+sunglasses:
+    emo: 🕶️
+    name: sunglasses
+    uni: 1f576_fe0f
+goggles:
+    emo: 🥽
+    name: goggles
+    uni: 1f97d
+lab_coat:
+    emo: 🥼
+    name: 'lab coat'
+    uni: 1f97c
+safety_vest:
+    emo: 🦺
+    name: 'safety vest'
+    uni: 1f9ba
+necktie:
+    emo: 👔
+    name: necktie
+    uni: 1f454
+t_shirt:
+    emo: 👕
+    name: t-shirt
+    uni: 1f455
+jeans:
+    emo: 👖
+    name: jeans
+    uni: 1f456
+scarf:
+    emo: 🧣
+    name: scarf
+    uni: 1f9e3
+gloves:
+    emo: 🧤
+    name: gloves
+    uni: 1f9e4
+coat:
+    emo: 🧥
+    name: coat
+    uni: 1f9e5
+socks:
+    emo: 🧦
+    name: socks
+    uni: 1f9e6
+dress:
+    emo: 👗
+    name: dress
+    uni: 1f457
+kimono:
+    emo: 👘
+    name: kimono
+    uni: 1f458
+sari:
+    emo: 🥻
+    name: sari
+    uni: 1f97b
+one_piece_swimsuit:
+    emo: 🩱
+    name: 'one-piece swimsuit'
+    uni: 1fa71
+briefs:
+    emo: 🩲
+    name: briefs
+    uni: 1fa72
+shorts:
+    emo: 🩳
+    name: shorts
+    uni: 1fa73
+bikini:
+    emo: 👙
+    name: bikini
+    uni: 1f459
+woman_s_clothes:
+    emo: 👚
+    name: 'woman’s clothes'
+    uni: 1f45a
+folding_hand_fan:
+    emo: 🪭
+    name: 'folding hand fan'
+    uni: 1faad
+purse:
+    emo: 👛
+    name: purse
+    uni: 1f45b
+handbag:
+    emo: 👜
+    name: handbag
+    uni: 1f45c
+clutch_bag:
+    emo: 👝
+    name: 'clutch bag'
+    uni: 1f45d
+shopping_bags:
+    emo: 🛍️
+    name: 'shopping bags'
+    uni: 1f6cd_fe0f
+backpack:
+    emo: 🎒
+    name: backpack
+    uni: 1f392
+thong_sandal:
+    emo: 🩴
+    name: 'thong sandal'
+    uni: 1fa74
+man_s_shoe:
+    emo: 👞
+    name: 'man’s shoe'
+    uni: 1f45e
+running_shoe:
+    emo: 👟
+    name: 'running shoe'
+    uni: 1f45f
+hiking_boot:
+    emo: 🥾
+    name: 'hiking boot'
+    uni: 1f97e
+flat_shoe:
+    emo: 🥿
+    name: 'flat shoe'
+    uni: 1f97f
+high_heeled_shoe:
+    emo: 👠
+    name: 'high-heeled shoe'
+    uni: 1f460
+woman_s_sandal:
+    emo: 👡
+    name: 'woman’s sandal'
+    uni: 1f461
+ballet_shoes:
+    emo: 🩰
+    name: 'ballet shoes'
+    uni: 1fa70
+woman_s_boot:
+    emo: 👢
+    name: 'woman’s boot'
+    uni: 1f462
+hair_pick:
+    emo: 🪮
+    name: 'hair pick'
+    uni: 1faae
+crown:
+    emo: 👑
+    name: crown
+    uni: 1f451
+woman_s_hat:
+    emo: 👒
+    name: 'woman’s hat'
+    uni: 1f452
+top_hat:
+    emo: 🎩
+    name: 'top hat'
+    uni: 1f3a9
+graduation_cap:
+    emo: 🎓
+    name: 'graduation cap'
+    uni: 1f393
+billed_cap:
+    emo: 🧢
+    name: 'billed cap'
+    uni: 1f9e2
+military_helmet:
+    emo: 🪖
+    name: 'military helmet'
+    uni: 1fa96
+rescue_worker_s_helmet:
+    emo: ⛑️
+    name: 'rescue worker’s helmet'
+    uni: 26d1_fe0f
+prayer_beads:
+    emo: 📿
+    name: 'prayer beads'
+    uni: 1f4ff
+lipstick:
+    emo: 💄
+    name: lipstick
+    uni: 1f484
+ring:
+    emo: 💍
+    name: ring
+    uni: 1f48d
+gem_stone:
+    emo: 💎
+    name: 'gem stone'
+    uni: 1f48e
+muted_speaker:
+    emo: 🔇
+    name: 'muted speaker'
+    uni: 1f507
+speaker_low_volume:
+    emo: 🔈
+    name: 'speaker low volume'
+    uni: 1f508
+speaker_medium_volume:
+    emo: 🔉
+    name: 'speaker medium volume'
+    uni: 1f509
+speaker_high_volume:
+    emo: 🔊
+    name: 'speaker high volume'
+    uni: 1f50a
+loudspeaker:
+    emo: 📢
+    name: loudspeaker
+    uni: 1f4e2
+megaphone:
+    emo: 📣
+    name: megaphone
+    uni: 1f4e3
+postal_horn:
+    emo: 📯
+    name: 'postal horn'
+    uni: 1f4ef
+bell:
+    emo: 🔔
+    name: bell
+    uni: 1f514
+bell_with_slash:
+    emo: 🔕
+    name: 'bell with slash'
+    uni: 1f515
+musical_score:
+    emo: 🎼
+    name: 'musical score'
+    uni: 1f3bc
+musical_note:
+    emo: 🎵
+    name: 'musical note'
+    uni: 1f3b5
+musical_notes:
+    emo: 🎶
+    name: 'musical notes'
+    uni: 1f3b6
+studio_microphone:
+    emo: 🎙️
+    name: 'studio microphone'
+    uni: 1f399_fe0f
+level_slider:
+    emo: 🎚️
+    name: 'level slider'
+    uni: 1f39a_fe0f
+control_knobs:
+    emo: 🎛️
+    name: 'control knobs'
+    uni: 1f39b_fe0f
+microphone:
+    emo: 🎤
+    name: microphone
+    uni: 1f3a4
+headphone:
+    emo: 🎧
+    name: headphone
+    uni: 1f3a7
+radio:
+    emo: 📻
+    name: radio
+    uni: 1f4fb
+saxophone:
+    emo: 🎷
+    name: saxophone
+    uni: 1f3b7
+trumpet:
+    emo: 🎺
+    name: trumpet
+    uni: 1f3ba
+trombone:
+    emo: 🪊
+    name: trombone
+    uni: 1fa8a
+accordion:
+    emo: 🪗
+    name: accordion
+    uni: 1fa97
+guitar:
+    emo: 🎸
+    name: guitar
+    uni: 1f3b8
+musical_keyboard:
+    emo: 🎹
+    name: 'musical keyboard'
+    uni: 1f3b9
+violin:
+    emo: 🎻
+    name: violin
+    uni: 1f3bb
+banjo:
+    emo: 🪕
+    name: banjo
+    uni: 1fa95
+drum:
+    emo: 🥁
+    name: drum
+    uni: 1f941
+long_drum:
+    emo: 🪘
+    name: 'long drum'
+    uni: 1fa98
+maracas:
+    emo: 🪇
+    name: maracas
+    uni: 1fa87
+flute:
+    emo: 🪈
+    name: flute
+    uni: 1fa88
+harp:
+    emo: 🪉
+    name: harp
+    uni: 1fa89
+mobile_phone:
+    emo: 📱
+    name: 'mobile phone'
+    uni: 1f4f1
+mobile_phone_with_arrow:
+    emo: 📲
+    name: 'mobile phone with arrow'
+    uni: 1f4f2
+telephone:
+    emo: ☎️
+    name: telephone
+    uni: 260e_fe0f
+telephone_receiver:
+    emo: 📞
+    name: 'telephone receiver'
+    uni: 1f4de
+pager:
+    emo: 📟
+    name: pager
+    uni: 1f4df
+fax_machine:
+    emo: 📠
+    name: 'fax machine'
+    uni: 1f4e0
+battery:
+    emo: 🔋
+    name: battery
+    uni: 1f50b
+low_battery:
+    emo: 🪫
+    name: 'low battery'
+    uni: 1faab
+electric_plug:
+    emo: 🔌
+    name: 'electric plug'
+    uni: 1f50c
+laptop:
+    emo: 💻
+    name: laptop
+    uni: 1f4bb
+desktop_computer:
+    emo: 🖥️
+    name: 'desktop computer'
+    uni: 1f5a5_fe0f
+printer:
+    emo: 🖨️
+    name: printer
+    uni: 1f5a8_fe0f
+keyboard:
+    emo: ⌨️
+    name: keyboard
+    uni: 2328_fe0f
+computer_mouse:
+    emo: 🖱️
+    name: 'computer mouse'
+    uni: 1f5b1_fe0f
+trackball:
+    emo: 🖲️
+    name: trackball
+    uni: 1f5b2_fe0f
+computer_disk:
+    emo: 💽
+    name: 'computer disk'
+    uni: 1f4bd
+floppy_disk:
+    emo: 💾
+    name: 'floppy disk'
+    uni: 1f4be
+optical_disk:
+    emo: 💿
+    name: 'optical disk'
+    uni: 1f4bf
+dvd:
+    emo: 📀
+    name: dvd
+    uni: 1f4c0
+abacus:
+    emo: 🧮
+    name: abacus
+    uni: 1f9ee
+movie_camera:
+    emo: 🎥
+    name: 'movie camera'
+    uni: 1f3a5
+film_frames:
+    emo: 🎞️
+    name: 'film frames'
+    uni: 1f39e_fe0f
+film_projector:
+    emo: 📽️
+    name: 'film projector'
+    uni: 1f4fd_fe0f
+clapper_board:
+    emo: 🎬
+    name: 'clapper board'
+    uni: 1f3ac
+television:
+    emo: 📺
+    name: television
+    uni: 1f4fa
+camera:
+    emo: 📷
+    name: camera
+    uni: 1f4f7
+camera_with_flash:
+    emo: 📸
+    name: 'camera with flash'
+    uni: 1f4f8
+video_camera:
+    emo: 📹
+    name: 'video camera'
+    uni: 1f4f9
+videocassette:
+    emo: 📼
+    name: videocassette
+    uni: 1f4fc
+magnifying_glass_tilted_left:
+    emo: 🔍
+    name: 'magnifying glass tilted left'
+    uni: 1f50d
+magnifying_glass_tilted_right:
+    emo: 🔎
+    name: 'magnifying glass tilted right'
+    uni: 1f50e
+candle:
+    emo: 🕯️
+    name: candle
+    uni: 1f56f_fe0f
+light_bulb:
+    emo: 💡
+    name: 'light bulb'
+    uni: 1f4a1
+flashlight:
+    emo: 🔦
+    name: flashlight
+    uni: 1f526
+red_paper_lantern:
+    emo: 🏮
+    name: 'red paper lantern'
+    uni: 1f3ee
+diya_lamp:
+    emo: 🪔
+    name: 'diya lamp'
+    uni: 1fa94
+notebook_with_decorative_cover:
+    emo: 📔
+    name: 'notebook with decorative cover'
+    uni: 1f4d4
+closed_book:
+    emo: 📕
+    name: 'closed book'
+    uni: 1f4d5
+open_book:
+    emo: 📖
+    name: 'open book'
+    uni: 1f4d6
+green_book:
+    emo: 📗
+    name: 'green book'
+    uni: 1f4d7
+blue_book:
+    emo: 📘
+    name: 'blue book'
+    uni: 1f4d8
+orange_book:
+    emo: 📙
+    name: 'orange book'
+    uni: 1f4d9
+books:
+    emo: 📚
+    name: books
+    uni: 1f4da
+notebook:
+    emo: 📓
+    name: notebook
+    uni: 1f4d3
+ledger:
+    emo: 📒
+    name: ledger
+    uni: 1f4d2
+page_with_curl:
+    emo: 📃
+    name: 'page with curl'
+    uni: 1f4c3
+scroll:
+    emo: 📜
+    name: scroll
+    uni: 1f4dc
+page_facing_up:
+    emo: 📄
+    name: 'page facing up'
+    uni: 1f4c4
+newspaper:
+    emo: 📰
+    name: newspaper
+    uni: 1f4f0
+rolled_up_newspaper:
+    emo: 🗞️
+    name: 'rolled-up newspaper'
+    uni: 1f5de_fe0f
+bookmark_tabs:
+    emo: 📑
+    name: 'bookmark tabs'
+    uni: 1f4d1
+bookmark:
+    emo: 🔖
+    name: bookmark
+    uni: 1f516
+label:
+    emo: 🏷️
+    name: label
+    uni: 1f3f7_fe0f
+coin:
+    emo: 🪙
+    name: coin
+    uni: 1fa99
+money_bag:
+    emo: 💰
+    name: 'money bag'
+    uni: 1f4b0
+treasure_chest:
+    emo: 🪎
+    name: 'treasure chest'
+    uni: 1fa8e
+yen_banknote:
+    emo: 💴
+    name: 'yen banknote'
+    uni: 1f4b4
+dollar_banknote:
+    emo: 💵
+    name: 'dollar banknote'
+    uni: 1f4b5
+euro_banknote:
+    emo: 💶
+    name: 'euro banknote'
+    uni: 1f4b6
+pound_banknote:
+    emo: 💷
+    name: 'pound banknote'
+    uni: 1f4b7
+money_with_wings:
+    emo: 💸
+    name: 'money with wings'
+    uni: 1f4b8
+credit_card:
+    emo: 💳
+    name: 'credit card'
+    uni: 1f4b3
+receipt:
+    emo: 🧾
+    name: receipt
+    uni: 1f9fe
+chart_increasing_with_yen:
+    emo: 💹
+    name: 'chart increasing with yen'
+    uni: 1f4b9
+envelope:
+    emo: ✉️
+    name: envelope
+    uni: 2709_fe0f
+e_mail:
+    emo: 📧
+    name: e-mail
+    uni: 1f4e7
+incoming_envelope:
+    emo: 📨
+    name: 'incoming envelope'
+    uni: 1f4e8
+envelope_with_arrow:
+    emo: 📩
+    name: 'envelope with arrow'
+    uni: 1f4e9
+outbox_tray:
+    emo: 📤
+    name: 'outbox tray'
+    uni: 1f4e4
+inbox_tray:
+    emo: 📥
+    name: 'inbox tray'
+    uni: 1f4e5
+package:
+    emo: 📦
+    name: package
+    uni: 1f4e6
+closed_mailbox_with_raised_flag:
+    emo: 📫
+    name: 'closed mailbox with raised flag'
+    uni: 1f4eb
+closed_mailbox_with_lowered_flag:
+    emo: 📪
+    name: 'closed mailbox with lowered flag'
+    uni: 1f4ea
+open_mailbox_with_raised_flag:
+    emo: 📬
+    name: 'open mailbox with raised flag'
+    uni: 1f4ec
+open_mailbox_with_lowered_flag:
+    emo: 📭
+    name: 'open mailbox with lowered flag'
+    uni: 1f4ed
+postbox:
+    emo: 📮
+    name: postbox
+    uni: 1f4ee
+ballot_box_with_ballot:
+    emo: 🗳️
+    name: 'ballot box with ballot'
+    uni: 1f5f3_fe0f
+pencil:
+    emo: ✏️
+    name: pencil
+    uni: 270f_fe0f
+black_nib:
+    emo: ✒️
+    name: 'black nib'
+    uni: 2712_fe0f
+fountain_pen:
+    emo: 🖋️
+    name: 'fountain pen'
+    uni: 1f58b_fe0f
+pen:
+    emo: 🖊️
+    name: pen
+    uni: 1f58a_fe0f
+paintbrush:
+    emo: 🖌️
+    name: paintbrush
+    uni: 1f58c_fe0f
+crayon:
+    emo: 🖍️
+    name: crayon
+    uni: 1f58d_fe0f
+memo:
+    emo: 📝
+    name: memo
+    uni: 1f4dd
+briefcase:
+    emo: 💼
+    name: briefcase
+    uni: 1f4bc
+file_folder:
+    emo: 📁
+    name: 'file folder'
+    uni: 1f4c1
+open_file_folder:
+    emo: 📂
+    name: 'open file folder'
+    uni: 1f4c2
+card_index_dividers:
+    emo: 🗂️
+    name: 'card index dividers'
+    uni: 1f5c2_fe0f
+calendar:
+    emo: 📅
+    name: calendar
+    uni: 1f4c5
+tear_off_calendar:
+    emo: 📆
+    name: 'tear-off calendar'
+    uni: 1f4c6
+spiral_notepad:
+    emo: 🗒️
+    name: 'spiral notepad'
+    uni: 1f5d2_fe0f
+spiral_calendar:
+    emo: 🗓️
+    name: 'spiral calendar'
+    uni: 1f5d3_fe0f
+card_index:
+    emo: 📇
+    name: 'card index'
+    uni: 1f4c7
+chart_increasing:
+    emo: 📈
+    name: 'chart increasing'
+    uni: 1f4c8
+chart_decreasing:
+    emo: 📉
+    name: 'chart decreasing'
+    uni: 1f4c9
+bar_chart:
+    emo: 📊
+    name: 'bar chart'
+    uni: 1f4ca
+clipboard:
+    emo: 📋
+    name: clipboard
+    uni: 1f4cb
+pushpin:
+    emo: 📌
+    name: pushpin
+    uni: 1f4cc
+round_pushpin:
+    emo: 📍
+    name: 'round pushpin'
+    uni: 1f4cd
+paperclip:
+    emo: 📎
+    name: paperclip
+    uni: 1f4ce
+linked_paperclips:
+    emo: 🖇️
+    name: 'linked paperclips'
+    uni: 1f587_fe0f
+straight_ruler:
+    emo: 📏
+    name: 'straight ruler'
+    uni: 1f4cf
+triangular_ruler:
+    emo: 📐
+    name: 'triangular ruler'
+    uni: 1f4d0
+scissors:
+    emo: ✂️
+    name: scissors
+    uni: 2702_fe0f
+card_file_box:
+    emo: 🗃️
+    name: 'card file box'
+    uni: 1f5c3_fe0f
+file_cabinet:
+    emo: 🗄️
+    name: 'file cabinet'
+    uni: 1f5c4_fe0f
+wastebasket:
+    emo: 🗑️
+    name: wastebasket
+    uni: 1f5d1_fe0f
+locked:
+    emo: 🔒
+    name: locked
+    uni: 1f512
+unlocked:
+    emo: 🔓
+    name: unlocked
+    uni: 1f513
+locked_with_pen:
+    emo: 🔏
+    name: 'locked with pen'
+    uni: 1f50f
+locked_with_key:
+    emo: 🔐
+    name: 'locked with key'
+    uni: 1f510
+key:
+    emo: 🔑
+    name: key
+    uni: 1f511
+old_key:
+    emo: 🗝️
+    name: 'old key'
+    uni: 1f5dd_fe0f
+hammer:
+    emo: 🔨
+    name: hammer
+    uni: 1f528
+axe:
+    emo: 🪓
+    name: axe
+    uni: 1fa93
+pick:
+    emo: ⛏️
+    name: pick
+    uni: 26cf_fe0f
+hammer_and_pick:
+    emo: ⚒️
+    name: 'hammer and pick'
+    uni: 2692_fe0f
+hammer_and_wrench:
+    emo: 🛠️
+    name: 'hammer and wrench'
+    uni: 1f6e0_fe0f
+dagger:
+    emo: 🗡️
+    name: dagger
+    uni: 1f5e1_fe0f
+crossed_swords:
+    emo: ⚔️
+    name: 'crossed swords'
+    uni: 2694_fe0f
+bomb:
+    emo: 💣
+    name: bomb
+    uni: 1f4a3
+boomerang:
+    emo: 🪃
+    name: boomerang
+    uni: 1fa83
+bow_and_arrow:
+    emo: 🏹
+    name: 'bow and arrow'
+    uni: 1f3f9
+shield:
+    emo: 🛡️
+    name: shield
+    uni: 1f6e1_fe0f
+carpentry_saw:
+    emo: 🪚
+    name: 'carpentry saw'
+    uni: 1fa9a
+wrench:
+    emo: 🔧
+    name: wrench
+    uni: 1f527
+screwdriver:
+    emo: 🪛
+    name: screwdriver
+    uni: 1fa9b
+nut_and_bolt:
+    emo: 🔩
+    name: 'nut and bolt'
+    uni: 1f529
+gear:
+    emo: ⚙️
+    name: gear
+    uni: 2699_fe0f
+clamp:
+    emo: 🗜️
+    name: clamp
+    uni: 1f5dc_fe0f
+balance_scale:
+    emo: ⚖️
+    name: 'balance scale'
+    uni: 2696_fe0f
+white_cane:
+    emo: 🦯
+    name: 'white cane'
+    uni: 1f9af
+link:
+    emo: 🔗
+    name: link
+    uni: 1f517
+broken_chain:
+    emo: ⛓️‍💥
+    name: 'broken chain'
+    uni: 26d3_fe0f_200d_1f4a5
+chains:
+    emo: ⛓️
+    name: chains
+    uni: 26d3_fe0f
+hook:
+    emo: 🪝
+    name: hook
+    uni: 1fa9d
+toolbox:
+    emo: 🧰
+    name: toolbox
+    uni: 1f9f0
+magnet:
+    emo: 🧲
+    name: magnet
+    uni: 1f9f2
+ladder:
+    emo: 🪜
+    name: ladder
+    uni: 1fa9c
+shovel:
+    emo: 🪏
+    name: shovel
+    uni: 1fa8f
+alembic:
+    emo: ⚗️
+    name: alembic
+    uni: 2697_fe0f
+test_tube:
+    emo: 🧪
+    name: 'test tube'
+    uni: 1f9ea
+petri_dish:
+    emo: 🧫
+    name: 'petri dish'
+    uni: 1f9eb
+dna:
+    emo: 🧬
+    name: dna
+    uni: 1f9ec
+microscope:
+    emo: 🔬
+    name: microscope
+    uni: 1f52c
+telescope:
+    emo: 🔭
+    name: telescope
+    uni: 1f52d
+satellite_antenna:
+    emo: 📡
+    name: 'satellite antenna'
+    uni: 1f4e1
+syringe:
+    emo: 💉
+    name: syringe
+    uni: 1f489
+drop_of_blood:
+    emo: 🩸
+    name: 'drop of blood'
+    uni: 1fa78
+pill:
+    emo: 💊
+    name: pill
+    uni: 1f48a
+adhesive_bandage:
+    emo: 🩹
+    name: 'adhesive bandage'
+    uni: 1fa79
+crutch:
+    emo: 🩼
+    name: crutch
+    uni: 1fa7c
+stethoscope:
+    emo: 🩺
+    name: stethoscope
+    uni: 1fa7a
+x_ray:
+    emo: 🩻
+    name: x-ray
+    uni: 1fa7b
+door:
+    emo: 🚪
+    name: door
+    uni: 1f6aa
+elevator:
+    emo: 🛗
+    name: elevator
+    uni: 1f6d7
+mirror:
+    emo: 🪞
+    name: mirror
+    uni: 1fa9e
+window:
+    emo: 🪟
+    name: window
+    uni: 1fa9f
+bed:
+    emo: 🛏️
+    name: bed
+    uni: 1f6cf_fe0f
+couch_and_lamp:
+    emo: 🛋️
+    name: 'couch and lamp'
+    uni: 1f6cb_fe0f
+chair:
+    emo: 🪑
+    name: chair
+    uni: 1fa91
+toilet:
+    emo: 🚽
+    name: toilet
+    uni: 1f6bd
+plunger:
+    emo: 🪠
+    name: plunger
+    uni: 1faa0
+shower:
+    emo: 🚿
+    name: shower
+    uni: 1f6bf
+bathtub:
+    emo: 🛁
+    name: bathtub
+    uni: 1f6c1
+mouse_trap:
+    emo: 🪤
+    name: 'mouse trap'
+    uni: 1faa4
+razor:
+    emo: 🪒
+    name: razor
+    uni: 1fa92
+lotion_bottle:
+    emo: 🧴
+    name: 'lotion bottle'
+    uni: 1f9f4
+safety_pin:
+    emo: 🧷
+    name: 'safety pin'
+    uni: 1f9f7
+broom:
+    emo: 🧹
+    name: broom
+    uni: 1f9f9
+basket:
+    emo: 🧺
+    name: basket
+    uni: 1f9fa
+roll_of_paper:
+    emo: 🧻
+    name: 'roll of paper'
+    uni: 1f9fb
+bucket:
+    emo: 🪣
+    name: bucket
+    uni: 1faa3
+soap:
+    emo: 🧼
+    name: soap
+    uni: 1f9fc
+bubbles:
+    emo: 🫧
+    name: bubbles
+    uni: 1fae7
+toothbrush:
+    emo: 🪥
+    name: toothbrush
+    uni: 1faa5
+sponge:
+    emo: 🧽
+    name: sponge
+    uni: 1f9fd
+fire_extinguisher:
+    emo: 🧯
+    name: 'fire extinguisher'
+    uni: 1f9ef
+shopping_cart:
+    emo: 🛒
+    name: 'shopping cart'
+    uni: 1f6d2
+cigarette:
+    emo: 🚬
+    name: cigarette
+    uni: 1f6ac
+coffin:
+    emo: ⚰️
+    name: coffin
+    uni: 26b0_fe0f
+headstone:
+    emo: 🪦
+    name: headstone
+    uni: 1faa6
+funeral_urn:
+    emo: ⚱️
+    name: 'funeral urn'
+    uni: 26b1_fe0f
+nazar_amulet:
+    emo: 🧿
+    name: 'nazar amulet'
+    uni: 1f9ff
+hamsa:
+    emo: 🪬
+    name: hamsa
+    uni: 1faac
+moai:
+    emo: 🗿
+    name: moai
+    uni: 1f5ff
+placard:
+    emo: 🪧
+    name: placard
+    uni: 1faa7
+identification_card:
+    emo: 🪪
+    name: 'identification card'
+    uni: 1faaa
+atm_sign:
+    emo: 🏧
+    name: 'ATM sign'
+    uni: 1f3e7
+litter_in_bin_sign:
+    emo: 🚮
+    name: 'litter in bin sign'
+    uni: 1f6ae
+potable_water:
+    emo: 🚰
+    name: 'potable water'
+    uni: 1f6b0
+wheelchair_symbol:
+    emo: ♿
+    name: 'wheelchair symbol'
+    uni: 267f
+men_s_room:
+    emo: 🚹
+    name: 'men’s room'
+    uni: 1f6b9
+women_s_room:
+    emo: 🚺
+    name: 'women’s room'
+    uni: 1f6ba
+restroom:
+    emo: 🚻
+    name: restroom
+    uni: 1f6bb
+baby_symbol:
+    emo: 🚼
+    name: 'baby symbol'
+    uni: 1f6bc
+water_closet:
+    emo: 🚾
+    name: 'water closet'
+    uni: 1f6be
+passport_control:
+    emo: 🛂
+    name: 'passport control'
+    uni: 1f6c2
+customs:
+    emo: 🛃
+    name: customs
+    uni: 1f6c3
+baggage_claim:
+    emo: 🛄
+    name: 'baggage claim'
+    uni: 1f6c4
+left_luggage:
+    emo: 🛅
+    name: 'left luggage'
+    uni: 1f6c5
+warning:
+    emo: ⚠️
+    name: warning
+    uni: 26a0_fe0f
+children_crossing:
+    emo: 🚸
+    name: 'children crossing'
+    uni: 1f6b8
+no_entry:
+    emo: ⛔
+    name: 'no entry'
+    uni: 26d4
+prohibited:
+    emo: 🚫
+    name: prohibited
+    uni: 1f6ab
+no_bicycles:
+    emo: 🚳
+    name: 'no bicycles'
+    uni: 1f6b3
+no_smoking:
+    emo: 🚭
+    name: 'no smoking'
+    uni: 1f6ad
+no_littering:
+    emo: 🚯
+    name: 'no littering'
+    uni: 1f6af
+non_potable_water:
+    emo: 🚱
+    name: 'non-potable water'
+    uni: 1f6b1
+no_pedestrians:
+    emo: 🚷
+    name: 'no pedestrians'
+    uni: 1f6b7
+no_mobile_phones:
+    emo: 📵
+    name: 'no mobile phones'
+    uni: 1f4f5
+no_one_under_eighteen:
+    emo: 🔞
+    name: 'no one under eighteen'
+    uni: 1f51e
+radioactive:
+    emo: ☢️
+    name: radioactive
+    uni: 2622_fe0f
+biohazard:
+    emo: ☣️
+    name: biohazard
+    uni: 2623_fe0f
+up_arrow:
+    emo: ⬆️
+    name: 'up arrow'
+    uni: 2b06_fe0f
+up_right_arrow:
+    emo: ↗️
+    name: 'up-right arrow'
+    uni: 2197_fe0f
+right_arrow:
+    emo: ➡️
+    name: 'right arrow'
+    uni: 27a1_fe0f
+down_right_arrow:
+    emo: ↘️
+    name: 'down-right arrow'
+    uni: 2198_fe0f
+down_arrow:
+    emo: ⬇️
+    name: 'down arrow'
+    uni: 2b07_fe0f
+down_left_arrow:
+    emo: ↙️
+    name: 'down-left arrow'
+    uni: 2199_fe0f
+left_arrow:
+    emo: ⬅️
+    name: 'left arrow'
+    uni: 2b05_fe0f
+up_left_arrow:
+    emo: ↖️
+    name: 'up-left arrow'
+    uni: 2196_fe0f
+up_down_arrow:
+    emo: ↕️
+    name: 'up-down arrow'
+    uni: 2195_fe0f
+left_right_arrow:
+    emo: ↔️
+    name: 'left-right arrow'
+    uni: 2194_fe0f
+right_arrow_curving_left:
+    emo: ↩️
+    name: 'right arrow curving left'
+    uni: 21a9_fe0f
+left_arrow_curving_right:
+    emo: ↪️
+    name: 'left arrow curving right'
+    uni: 21aa_fe0f
+right_arrow_curving_up:
+    emo: ⤴️
+    name: 'right arrow curving up'
+    uni: 2934_fe0f
+right_arrow_curving_down:
+    emo: ⤵️
+    name: 'right arrow curving down'
+    uni: 2935_fe0f
+clockwise_vertical_arrows:
+    emo: 🔃
+    name: 'clockwise vertical arrows'
+    uni: 1f503
+counterclockwise_arrows_button:
+    emo: 🔄
+    name: 'counterclockwise arrows button'
+    uni: 1f504
+back_arrow:
+    emo: 🔙
+    name: 'BACK arrow'
+    uni: 1f519
+end_arrow:
+    emo: 🔚
+    name: 'END arrow'
+    uni: 1f51a
+on_arrow:
+    emo: 🔛
+    name: 'ON! arrow'
+    uni: 1f51b
+soon_arrow:
+    emo: 🔜
+    name: 'SOON arrow'
+    uni: 1f51c
+top_arrow:
+    emo: 🔝
+    name: 'TOP arrow'
+    uni: 1f51d
+place_of_worship:
+    emo: 🛐
+    name: 'place of worship'
+    uni: 1f6d0
+atom_symbol:
+    emo: ⚛️
+    name: 'atom symbol'
+    uni: 269b_fe0f
+om:
+    emo: 🕉️
+    name: om
+    uni: 1f549_fe0f
+star_of_david:
+    emo: ✡️
+    name: 'star of David'
+    uni: 2721_fe0f
+wheel_of_dharma:
+    emo: ☸️
+    name: 'wheel of dharma'
+    uni: 2638_fe0f
+yin_yang:
+    emo: ☯️
+    name: 'yin yang'
+    uni: 262f_fe0f
+latin_cross:
+    emo: ✝️
+    name: 'latin cross'
+    uni: 271d_fe0f
+orthodox_cross:
+    emo: ☦️
+    name: 'orthodox cross'
+    uni: 2626_fe0f
+star_and_crescent:
+    emo: ☪️
+    name: 'star and crescent'
+    uni: 262a_fe0f
+peace_symbol:
+    emo: ☮️
+    name: 'peace symbol'
+    uni: 262e_fe0f
+menorah:
+    emo: 🕎
+    name: menorah
+    uni: 1f54e
+dotted_six_pointed_star:
+    emo: 🔯
+    name: 'dotted six-pointed star'
+    uni: 1f52f
+khanda:
+    emo: 🪯
+    name: khanda
+    uni: 1faaf
+aries:
+    emo: ♈
+    name: Aries
+    uni: '2648'
+taurus:
+    emo: ♉
+    name: Taurus
+    uni: '2649'
+gemini:
+    emo: ♊
+    name: Gemini
+    uni: 264a
+cancer:
+    emo: ♋
+    name: Cancer
+    uni: 264b
+leo:
+    emo: ♌
+    name: Leo
+    uni: 264c
+virgo:
+    emo: ♍
+    name: Virgo
+    uni: 264d
+libra:
+    emo: ♎
+    name: Libra
+    uni: 264e
+scorpio:
+    emo: ♏
+    name: Scorpio
+    uni: 264f
+sagittarius:
+    emo: ♐
+    name: Sagittarius
+    uni: '2650'
+capricorn:
+    emo: ♑
+    name: Capricorn
+    uni: '2651'
+aquarius:
+    emo: ♒
+    name: Aquarius
+    uni: '2652'
+pisces:
+    emo: ♓
+    name: Pisces
+    uni: '2653'
+ophiuchus:
+    emo: ⛎
+    name: Ophiuchus
+    uni: 26ce
+shuffle_tracks_button:
+    emo: 🔀
+    name: 'shuffle tracks button'
+    uni: 1f500
+repeat_button:
+    emo: 🔁
+    name: 'repeat button'
+    uni: 1f501
+repeat_single_button:
+    emo: 🔂
+    name: 'repeat single button'
+    uni: 1f502
+play_button:
+    emo: ▶️
+    name: 'play button'
+    uni: 25b6_fe0f
+fast_forward_button:
+    emo: ⏩
+    name: 'fast-forward button'
+    uni: '23e9'
+next_track_button:
+    emo: ⏭️
+    name: 'next track button'
+    uni: 23ed_fe0f
+play_or_pause_button:
+    emo: ⏯️
+    name: 'play or pause button'
+    uni: 23ef_fe0f
+reverse_button:
+    emo: ◀️
+    name: 'reverse button'
+    uni: 25c0_fe0f
+fast_reverse_button:
+    emo: ⏪
+    name: 'fast reverse button'
+    uni: 23ea
+last_track_button:
+    emo: ⏮️
+    name: 'last track button'
+    uni: 23ee_fe0f
+upwards_button:
+    emo: 🔼
+    name: 'upwards button'
+    uni: 1f53c
+fast_up_button:
+    emo: ⏫
+    name: 'fast up button'
+    uni: 23eb
+downwards_button:
+    emo: 🔽
+    name: 'downwards button'
+    uni: 1f53d
+fast_down_button:
+    emo: ⏬
+    name: 'fast down button'
+    uni: 23ec
+pause_button:
+    emo: ⏸️
+    name: 'pause button'
+    uni: 23f8_fe0f
+stop_button:
+    emo: ⏹️
+    name: 'stop button'
+    uni: 23f9_fe0f
+record_button:
+    emo: ⏺️
+    name: 'record button'
+    uni: 23fa_fe0f
+eject_button:
+    emo: ⏏️
+    name: 'eject button'
+    uni: 23cf_fe0f
+cinema:
+    emo: 🎦
+    name: cinema
+    uni: 1f3a6
+dim_button:
+    emo: 🔅
+    name: 'dim button'
+    uni: 1f505
+bright_button:
+    emo: 🔆
+    name: 'bright button'
+    uni: 1f506
+antenna_bars:
+    emo: 📶
+    name: 'antenna bars'
+    uni: 1f4f6
+wireless:
+    emo: 🛜
+    name: wireless
+    uni: 1f6dc
+vibration_mode:
+    emo: 📳
+    name: 'vibration mode'
+    uni: 1f4f3
+mobile_phone_off:
+    emo: 📴
+    name: 'mobile phone off'
+    uni: 1f4f4
+female_sign:
+    emo: ♀️
+    name: 'female sign'
+    uni: 2640_fe0f
+male_sign:
+    emo: ♂️
+    name: 'male sign'
+    uni: 2642_fe0f
+transgender_symbol:
+    emo: ⚧️
+    name: 'transgender symbol'
+    uni: 26a7_fe0f
+multiply:
+    emo: ✖️
+    name: multiply
+    uni: 2716_fe0f
+plus:
+    emo: ➕
+    name: plus
+    uni: '2795'
+minus:
+    emo: ➖
+    name: minus
+    uni: '2796'
+divide:
+    emo: ➗
+    name: divide
+    uni: '2797'
+heavy_equals_sign:
+    emo: 🟰
+    name: 'heavy equals sign'
+    uni: 1f7f0
+infinity:
+    emo: ♾️
+    name: infinity
+    uni: 267e_fe0f
+double_exclamation_mark:
+    emo: ‼️
+    name: 'double exclamation mark'
+    uni: 203c_fe0f
+exclamation_question_mark:
+    emo: ⁉️
+    name: 'exclamation question mark'
+    uni: 2049_fe0f
+red_question_mark:
+    emo: ❓
+    name: 'red question mark'
+    uni: '2753'
+white_question_mark:
+    emo: ❔
+    name: 'white question mark'
+    uni: '2754'
+white_exclamation_mark:
+    emo: ❕
+    name: 'white exclamation mark'
+    uni: '2755'
+red_exclamation_mark:
+    emo: ❗
+    name: 'red exclamation mark'
+    uni: '2757'
+wavy_dash:
+    emo: 〰️
+    name: 'wavy dash'
+    uni: 3030_fe0f
+currency_exchange:
+    emo: 💱
+    name: 'currency exchange'
+    uni: 1f4b1
+heavy_dollar_sign:
+    emo: 💲
+    name: 'heavy dollar sign'
+    uni: 1f4b2
+medical_symbol:
+    emo: ⚕️
+    name: 'medical symbol'
+    uni: 2695_fe0f
+recycling_symbol:
+    emo: ♻️
+    name: 'recycling symbol'
+    uni: 267b_fe0f
+fleur_de_lis:
+    emo: ⚜️
+    name: fleur-de-lis
+    uni: 269c_fe0f
+trident_emblem:
+    emo: 🔱
+    name: 'trident emblem'
+    uni: 1f531
+name_badge:
+    emo: 📛
+    name: 'name badge'
+    uni: 1f4db
+japanese_symbol_for_beginner:
+    emo: 🔰
+    name: 'Japanese symbol for beginner'
+    uni: 1f530
+hollow_red_circle:
+    emo: ⭕
+    name: 'hollow red circle'
+    uni: 2b55
+check_mark_button:
+    emo: ✅
+    name: 'check mark button'
+    uni: '2705'
+check_box_with_check:
+    emo: ☑️
+    name: 'check box with check'
+    uni: 2611_fe0f
+check_mark:
+    emo: ✔️
+    name: 'check mark'
+    uni: 2714_fe0f
+cross_mark:
+    emo: ❌
+    name: 'cross mark'
+    uni: 274c
+cross_mark_button:
+    emo: ❎
+    name: 'cross mark button'
+    uni: 274e
+curly_loop:
+    emo: ➰
+    name: 'curly loop'
+    uni: 27b0
+double_curly_loop:
+    emo: ➿
+    name: 'double curly loop'
+    uni: 27bf
+part_alternation_mark:
+    emo: 〽️
+    name: 'part alternation mark'
+    uni: 303d_fe0f
+eight_spoked_asterisk:
+    emo: ✳️
+    name: 'eight-spoked asterisk'
+    uni: 2733_fe0f
+eight_pointed_star:
+    emo: ✴️
+    name: 'eight-pointed star'
+    uni: 2734_fe0f
+sparkle:
+    emo: ❇️
+    name: sparkle
+    uni: 2747_fe0f
+copyright:
+    emo: ©️
+    name: copyright
+    uni: 00a9_fe0f
+registered:
+    emo: ®️
+    name: registered
+    uni: 00ae_fe0f
+trade_mark:
+    emo: ™️
+    name: 'trade mark'
+    uni: 2122_fe0f
+splatter:
+    emo: 🫟
+    name: splatter
+    uni: 1fadf
+keycap_:
+    emo: '*️⃣'
+    name: 'keycap: *'
+    uni: 002a_fe0f_20e3
+keycap_0:
+    emo: 0️⃣
+    name: 'keycap: 0'
+    uni: 0030_fe0f_20e3
+keycap_1:
+    emo: 1️⃣
+    name: 'keycap: 1'
+    uni: 0031_fe0f_20e3
+keycap_2:
+    emo: 2️⃣
+    name: 'keycap: 2'
+    uni: 0032_fe0f_20e3
+keycap_3:
+    emo: 3️⃣
+    name: 'keycap: 3'
+    uni: 0033_fe0f_20e3
+keycap_4:
+    emo: 4️⃣
+    name: 'keycap: 4'
+    uni: 0034_fe0f_20e3
+keycap_5:
+    emo: 5️⃣
+    name: 'keycap: 5'
+    uni: 0035_fe0f_20e3
+keycap_6:
+    emo: 6️⃣
+    name: 'keycap: 6'
+    uni: 0036_fe0f_20e3
+keycap_7:
+    emo: 7️⃣
+    name: 'keycap: 7'
+    uni: 0037_fe0f_20e3
+keycap_8:
+    emo: 8️⃣
+    name: 'keycap: 8'
+    uni: 0038_fe0f_20e3
+keycap_9:
+    emo: 9️⃣
+    name: 'keycap: 9'
+    uni: 0039_fe0f_20e3
+keycap_10:
+    emo: 🔟
+    name: 'keycap: 10'
+    uni: 1f51f
+input_latin_uppercase:
+    emo: 🔠
+    name: 'input latin uppercase'
+    uni: 1f520
+input_latin_lowercase:
+    emo: 🔡
+    name: 'input latin lowercase'
+    uni: 1f521
+input_numbers:
+    emo: 🔢
+    name: 'input numbers'
+    uni: 1f522
+input_symbols:
+    emo: 🔣
+    name: 'input symbols'
+    uni: 1f523
+input_latin_letters:
+    emo: 🔤
+    name: 'input latin letters'
+    uni: 1f524
+a_button_blood_type_:
+    emo: 🅰️
+    name: 'A button (blood type)'
+    uni: 1f170_fe0f
+ab_button_blood_type_:
+    emo: 🆎
+    name: 'AB button (blood type)'
+    uni: 1f18e
+b_button_blood_type_:
+    emo: 🅱️
+    name: 'B button (blood type)'
+    uni: 1f171_fe0f
+cl_button:
+    emo: 🆑
+    name: 'CL button'
+    uni: 1f191
+cool_button:
+    emo: 🆒
+    name: 'COOL button'
+    uni: 1f192
+free_button:
+    emo: 🆓
+    name: 'FREE button'
+    uni: 1f193
+information:
+    emo: ℹ️
+    name: information
+    uni: 2139_fe0f
+id_button:
+    emo: 🆔
+    name: 'ID button'
+    uni: 1f194
+circled_m:
+    emo: Ⓜ️
+    name: 'circled M'
+    uni: 24c2_fe0f
+new_button:
+    emo: 🆕
+    name: 'NEW button'
+    uni: 1f195
+ng_button:
+    emo: 🆖
+    name: 'NG button'
+    uni: 1f196
+o_button_blood_type_:
+    emo: 🅾️
+    name: 'O button (blood type)'
+    uni: 1f17e_fe0f
+ok_button:
+    emo: 🆗
+    name: 'OK button'
+    uni: 1f197
+p_button:
+    emo: 🅿️
+    name: 'P button'
+    uni: 1f17f_fe0f
+sos_button:
+    emo: 🆘
+    name: 'SOS button'
+    uni: 1f198
+up_button:
+    emo: 🆙
+    name: 'UP! button'
+    uni: 1f199
+vs_button:
+    emo: 🆚
+    name: 'VS button'
+    uni: 1f19a
+japanese_here_button:
+    emo: 🈁
+    name: 'Japanese “here” button'
+    uni: 1f201
+japanese_service_charge_button:
+    emo: 🈂️
+    name: 'Japanese “service charge” button'
+    uni: 1f202_fe0f
+japanese_monthly_amount_button:
+    emo: 🈷️
+    name: 'Japanese “monthly amount” button'
+    uni: 1f237_fe0f
+japanese_not_free_of_charge_button:
+    emo: 🈶
+    name: 'Japanese “not free of charge” button'
+    uni: 1f236
+japanese_reserved_button:
+    emo: 🈯
+    name: 'Japanese “reserved” button'
+    uni: 1f22f
+japanese_bargain_button:
+    emo: 🉐
+    name: 'Japanese “bargain” button'
+    uni: 1f250
+japanese_discount_button:
+    emo: 🈹
+    name: 'Japanese “discount” button'
+    uni: 1f239
+japanese_free_of_charge_button:
+    emo: 🈚
+    name: 'Japanese “free of charge” button'
+    uni: 1f21a
+japanese_prohibited_button:
+    emo: 🈲
+    name: 'Japanese “prohibited” button'
+    uni: 1f232
+japanese_acceptable_button:
+    emo: 🉑
+    name: 'Japanese “acceptable” button'
+    uni: 1f251
+japanese_application_button:
+    emo: 🈸
+    name: 'Japanese “application” button'
+    uni: 1f238
+japanese_passing_grade_button:
+    emo: 🈴
+    name: 'Japanese “passing grade” button'
+    uni: 1f234
+japanese_vacancy_button:
+    emo: 🈳
+    name: 'Japanese “vacancy” button'
+    uni: 1f233
+japanese_congratulations_button:
+    emo: ㊗️
+    name: 'Japanese “congratulations” button'
+    uni: 3297_fe0f
+japanese_secret_button:
+    emo: ㊙️
+    name: 'Japanese “secret” button'
+    uni: 3299_fe0f
+japanese_open_for_business_button:
+    emo: 🈺
+    name: 'Japanese “open for business” button'
+    uni: 1f23a
+japanese_no_vacancy_button:
+    emo: 🈵
+    name: 'Japanese “no vacancy” button'
+    uni: 1f235
+red_circle:
+    emo: 🔴
+    name: 'red circle'
+    uni: 1f534
+orange_circle:
+    emo: 🟠
+    name: 'orange circle'
+    uni: 1f7e0
+yellow_circle:
+    emo: 🟡
+    name: 'yellow circle'
+    uni: 1f7e1
+green_circle:
+    emo: 🟢
+    name: 'green circle'
+    uni: 1f7e2
+blue_circle:
+    emo: 🔵
+    name: 'blue circle'
+    uni: 1f535
+purple_circle:
+    emo: 🟣
+    name: 'purple circle'
+    uni: 1f7e3
+brown_circle:
+    emo: 🟤
+    name: 'brown circle'
+    uni: 1f7e4
+black_circle:
+    emo: ⚫
+    name: 'black circle'
+    uni: 26ab
+white_circle:
+    emo: ⚪
+    name: 'white circle'
+    uni: 26aa
+red_square:
+    emo: 🟥
+    name: 'red square'
+    uni: 1f7e5
+orange_square:
+    emo: 🟧
+    name: 'orange square'
+    uni: 1f7e7
+yellow_square:
+    emo: 🟨
+    name: 'yellow square'
+    uni: 1f7e8
+green_square:
+    emo: 🟩
+    name: 'green square'
+    uni: 1f7e9
+blue_square:
+    emo: 🟦
+    name: 'blue square'
+    uni: 1f7e6
+purple_square:
+    emo: 🟪
+    name: 'purple square'
+    uni: 1f7ea
+brown_square:
+    emo: 🟫
+    name: 'brown square'
+    uni: 1f7eb
+black_large_square:
+    emo: ⬛
+    name: 'black large square'
+    uni: 2b1b
+white_large_square:
+    emo: ⬜
+    name: 'white large square'
+    uni: 2b1c
+black_medium_square:
+    emo: ◼️
+    name: 'black medium square'
+    uni: 25fc_fe0f
+white_medium_square:
+    emo: ◻️
+    name: 'white medium square'
+    uni: 25fb_fe0f
+black_medium_small_square:
+    emo: ◾
+    name: 'black medium-small square'
+    uni: 25fe
+white_medium_small_square:
+    emo: ◽
+    name: 'white medium-small square'
+    uni: 25fd
+black_small_square:
+    emo: ▪️
+    name: 'black small square'
+    uni: 25aa_fe0f
+white_small_square:
+    emo: ▫️
+    name: 'white small square'
+    uni: 25ab_fe0f
+large_orange_diamond:
+    emo: 🔶
+    name: 'large orange diamond'
+    uni: 1f536
+large_blue_diamond:
+    emo: 🔷
+    name: 'large blue diamond'
+    uni: 1f537
+small_orange_diamond:
+    emo: 🔸
+    name: 'small orange diamond'
+    uni: 1f538
+small_blue_diamond:
+    emo: 🔹
+    name: 'small blue diamond'
+    uni: 1f539
+red_triangle_pointed_up:
+    emo: 🔺
+    name: 'red triangle pointed up'
+    uni: 1f53a
+red_triangle_pointed_down:
+    emo: 🔻
+    name: 'red triangle pointed down'
+    uni: 1f53b
+diamond_with_a_dot:
+    emo: 💠
+    name: 'diamond with a dot'
+    uni: 1f4a0
+radio_button:
+    emo: 🔘
+    name: 'radio button'
+    uni: 1f518
+white_square_button:
+    emo: 🔳
+    name: 'white square button'
+    uni: 1f533
+black_square_button:
+    emo: 🔲
+    name: 'black square button'
+    uni: 1f532
+chequered_flag:
+    emo: 🏁
+    name: 'chequered flag'
+    uni: 1f3c1
+triangular_flag:
+    emo: 🚩
+    name: 'triangular flag'
+    uni: 1f6a9
+crossed_flags:
+    emo: 🎌
+    name: 'crossed flags'
+    uni: 1f38c
+black_flag:
+    emo: 🏴
+    name: 'black flag'
+    uni: 1f3f4
+white_flag:
+    emo: 🏳️
+    name: 'white flag'
+    uni: 1f3f3_fe0f
+rainbow_flag:
+    emo: 🏳️‍🌈
+    name: 'rainbow flag'
+    uni: 1f3f3_fe0f_200d_1f308
+transgender_flag:
+    emo: 🏳️‍⚧️
+    name: 'transgender flag'
+    uni: 1f3f3_fe0f_200d_26a7_fe0f
+pirate_flag:
+    emo: 🏴‍☠️
+    name: 'pirate flag'
+    uni: 1f3f4_200d_2620_fe0f
+flag_ascension_island:
+    emo: 🇦🇨
+    name: 'flag: Ascension Island'
+    uni: 1f1e6_1f1e8
+flag_andorra:
+    emo: 🇦🇩
+    name: 'flag: Andorra'
+    uni: 1f1e6_1f1e9
+flag_united_arab_emirates:
+    emo: 🇦🇪
+    name: 'flag: United Arab Emirates'
+    uni: 1f1e6_1f1ea
+flag_afghanistan:
+    emo: 🇦🇫
+    name: 'flag: Afghanistan'
+    uni: 1f1e6_1f1eb
+flag_antigua_barbuda:
+    emo: 🇦🇬
+    name: 'flag: Antigua & Barbuda'
+    uni: 1f1e6_1f1ec
+flag_anguilla:
+    emo: 🇦🇮
+    name: 'flag: Anguilla'
+    uni: 1f1e6_1f1ee
+flag_albania:
+    emo: 🇦🇱
+    name: 'flag: Albania'
+    uni: 1f1e6_1f1f1
+flag_armenia:
+    emo: 🇦🇲
+    name: 'flag: Armenia'
+    uni: 1f1e6_1f1f2
+flag_angola:
+    emo: 🇦🇴
+    name: 'flag: Angola'
+    uni: 1f1e6_1f1f4
+flag_antarctica:
+    emo: 🇦🇶
+    name: 'flag: Antarctica'
+    uni: 1f1e6_1f1f6
+flag_argentina:
+    emo: 🇦🇷
+    name: 'flag: Argentina'
+    uni: 1f1e6_1f1f7
+flag_american_samoa:
+    emo: 🇦🇸
+    name: 'flag: American Samoa'
+    uni: 1f1e6_1f1f8
+flag_austria:
+    emo: 🇦🇹
+    name: 'flag: Austria'
+    uni: 1f1e6_1f1f9
+flag_australia:
+    emo: 🇦🇺
+    name: 'flag: Australia'
+    uni: 1f1e6_1f1fa
+flag_aruba:
+    emo: 🇦🇼
+    name: 'flag: Aruba'
+    uni: 1f1e6_1f1fc
+flag_land_islands:
+    emo: 🇦🇽
+    name: 'flag: Åland Islands'
+    uni: 1f1e6_1f1fd
+flag_azerbaijan:
+    emo: 🇦🇿
+    name: 'flag: Azerbaijan'
+    uni: 1f1e6_1f1ff
+flag_bosnia_herzegovina:
+    emo: 🇧🇦
+    name: 'flag: Bosnia & Herzegovina'
+    uni: 1f1e7_1f1e6
+flag_barbados:
+    emo: 🇧🇧
+    name: 'flag: Barbados'
+    uni: 1f1e7_1f1e7
+flag_bangladesh:
+    emo: 🇧🇩
+    name: 'flag: Bangladesh'
+    uni: 1f1e7_1f1e9
+flag_belgium:
+    emo: 🇧🇪
+    name: 'flag: Belgium'
+    uni: 1f1e7_1f1ea
+flag_burkina_faso:
+    emo: 🇧🇫
+    name: 'flag: Burkina Faso'
+    uni: 1f1e7_1f1eb
+flag_bulgaria:
+    emo: 🇧🇬
+    name: 'flag: Bulgaria'
+    uni: 1f1e7_1f1ec
+flag_bahrain:
+    emo: 🇧🇭
+    name: 'flag: Bahrain'
+    uni: 1f1e7_1f1ed
+flag_burundi:
+    emo: 🇧🇮
+    name: 'flag: Burundi'
+    uni: 1f1e7_1f1ee
+flag_benin:
+    emo: 🇧🇯
+    name: 'flag: Benin'
+    uni: 1f1e7_1f1ef
+flag_st_barth_lemy:
+    emo: 🇧🇱
+    name: 'flag: St. Barthélemy'
+    uni: 1f1e7_1f1f1
+flag_bermuda:
+    emo: 🇧🇲
+    name: 'flag: Bermuda'
+    uni: 1f1e7_1f1f2
+flag_brunei:
+    emo: 🇧🇳
+    name: 'flag: Brunei'
+    uni: 1f1e7_1f1f3
+flag_bolivia:
+    emo: 🇧🇴
+    name: 'flag: Bolivia'
+    uni: 1f1e7_1f1f4
+flag_caribbean_netherlands:
+    emo: 🇧🇶
+    name: 'flag: Caribbean Netherlands'
+    uni: 1f1e7_1f1f6
+flag_brazil:
+    emo: 🇧🇷
+    name: 'flag: Brazil'
+    uni: 1f1e7_1f1f7
+flag_bahamas:
+    emo: 🇧🇸
+    name: 'flag: Bahamas'
+    uni: 1f1e7_1f1f8
+flag_bhutan:
+    emo: 🇧🇹
+    name: 'flag: Bhutan'
+    uni: 1f1e7_1f1f9
+flag_bouvet_island:
+    emo: 🇧🇻
+    name: 'flag: Bouvet Island'
+    uni: 1f1e7_1f1fb
+flag_botswana:
+    emo: 🇧🇼
+    name: 'flag: Botswana'
+    uni: 1f1e7_1f1fc
+flag_belarus:
+    emo: 🇧🇾
+    name: 'flag: Belarus'
+    uni: 1f1e7_1f1fe
+flag_belize:
+    emo: 🇧🇿
+    name: 'flag: Belize'
+    uni: 1f1e7_1f1ff
+flag_canada:
+    emo: 🇨🇦
+    name: 'flag: Canada'
+    uni: 1f1e8_1f1e6
+flag_cocos_keeling_islands:
+    emo: 🇨🇨
+    name: 'flag: Cocos (Keeling) Islands'
+    uni: 1f1e8_1f1e8
+flag_congo_kinshasa:
+    emo: 🇨🇩
+    name: 'flag: Congo - Kinshasa'
+    uni: 1f1e8_1f1e9
+flag_central_african_republic:
+    emo: 🇨🇫
+    name: 'flag: Central African Republic'
+    uni: 1f1e8_1f1eb
+flag_congo_brazzaville:
+    emo: 🇨🇬
+    name: 'flag: Congo - Brazzaville'
+    uni: 1f1e8_1f1ec
+flag_switzerland:
+    emo: 🇨🇭
+    name: 'flag: Switzerland'
+    uni: 1f1e8_1f1ed
+flag_c_te_d_ivoire:
+    emo: 🇨🇮
+    name: 'flag: Côte d’Ivoire'
+    uni: 1f1e8_1f1ee
+flag_cook_islands:
+    emo: 🇨🇰
+    name: 'flag: Cook Islands'
+    uni: 1f1e8_1f1f0
+flag_chile:
+    emo: 🇨🇱
+    name: 'flag: Chile'
+    uni: 1f1e8_1f1f1
+flag_cameroon:
+    emo: 🇨🇲
+    name: 'flag: Cameroon'
+    uni: 1f1e8_1f1f2
+flag_china:
+    emo: 🇨🇳
+    name: 'flag: China'
+    uni: 1f1e8_1f1f3
+flag_colombia:
+    emo: 🇨🇴
+    name: 'flag: Colombia'
+    uni: 1f1e8_1f1f4
+flag_clipperton_island:
+    emo: 🇨🇵
+    name: 'flag: Clipperton Island'
+    uni: 1f1e8_1f1f5
+flag_sark:
+    emo: 🇨🇶
+    name: 'flag: Sark'
+    uni: 1f1e8_1f1f6
+flag_costa_rica:
+    emo: 🇨🇷
+    name: 'flag: Costa Rica'
+    uni: 1f1e8_1f1f7
+flag_cuba:
+    emo: 🇨🇺
+    name: 'flag: Cuba'
+    uni: 1f1e8_1f1fa
+flag_cape_verde:
+    emo: 🇨🇻
+    name: 'flag: Cape Verde'
+    uni: 1f1e8_1f1fb
+flag_cura_ao:
+    emo: 🇨🇼
+    name: 'flag: Curaçao'
+    uni: 1f1e8_1f1fc
+flag_christmas_island:
+    emo: 🇨🇽
+    name: 'flag: Christmas Island'
+    uni: 1f1e8_1f1fd
+flag_cyprus:
+    emo: 🇨🇾
+    name: 'flag: Cyprus'
+    uni: 1f1e8_1f1fe
+flag_czechia:
+    emo: 🇨🇿
+    name: 'flag: Czechia'
+    uni: 1f1e8_1f1ff
+flag_germany:
+    emo: 🇩🇪
+    name: 'flag: Germany'
+    uni: 1f1e9_1f1ea
+flag_diego_garcia:
+    emo: 🇩🇬
+    name: 'flag: Diego Garcia'
+    uni: 1f1e9_1f1ec
+flag_djibouti:
+    emo: 🇩🇯
+    name: 'flag: Djibouti'
+    uni: 1f1e9_1f1ef
+flag_denmark:
+    emo: 🇩🇰
+    name: 'flag: Denmark'
+    uni: 1f1e9_1f1f0
+flag_dominica:
+    emo: 🇩🇲
+    name: 'flag: Dominica'
+    uni: 1f1e9_1f1f2
+flag_dominican_republic:
+    emo: 🇩🇴
+    name: 'flag: Dominican Republic'
+    uni: 1f1e9_1f1f4
+flag_algeria:
+    emo: 🇩🇿
+    name: 'flag: Algeria'
+    uni: 1f1e9_1f1ff
+flag_ceuta_melilla:
+    emo: 🇪🇦
+    name: 'flag: Ceuta & Melilla'
+    uni: 1f1ea_1f1e6
+flag_ecuador:
+    emo: 🇪🇨
+    name: 'flag: Ecuador'
+    uni: 1f1ea_1f1e8
+flag_estonia:
+    emo: 🇪🇪
+    name: 'flag: Estonia'
+    uni: 1f1ea_1f1ea
+flag_egypt:
+    emo: 🇪🇬
+    name: 'flag: Egypt'
+    uni: 1f1ea_1f1ec
+flag_western_sahara:
+    emo: 🇪🇭
+    name: 'flag: Western Sahara'
+    uni: 1f1ea_1f1ed
+flag_eritrea:
+    emo: 🇪🇷
+    name: 'flag: Eritrea'
+    uni: 1f1ea_1f1f7
+flag_spain:
+    emo: 🇪🇸
+    name: 'flag: Spain'
+    uni: 1f1ea_1f1f8
+flag_ethiopia:
+    emo: 🇪🇹
+    name: 'flag: Ethiopia'
+    uni: 1f1ea_1f1f9
+flag_european_union:
+    emo: 🇪🇺
+    name: 'flag: European Union'
+    uni: 1f1ea_1f1fa
+flag_finland:
+    emo: 🇫🇮
+    name: 'flag: Finland'
+    uni: 1f1eb_1f1ee
+flag_fiji:
+    emo: 🇫🇯
+    name: 'flag: Fiji'
+    uni: 1f1eb_1f1ef
+flag_falkland_islands:
+    emo: 🇫🇰
+    name: 'flag: Falkland Islands'
+    uni: 1f1eb_1f1f0
+flag_micronesia:
+    emo: 🇫🇲
+    name: 'flag: Micronesia'
+    uni: 1f1eb_1f1f2
+flag_faroe_islands:
+    emo: 🇫🇴
+    name: 'flag: Faroe Islands'
+    uni: 1f1eb_1f1f4
+flag_france:
+    emo: 🇫🇷
+    name: 'flag: France'
+    uni: 1f1eb_1f1f7
+flag_gabon:
+    emo: 🇬🇦
+    name: 'flag: Gabon'
+    uni: 1f1ec_1f1e6
+flag_united_kingdom:
+    emo: 🇬🇧
+    name: 'flag: United Kingdom'
+    uni: 1f1ec_1f1e7
+flag_grenada:
+    emo: 🇬🇩
+    name: 'flag: Grenada'
+    uni: 1f1ec_1f1e9
+flag_georgia:
+    emo: 🇬🇪
+    name: 'flag: Georgia'
+    uni: 1f1ec_1f1ea
+flag_french_guiana:
+    emo: 🇬🇫
+    name: 'flag: French Guiana'
+    uni: 1f1ec_1f1eb
+flag_guernsey:
+    emo: 🇬🇬
+    name: 'flag: Guernsey'
+    uni: 1f1ec_1f1ec
+flag_ghana:
+    emo: 🇬🇭
+    name: 'flag: Ghana'
+    uni: 1f1ec_1f1ed
+flag_gibraltar:
+    emo: 🇬🇮
+    name: 'flag: Gibraltar'
+    uni: 1f1ec_1f1ee
+flag_greenland:
+    emo: 🇬🇱
+    name: 'flag: Greenland'
+    uni: 1f1ec_1f1f1
+flag_gambia:
+    emo: 🇬🇲
+    name: 'flag: Gambia'
+    uni: 1f1ec_1f1f2
+flag_guinea:
+    emo: 🇬🇳
+    name: 'flag: Guinea'
+    uni: 1f1ec_1f1f3
+flag_guadeloupe:
+    emo: 🇬🇵
+    name: 'flag: Guadeloupe'
+    uni: 1f1ec_1f1f5
+flag_equatorial_guinea:
+    emo: 🇬🇶
+    name: 'flag: Equatorial Guinea'
+    uni: 1f1ec_1f1f6
+flag_greece:
+    emo: 🇬🇷
+    name: 'flag: Greece'
+    uni: 1f1ec_1f1f7
+flag_south_georgia_south_sandwich_islands:
+    emo: 🇬🇸
+    name: 'flag: South Georgia & South Sandwich Islands'
+    uni: 1f1ec_1f1f8
+flag_guatemala:
+    emo: 🇬🇹
+    name: 'flag: Guatemala'
+    uni: 1f1ec_1f1f9
+flag_guam:
+    emo: 🇬🇺
+    name: 'flag: Guam'
+    uni: 1f1ec_1f1fa
+flag_guinea_bissau:
+    emo: 🇬🇼
+    name: 'flag: Guinea-Bissau'
+    uni: 1f1ec_1f1fc
+flag_guyana:
+    emo: 🇬🇾
+    name: 'flag: Guyana'
+    uni: 1f1ec_1f1fe
+flag_hong_kong_sar_china:
+    emo: 🇭🇰
+    name: 'flag: Hong Kong SAR China'
+    uni: 1f1ed_1f1f0
+flag_heard_mcdonald_islands:
+    emo: 🇭🇲
+    name: 'flag: Heard & McDonald Islands'
+    uni: 1f1ed_1f1f2
+flag_honduras:
+    emo: 🇭🇳
+    name: 'flag: Honduras'
+    uni: 1f1ed_1f1f3
+flag_croatia:
+    emo: 🇭🇷
+    name: 'flag: Croatia'
+    uni: 1f1ed_1f1f7
+flag_haiti:
+    emo: 🇭🇹
+    name: 'flag: Haiti'
+    uni: 1f1ed_1f1f9
+flag_hungary:
+    emo: 🇭🇺
+    name: 'flag: Hungary'
+    uni: 1f1ed_1f1fa
+flag_canary_islands:
+    emo: 🇮🇨
+    name: 'flag: Canary Islands'
+    uni: 1f1ee_1f1e8
+flag_indonesia:
+    emo: 🇮🇩
+    name: 'flag: Indonesia'
+    uni: 1f1ee_1f1e9
+flag_ireland:
+    emo: 🇮🇪
+    name: 'flag: Ireland'
+    uni: 1f1ee_1f1ea
+flag_israel:
+    emo: 🇮🇱
+    name: 'flag: Israel'
+    uni: 1f1ee_1f1f1
+flag_isle_of_man:
+    emo: 🇮🇲
+    name: 'flag: Isle of Man'
+    uni: 1f1ee_1f1f2
+flag_india:
+    emo: 🇮🇳
+    name: 'flag: India'
+    uni: 1f1ee_1f1f3
+flag_british_indian_ocean_territory:
+    emo: 🇮🇴
+    name: 'flag: British Indian Ocean Territory'
+    uni: 1f1ee_1f1f4
+flag_iraq:
+    emo: 🇮🇶
+    name: 'flag: Iraq'
+    uni: 1f1ee_1f1f6
+flag_iran:
+    emo: 🇮🇷
+    name: 'flag: Iran'
+    uni: 1f1ee_1f1f7
+flag_iceland:
+    emo: 🇮🇸
+    name: 'flag: Iceland'
+    uni: 1f1ee_1f1f8
+flag_italy:
+    emo: 🇮🇹
+    name: 'flag: Italy'
+    uni: 1f1ee_1f1f9
+flag_jersey:
+    emo: 🇯🇪
+    name: 'flag: Jersey'
+    uni: 1f1ef_1f1ea
+flag_jamaica:
+    emo: 🇯🇲
+    name: 'flag: Jamaica'
+    uni: 1f1ef_1f1f2
+flag_jordan:
+    emo: 🇯🇴
+    name: 'flag: Jordan'
+    uni: 1f1ef_1f1f4
+flag_japan:
+    emo: 🇯🇵
+    name: 'flag: Japan'
+    uni: 1f1ef_1f1f5
+flag_kenya:
+    emo: 🇰🇪
+    name: 'flag: Kenya'
+    uni: 1f1f0_1f1ea
+flag_kyrgyzstan:
+    emo: 🇰🇬
+    name: 'flag: Kyrgyzstan'
+    uni: 1f1f0_1f1ec
+flag_cambodia:
+    emo: 🇰🇭
+    name: 'flag: Cambodia'
+    uni: 1f1f0_1f1ed
+flag_kiribati:
+    emo: 🇰🇮
+    name: 'flag: Kiribati'
+    uni: 1f1f0_1f1ee
+flag_comoros:
+    emo: 🇰🇲
+    name: 'flag: Comoros'
+    uni: 1f1f0_1f1f2
+flag_st_kitts_nevis:
+    emo: 🇰🇳
+    name: 'flag: St. Kitts & Nevis'
+    uni: 1f1f0_1f1f3
+flag_north_korea:
+    emo: 🇰🇵
+    name: 'flag: North Korea'
+    uni: 1f1f0_1f1f5
+flag_south_korea:
+    emo: 🇰🇷
+    name: 'flag: South Korea'
+    uni: 1f1f0_1f1f7
+flag_kuwait:
+    emo: 🇰🇼
+    name: 'flag: Kuwait'
+    uni: 1f1f0_1f1fc
+flag_cayman_islands:
+    emo: 🇰🇾
+    name: 'flag: Cayman Islands'
+    uni: 1f1f0_1f1fe
+flag_kazakhstan:
+    emo: 🇰🇿
+    name: 'flag: Kazakhstan'
+    uni: 1f1f0_1f1ff
+flag_laos:
+    emo: 🇱🇦
+    name: 'flag: Laos'
+    uni: 1f1f1_1f1e6
+flag_lebanon:
+    emo: 🇱🇧
+    name: 'flag: Lebanon'
+    uni: 1f1f1_1f1e7
+flag_st_lucia:
+    emo: 🇱🇨
+    name: 'flag: St. Lucia'
+    uni: 1f1f1_1f1e8
+flag_liechtenstein:
+    emo: 🇱🇮
+    name: 'flag: Liechtenstein'
+    uni: 1f1f1_1f1ee
+flag_sri_lanka:
+    emo: 🇱🇰
+    name: 'flag: Sri Lanka'
+    uni: 1f1f1_1f1f0
+flag_liberia:
+    emo: 🇱🇷
+    name: 'flag: Liberia'
+    uni: 1f1f1_1f1f7
+flag_lesotho:
+    emo: 🇱🇸
+    name: 'flag: Lesotho'
+    uni: 1f1f1_1f1f8
+flag_lithuania:
+    emo: 🇱🇹
+    name: 'flag: Lithuania'
+    uni: 1f1f1_1f1f9
+flag_luxembourg:
+    emo: 🇱🇺
+    name: 'flag: Luxembourg'
+    uni: 1f1f1_1f1fa
+flag_latvia:
+    emo: 🇱🇻
+    name: 'flag: Latvia'
+    uni: 1f1f1_1f1fb
+flag_libya:
+    emo: 🇱🇾
+    name: 'flag: Libya'
+    uni: 1f1f1_1f1fe
+flag_morocco:
+    emo: 🇲🇦
+    name: 'flag: Morocco'
+    uni: 1f1f2_1f1e6
+flag_monaco:
+    emo: 🇲🇨
+    name: 'flag: Monaco'
+    uni: 1f1f2_1f1e8
+flag_moldova:
+    emo: 🇲🇩
+    name: 'flag: Moldova'
+    uni: 1f1f2_1f1e9
+flag_montenegro:
+    emo: 🇲🇪
+    name: 'flag: Montenegro'
+    uni: 1f1f2_1f1ea
+flag_st_martin:
+    emo: 🇲🇫
+    name: 'flag: St. Martin'
+    uni: 1f1f2_1f1eb
+flag_madagascar:
+    emo: 🇲🇬
+    name: 'flag: Madagascar'
+    uni: 1f1f2_1f1ec
+flag_marshall_islands:
+    emo: 🇲🇭
+    name: 'flag: Marshall Islands'
+    uni: 1f1f2_1f1ed
+flag_north_macedonia:
+    emo: 🇲🇰
+    name: 'flag: North Macedonia'
+    uni: 1f1f2_1f1f0
+flag_mali:
+    emo: 🇲🇱
+    name: 'flag: Mali'
+    uni: 1f1f2_1f1f1
+flag_myanmar_burma_:
+    emo: 🇲🇲
+    name: 'flag: Myanmar (Burma)'
+    uni: 1f1f2_1f1f2
+flag_mongolia:
+    emo: 🇲🇳
+    name: 'flag: Mongolia'
+    uni: 1f1f2_1f1f3
+flag_macao_sar_china:
+    emo: 🇲🇴
+    name: 'flag: Macao SAR China'
+    uni: 1f1f2_1f1f4
+flag_northern_mariana_islands:
+    emo: 🇲🇵
+    name: 'flag: Northern Mariana Islands'
+    uni: 1f1f2_1f1f5
+flag_martinique:
+    emo: 🇲🇶
+    name: 'flag: Martinique'
+    uni: 1f1f2_1f1f6
+flag_mauritania:
+    emo: 🇲🇷
+    name: 'flag: Mauritania'
+    uni: 1f1f2_1f1f7
+flag_montserrat:
+    emo: 🇲🇸
+    name: 'flag: Montserrat'
+    uni: 1f1f2_1f1f8
+flag_malta:
+    emo: 🇲🇹
+    name: 'flag: Malta'
+    uni: 1f1f2_1f1f9
+flag_mauritius:
+    emo: 🇲🇺
+    name: 'flag: Mauritius'
+    uni: 1f1f2_1f1fa
+flag_maldives:
+    emo: 🇲🇻
+    name: 'flag: Maldives'
+    uni: 1f1f2_1f1fb
+flag_malawi:
+    emo: 🇲🇼
+    name: 'flag: Malawi'
+    uni: 1f1f2_1f1fc
+flag_mexico:
+    emo: 🇲🇽
+    name: 'flag: Mexico'
+    uni: 1f1f2_1f1fd
+flag_malaysia:
+    emo: 🇲🇾
+    name: 'flag: Malaysia'
+    uni: 1f1f2_1f1fe
+flag_mozambique:
+    emo: 🇲🇿
+    name: 'flag: Mozambique'
+    uni: 1f1f2_1f1ff
+flag_namibia:
+    emo: 🇳🇦
+    name: 'flag: Namibia'
+    uni: 1f1f3_1f1e6
+flag_new_caledonia:
+    emo: 🇳🇨
+    name: 'flag: New Caledonia'
+    uni: 1f1f3_1f1e8
+flag_niger:
+    emo: 🇳🇪
+    name: 'flag: Niger'
+    uni: 1f1f3_1f1ea
+flag_norfolk_island:
+    emo: 🇳🇫
+    name: 'flag: Norfolk Island'
+    uni: 1f1f3_1f1eb
+flag_nigeria:
+    emo: 🇳🇬
+    name: 'flag: Nigeria'
+    uni: 1f1f3_1f1ec
+flag_nicaragua:
+    emo: 🇳🇮
+    name: 'flag: Nicaragua'
+    uni: 1f1f3_1f1ee
+flag_netherlands:
+    emo: 🇳🇱
+    name: 'flag: Netherlands'
+    uni: 1f1f3_1f1f1
+flag_norway:
+    emo: 🇳🇴
+    name: 'flag: Norway'
+    uni: 1f1f3_1f1f4
+flag_nepal:
+    emo: 🇳🇵
+    name: 'flag: Nepal'
+    uni: 1f1f3_1f1f5
+flag_nauru:
+    emo: 🇳🇷
+    name: 'flag: Nauru'
+    uni: 1f1f3_1f1f7
+flag_niue:
+    emo: 🇳🇺
+    name: 'flag: Niue'
+    uni: 1f1f3_1f1fa
+flag_new_zealand:
+    emo: 🇳🇿
+    name: 'flag: New Zealand'
+    uni: 1f1f3_1f1ff
+flag_oman:
+    emo: 🇴🇲
+    name: 'flag: Oman'
+    uni: 1f1f4_1f1f2
+flag_panama:
+    emo: 🇵🇦
+    name: 'flag: Panama'
+    uni: 1f1f5_1f1e6
+flag_peru:
+    emo: 🇵🇪
+    name: 'flag: Peru'
+    uni: 1f1f5_1f1ea
+flag_french_polynesia:
+    emo: 🇵🇫
+    name: 'flag: French Polynesia'
+    uni: 1f1f5_1f1eb
+flag_papua_new_guinea:
+    emo: 🇵🇬
+    name: 'flag: Papua New Guinea'
+    uni: 1f1f5_1f1ec
+flag_philippines:
+    emo: 🇵🇭
+    name: 'flag: Philippines'
+    uni: 1f1f5_1f1ed
+flag_pakistan:
+    emo: 🇵🇰
+    name: 'flag: Pakistan'
+    uni: 1f1f5_1f1f0
+flag_poland:
+    emo: 🇵🇱
+    name: 'flag: Poland'
+    uni: 1f1f5_1f1f1
+flag_st_pierre_miquelon:
+    emo: 🇵🇲
+    name: 'flag: St. Pierre & Miquelon'
+    uni: 1f1f5_1f1f2
+flag_pitcairn_islands:
+    emo: 🇵🇳
+    name: 'flag: Pitcairn Islands'
+    uni: 1f1f5_1f1f3
+flag_puerto_rico:
+    emo: 🇵🇷
+    name: 'flag: Puerto Rico'
+    uni: 1f1f5_1f1f7
+flag_palestinian_territories:
+    emo: 🇵🇸
+    name: 'flag: Palestinian Territories'
+    uni: 1f1f5_1f1f8
+flag_portugal:
+    emo: 🇵🇹
+    name: 'flag: Portugal'
+    uni: 1f1f5_1f1f9
+flag_palau:
+    emo: 🇵🇼
+    name: 'flag: Palau'
+    uni: 1f1f5_1f1fc
+flag_paraguay:
+    emo: 🇵🇾
+    name: 'flag: Paraguay'
+    uni: 1f1f5_1f1fe
+flag_qatar:
+    emo: 🇶🇦
+    name: 'flag: Qatar'
+    uni: 1f1f6_1f1e6
+flag_r_union:
+    emo: 🇷🇪
+    name: 'flag: Réunion'
+    uni: 1f1f7_1f1ea
+flag_romania:
+    emo: 🇷🇴
+    name: 'flag: Romania'
+    uni: 1f1f7_1f1f4
+flag_serbia:
+    emo: 🇷🇸
+    name: 'flag: Serbia'
+    uni: 1f1f7_1f1f8
+flag_russia:
+    emo: 🇷🇺
+    name: 'flag: Russia'
+    uni: 1f1f7_1f1fa
+flag_rwanda:
+    emo: 🇷🇼
+    name: 'flag: Rwanda'
+    uni: 1f1f7_1f1fc
+flag_saudi_arabia:
+    emo: 🇸🇦
+    name: 'flag: Saudi Arabia'
+    uni: 1f1f8_1f1e6
+flag_solomon_islands:
+    emo: 🇸🇧
+    name: 'flag: Solomon Islands'
+    uni: 1f1f8_1f1e7
+flag_seychelles:
+    emo: 🇸🇨
+    name: 'flag: Seychelles'
+    uni: 1f1f8_1f1e8
+flag_sudan:
+    emo: 🇸🇩
+    name: 'flag: Sudan'
+    uni: 1f1f8_1f1e9
+flag_sweden:
+    emo: 🇸🇪
+    name: 'flag: Sweden'
+    uni: 1f1f8_1f1ea
+flag_singapore:
+    emo: 🇸🇬
+    name: 'flag: Singapore'
+    uni: 1f1f8_1f1ec
+flag_st_helena:
+    emo: 🇸🇭
+    name: 'flag: St. Helena'
+    uni: 1f1f8_1f1ed
+flag_slovenia:
+    emo: 🇸🇮
+    name: 'flag: Slovenia'
+    uni: 1f1f8_1f1ee
+flag_svalbard_jan_mayen:
+    emo: 🇸🇯
+    name: 'flag: Svalbard & Jan Mayen'
+    uni: 1f1f8_1f1ef
+flag_slovakia:
+    emo: 🇸🇰
+    name: 'flag: Slovakia'
+    uni: 1f1f8_1f1f0
+flag_sierra_leone:
+    emo: 🇸🇱
+    name: 'flag: Sierra Leone'
+    uni: 1f1f8_1f1f1
+flag_san_marino:
+    emo: 🇸🇲
+    name: 'flag: San Marino'
+    uni: 1f1f8_1f1f2
+flag_senegal:
+    emo: 🇸🇳
+    name: 'flag: Senegal'
+    uni: 1f1f8_1f1f3
+flag_somalia:
+    emo: 🇸🇴
+    name: 'flag: Somalia'
+    uni: 1f1f8_1f1f4
+flag_suriname:
+    emo: 🇸🇷
+    name: 'flag: Suriname'
+    uni: 1f1f8_1f1f7
+flag_south_sudan:
+    emo: 🇸🇸
+    name: 'flag: South Sudan'
+    uni: 1f1f8_1f1f8
+flag_s_o_tom_pr_ncipe:
+    emo: 🇸🇹
+    name: 'flag: São Tomé & Príncipe'
+    uni: 1f1f8_1f1f9
+flag_el_salvador:
+    emo: 🇸🇻
+    name: 'flag: El Salvador'
+    uni: 1f1f8_1f1fb
+flag_sint_maarten:
+    emo: 🇸🇽
+    name: 'flag: Sint Maarten'
+    uni: 1f1f8_1f1fd
+flag_syria:
+    emo: 🇸🇾
+    name: 'flag: Syria'
+    uni: 1f1f8_1f1fe
+flag_eswatini:
+    emo: 🇸🇿
+    name: 'flag: Eswatini'
+    uni: 1f1f8_1f1ff
+flag_tristan_da_cunha:
+    emo: 🇹🇦
+    name: 'flag: Tristan da Cunha'
+    uni: 1f1f9_1f1e6
+flag_turks_caicos_islands:
+    emo: 🇹🇨
+    name: 'flag: Turks & Caicos Islands'
+    uni: 1f1f9_1f1e8
+flag_chad:
+    emo: 🇹🇩
+    name: 'flag: Chad'
+    uni: 1f1f9_1f1e9
+flag_french_southern_territories:
+    emo: 🇹🇫
+    name: 'flag: French Southern Territories'
+    uni: 1f1f9_1f1eb
+flag_togo:
+    emo: 🇹🇬
+    name: 'flag: Togo'
+    uni: 1f1f9_1f1ec
+flag_thailand:
+    emo: 🇹🇭
+    name: 'flag: Thailand'
+    uni: 1f1f9_1f1ed
+flag_tajikistan:
+    emo: 🇹🇯
+    name: 'flag: Tajikistan'
+    uni: 1f1f9_1f1ef
+flag_tokelau:
+    emo: 🇹🇰
+    name: 'flag: Tokelau'
+    uni: 1f1f9_1f1f0
+flag_timor_leste:
+    emo: 🇹🇱
+    name: 'flag: Timor-Leste'
+    uni: 1f1f9_1f1f1
+flag_turkmenistan:
+    emo: 🇹🇲
+    name: 'flag: Turkmenistan'
+    uni: 1f1f9_1f1f2
+flag_tunisia:
+    emo: 🇹🇳
+    name: 'flag: Tunisia'
+    uni: 1f1f9_1f1f3
+flag_tonga:
+    emo: 🇹🇴
+    name: 'flag: Tonga'
+    uni: 1f1f9_1f1f4
+flag_t_rkiye:
+    emo: 🇹🇷
+    name: 'flag: Türkiye'
+    uni: 1f1f9_1f1f7
+flag_trinidad_tobago:
+    emo: 🇹🇹
+    name: 'flag: Trinidad & Tobago'
+    uni: 1f1f9_1f1f9
+flag_tuvalu:
+    emo: 🇹🇻
+    name: 'flag: Tuvalu'
+    uni: 1f1f9_1f1fb
+flag_taiwan:
+    emo: 🇹🇼
+    name: 'flag: Taiwan'
+    uni: 1f1f9_1f1fc
+flag_tanzania:
+    emo: 🇹🇿
+    name: 'flag: Tanzania'
+    uni: 1f1f9_1f1ff
+flag_ukraine:
+    emo: 🇺🇦
+    name: 'flag: Ukraine'
+    uni: 1f1fa_1f1e6
+flag_uganda:
+    emo: 🇺🇬
+    name: 'flag: Uganda'
+    uni: 1f1fa_1f1ec
+flag_u_s_outlying_islands:
+    emo: 🇺🇲
+    name: 'flag: U.S. Outlying Islands'
+    uni: 1f1fa_1f1f2
+flag_united_nations:
+    emo: 🇺🇳
+    name: 'flag: United Nations'
+    uni: 1f1fa_1f1f3
+flag_united_states:
+    emo: 🇺🇸
+    name: 'flag: United States'
+    uni: 1f1fa_1f1f8
+flag_uruguay:
+    emo: 🇺🇾
+    name: 'flag: Uruguay'
+    uni: 1f1fa_1f1fe
+flag_uzbekistan:
+    emo: 🇺🇿
+    name: 'flag: Uzbekistan'
+    uni: 1f1fa_1f1ff
+flag_vatican_city:
+    emo: 🇻🇦
+    name: 'flag: Vatican City'
+    uni: 1f1fb_1f1e6
+flag_st_vincent_grenadines:
+    emo: 🇻🇨
+    name: 'flag: St. Vincent & Grenadines'
+    uni: 1f1fb_1f1e8
+flag_venezuela:
+    emo: 🇻🇪
+    name: 'flag: Venezuela'
+    uni: 1f1fb_1f1ea
+flag_british_virgin_islands:
+    emo: 🇻🇬
+    name: 'flag: British Virgin Islands'
+    uni: 1f1fb_1f1ec
+flag_u_s_virgin_islands:
+    emo: 🇻🇮
+    name: 'flag: U.S. Virgin Islands'
+    uni: 1f1fb_1f1ee
+flag_vietnam:
+    emo: 🇻🇳
+    name: 'flag: Vietnam'
+    uni: 1f1fb_1f1f3
+flag_vanuatu:
+    emo: 🇻🇺
+    name: 'flag: Vanuatu'
+    uni: 1f1fb_1f1fa
+flag_wallis_futuna:
+    emo: 🇼🇫
+    name: 'flag: Wallis & Futuna'
+    uni: 1f1fc_1f1eb
+flag_samoa:
+    emo: 🇼🇸
+    name: 'flag: Samoa'
+    uni: 1f1fc_1f1f8
+flag_kosovo:
+    emo: 🇽🇰
+    name: 'flag: Kosovo'
+    uni: 1f1fd_1f1f0
+flag_yemen:
+    emo: 🇾🇪
+    name: 'flag: Yemen'
+    uni: 1f1fe_1f1ea
+flag_mayotte:
+    emo: 🇾🇹
+    name: 'flag: Mayotte'
+    uni: 1f1fe_1f1f9
+flag_south_africa:
+    emo: 🇿🇦
+    name: 'flag: South Africa'
+    uni: 1f1ff_1f1e6
+flag_zambia:
+    emo: 🇿🇲
+    name: 'flag: Zambia'
+    uni: 1f1ff_1f1f2
+flag_zimbabwe:
+    emo: 🇿🇼
+    name: 'flag: Zimbabwe'
+    uni: 1f1ff_1f1fc
+flag_england:
+    emo: 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+    name: 'flag: England'
+    uni: 1f3f4_e0067_e0062_e0065_e006e_e0067_e007f
+flag_scotland:
+    emo: 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+    name: 'flag: Scotland'
+    uni: 1f3f4_e0067_e0062_e0073_e0063_e0074_e007f
+flag_wales:
+    emo: 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+    name: 'flag: Wales'
+    uni: 1f3f4_e0067_e0062_e0077_e006c_e0073_e007f

@@ -1,0 +1,857 @@
+
+#age 1
+Atlantis:
+  age: 1
+  color: blue
+  type: tree
+  resources: [tree, tree, tree, tree]
+  res_city: [tower, None]
+  magnify: true
+
+Athens:
+  age: 1
+  color: red
+  type: bulb
+  resources: [bulb, bulb, bulb, tree]
+  res_city: [plus, None]
+  magnify: false
+
+Babylon:
+  age: 1
+  color: green
+  type: bulb
+  resources: [bulb, bulb, bulb, crown]
+  res_city: [plus, None]
+  magnify: false
+
+Chang An:
+  age: 1
+  color: red
+  type: tree
+  resources: [tree, tree, tree, crown]
+  res_city: [plus, None]
+  magnify: false
+
+Damascus:
+  age: 1
+  color: yellow
+  type: crown
+  resources: [crown, crown, crown, crown]
+  res_city: [tower, None]
+  magnify: true
+
+Ephesus:
+  age: 1
+  color: purple
+  type: crown
+  resources: [crown, crown, crown, tower]
+  res_city: [plus, None]
+  magnify: false
+
+Hattusa:
+  age: 1
+  color: purple
+  type: tree
+  resources: [tree, tree, tree, tower]
+  res_city: [tower, None]
+  magnify: true
+
+Jerusalem:
+  age: 1
+  color: green
+  type: tower
+  resources: [tower, bulb, bulb, tower]
+  res_city: [tower, None]
+  magnify: true
+
+Linzi:
+  age: 1
+  color: yellow
+  type: tower
+  resources: [tower, crown, crown, tower]
+  res_city: [tower, None]
+  magnify: true
+
+Memphis:
+  age: 1
+  color: green
+  type: tower
+  resources: [tower, tree, tower, tower]
+  res_city: [tower, None]
+  magnify: true
+
+Mohenjo-Daro:
+  age: 1
+  color: purple
+  type: tree
+  resources: [tree,tree,tree,tower]
+  res_city: [purple, None]
+  magnify: false
+
+Thebes:
+  age: 1
+  color: red
+  type: crown
+  resources: [crown, crown, crown, bulb]
+  res_city: [bulb, None]
+  magnify: true
+
+Troy:
+  age: 1
+  color: blue
+  type: crown
+  resources: [crown, crown, crown, tower]
+  res_city: [tower, None]
+  magnify: true
+
+Uruk: 
+  age: 1
+  color: yellow
+  type: tower
+  resources: [tower, crown, tower, tower]
+  res_city: [tower, None]
+  magnify: true
+
+Yin: 
+  age: 1
+  color: blue
+  type: tower
+  resources: [tower, tree, tree, tower]
+  res_city: [tower, None]
+  magnify: true
+
+#age 2
+Alexandria:
+  age: 2
+  color: blue
+  type: crown
+  resources: [crown, 2, crown, bulb]
+  res_city: [plus, None]
+  magnify: false
+
+Carthage:
+  age: 2
+  color: blue
+  type: crown
+  resources: [crown, bulb, crown, crown]
+  res_city: [plus, None]
+  magnify: false
+
+Luoyang:
+  age: 2
+  color: purple
+  type: bulb
+  resources: [bulb, bulb, tree, 2]
+  res_city: [plus, None]
+  magnify: false
+
+Marseille:
+  age: 2
+  color: green
+  type: crown
+  resources: [crown, 2, crown, tower]
+  res_city: [crown, tower]
+  magnify: false
+
+Nanjing:
+  age: 2
+  color: green
+  type: tower
+  resources: [3, crown, tower, tower]
+  res_city: [tower, None]
+  magnify: true
+
+Nineveh:
+  age: 2
+  color: yellow
+  type: tree
+  resources: [tree, tree, crown, 2]
+  res_city: [tree, None]
+  magnify: false
+
+Rome:
+  age: 2
+  color: purple
+  type: bulb
+  resources: [2, bulb, bulb, tower]
+  res_city: [bulb, None]
+  magnify: true
+
+Sparta:
+  age: 2
+  color: red
+  type: tower
+  resources: [tower, factory, factory, tower]
+  res_city: [tower, None]
+  magnify: true
+
+Teotihuacan:
+  age: 2
+  color: yellow
+  type: tree
+  resources: [tree, tree, 3, tower]
+  res_city: [tree, None]
+  magnify: true
+
+Tikal:
+  age: 2
+  color: red
+  type: tower
+  resources: [tower, tree, 4, tower]
+  res_city: [tower, None]
+  magnify: true
+
+#age 3
+Barcelona:
+  age: 3
+  color: red
+  type: tower
+  resources: [4, tower, crown, tower]
+  res_city: [plus, None]
+  magnify: false
+
+Baghdad:
+  age: 3
+  color: red
+  type: crown
+  resources: [crown, crown, bulb, 3]
+  res_city: [right, None]
+  magnify: false
+
+Constantinople:
+  age: 3
+  color: purple
+  type: tower
+  resources: [tower, crown, 3, tower]
+  res_city: [right, None]
+  magnify: false
+
+Cordoba:
+  age: 3
+  color: blue
+  type: factory
+  resources: [factory, factory, factory, bulb]
+  res_city: [right, None]
+  magnify: false
+
+Delhi:
+  age: 3
+  color: red
+  type: bulb
+  resources: [bulb, tree, bulb, bulb]
+  res_city: [right, None]
+  magnify: false
+
+Hangzhou:
+  age: 3
+  color: blue
+  type: bulb
+  resources: [bulb, bulb, bulb, tower]
+  res_city: [plus, None]
+  magnify: false
+
+Jakarta:
+  age: 3
+  color: yellow
+  type: tree
+  resources: [crown, crown, tree, tree]
+  res_city: [tree, None]
+  magnify: true
+
+Kaifeng:
+  age: 3
+  color: yellow
+  type: tower
+  resources: [tower, tree, tower, tower]
+  res_city: [right, None]
+  magnify: false
+
+Mecca:
+  age: 3
+  color: yellow
+  type: tree
+  resources: [tree, 5, crown, tree]
+  res_city: [tree, None]
+  magnify: true
+
+Venice:
+  age: 3
+  color: green
+  type: crown
+  resources: [factory, crown, crown, crown]
+  res_city: [plus, None]
+  magnify: false
+
+#age 4
+Beijing:
+  age: 4
+  color: yellow
+  type: tower
+  resources: [tower, tower, tower, tree]
+  res_city: [right, None]
+  magnify: false
+
+Calicut:
+  age: 4
+  color: green
+  type: tree
+  resources: [5, crown, tree, tree]
+  res_city: [tree, None]
+  magnify: true
+
+Frankfurt:
+  age: 4
+  color: blue
+  type: bulb
+  resources: [bulb, bulb, plus, factory]
+  res_city: [plus, None]
+  magnify: false
+
+Florence:
+  age: 4
+  color: purple
+  type: bulb
+  resources: [crown, bulb, bulb, 4]
+  res_city: [right, None]
+  magnify: false
+
+Lisbon:
+  age: 4
+  color: yellow
+  type: factory
+  resources: [factory, factory, plus, tree]
+  res_city: [plus, None]
+  magnify: false
+
+Madrid:
+  age: 4
+  color: blue
+  type: bulb
+  resources: [bulb, bulb, bulb, crown]
+  res_city: [right, None]
+  magnify: false
+
+Manila:
+  age: 4
+  color: green
+  type: crown
+  resources: [crown, 4, crown, tree]
+  res_city: [right, None]
+  magnify: false
+
+Milan:
+  age: 4
+  color: red
+  type: factory
+  resources: [factory, factory, plus, bulb]
+  res_city: [plus, None]
+  magnify: false
+
+Seville:
+  age: 4
+  color: purple
+  type: crown
+  resources: [crown, crown, crown, bulb]
+  res_city: [bulb, None]
+  magnify: true
+
+Tenochtitlan:
+  age: 4
+  color: red
+  type: tower
+  resources: [tower, tower, 4, bulb]
+  res_city: [right, None]
+  magnify: false
+
+#age 5
+Algiers:
+  age: 6
+  color: red
+  type: bulb
+  resources: [crown, bulb, bulb, 5]
+  res_city: [flag, None]
+  magnify: false
+
+Amsterdam:
+  age: 5
+  color: green
+  type: tower
+  resources: [tower, tree, plus, tower]
+  res_city: [plus, None]
+  magnify: false
+
+Boston:
+  age: 5
+  color: blue
+  type: bulb
+  resources: [factory, bulb, plus, bulb]
+  res_city: [plus, None]
+  magnify: false
+
+Gdansk:
+  age: 5
+  color: purple
+  type: crown
+  resources: [crown, 5, factory, crown]
+  res_city: [flag, None]
+  magnify: false
+
+Hoi An:
+  age: 5
+  color: yellow
+  type: crown
+  resources: [7, crown, crown, tree]
+  res_city: [crown, None]
+  magnify: true
+
+Naples:
+  age: 5
+  color: blue
+  type: bulb
+  resources: [bulb, bulb, plus, tree]
+  res_city: [plus, None]
+  magnify: false
+
+Osaka:
+  age: 5
+  color: yellow
+  type: bulb
+  resources: [tree, tree, bulb, bulb]
+  res_city: [bulb, None]
+  magnify: true
+
+Stockolm:
+  age: 5
+  color: green
+  type: crown
+  resources: [factory, crown, 5, crown]
+  res_city: [flag, None]
+  magnify: false
+
+Tokyo:
+  age: 5
+  color: purple
+  type: tower
+  resources: [tower, tower, clock, tower]
+  res_city: [flag, None]
+  magnify: false
+
+Zurich:
+  age: 5
+  color: red
+  type: factory
+  resources: [factory, factory, factory, bulb]
+  res_city: [flag, None]
+  magnify: false
+
+
+#age 6
+Berlin:
+  age: 6
+  color: blue
+  type: factory
+  resources: [factory, factory, left, bulb]
+  res_city: [flag, None]
+  magnify: false
+
+Bombay:
+  age: 6
+  color: green
+  type: tree
+  resources: [6, crown, tree, tree]
+  res_city: [left, None]
+  magnify: false
+
+Dublin:
+  age: 6
+  color: yellow
+  type: factory
+  resources: [factory, tree, left, factory]
+  res_city: [flag, None]
+  magnify: false
+
+Edinburgh:
+  age: 6
+  color: blue
+  type: bulb
+  resources: [bulb, factory, plus, bulb]
+  res_city: [plus, None]
+  magnify: false
+
+New York City:
+  age: 6
+  color: purple
+  type: crown
+  resources: [bulb, crown, plus, crown]
+  res_city: [plus, None]
+  magnify: false
+
+Paris:
+  age: 6
+  color: yellow
+  type: tree
+  resources: [tree, tree, clock, 7]
+  res_city: [flag, None]
+  magnify: false
+
+Philadelphia:
+  age: 6
+  color: red
+  type: clock
+  resources: [factory, clock, plus, clock]
+  res_city: [plus, None]
+  magnify: false
+
+Rio de Janeiro:
+  age: 6
+  color: green
+  type: factory
+  resources: [factory, 7, factory, crown]
+  res_city: [flag, None]
+  magnify: false
+
+Tehran:
+  age: 6
+  color: red
+  type: crown
+  resources: [factory, crown, left, crown]
+  res_city: [flag, None]
+  magnify: false
+
+Vienna:
+  age: 6
+  color: purple
+  type: bulb
+  resources: [bulb, bulb, 6, crown]
+  res_city: [left, None]
+  magnify: false
+
+#age 7
+Johannesburg:
+  age: 7
+  color: blue
+  type: crown
+  resources: [7, 7, bulb, crown]
+  res_city: [crown, None]
+  magnify: true
+
+London:
+  age: 7
+  color: green
+  type: clock
+  resources: [factory, clock, plus, clock]
+  res_city: [left, None]
+  magnify: false
+
+Lyon:
+  age: 7
+  color: red
+  type: factory
+  resources: [crown, factory, left, factory]
+  res_city: [flag, None]
+  magnify: false
+
+Melbourne:
+  age: 7
+  color: yellow
+  type: crown
+  resources: [7, 7, tree, crown]
+  res_city: [crown, None]
+  magnify: true
+
+Montreal:
+  age: 7
+  color: red
+  type: factory
+  resources: [factory, factory, plus, crown]
+  res_city: [plus, None]
+  magnify: false
+
+Munich:
+  age: 7
+  color: blue
+  type: bulb
+  resources: [bulb, clock, plus, bulb]
+  res_city: [left, None]
+  magnify: false
+
+San Francisco:
+  age: 7
+  color: purplr
+  type: crown
+  resources: [crown, bulb, 9, crown]
+  res_city: [9, None]
+  magnify: false
+
+Toronto:
+  age: 7
+  color: green
+  type: clock
+  resources: [7, 7, clock, tree]
+  res_city: [clock, None]
+  magnify: true
+
+St. Petersburg:
+  age: 7
+  color: yellow
+  type: tree
+  resources: [tree, factory, left, tree]
+  res_city: [flag, None]
+  magnify: false
+
+Washington:
+  age: 7
+  color: purple
+  type: bulb
+  resources: [factory, bulb, left, bulb]
+  res_city: [flag, None]
+  magnify: false
+
+
+#age 8
+Buenos Aires:
+  age: 8
+  color: purple
+  type: clock
+  resources: [9, clock, 9, bulb]
+  res_city: [clock, None]
+  magnify: true
+
+Chicago:
+  age: 8
+  color: yellow
+  type: tree
+  resources: [8, 8, clock, tree]
+  res_city: [tree, None]
+  magnify: true
+
+Chongqing:
+  age: 8
+  color: blue
+  type: factory
+  resources: [factory, factory, plus, bulb]
+  res_city: [plus, None]
+  magnify: false
+
+Hamburg:
+  age: 8
+  color: green
+  type: clock
+  resources: [crown, clock, clock, clock]
+  res_city: [fountain, None]
+  magnify: false
+
+Kuala Lumpur:
+  age: 8
+  color: red
+  type: factory
+  resources: [factory, factory, clock, factory]
+  res_city: [fountain, None]
+  magnify: false
+
+Kiev:
+  age: 8
+  color: blue
+  type: factory
+  resources: [factory, clock, plus, factory]
+  res_city: [plus, None]
+  magnify: false
+
+Los Angeles:
+  age: 8
+  color: red
+  type: factory
+  resources: [9, factory, 9, bulb]
+  res_city: [factory, None]
+  magnify: true
+
+Vancouver:
+  age: 8
+  color: purple
+  type: bulb
+  resources: [crown, bulb, plus, bulb]
+  res_city: [plus, None]
+  magnify: false
+
+Sao Paolo:
+  age: 8
+  color: green
+  type: tree
+  resources: [8, 8, crown, tree]
+  res_city: [tree, None]
+  magnify: true
+
+Shanghai:
+  age: 8
+  color: yellow
+  type: tree
+  resources: [tree, crown, tree, tree]
+  res_city: [fountain, None]
+  magnify: false
+
+
+#age 9
+Dallas:
+  age: 9
+  color: red
+  type: clock
+  resources: [factory, clock, plus, clock]
+  res_city: [up, None]
+  magnify: false
+
+Guadalajara:
+  age: 9
+  color: yellow
+  type: clock
+  resources: [tree, clock, plus, clock]
+  res_city: [up, None]
+  magnify: false
+
+Houston:
+  age: 9
+  color: blue
+  type: clock
+  resources: [10, clock, 10, crown]
+  res_city: [clock, None]
+  magnify: true
+
+Hong Kong:
+  age: 9
+  color: purple
+  type: factory
+  resources: [factory, clock, plus, factory]
+  res_city: [up, None]
+  magnify: false
+
+Miami:
+  age: 9
+  color: yellow
+  type: tree
+  resources: [9, crown, 9, tree]
+  res_city: [tree, None]
+  magnify: true
+
+Moscow:
+  age: 9
+  color: purple
+  type: tree
+  resources: [tree, bulb, plus, tree]
+  res_city: [fountain, None]
+  magnify: false
+
+Perth:
+  age: 9
+  color: red
+  type: factory
+  resources: [10, factory, 10, crown]
+  res_city: [factory, None]
+  magnify: true
+
+Santiago:
+  age: 9
+  color: green
+  type: bulb
+  resources: [9, 9, clock, bulb]
+  res_city: [bulb, None]
+  magnify: true
+
+Sydney:
+  age: 9
+  color: green
+  type: crown
+  resources: [bulb, crown, up, crown]
+  res_city: [fountain, None]
+  magnify: false
+
+Taipei:
+  age: 9
+  color: blue
+  type: clock
+  resources: [clock, clock, up, bulb]
+  res_city: [fountain, None]
+  magnify: false
+
+
+#age 10
+Atlanta:
+  age: 10
+  color: blue
+  type: clock
+  resources: [10, 10, clock, bulb]
+  res_city: [clock, None]
+  magnify: true
+
+Bangalore:
+  age: 10
+  color: blue
+  type: tree
+  resources: [tree, tree, up, bulb]
+  res_city: [fountain, None]
+  magnify: false
+
+Bangkok:
+  age: 10
+  color: green
+  type: crown
+  resources: [clock, crown, 11, crown]
+  res_city: [11, None]
+  magnify: false
+
+Brussels:
+  age: 10
+  color: purple
+  type: factory
+  resources: [factory, clock, fountain, factory]
+  res_city: [fountain, None]
+  magnify: false
+
+Copenhagen:
+  age: 10
+  color: yellow
+  type: tree
+  resources: [tree, clock, up, tree]
+  res_city: [fountain, None]
+  magnify: false
+
+Dubai:
+  age: 10
+  color: yellow
+  type: crown
+  resources: [10, 10, clock, crown]
+  res_city: [crown, None]
+  magnify: true
+
+Essen:
+  age: 10
+  color: purple
+  type: bulb
+  resources: [tree, bulb, up, bulb]
+  res_city: [fountain, None]
+  magnify: false
+
+Tel Aviv:
+  age: 10
+  color: green
+  type: clock
+  resources: [bulb, clock, up, clock]
+  res_city: [fountain, None]
+  magnify: false
+
+Seoul:
+  age: 10
+  color: red
+  type: clock
+  resources: [tree, clock, up, clock]
+  res_city: [fountain, None]
+  magnify: false
+
+Singapore:
+  age: 10
+  color: red
+  type: factory
+  resources: [10, 10, factory, crown]
+  res_city: [factory, None]
+  magnify: true
+
+
+

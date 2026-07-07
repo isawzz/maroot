@@ -1,0 +1,30 @@
+⚒️  U+2692  Hammer and Pick
+⚓  U+2693  Anchor  (⚓️ with FE0F shows as emoji)
+⚔️  U+2694  Crossed Swords
+⚕️  U+2695  Medical Symbol (Caduceus)
+⚖️  U+2696  Scales
+⚗️  U+2697  Alembic
+⚙️  U+2699  Gear
+⚚  U+269A  Staff of Hermes (sometimes not emoji-presenting)
+⚛️  U+269B  Atom Symbol
+⚜️  U+269C  Fleur-de-Lis
+⚝  U+269D  Outlined White Star
+⚞  U+269E  Three Lines
+⚟  U+269F  Three Lines (alt)
+⛏️  U+26CF  Pick
+⛑️  U+26D1  Rescue Worker’s Helmet
+⛓️  U+26D3  Chains
+⛔  U+26D4  No Entry (has annotation ✔️)
+⛩️  U+26E9  Shinto Shrine (has annotation ✔️)
+⛪  U+26EA  Church (has annotation ✔️)
+⛰️  U+26F0  Mountain
+⛱️  U+26F1  Umbrella on Ground
+⛲  U+26F2  Fountain (✔️ annotated)
+⛳  U+26F3  Flag in Hole
+⛴️  U+26F4  Ferry
+⛵  U+26F5  Sailboat (✔️ annotated)
+⛷️  U+26F7  Skier (✔️ annotated)
+⛸️  U+26F8  Ice Skate
+⛹️  U+26F9  Person Bouncing Ball (✔️ annotated)
+⛺  U+26FA  Tent (✔️ annotated)
+⛽  U+26FD  Fuel Pump (✔️ annotated)

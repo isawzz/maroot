@@ -1,0 +1,187 @@
+autosubmit: true
+default:
+  players: felix,mimi
+  color: GREEN
+ui:
+  card: 
+    h: 100
+  container:
+    padding: 0
+    h: 130
+  containertitle:
+    left: 16
+    bottom: 1
+  minicard:
+    h: 40
+  minicontainer:
+    padding: 0
+    h: 130
+games:
+  a_game:
+    friendly: Simple
+    logo: bear
+    color: gold
+    options:
+      mode: 'solo,hotseat,multi'
+      #mode: 'multi,solo,hotseat'
+      handsize: '7,3,10'
+  accuse:
+    friendly: "J'Accuse"
+    logo: fencing
+    color: navy
+    defaulthandsorting: none
+    options:
+      #mode: 'solo,hotseat,multi'
+      mode: 'hotseat,multi'
+      rounds: 1,2,6,4
+      stability: 2,3,4,5
+      handsize: 4,6,7,5
+      cardtype: 'c52,num'
+      consensus: "coupdetat,policy" # 'generation,playerpolicy,policy'
+      colors: '4,3,2'
+      empty_vote: 'add policy' #'blank,win policy,add policy'
+      defected: remove #'draw,exchange,remove'
+  aristo:
+    friendly: Aristocracy
+    logo: crown
+    color: indigo
+    defaulthandsorting: none
+    options:
+      #mode: 'solo,hotseat,multi'
+      mode: 'hotseat,multi'
+      church: 'no,yes'
+      journey: 'no,yes'
+      commission: 'no,yes'
+      rumors: 'no,yes'
+    game_type: turn
+    def_startlevel: 4
+    achieve_inc: 0
+    hand_size: 7
+    farm_size: 4
+    estate_size: 5
+    chateau_size: 6
+  bluff:
+    friendly: Bluff
+    logo: beaming face with smiling eyes
+    color: red
+    defaulthandsorting: rank
+    options:
+      mode: 'solo,hotseat,multi'
+      # mode: 'solo,multi,hotseat'
+      min_handsize: '1,3,2'
+      max_handsize: '4,5,6,7'
+      strategy: 'clairvoyant,random'
+      #strategy: 'random,clairvoyant'
+  fritz:
+    friendly: "A L'Honneur!"
+    logo: fencing #weary face
+    color: midnightblue
+    defaulthandsorting: suit
+    options:
+      #mode: 'solo,multi,hotseat'
+      mode: 'solo,hotseat,multi'
+      handsize: '9,11,13,10'
+      cycles: '3,2,1'
+      #jokers: '0,2,3,1'
+      #per_move: '60,50,40'
+      seconds_per_game: '600,60,180,120'
+      seconds_per_move: '10,3,4,5'
+      #timing: 'game,adaptive,move'
+      jokers: '3,2,1,0'
+      overlapping: 'yes,no'
+      jokers_per_group: '3,2,1'
+  feedback:
+    friendly: Feedback
+    logo: dragon
+    color: black
+    options:
+      mode: 'solo,hotseat,multi'
+      poll: '200,2000,500,1000,3000'
+      auto_weiter: 'no,yes'
+  ferro:
+    friendly: Ferrocarril
+    logo: train
+    color: sienna
+    defaulthandsorting: rank
+    options:
+      #mode: 'solo,multi,hotseat'
+      mode: 'solo,hotseat,multi'
+      handsize: '3,5,11'
+      coins: '3,5,10'
+      maxrounds: '1,3,5,7'
+      phase_order: 'fixed,anti,choice'
+      thinking_time: '3,20,5,10'
+      auto_weiter: 'no,yes'
+      # allow_sequences: 'yes,no'
+      # allow_exchange: 'yes,no'
+      # jokers_per_group: '3,2,1'
+  sheriff:
+    friendly: Sheriff
+    logo: police officer
+    color: sienna
+    game_type: turn
+    options:
+      mode: 'solo,multi,hotseat'
+      min_handsize: '1,3,2'
+      max_handsize: '4,5,6,7'
+  spotit:
+    friendly: Spotit
+    logo: spy
+    color: green
+    game_type: race
+    options:
+      mode: 'solo,hotseat,multi'
+      adaptive: 'no,yes'
+      zen_mode: 'no,yes'
+      # mode: 'solo,multi,hotseat'
+      winning_score: '5,10,20,25'
+      vocab: 'animals,objectPlus,lifePlus'
+      #level_setting: 'player,choose,min,max,default'
+      num_cards: '3,2'
+      num_symbols: '4,12,17,7'
+    rows: 3
+    cols: 2
+    min_scale: 0.75
+    max_scale: 1.25
+    num_cards: 2
+    def_startlevel: 4
+    levels:
+      '0':
+        cols: 1
+        rows: 2
+      '1':
+        rows: 2
+      '2':
+        cols: 1
+      '3':
+        cols: 1
+        rows: 4
+      '4':
+        min_scale: 0.75
+        max_scale: 1.25
+      '5':
+        cols: 1
+        rows: 5
+      '6':
+        rows: 4
+      '7':
+        cols: 3
+        rows: 5
+      '8':
+        rows: 5
+      '9':
+        rows: 6
+      '10':
+        cols: 3
+        rows: 6
+    winnerslist: []
+  wise:
+    friendly: Wise
+    logo: owl
+    color: gold
+    options:
+      mode: 'solo,hotseat,multi'
+      winning_score: 1,5,10,20
+      #num: '1,3,10,5'
+      strategy: 'clairvoyant,random'
+

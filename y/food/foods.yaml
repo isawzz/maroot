@@ -1,0 +1,5283 @@
+acai_berry:
+  id: 31
+  name: Açaí Berry (Frozen Pulp)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 100g frozen pulp
+  nutritional_facts:
+    calories: 70
+    total_fat_g: 5
+    saturated_fat_g: 1.5
+    cholesterol_mg: 0
+    sodium_mg: 7
+    total_carbohydrates_g: 6
+    dietary_fiber_g: 3
+    sugars_g: 0
+    protein_g: 1
+    manganese_mg: 1.2
+    vitamin_c_mg: 0
+acorn_squash:
+  id: 42
+  name: Acorn Squash (Baked)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup cubes (205g)
+  nutritional_facts:
+    calories: 115
+    total_fat_g: 0.3
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 10
+    total_carbohydrates_g: 29.9
+    dietary_fiber_g: 9
+    sugars_g: 8
+    protein_g: 2.3
+    vitamin_c_mg: 22.8
+apfelstrudel:
+  id: 66
+  name: Austrian Apfelstrudel (2 Rolls)
+  type: Pastry (Austrian)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 100g)
+  nutritional_facts:
+    calories: 250
+    total_fat_g: 12
+    saturated_fat_g: 5
+    cholesterol_mg: 15
+    sodium_mg: 100
+    total_carbohydrates_g: 32
+    dietary_fiber_g: 2.5
+    sugars_g: 15
+    protein_g: 4
+    estimated_serving_weight_g: 100
+  ingredients:
+    - 1 package (1 lb) Strudel dough (or frozen Filo pastry)
+    - 4 medium Granny Smith apples (thinly sliced)
+    - 1/2 cup Breadcrumbs (toasted in 2 tbsp butter)
+    - '1/4 cup Raisins (soaked in 1 tbsp rum, optional)'
+    - 1 tsp Ground Cinnamon
+    - 1/2 cup Granulated Sugar
+    - '1/2 cup Unsalted butter (melted, for brushing)'
+apple:
+  id: 1
+  name: 'Apple (Medium, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 medium apple (182g)
+  nutritional_facts:
+    calories: 95
+    total_fat_g: 0.3
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 2
+    total_carbohydrates_g: 25.1
+    dietary_fiber_g: 4.4
+    sugars_g: 18.9
+    protein_g: 0.5
+    vitamin_e_mg: 6.8
+    vitamin_c_mg: 8.4
+apple_crumble:
+  id: 134
+  name: Vegan Apple Crumble (6 Servings)
+  type: Dessert/Pastry (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 180g)
+  nutritional_facts:
+    calories: 320
+    total_fat_g: 14
+    saturated_fat_g: 8
+    cholesterol_mg: 0
+    sodium_mg: 100
+    total_carbohydrates_g: 45
+    dietary_fiber_g: 4.5
+    sugars_g: 25
+    protein_g: 3
+    estimated_serving_weight_g: 180
+  ingredients:
+    - 4 cups Diced apples
+    - 1 tsp Ground cinnamon (for apples)
+    - 1 tbsp Lemon juice (for apples)
+    - 1 cup All-purpose flour (for topping)
+    - 1 cup Rolled oats (for topping)
+    - '1/2 cup Brown sugar (packed, for topping)'
+    - '1/2 cup Vegan butter (cubed, for topping)'
+apple_fritters:
+  id: 165
+  name: Vegan Apple Fritters (8 Fritters)
+  type: Fried Dough (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 fritter (approx. 100g)
+  nutritional_facts:
+    calories: 320
+    total_fat_g: 15
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 250
+    total_carbohydrates_g: 42
+    dietary_fiber_g: 2
+    sugars_g: 20
+    protein_g: 4
+    estimated_serving_weight_g: 100
+  ingredients:
+    - 1 1/2 cups All-purpose flour
+    - 1/4 cup Granulated sugar
+    - 2 tsp Baking powder
+    - 1/2 tsp Ground Cinnamon
+    - 1/4 tsp Salt
+    - 1/2 cup Vegan milk
+    - 1 tbsp Apple cider vinegar
+    - 1 cup Diced apples (peeled)
+    - 3 cups Vegetable oil (for frying)
+apricot:
+  id: 15
+  name: Apricot (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 3 medium fruits (106g)
+  nutritional_facts:
+    calories: 51
+    total_fat_g: 0.4
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 11.9
+    dietary_fiber_g: 2.2
+    sugars_g: 9.2
+    protein_g: 1.1
+    iron_mg: 2.4
+    vitamin_c_mg: 10.1
+avocado:
+  id: 309
+  name: 'Avocado (Hass, Cubed)'
+  type: Basic Food Item (Healthy Fat)
+  is_recipe: false
+  unit_of_measure: 1/3 medium (50g)
+  nutritional_facts:
+    calories: 80
+    total_fat_g: 7.3
+    saturated_fat_g: 1
+    cholesterol_mg: 0
+    sodium_mg: 4
+    total_carbohydrates_g: 4.2
+    dietary_fiber_g: 3.4
+    sugars_g: 0.2
+    protein_g: 1
+babka:
+  id: 175
+  name: 'Vegan Babka (Chocolate Filling, 1 Loaf)'
+  type: Yeast Dough/Cake (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 85g)
+  nutritional_facts:
+    calories: 350
+    total_fat_g: 18
+    saturated_fat_g: 9
+    cholesterol_mg: 0
+    sodium_mg: 120
+    total_carbohydrates_g: 40
+    dietary_fiber_g: 2.5
+    sugars_g: 22
+    protein_g: 5
+    estimated_serving_weight_g: 85
+  ingredients:
+    - 3 cups All-purpose flour
+    - 1 tbsp Instant dry yeast
+    - 1 cup Warm vegan milk
+    - 1/4 cup Granulated sugar (for dough)
+    - 1/2 cup Vegan butter (softened)
+    - 1/2 tsp Salt
+    - 'Filling: 1/2 cup Vegan chocolate chips (melted with 2 tbsp vegan butter)'
+    - 'Filling: 1/4 cup Powdered sugar'
+    - 'Filling: 2 tbsp Cocoa powder'
+baked_tofu_peanut_sauce:
+  id: 211
+  name: Crispy Baked Tofu with Peanut Sauce (4 Servings)
+  type: Main Dish (Tofu)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 200g)
+  nutritional_facts:
+    calories: 400
+    total_fat_g: 25
+    saturated_fat_g: 4
+    cholesterol_mg: 0
+    sodium_mg: 550
+    total_carbohydrates_g: 20
+    dietary_fiber_g: 4
+    sugars_g: 8
+    protein_g: 35
+    estimated_serving_weight_g: 200
+  ingredients:
+    - 1 block (14 oz) Extra-firm tofu (pressed and cubed)
+    - 2 tbsp Cornstarch (for coating)
+    - 1 tbsp Soy sauce or Tamari
+    - 1 tsp Garlic powder
+    - 'Sauce: 1/4 cup Peanut butter (natural)'
+    - 'Sauce: 2 tbsp Tamari/Soy sauce'
+    - 'Sauce: 1 tbsp Maple syrup or agave'
+    - 'Sauce: 1 tbsp Rice vinegar'
+    - 'Sauce: 2 tbsp Water (for thinning)'
+baked_ziti:
+  id: 239
+  name: Creamy Vegan Baked Ziti (6 Servings)
+  type: Baked Pasta Dish
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 400g)
+  nutritional_facts:
+    calories: 500
+    total_fat_g: 18
+    saturated_fat_g: 5
+    cholesterol_mg: 0
+    sodium_mg: 600
+    total_carbohydrates_g: 60
+    dietary_fiber_g: 8
+    sugars_g: 8
+    protein_g: 25
+    estimated_serving_weight_g: 400
+  ingredients:
+    - 1 lb Ziti or penne pasta (dry)
+    - '1 batch Vegan Ricotta (from ID 231, minus the spinach)'
+    - 4 cups Marinara sauce (vegan)
+    - 1 cup Vegan shredded mozzarella (divided)
+    - 1 cup Vegetable broth (for creaminess)
+    - 1 tsp Dried basil and oregano
+banana:
+  id: 307
+  name: Medium Banana (Raw)
+  type: Basic Food Item (Fruit)
+  is_recipe: false
+  unit_of_measure: 1 medium banana (118g)
+  nutritional_facts:
+    calories: 105
+    total_fat_g: 0.3
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 1
+    total_carbohydrates_g: 27
+    dietary_fiber_g: 3.1
+    sugars_g: 14.4
+    protein_g: 1.3
+banana_bread:
+  id: 136
+  name: Vegan Banana Bread (9x5 Loaf)
+  type: Quick Bread/Loaf (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 80g)
+  nutritional_facts:
+    calories: 240
+    total_fat_g: 9
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 180
+    total_carbohydrates_g: 38
+    dietary_fiber_g: 1.5
+    sugars_g: 18
+    protein_g: 3
+    estimated_serving_weight_g: 80
+  ingredients:
+    - 3 large Ripe bananas (mashed)
+    - 2 cups All-purpose flour
+    - 1 tsp Baking soda
+    - 1/4 tsp Salt
+    - 1/2 cup Vegetable oil or melted vegan butter
+    - 3/4 cup Granulated sugar
+    - 1/4 cup Vegan milk
+    - 1 tsp Vanilla extract
+    - 1 tbsp Apple cider vinegar
+basic_sweet_yeast_dough:
+  id: 171
+  name: Vegan Basic Sweet Yeast Dough (for Rolls/Buns)
+  type: Yeast Dough (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 roll (approx. 80g)
+  nutritional_facts:
+    calories: 230
+    total_fat_g: 7
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 200
+    total_carbohydrates_g: 37
+    dietary_fiber_g: 1.5
+    sugars_g: 8
+    protein_g: 5
+    estimated_serving_weight_g: 80
+  ingredients:
+    - 3 1/2 cups All-purpose flour
+    - 2 1/4 tsp Active dry yeast
+    - '1 cup Warm vegan milk (e.g., soy or almond)'
+    - 1/4 cup Granulated sugar
+    - 1/4 cup Vegan butter (melted and cooled)
+    - 1 tsp Vanilla extract
+    - 1/2 tsp Salt
+    - 2 tbsp Applesauce or Aquafaba (for enrichment)
+bean_soup:
+  id: 189
+  name: Three-Bean and Vegetable Soup (8 Servings)
+  type: Soup (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 bowl (approx. 300g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 3
+    saturated_fat_g: 0.5
+    cholesterol_mg: 0
+    sodium_mg: 380
+    total_carbohydrates_g: 48
+    dietary_fiber_g: 15
+    sugars_g: 6
+    protein_g: 16
+    estimated_serving_weight_g: 300
+  ingredients:
+    - 1 tbsp Olive oil
+    - 1 large Onion (chopped)
+    - 2 medium Carrots (sliced)
+    - 2 stalks Celery (sliced)
+    - 6 cups Vegetable broth
+    - 1 (15 oz) can Kidney beans (rinsed)
+    - 1 (15 oz) can Pinto beans (rinsed)
+    - 1 (15 oz) can Navy beans (rinsed)
+    - 1 (14.5 oz) can Diced tomatoes
+    - 1 tsp Dried basil
+    - 1 cup Frozen green beans or peas
+beignets:
+  id: 179
+  name: 'Vegan Beignets (Raised Dough, 16 Squares)'
+  type: Fried Yeast Dough (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 beignet (approx. 40g)
+  nutritional_facts:
+    calories: 180
+    total_fat_g: 10
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 100
+    total_carbohydrates_g: 20
+    dietary_fiber_g: 0.5
+    sugars_g: 3
+    protein_g: 3
+    estimated_serving_weight_g: 40
+  ingredients:
+    - 3 cups All-purpose flour
+    - 2 1/4 tsp Instant dry yeast
+    - 1 1/2 cups Warm vegan milk (or water)
+    - 1/4 cup Granulated sugar
+    - 1/2 tsp Salt
+    - 2 tbsp Vegan shortening or butter (melted)
+    - 4 cups Vegetable oil (for frying)
+    - 1 cup Powdered sugar (for dusting)
+beyond_burger_patty:
+  id: 221
+  name: Vegan Beyond/Impossible Burger Patty (4 Servings)
+  type: Famous Adaptation (Burger)
+  is_recipe: true
+  unit_of_measure: 1 patty (approx. 140g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 20
+    saturated_fat_g: 5
+    cholesterol_mg: 0
+    sodium_mg: 400
+    total_carbohydrates_g: 10
+    dietary_fiber_g: 3
+    sugars_g: 1
+    protein_g: 25
+    estimated_serving_weight_g: 140
+  ingredients:
+    - 1 cup Soy protein isolate or Pea protein powder
+    - 1/2 cup Cooked brown rice (binder)
+    - '1/4 cup Beets (cooked, pureed, for color)'
+    - 1 tbsp Nutritional yeast
+    - 1 tsp Liquid smoke (optional)
+    - 1/2 tsp Beet powder (for extra red color)
+    - 1/4 cup Oil (coconut or vegetable)
+    - 1 tsp Onion powder
+    - 1/4 cup Water or vegetable broth (as needed)
+black_bean_chili:
+  id: 185
+  name: 'Black Bean Chili (Slow Cooker, 8 Servings)'
+  type: Chili/Stew (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 cup (approx. 250g)
+  nutritional_facts:
+    calories: 320
+    total_fat_g: 4
+    saturated_fat_g: 0.5
+    cholesterol_mg: 0
+    sodium_mg: 350
+    total_carbohydrates_g: 55
+    dietary_fiber_g: 18
+    sugars_g: 7
+    protein_g: 18
+    estimated_serving_weight_g: 250
+  ingredients:
+    - 3 (15 oz) cans Black beans (rinsed and drained)
+    - 1 (28 oz) can Crushed tomatoes
+    - 1 large Onion (chopped)
+    - 1 medium Bell pepper (chopped)
+    - 2 cups Vegetable broth
+    - 1/2 cup Corn (frozen)
+    - 2 tbsp Chili powder
+    - 1 tbsp Ground cumin
+    - 1/2 tsp Cayenne pepper (optional)
+    - '1 tbsp Cocoa powder (unsweetened, for depth)'
+black_bean_sweet_potato_burgers:
+  id: 242
+  name: Hearty Black Bean and Sweet Potato Burgers (4 Patties)
+  type: Main Dish (Vegetable/Legume Burger)
+  is_recipe: true
+  unit_of_measure: 1 patty (approx. 150g)
+  nutritional_facts:
+    calories: 320
+    total_fat_g: 8
+    saturated_fat_g: 1
+    cholesterol_mg: 0
+    sodium_mg: 400
+    total_carbohydrates_g: 50
+    dietary_fiber_g: 12
+    sugars_g: 6
+    protein_g: 15
+    estimated_serving_weight_g: 150
+  ingredients:
+    - '1 (15 oz) can Black beans (rinsed, drained, partially mashed)'
+    - 1/2 cup Cooked sweet potato (mashed)
+    - 1/4 cup Oat flour or chickpea flour (for binding)
+    - 1 tbsp Cumin
+    - 1 tsp Smoked paprika
+    - '1/2 cup Cooked brown rice (optional, for texture)'
+    - 2 tbsp Nutritional yeast
+    - '1/4 cup Cilantro (chopped, optional)'
+black_beans:
+  id: 301
+  name: Canned Black Beans (Rinsed)
+  type: Basic Food Item (Protein)
+  is_recipe: false
+  unit_of_measure: 1/2 cup (130g)
+  nutritional_facts:
+    calories: 114
+    total_fat_g: 0.5
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 180
+    total_carbohydrates_g: 20.4
+    dietary_fiber_g: 8.3
+    sugars_g: 0.3
+    protein_g: 7.6
+blackberry:
+  id: 12
+  name: Blackberry (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup (144g)
+  nutritional_facts:
+    calories: 62
+    total_fat_g: 0.7
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 1
+    total_carbohydrates_g: 13.8
+    dietary_fiber_g: 7.6
+    sugars_g: 7
+    protein_g: 2
+    calcium_mg: 88
+    vitamin_c_mg: 30.2
+blueberry:
+  id: 5
+  name: Blueberry (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup (148g)
+  nutritional_facts:
+    calories: 84
+    total_fat_g: 0.5
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 1
+    total_carbohydrates_g: 21.4
+    dietary_fiber_g: 3.6
+    sugars_g: 14.7
+    protein_g: 1.1
+    magnesium_mg: 83
+    vitamin_c_mg: 14.4
+blueberry_baked_oatmeal:
+  id: 255
+  name: Vegan Blueberry Baked Oatmeal (4 Servings)
+  type: Baked Breakfast/Dessert (Oatmeal)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 200g)
+  nutritional_facts:
+    calories: 300
+    total_fat_g: 10
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 150
+    total_carbohydrates_g: 45
+    dietary_fiber_g: 6
+    sugars_g: 15
+    protein_g: 8
+    estimated_serving_weight_g: 200
+  ingredients:
+    - 2 cups Rolled oats
+    - '2 cups Vegan milk (e.g., almond or soy)'
+    - 1/4 cup Maple syrup or agave
+    - 1/4 cup Applesauce (or mashed banana)
+    - 1 tsp Baking powder
+    - 1 tsp Vanilla extract
+    - 1/2 tsp Cinnamon
+    - 1 cup Fresh or frozen blueberries
+blueberry_scones:
+  id: 182
+  name: 'Vegan Scones (Lemon Blueberry, 8 Scones)'
+  type: Baked Good (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 scone (approx. 80g)
+  nutritional_facts:
+    calories: 250
+    total_fat_g: 10
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 200
+    total_carbohydrates_g: 35
+    dietary_fiber_g: 2
+    sugars_g: 12
+    protein_g: 4
+    estimated_serving_weight_g: 80
+  ingredients:
+    - 1 tbsp Coconut oil
+    - 1 medium Onion (chopped)
+    - 2 cloves Garlic (minced)
+    - 1 tbsp Ginger (grated)
+    - 2 tbsp Curry powder
+    - 1 tsp Turmeric
+    - 1 (13.5 oz) can Full-fat coconut milk
+    - 1 (15 oz) can Chickpeas (drained and rinsed)
+    - 1 (14.5 oz) can Diced tomatoes (undrained)
+    - '2 cups Chopped mixed vegetables (e.g., sweet potato, spinach)'
+    - 1/2 cup Vegetable broth
+    - 2 cups All-purpose flour
+    - 1/4 cup Granulated sugar
+    - 1 tbsp Baking powder
+    - 1/2 tsp Salt
+    - '1/2 cup Vegan butter (cold, cubed)'
+    - 3/4 cup Vegan milk (plus extra for brushing)
+    - Zest of 1 Lemon
+    - 1 cup Fresh or frozen blueberries
+bratkartoffel_sausage:
+  id: 194
+  name: Bratkartoffeln Skillet with Vegan Sausage (4 Servings)
+  type: 'One-Pot/Skillet (Vegan, German Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 350g)
+  nutritional_facts:
+    calories: 490
+    total_fat_g: 25
+    saturated_fat_g: 5
+    cholesterol_mg: 0
+    sodium_mg: 700
+    total_carbohydrates_g: 50
+    dietary_fiber_g: 8
+    sugars_g: 3
+    protein_g: 22
+    estimated_serving_weight_g: 350
+  ingredients:
+    - 4 medium Potatoes (cooked and sliced or cubed)
+    - 1 tbsp Vegetable oil
+    - 8 oz Vegan smoked sausage (sliced)
+    - 1 large Onion (sliced)
+    - 1/2 cup Vegetable broth (for deglazing)
+    - 1 tsp Dried marjoram
+    - 1/4 cup Fresh parsley (chopped)
+    - To taste Salt and fresh black pepper
+breadfruit:
+  id: 48
+  name: Breadfruit (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup diced (160g)
+  nutritional_facts:
+    calories: 227
+    total_fat_g: 0.5
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 3
+    total_carbohydrates_g: 59.8
+    dietary_fiber_g: 10.8
+    sugars_g: 11.2
+    protein_g: 2.4
+    copper_mg: 0.6
+    vitamin_c_mg: 64
+brioche:
+  id: 174
+  name: Vegan Brioche (Rich Loaf)
+  type: Yeast Bread (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 60g)
+  nutritional_facts:
+    calories: 260
+    total_fat_g: 15
+    saturated_fat_g: 9
+    cholesterol_mg: 0
+    sodium_mg: 150
+    total_carbohydrates_g: 25
+    dietary_fiber_g: 1
+    sugars_g: 5
+    protein_g: 5
+    estimated_serving_weight_g: 60
+  ingredients:
+    - 3 1/2 cups Bread flour
+    - 2 1/4 tsp Instant dry yeast
+    - 1/2 cup Warm vegan milk
+    - 1/4 cup Granulated sugar
+    - 1 cup (2 sticks) Vegan butter sticks (very soft)
+    - 1/2 cup Applesauce (for richness and egg replacement)
+    - 1 tsp Salt
+    - 1 tbsp Vanilla extract
+brown_rice:
+  id: 312
+  name: Uncooked Brown Rice (Long Grain)
+  type: Basic Food Item (Grain)
+  is_recipe: false
+  unit_of_measure: 1/4 cup dry (45g)
+  nutritional_facts:
+    calories: 160
+    total_fat_g: 1.5
+    saturated_fat_g: 0.3
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 34
+    dietary_fiber_g: 2
+    sugars_g: 0
+    protein_g: 3
+brown_sugar_shortbread:
+  id: 257
+  name: Vegan Brown Sugar Shortbread (16 Cookies)
+  type: Cookie (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 cookie (approx. 35g)
+  nutritional_facts:
+    calories: 150
+    total_fat_g: 9
+    saturated_fat_g: 5
+    cholesterol_mg: 0
+    sodium_mg: 70
+    total_carbohydrates_g: 16
+    dietary_fiber_g: 0.5
+    sugars_g: 8
+    protein_g: 1
+    estimated_serving_weight_g: 35
+  ingredients:
+    - 2 cups All-purpose flour
+    - '1 cup Vegan butter (cold, cubed)'
+    - 1/2 cup Brown sugar (packed)
+    - 1/4 tsp Salt
+    - 1/2 tsp Vanilla extract
+brownies:
+  id: 138
+  name: 'Vegan Brownies (Fudgy, 8x8 Pan)'
+  type: Bar/Square (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 square (approx. 60g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 15
+    saturated_fat_g: 5
+    cholesterol_mg: 0
+    sodium_mg: 120
+    total_carbohydrates_g: 35
+    dietary_fiber_g: 2.5
+    sugars_g: 25
+    protein_g: 3
+    estimated_serving_weight_g: 60
+  ingredients:
+    - 1/2 cup Vegan butter (melted)
+    - 3/4 cup Unsweetened cocoa powder
+    - 1 1/2 cups Granulated sugar
+    - 1/2 cup Applesauce (unsweetened)
+    - 1 tbsp Vanilla extract
+    - 1 cup All-purpose flour
+    - 1/2 tsp Salt
+    - 1/2 cup Vegan chocolate chips
+buffalo_cauliflower_wings:
+  id: 225
+  name: Vegan Buffalo Cauliflower Wings (4 Servings)
+  type: Famous Snack/Appetizer (Vegetable)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 150g)
+  nutritional_facts:
+    calories: 250
+    total_fat_g: 15
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 600
+    total_carbohydrates_g: 25
+    dietary_fiber_g: 5
+    sugars_g: 5
+    protein_g: 5
+    estimated_serving_weight_g: 150
+  ingredients:
+    - 1 head Cauliflower (cut into florets)
+    - 'Batter: 1 cup All-purpose flour'
+    - 'Batter: 1 cup Vegan milk'
+    - 'Batter: 1 tsp Garlic powder'
+    - 'Sauce: 1/2 cup Buffalo hot sauce'
+    - 'Sauce: 2 tbsp Vegan butter (melted)'
+    - 'To serve: Vegan ranch dressing (not included in count)'
+buttermilk_biscuit:
+  id: 61
+  name: Basic Buttermilk Biscuit (12 Biscuits)
+  type: Quick Bread
+  is_recipe: true
+  unit_of_measure: 1 biscuit (approx. 60g)
+  nutritional_facts:
+    calories: 180
+    total_fat_g: 9
+    saturated_fat_g: 5
+    cholesterol_mg: 15
+    sodium_mg: 300
+    total_carbohydrates_g: 20
+    dietary_fiber_g: 0.8
+    sugars_g: 1
+    protein_g: 4
+    estimated_serving_weight_g: 60
+  ingredients:
+    - 2 cups All-purpose flour
+    - 1 tbsp Baking powder
+    - 1/2 tsp Baking soda
+    - 1 tsp Salt
+    - 1/2 cup (1 stick) Cold butter (cut into cubes)
+    - 3/4 cup Cold buttermilk
+cacio_e_pepe:
+  id: 237
+  name: Vegan Cacio e Pepe (4 Servings)
+  type: Pasta Dish (Minimalist)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 250g)
+  nutritional_facts:
+    calories: 420
+    total_fat_g: 18
+    saturated_fat_g: 4
+    cholesterol_mg: 0
+    sodium_mg: 400
+    total_carbohydrates_g: 50
+    dietary_fiber_g: 3
+    sugars_g: 1
+    protein_g: 12
+    estimated_serving_weight_g: 250
+  ingredients:
+    - 10 oz Spaghetti or tonnarelli (dry)
+    - 'Sauce: 1/2 cup Raw cashews (soaked and blended smooth)'
+    - 'Sauce: 1/4 cup Pasta water (reserved)'
+    - 'Sauce: 1/4 cup Nutritional yeast'
+    - 'Sauce: 1 tbsp Vegan butter'
+    - 'Sauce: 1 tbsp Olive oil'
+    - 'Sauce: 2 tsp Coarsely ground black pepper'
+    - 'Sauce: 1/4 tsp Salt'
+caesar_salad_dressing:
+  id: 224
+  name: Vegan Caesar Salad Dressing (Small Batch)
+  type: Famous Component (Dressing)
+  is_recipe: true
+  unit_of_measure: 2 tbsp (approx. 30g)
+  nutritional_facts:
+    calories: 100
+    total_fat_g: 9
+    saturated_fat_g: 1
+    cholesterol_mg: 0
+    sodium_mg: 200
+    total_carbohydrates_g: 4
+    dietary_fiber_g: 1
+    sugars_g: 1
+    protein_g: 3
+    estimated_serving_weight_g: 30
+  ingredients:
+    - 1/2 cup Raw cashews (soaked)
+    - 1/4 cup Water
+    - 2 tbsp Nutritional yeast
+    - 2 tbsp Lemon juice (fresh)
+    - 1 tbsp Capers (or 1 tsp caper brine)
+    - 1 tsp Dijon mustard
+    - 1 clove Garlic (minced)
+    - 1 tsp Vegan Worcestershire sauce (or tamari/soy sauce)
+    - 1/4 tsp Black pepper
+calzones:
+  id: 236
+  name: Mushroom and Spinach Calzones (4 Calzones)
+  type: Baked Dish (Pizza Variant)
+  is_recipe: true
+  unit_of_measure: 1 calzone (approx. 350g)
+  nutritional_facts:
+    calories: 480
+    total_fat_g: 18
+    saturated_fat_g: 5
+    cholesterol_mg: 0
+    sodium_mg: 650
+    total_carbohydrates_g: 55
+    dietary_fiber_g: 7
+    sugars_g: 8
+    protein_g: 25
+    estimated_serving_weight_g: 350
+  ingredients:
+    - 1 batch Vegan Pizza Dough (divided into 4)
+    - 'Filling: 1 cup Vegan ricotta (from ID 231)'
+    - 'Filling: 1 cup Sautéed mushrooms and spinach'
+    - 'Filling: 1/2 cup Vegan shredded mozzarella (optional)'
+    - 'Sauce: 1 cup Marinara sauce (for dipping)'
+canaloupe:
+  id: 25
+  name: Cantaloupe (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup diced (177g)
+  nutritional_facts:
+    calories: 60
+    total_fat_g: 0.3
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 28
+    total_carbohydrates_g: 14.4
+    dietary_fiber_g: 1.6
+    sugars_g: 13.9
+    protein_g: 1.5
+    vitamin_c_mg: 67.2
+caramel_sauce:
+  id: 170
+  name: Vegan Caramel Sauce (Basic Batch)
+  type: Sauce/Component (Vegan)
+  is_recipe: true
+  unit_of_measure: 2 tbsp (approx. 30g)
+  nutritional_facts:
+    calories: 120
+    total_fat_g: 7
+    saturated_fat_g: 6
+    cholesterol_mg: 0
+    sodium_mg: 15
+    total_carbohydrates_g: 14
+    dietary_fiber_g: 0
+    sugars_g: 14
+    protein_g: 0
+    estimated_serving_weight_g: 30
+  ingredients:
+    - 1 cup Granulated sugar
+    - 1/2 cup Water
+    - 1/2 cup Full-fat canned coconut milk (room temp)
+    - 2 tbsp Vegan butter
+    - 1/2 tsp Vanilla extract
+    - 1/4 tsp Salt
+carbonara:
+  id: 240
+  name: Vegan Carbonara (4 Servings)
+  type: Pasta Dish (Creamy)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 300g)
+  nutritional_facts:
+    calories: 550
+    total_fat_g: 30
+    saturated_fat_g: 6
+    cholesterol_mg: 0
+    sodium_mg: 550
+    total_carbohydrates_g: 50
+    dietary_fiber_g: 5
+    sugars_g: 3
+    protein_g: 22
+    estimated_serving_weight_g: 300
+  ingredients:
+    - 10 oz Spaghetti or linguine (dry)
+    - 1/2 cup Raw cashews (soaked and blended with 1/2 cup water)
+    - 1/4 cup Nutritional yeast
+    - 1/2 tsp Turmeric (for color)
+    - '1/4 tsp Kala Namak (black salt, for ''egg'' flavor)'
+    - 1 tbsp Olive oil
+    - 4 oz Smoked tofu or tempeh bacon (diced and crispy)
+    - 1 tsp Coarse black pepper
+carrot_cake:
+  id: 137
+  name: Vegan Carrot Cake (Basic Batter)
+  type: Loaf/Layer Cake (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 85g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 15
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 200
+    total_carbohydrates_g: 34
+    dietary_fiber_g: 2.5
+    sugars_g: 18
+    protein_g: 3.5
+    estimated_serving_weight_g: 85
+  ingredients:
+    - 1 3/4 cups All-purpose flour
+    - 1 cup Shredded carrots
+    - 2 tsp Ground Cinnamon
+    - 1 tsp Baking soda
+    - 1/2 tsp Salt
+    - 1/2 cup Vegetable oil
+    - 1 1/2 cups Brown sugar (packed)
+    - '1/4 cup Applesauce (unsweetened, egg replacer)'
+    - 1/4 cup Vegan milk
+carrot_cake_muffins:
+  id: 259
+  name: Vegan Carrot Cake Muffins (12 Muffins)
+  type: 'Muffin/Cupcake (Vegan, Vegetable)'
+  is_recipe: true
+  unit_of_measure: 1 muffin (approx. 80g)
+  nutritional_facts:
+    calories: 260
+    total_fat_g: 12
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 180
+    total_carbohydrates_g: 35
+    dietary_fiber_g: 2.5
+    sugars_g: 18
+    protein_g: 4
+    estimated_serving_weight_g: 80
+  ingredients:
+    - 1 3/4 cups All-purpose flour
+    - 1 1/2 tsp Baking soda
+    - 1 tsp Cinnamon
+    - 1/2 cup Vegan milk
+    - '1/2 cup Neutral oil (e.g., canola or grapeseed)'
+    - 3/4 cup Brown sugar (packed)
+    - 1 cup Shredded carrots
+    - 1/2 cup Crushed pineapple (drained) or applesauce
+    - 1/4 cup Walnuts or pecans (chopped)
+cashew_cream_sauce:
+  id: 226
+  name: Vegan Cashew Cream Sauce (Basic Alfredo Style)
+  type: Famous Component (Sauce)
+  is_recipe: true
+  unit_of_measure: 1/2 cup (approx. 120g)
+  nutritional_facts:
+    calories: 320
+    total_fat_g: 28
+    saturated_fat_g: 5
+    cholesterol_mg: 0
+    sodium_mg: 150
+    total_carbohydrates_g: 15
+    dietary_fiber_g: 2
+    sugars_g: 2
+    protein_g: 8
+    estimated_serving_weight_g: 120
+  ingredients:
+    - 1 1/2 cups Raw cashews (soaked in boiling water for 30 minutes)
+    - '1 cup Water (fresh, for blending)'
+    - 1/4 cup Nutritional yeast
+    - 2 cloves Garlic
+    - 1 tsp Lemon juice (fresh)
+    - 1/2 tsp Salt and black pepper
+chana_masala:
+  id: 202
+  name: 'Vegan Indian Chana Masala (Chickpea Curry, 6 Servings)'
+  type: 'Curry (Vegan, Indian Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 serving curry (approx. 300g)
+  nutritional_facts:
+    calories: 350
+    total_fat_g: 8
+    saturated_fat_g: 1
+    cholesterol_mg: 0
+    sodium_mg: 450
+    total_carbohydrates_g: 55
+    dietary_fiber_g: 15
+    sugars_g: 9
+    protein_g: 18
+    estimated_serving_weight_g: 300
+  ingredients:
+    - 1 tbsp Vegetable oil
+    - 1 large Onion (chopped)
+    - 2 cloves Garlic (minced)
+    - 1 tbsp Ginger (grated)
+    - 1 tbsp Chana Masala spice blend
+    - 1 tsp Turmeric powder
+    - 2 (15 oz) cans Chickpeas (drained and rinsed)
+    - 1 (14.5 oz) can Crushed tomatoes
+    - 1/2 cup Water
+    - 1 tbsp Lemon juice (fresh)
+    - 1/4 cup Fresh cilantro (chopped)
+cheesy_garlic_bread:
+  id: 238
+  name: Vegan Cheesy Garlic Bread (8 Servings)
+  type: Side/Appetizer
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 70g)
+  nutritional_facts:
+    calories: 250
+    total_fat_g: 15
+    saturated_fat_g: 6
+    cholesterol_mg: 0
+    sodium_mg: 400
+    total_carbohydrates_g: 25
+    dietary_fiber_g: 2
+    sugars_g: 2
+    protein_g: 8
+    estimated_serving_weight_g: 70
+  ingredients:
+    - 1 loaf French or Italian bread (sliced lengthwise)
+    - 1/2 cup Vegan butter (softened)
+    - 4 cloves Garlic (minced)
+    - 1/4 cup Fresh parsley (chopped)
+    - 1 cup Vegan shredded mozzarella or cheddar blend
+cherry:
+  id: 16
+  name: 'Cherry (Sweet, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup with pits (138g)
+  nutritional_facts:
+    calories: 87
+    total_fat_g: 0.3
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 22
+    dietary_fiber_g: 2.9
+    sugars_g: 17.7
+    protein_g: 1.4
+    iron_mg: 8.8
+    vitamin_c_mg: 10.8
+chia_seeds:
+  id: 322
+  name: Chia Seeds
+  type: Basic Food Item (Fiber/Binder/Omega-3)
+  is_recipe: false
+  unit_of_measure: 1 tbsp (12g)
+  nutritional_facts:
+    calories: 60
+    total_fat_g: 3.8
+    saturated_fat_g: 0.4
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 5
+    dietary_fiber_g: 4.1
+    sugars_g: 0
+    protein_g: 2
+chickpea_spinach_stew:
+  id: 195
+  name: 'Spanish Chickpea and Spinach Stew (Garbanzos con Espinacas, 4 Servings)'
+  type: 'Stew (Vegan, Spanish Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 380g)
+  nutritional_facts:
+    calories: 390
+    total_fat_g: 12
+    saturated_fat_g: 1.5
+    cholesterol_mg: 0
+    sodium_mg: 480
+    total_carbohydrates_g: 55
+    dietary_fiber_g: 15
+    sugars_g: 5
+    protein_g: 18
+    estimated_serving_weight_g: 380
+  ingredients:
+    - 2 tbsp Olive oil
+    - 1 medium Onion (diced)
+    - 4 cloves Garlic (minced)
+    - 1 tsp Ground cumin
+    - 1 tsp Smoked paprika
+    - 1/4 tsp Cayenne pepper (optional)
+    - 1 (15 oz) can Diced tomatoes (undrained)
+    - 2 (15 oz) cans Chickpeas (drained and rinsed)
+    - 1/2 cup Vegetable broth
+    - 5 oz Fresh spinach (large handfuls)
+chickpea_tuna_salad_sandwich_filling:
+  id: 223
+  name: Vegan Chickpea Tuna Salad Sandwich Filling (4 Servings)
+  type: Famous Adaptation (Sandwich)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 150g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 15
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 400
+    total_carbohydrates_g: 25
+    dietary_fiber_g: 6
+    sugars_g: 5
+    protein_g: 10
+    estimated_serving_weight_g: 150
+  ingredients:
+    - 2 (15 oz) cans Chickpeas (drained and mashed/crushed)
+    - 1/4 cup Vegan mayonnaise
+    - 1/4 cup Celery (finely diced)
+    - 2 tbsp Red onion (finely diced)
+    - 1 tbsp Lemon juice (fresh)
+    - 1 tsp Dijon mustard
+    - 1 tsp Kelp granules or dulse flakes (for sea flavor)
+    - 1/4 tsp Salt and black pepper
+chickpeas:
+  id: 302
+  name: 'Chickpeas (Canned, Rinsed)'
+  type: Basic Food Item (Protein)
+  is_recipe: false
+  unit_of_measure: 1/2 cup (125g)
+  nutritional_facts:
+    calories: 134
+    total_fat_g: 2.1
+    saturated_fat_g: 0.2
+    cholesterol_mg: 0
+    sodium_mg: 280
+    total_carbohydrates_g: 22.5
+    dietary_fiber_g: 6.3
+    sugars_g: 3.9
+    protein_g: 7.1
+chocolate_chip_cookie:
+  id: 141
+  name: Vegan Chocolate Chip Cookie (2 Dozen)
+  type: Cookie (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 cookie (approx. 35g)
+  nutritional_facts:
+    calories: 170
+    total_fat_g: 9
+    saturated_fat_g: 4.5
+    cholesterol_mg: 0
+    sodium_mg: 100
+    total_carbohydrates_g: 22
+    dietary_fiber_g: 0.8
+    sugars_g: 13
+    protein_g: 1.5
+    estimated_serving_weight_g: 35
+  ingredients:
+    - 2 1/4 cups All-purpose flour
+    - 1 tsp Baking soda
+    - 1/2 tsp Salt
+    - 1 cup (2 sticks) Vegan butter sticks (softened)
+    - 3/4 cup Brown sugar (packed)
+    - 3/4 cup Granulated sugar
+    - '1/4 cup Applesauce (unsweetened, egg replacer)'
+    - 1 tsp Vanilla extract
+    - 12 oz Vegan semi-sweet chocolate chips
+chocolate_chip_cookies:
+  id: 184
+  name: 'Vegan Chocolate Chip Cookies (Soft & Chewy, 3 Dozen)'
+  type: Cookie (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 cookie (approx. 30g)
+  nutritional_facts:
+    calories: 150
+    total_fat_g: 8
+    saturated_fat_g: 4.5
+    cholesterol_mg: 0
+    sodium_mg: 100
+    total_carbohydrates_g: 20
+    dietary_fiber_g: 1
+    sugars_g: 12
+    protein_g: 2
+    estimated_serving_weight_g: 30
+  ingredients:
+    - 1 block (14 oz) Extra-firm tofu (pressed and crumbled)
+    - 1 tbsp Olive oil
+    - 1 medium Onion (diced)
+    - 2 cups Vegetable broth
+    - 1 (14.5 oz) can Crushed tomatoes
+    - '8 oz Whole wheat pasta (e.g., rotini or penne)'
+    - 1 tbsp Nutritional yeast
+    - 1 tsp Dried oregano
+    - 1/2 cup Fresh basil (chopped)
+    - 1 1/4 cups All-purpose flour
+    - 1/2 tsp Baking soda
+    - 1/4 tsp Salt
+    - 1/2 cup Vegan butter (softened)
+    - 1/2 cup Brown sugar (packed)
+    - 1/4 cup Granulated sugar
+    - 1/4 cup Vegan milk
+    - 1 tsp Vanilla extract
+    - 1 cup Vegan chocolate chips
+chocolate_chip_oatmeal_bars:
+  id: 260
+  name: Vegan Chocolate Chip Oatmeal Bars (12 Bars)
+  type: 'Bar/Square (Vegan, Oatmeal)'
+  is_recipe: true
+  unit_of_measure: 1 bar (approx. 70g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 13
+    saturated_fat_g: 7
+    cholesterol_mg: 0
+    sodium_mg: 120
+    total_carbohydrates_g: 38
+    dietary_fiber_g: 3
+    sugars_g: 18
+    protein_g: 4
+    estimated_serving_weight_g: 70
+  ingredients:
+    - 1 cup All-purpose flour
+    - 1 cup Rolled oats
+    - 1/2 cup Vegan butter (softened)
+    - 1/2 cup Brown sugar (packed)
+    - 1/4 cup Applesauce
+    - 1 tsp Baking powder
+    - 1 tsp Vanilla extract
+    - 3/4 cup Vegan chocolate chips
+chocolate_lava_cake:
+  id: 110
+  name: Chocolate Lava Cake (4 Servings)
+  type: Dessert/Cake
+  is_recipe: true
+  unit_of_measure: 1 small cake (approx. 100g)
+  nutritional_facts:
+    calories: 350
+    total_fat_g: 25
+    saturated_fat_g: 14
+    cholesterol_mg: 120
+    sodium_mg: 40
+    total_carbohydrates_g: 28
+    dietary_fiber_g: 2
+    sugars_g: 20
+    protein_g: 7
+    estimated_serving_weight_g: 100
+  ingredients:
+    - 4 oz Dark chocolate (chopped)
+    - 1/2 cup (1 stick) Butter
+    - 2 large Eggs
+    - 2 large Egg yolks
+    - 1/4 cup Granulated sugar
+    - 2 tbsp All-purpose flour
+chocolate_mug_cake:
+  id: 148
+  name: Vegan Chocolate Mug Cake (1 Serving)
+  type: Single-Serving Cake (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 cake (approx. 100g)
+  nutritional_facts:
+    calories: 350
+    total_fat_g: 18
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 250
+    total_carbohydrates_g: 45
+    dietary_fiber_g: 2
+    sugars_g: 20
+    protein_g: 5
+    estimated_serving_weight_g: 100
+  ingredients:
+    - 1/4 cup All-purpose flour
+    - 2 tbsp Granulated sugar
+    - 1 tbsp Unsweetened cocoa powder
+    - 1/4 tsp Baking powder
+    - 1/4 cup Vegan milk
+    - 2 tbsp Vegetable oil
+    - 1/2 tsp Vanilla extract
+choux_pastry:
+  id: 84
+  name: Basic Éclairs/Choux Pastry (12 Pieces)
+  type: Dough/Pastry
+  is_recipe: true
+  unit_of_measure: 1 portion dough (approx. 20g)
+  nutritional_facts:
+    calories: 60
+    total_fat_g: 4
+    saturated_fat_g: 2.5
+    cholesterol_mg: 30
+    sodium_mg: 20
+    total_carbohydrates_g: 5
+    dietary_fiber_g: 0.1
+    sugars_g: 0.5
+    protein_g: 1.5
+    estimated_serving_weight_g: 20
+  ingredients:
+    - 1/2 cup Water
+    - 1/4 cup (1/2 stick) Butter
+    - 1/4 tsp Salt
+    - 1/2 cup All-purpose flour
+    - 2 large Eggs (plus 1 extra for testing consistency)
+cinnamon:
+  id: 326
+  name: Ground Cinnamon
+  type: Basic Food Item (Spice)
+  is_recipe: false
+  unit_of_measure: 1 tsp (2.6g)
+  nutritional_facts:
+    calories: 6
+    total_fat_g: 0
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 2.1
+    dietary_fiber_g: 1.4
+    sugars_g: 0
+    protein_g: 0.1
+cinnamon_roll:
+  id: 81
+  name: 'Cinnamon Roll (Basic Dough, 12 Rolls)'
+  type: Sweet Roll
+  is_recipe: true
+  unit_of_measure: 1 roll (approx. 100g)
+  nutritional_facts:
+    calories: 300
+    total_fat_g: 14
+    saturated_fat_g: 8
+    cholesterol_mg: 50
+    sodium_mg: 250
+    total_carbohydrates_g: 38
+    dietary_fiber_g: 1.5
+    sugars_g: 15
+    protein_g: 5
+    estimated_serving_weight_g: 100
+  ingredients:
+    - 2 1/2 cups All-purpose flour
+    - 1 packet (2 1/4 tsp) Active dry yeast
+    - 1/2 cup Warm milk
+    - 1/4 cup Granulated sugar
+    - 1 large Egg
+    - '1/4 cup (1/2 stick) Butter (melted, for dough)'
+    - 1/4 tsp Salt
+    - 'Filling: 1/2 cup Butter (softened)'
+    - 'Filling: 3/4 cup Brown sugar'
+    - 'Filling: 2 tbsp Cinnamon'
+    - 'Icing: 1 cup Powdered sugar'
+    - 'Icing: 2 tbsp Milk'
+    - 'Icing: 1/2 tsp Vanilla'
+cinnamon_rolls:
+  id: 139
+  name: 'Vegan Cinnamon Rolls (Small Batch, 6 Rolls)'
+  type: Sweet Roll (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 roll (approx. 100g)
+  nutritional_facts:
+    calories: 290
+    total_fat_g: 12
+    saturated_fat_g: 7
+    cholesterol_mg: 0
+    sodium_mg: 250
+    total_carbohydrates_g: 40
+    dietary_fiber_g: 1.5
+    sugars_g: 18
+    protein_g: 5
+    estimated_serving_weight_g: 100
+  ingredients:
+    - 1 1/2 cups All-purpose flour
+    - 1 tsp Instant yeast
+    - 1/2 cup Warm vegan milk
+    - 1/4 cup Granulated sugar (divided)
+    - '1/4 cup Vegan butter (melted, for dough)'
+    - 1/4 tsp Salt
+    - 'Filling: 1/4 cup Vegan butter (softened)'
+    - 'Filling: 1/2 cup Brown sugar'
+    - 'Filling: 1 tbsp Cinnamon'
+    - 'Icing: 1 cup Powdered sugar'
+    - 'Icing: 2 tbsp Vegan milk'
+coconut:
+  id: 41
+  name: Coconut (Raw Meat)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup shredded (100g)
+  nutritional_facts:
+    calories: 354
+    total_fat_g: 33.5
+    saturated_fat_g: 29.7
+    cholesterol_mg: 0
+    sodium_mg: 20
+    total_carbohydrates_g: 15.2
+    dietary_fiber_g: 9
+    sugars_g: 6.2
+    protein_g: 3.3
+    magnesium_mg: 71
+    vitamin_c_mg: 3.3
+coconut_cream_pie_filling:
+  id: 168
+  name: Vegan Coconut Cream Pie Filling (9-inch Pie)
+  type: Pie Filling (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 120g)
+  nutritional_facts:
+    calories: 240
+    total_fat_g: 18
+    saturated_fat_g: 15
+    cholesterol_mg: 0
+    sodium_mg: 80
+    total_carbohydrates_g: 20
+    dietary_fiber_g: 1
+    sugars_g: 12
+    protein_g: 2
+    estimated_serving_weight_g: 120
+  ingredients:
+    - 1 1/2 cups Full-fat canned coconut milk
+    - 1/2 cup Granulated sugar
+    - 1/4 cup Cornstarch
+    - 1/2 tsp Salt
+    - 1/4 cup Vegan butter
+    - 1 tsp Vanilla extract
+    - 1 cup Sweetened shredded coconut (vegan)
+coconut_macaroons:
+  id: 258
+  name: Vegan Coconut Macaroons (12 Cookies)
+  type: 'Cookie (Vegan, Chewy)'
+  is_recipe: true
+  unit_of_measure: 1 cookie (approx. 40g)
+  nutritional_facts:
+    calories: 180
+    total_fat_g: 13
+    saturated_fat_g: 11
+    cholesterol_mg: 0
+    sodium_mg: 60
+    total_carbohydrates_g: 15
+    dietary_fiber_g: 2
+    sugars_g: 10
+    protein_g: 2
+    estimated_serving_weight_g: 40
+  ingredients:
+    - 3 cups Shredded sweetened coconut
+    - 1/2 cup Sweetened condensed coconut milk (thick)
+    - 1/4 cup All-purpose flour
+    - 1 tsp Vanilla extract
+    - 1/4 cup Vegan butter (melted)
+    - 1/4 tsp Salt
+coconut_milk:
+  id: 313
+  name: 'Full-Fat Coconut Milk (Canned, Unsweetened)'
+  type: Basic Food Item (Fat/Cream Base)
+  is_recipe: false
+  unit_of_measure: 1/4 cup (60ml)
+  nutritional_facts:
+    calories: 120
+    total_fat_g: 12
+    saturated_fat_g: 10
+    cholesterol_mg: 0
+    sodium_mg: 10
+    total_carbohydrates_g: 2
+    dietary_fiber_g: 0
+    sugars_g: 1
+    protein_g: 1
+cornbread:
+  id: 64
+  name: Cornbread (Simple 8x8 Skillet)
+  type: Quick Bread
+  is_recipe: true
+  unit_of_measure: 1 square (approx. 90g)
+  nutritional_facts:
+    calories: 210
+    total_fat_g: 8
+    saturated_fat_g: 4
+    cholesterol_mg: 40
+    sodium_mg: 300
+    total_carbohydrates_g: 29
+    dietary_fiber_g: 1.5
+    sugars_g: 6
+    protein_g: 5
+    estimated_serving_weight_g: 90
+  ingredients:
+    - 1 cup Cornmeal
+    - 1 cup All-purpose flour
+    - 2 tsp Baking powder
+    - 1 tsp Salt
+    - 1/4 cup Granulated sugar (optional)
+    - 1 cup Buttermilk
+    - 1 large Egg
+    - 1/4 cup Melted butter or oil (plus extra for pan)
+cr_pes_palatschinken:
+  id: 150
+  name: Vegan Crêpes/Palatschinken (12 Large)
+  type: Thin Pancake (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 large crêpe (approx. 50g)
+  nutritional_facts:
+    calories: 90
+    total_fat_g: 3
+    saturated_fat_g: 0.5
+    cholesterol_mg: 0
+    sodium_mg: 50
+    total_carbohydrates_g: 13
+    dietary_fiber_g: 0.5
+    sugars_g: 1
+    protein_g: 3
+    estimated_serving_weight_g: 50
+  ingredients:
+    - 1 cup All-purpose flour
+    - '1 1/2 cups Vegan milk (e.g., oat or soy)'
+    - 1 tbsp Vegetable oil (plus extra for pan)
+    - 1 tbsp Maple syrup (optional sweetener)
+    - 1/2 tsp Salt
+    - '1/4 cup Aquafaba (whipped, or 1 tbsp flaxseed meal + 3 tbsp water)'
+cranberry:
+  id: 30
+  name: Cranberry (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup (100g)
+  nutritional_facts:
+    calories: 46
+    total_fat_g: 0.1
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 2
+    total_carbohydrates_g: 12.2
+    dietary_fiber_g: 4.6
+    sugars_g: 4
+    protein_g: 0.4
+    calcium_mg: 201
+    vitamin_c_mg: 13.3
+cranberry_orange_muffin:
+  id: 162
+  name: Vegan Cranberry Orange Muffin (12 Muffins)
+  type: Muffin (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 muffin (approx. 90g)
+  nutritional_facts:
+    calories: 270
+    total_fat_g: 11
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 250
+    total_carbohydrates_g: 39
+    dietary_fiber_g: 1.5
+    sugars_g: 19
+    protein_g: 3
+    estimated_serving_weight_g: 90
+  ingredients:
+    - 2 cups All-purpose flour
+    - 2 tsp Baking powder
+    - 1/2 tsp Salt
+    - 1 cup Granulated sugar
+    - 1 cup Vegan milk
+    - 1/2 cup Vegetable oil
+    - 1 tbsp Orange juice (fresh)
+    - Zest of 1 Orange
+    - 1 cup Fresh or frozen cranberries
+cream_cheese_frosting:
+  id: 147
+  name: Vegan Cream Cheese Frosting (for Cake/Cupcakes)
+  type: Icing/Frosting (Vegan)
+  is_recipe: true
+  unit_of_measure: 2 tbsp (approx. 30g)
+  nutritional_facts:
+    calories: 140
+    total_fat_g: 9
+    saturated_fat_g: 5
+    cholesterol_mg: 0
+    sodium_mg: 60
+    total_carbohydrates_g: 15
+    dietary_fiber_g: 0
+    sugars_g: 14
+    protein_g: 0.2
+    estimated_serving_weight_g: 30
+  ingredients:
+    - 1/2 cup Vegan butter sticks (softened)
+    - 4 oz Vegan cream cheese (softened)
+    - 3-4 cups Powdered sugar
+    - 1 tsp Vanilla extract
+    - 1-2 tbsp Vegan milk (as needed for consistency)
+creamy_mushroom_soup:
+  id: 186
+  name: Creamy Mushroom and Wild Rice Soup (6 Servings)
+  type: Soup (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 bowl (approx. 300g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 12
+    saturated_fat_g: 7
+    cholesterol_mg: 0
+    sodium_mg: 400
+    total_carbohydrates_g: 35
+    dietary_fiber_g: 5
+    sugars_g: 3
+    protein_g: 10
+    estimated_serving_weight_g: 300
+  ingredients:
+    - 1 tbsp Olive oil
+    - 1 lb Mixed mushrooms (sliced)
+    - 1 large Shallot (chopped)
+    - 3 cloves Garlic (minced)
+    - 4 cups Vegetable broth
+    - 1/2 cup Wild rice (uncooked)
+    - 1 cup Full-fat canned coconut milk (or vegan cream)
+    - 1/4 cup Nutritional yeast
+    - 1 tsp Dried thyme
+creamy_tomato_pasta:
+  id: 233
+  name: Vegan Creamy Tomato Pasta (4 Servings)
+  type: Pasta Dish (Creamy)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 380g)
+  nutritional_facts:
+    calories: 480
+    total_fat_g: 15
+    saturated_fat_g: 8
+    cholesterol_mg: 0
+    sodium_mg: 450
+    total_carbohydrates_g: 65
+    dietary_fiber_g: 7
+    sugars_g: 8
+    protein_g: 15
+    estimated_serving_weight_g: 380
+  ingredients:
+    - '12 oz Pasta (e.g., penne, rigatoni)'
+    - 1 tbsp Olive oil
+    - 3 cloves Garlic (minced)
+    - 1/4 cup Tomato paste
+    - '1/2 cup Vodka (optional, for flavor)'
+    - 1 (14.5 oz) can Crushed tomatoes
+    - 1/2 cup Cashew cream (or full-fat coconut milk)
+    - 1/4 cup Nutritional yeast
+    - 1/2 tsp Red pepper flakes
+cumin:
+  id: 319
+  name: Cumin (Ground)
+  type: Basic Food Item (Spice)
+  is_recipe: false
+  unit_of_measure: 1 tsp (2g)
+  nutritional_facts:
+    calories: 8
+    total_fat_g: 0.4
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 4
+    total_carbohydrates_g: 1
+    dietary_fiber_g: 0.3
+    sugars_g: 0
+    protein_g: 0.4
+custard:
+  id: 128
+  name: 'Custard (Crème Anglaise, 4 servings)'
+  type: Sauce/Component
+  is_recipe: true
+  unit_of_measure: 1/4 cup (approx. 60g)
+  nutritional_facts:
+    calories: 100
+    total_fat_g: 7
+    saturated_fat_g: 4
+    cholesterol_mg: 90
+    sodium_mg: 30
+    total_carbohydrates_g: 7
+    dietary_fiber_g: 0
+    sugars_g: 7
+    protein_g: 2
+    estimated_serving_weight_g: 60
+  ingredients:
+    - 1 cup Whole milk or heavy cream
+    - 4 large Egg yolks
+    - 1/4 cup Granulated sugar
+    - 1 tsp Vanilla bean paste or extract
+dal_makhani:
+  id: 206
+  name: 'Indian Dal Makhani (Black Dal, 6 Servings)'
+  type: 'Dal/Curry (Vegan, Indian Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 serving dal (approx. 350g)
+  nutritional_facts:
+    calories: 410
+    total_fat_g: 10
+    saturated_fat_g: 6
+    cholesterol_mg: 0
+    sodium_mg: 480
+    total_carbohydrates_g: 60
+    dietary_fiber_g: 20
+    sugars_g: 8
+    protein_g: 25
+    estimated_serving_weight_g: 350
+  ingredients:
+    - 1 cup Black urad dal (dry)
+    - 1/4 cup Kidney beans (dry)
+    - 5 cups Water (for soaking/cooking)
+    - 1 tbsp Vegan butter or oil
+    - 1 medium Onion (minced)
+    - 1 tbsp Ginger-garlic paste
+    - 1 (14.5 oz) can Crushed tomatoes
+    - 1 tbsp Garam Masala
+    - '1/2 cup Vegan cream (e.g., cashew or soy)'
+    - 1/2 tsp Red chili powder
+date:
+  id: 38
+  name: 'Date (Medjool, Dried)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 large fruit (24g)
+  nutritional_facts:
+    calories: 66
+    total_fat_g: 0
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 18
+    dietary_fiber_g: 1.6
+    sugars_g: 16
+    protein_g: 0.4
+    linoleic_acid_g: 7
+    vitamin_c_mg: 0
+dill_pickle_polish_soup:
+  id: 196
+  name: 'Creamy Vegan Polish Zupa Ogórkowa (Dill Pickle Soup, 6 Servings)'
+  type: 'Soup (Vegan, Polish Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 bowl (approx. 300g)
+  nutritional_facts:
+    calories: 260
+    total_fat_g: 10
+    saturated_fat_g: 6
+    cholesterol_mg: 0
+    sodium_mg: 650
+    total_carbohydrates_g: 35
+    dietary_fiber_g: 4
+    sugars_g: 5
+    protein_g: 8
+    estimated_serving_weight_g: 300
+  ingredients:
+    - 1 tbsp Vegan butter or oil
+    - 2 medium Potatoes (peeled and diced)
+    - 1 medium Carrot (diced)
+    - 4 cups Vegetable broth
+    - 2 cups Grated dill pickles (drained)
+    - 1 cup Pickle juice (brine)
+    - 1/2 cup Cashew cream (or thick vegan sour cream)
+    - 1/4 cup Fresh dill (chopped)
+    - '1/2 cup Vegan chicken-style shreds (for protein, optional)'
+dinner_rolls:
+  id: 178
+  name: 'Vegan Dinner Rolls (Soft & Sweet, 12 Rolls)'
+  type: Yeast Roll (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 roll (approx. 70g)
+  nutritional_facts:
+    calories: 200
+    total_fat_g: 5
+    saturated_fat_g: 2.5
+    cholesterol_mg: 0
+    sodium_mg: 250
+    total_carbohydrates_g: 33
+    dietary_fiber_g: 1
+    sugars_g: 4
+    protein_g: 6
+    estimated_serving_weight_g: 70
+  ingredients:
+    - 3 1/2 cups All-purpose flour
+    - 1 tbsp Instant dry yeast
+    - 1 1/2 cups Warm water or vegan milk
+    - 1/4 cup Granulated sugar
+    - 1/4 cup Vegan butter (melted)
+    - 1 1/2 tsp Salt
+double_chocolate_muffin:
+  id: 132
+  name: Vegan Double Chocolate Muffin (12 Muffins)
+  type: Muffin (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 muffin (approx. 95g)
+  nutritional_facts:
+    calories: 300
+    total_fat_g: 14
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 250
+    total_carbohydrates_g: 40
+    dietary_fiber_g: 3
+    sugars_g: 22
+    protein_g: 4
+    estimated_serving_weight_g: 95
+  ingredients:
+    - 1 3/4 cups All-purpose flour
+    - 1/2 cup Unsweetened cocoa powder
+    - 1 tsp Baking soda
+    - 1/2 tsp Salt
+    - 1 cup Granulated sugar
+    - '1 cup Vegan milk (e.g., soy or almond)'
+    - 1/2 cup Vegetable oil
+    - 1 tbsp White vinegar
+    - 1 tsp Vanilla extract
+    - 1/2 cup Vegan chocolate chips
+doughnuts:
+  id: 176
+  name: 'Vegan Doughnuts (Raised, 12 Doughnuts)'
+  type: Fried Yeast Dough (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 doughnut (approx. 60g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 15
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 150
+    total_carbohydrates_g: 32
+    dietary_fiber_g: 1
+    sugars_g: 8
+    protein_g: 4
+    estimated_serving_weight_g: 60
+  ingredients:
+    - 3 cups All-purpose flour
+    - 2 1/4 tsp Instant dry yeast
+    - 1 cup Warm vegan milk
+    - 1/4 cup Granulated sugar
+    - 1/4 cup Vegan butter (melted)
+    - 1/2 tsp Salt
+    - 1 tsp Vanilla extract
+    - 4 cups Vegetable oil (for frying)
+dragon_fruit:
+  id: 32
+  name: 'Dragon Fruit (Pitaya, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup diced (227g)
+  nutritional_facts:
+    calories: 102
+    total_fat_g: 0.4
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 13
+    total_carbohydrates_g: 22
+    dietary_fiber_g: 5
+    sugars_g: 13
+    protein_g: 2
+    vitamin_e_mg: 1.9
+    vitamin_c_mg: 6.4
+durian:
+  id: 50
+  name: Durian (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup pulp (243g)
+  nutritional_facts:
+    calories: 357
+    total_fat_g: 12.9
+    saturated_fat_g: 3.5
+    cholesterol_mg: 0
+    sodium_mg: 5
+    total_carbohydrates_g: 66
+    dietary_fiber_g: 9.2
+    sugars_g: 33.3
+    protein_g: 3.6
+    fructose_g: 13.9
+    vitamin_c_mg: 47.7
+eclair:
+  id: 164
+  name: Vegan Éclairs/Choux Pastry (12 Pieces)
+  type: Dough/Pastry (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 portion dough (approx. 20g)
+  nutritional_facts:
+    calories: 65
+    total_fat_g: 4
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 20
+    total_carbohydrates_g: 5
+    dietary_fiber_g: 0.1
+    sugars_g: 0.5
+    protein_g: 1.5
+    estimated_serving_weight_g: 20
+  ingredients:
+    - 1/2 cup Water
+    - 1/4 cup (1/2 stick) Vegan butter
+    - 1/4 tsp Salt
+    - 1/2 cup All-purpose flour
+    - '1/2 cup Aquafaba (whisked to soft peaks, egg replacer)'
+extra_firm_tofu:
+  id: 304
+  name: Extra-Firm Tofu (Raw)
+  type: Basic Food Item (Protein)
+  is_recipe: false
+  unit_of_measure: 1/5 block (85g)
+  nutritional_facts:
+    calories: 80
+    total_fat_g: 4
+    saturated_fat_g: 0.6
+    cholesterol_mg: 0
+    sodium_mg: 10
+    total_carbohydrates_g: 2
+    dietary_fiber_g: 0.6
+    sugars_g: 0.3
+    protein_g: 9
+extra_virgin_olive_oil:
+  id: 318
+  name: Extra Virgin Olive Oil (EVOO)
+  type: Basic Food Item (Fat)
+  is_recipe: false
+  unit_of_measure: 1 tbsp (14g)
+  nutritional_facts:
+    calories: 120
+    total_fat_g: 14
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 0
+    dietary_fiber_g: 0
+    sugars_g: 0
+    protein_g: 0
+feijoa:
+  id: 35
+  name: 'Feijoa (Pineapple Guava, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 fruit (75g)
+  nutritional_facts:
+    calories: 45
+    total_fat_g: 0.4
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 1
+    total_carbohydrates_g: 11.1
+    dietary_fiber_g: 3.4
+    sugars_g: 6.1
+    protein_g: 0.6
+    lauric_acid_g: 6.8
+    vitamin_c_mg: 21.9
+fig:
+  id: 23
+  name: Fig (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 medium fruit (50g)
+  nutritional_facts:
+    calories: 37
+    total_fat_g: 0.2
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 9.6
+    dietary_fiber_g: 1.5
+    sugars_g: 8.1
+    protein_g: 0.4
+    folate_mcg: 196
+    vitamin_c_mg: 0.4
+fish_filets:
+  id: 220
+  name: 'Vegan Fish-Style Filets (Tofu Base, 4 Servings)'
+  type: Main Dish (Tofu)
+  is_recipe: true
+  unit_of_measure: 1 filet (approx. 120g)
+  nutritional_facts:
+    calories: 250
+    total_fat_g: 15
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 450
+    total_carbohydrates_g: 15
+    dietary_fiber_g: 3
+    sugars_g: 1
+    protein_g: 20
+    estimated_serving_weight_g: 120
+  ingredients:
+    - '1 block (14 oz) Extra-firm tofu (pressed, sliced into 4 filets)'
+    - 'Marinade: 1/4 cup Soy sauce or Tamari'
+    - 'Marinade: 1 tbsp Lemon juice'
+    - 'Marinade: 1 tsp Old Bay seasoning'
+    - 'Marinade: 1/2 tsp Dulse flakes or crushed nori (for sea flavor)'
+    - 'Coating: 1/2 cup All-purpose flour'
+    - 'Coating: 1/4 cup Panko breadcrumbs'
+    - 'Coating: 1 tbsp Vegan milk (for dredging)'
+    - 1 tbsp Oil (for pan-frying)
+flax_seeds:
+  id: 321
+  name: Flax Seeds (Ground)
+  type: Basic Food Item (Fiber/Binder/Omega-3)
+  is_recipe: false
+  unit_of_measure: 1 tbsp (7g)
+  nutritional_facts:
+    calories: 37
+    total_fat_g: 3
+    saturated_fat_g: 0.3
+    cholesterol_mg: 0
+    sodium_mg: 2
+    total_carbohydrates_g: 2
+    dietary_fiber_g: 1.9
+    sugars_g: 0.1
+    protein_g: 1.3
+flour:
+  id: 324
+  name: All-Purpose Flour (Unbleached)
+  type: Basic Food Item (Baking/Thickening)
+  is_recipe: false
+  unit_of_measure: 1/4 cup (30g)
+  nutritional_facts:
+    calories: 110
+    total_fat_g: 0.3
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 23
+    dietary_fiber_g: 1
+    sugars_g: 0
+    protein_g: 4
+french_onion_soup:
+  id: 230
+  name: Vegan French Onion Soup (4 Servings)
+  type: Famous Comfort Food (Soup)
+  is_recipe: true
+  unit_of_measure: 1 bowl (approx. 350g)
+  nutritional_facts:
+    calories: 250
+    total_fat_g: 10
+    saturated_fat_g: 6
+    cholesterol_mg: 0
+    sodium_mg: 550
+    total_carbohydrates_g: 30
+    dietary_fiber_g: 4
+    sugars_g: 12
+    protein_g: 10
+    estimated_serving_weight_g: 350
+  ingredients:
+    - 3 large Yellow onions (thinly sliced)
+    - 2 tbsp Vegan butter
+    - '6 cups Vegetable broth (strong, dark color preferred)'
+    - 1/2 cup Dry red wine or balsamic vinegar (for deglazing)
+    - 1 tsp Dried thyme
+    - 1/2 tsp Salt and black pepper
+    - '4 slices French bread (toasted, per serving)'
+    - '1/2 cup Vegan shredded cheese (e.g., mozzarella or provolone style)'
+garlic:
+  id: 317
+  name: 'Garlic (Fresh, Clove)'
+  type: Basic Food Item (Flavor)
+  is_recipe: false
+  unit_of_measure: 1 medium clove (3g)
+  nutritional_facts:
+    calories: 4
+    total_fat_g: 0
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 1
+    total_carbohydrates_g: 1
+    dietary_fiber_g: 0
+    sugars_g: 0
+    protein_g: 0.2
+garlic_powder:
+  id: 328
+  name: Garlic Powder
+  type: Basic Food Item (Spice/Flavor)
+  is_recipe: false
+  unit_of_measure: 1 tsp (3g)
+  nutritional_facts:
+    calories: 10
+    total_fat_g: 0
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 1
+    total_carbohydrates_g: 2
+    dietary_fiber_g: 0.3
+    sugars_g: 0.1
+    protein_g: 0.5
+general_tso_chicken:
+  id: 229
+  name: 'Vegan General Tso''s ''Chicken'' (Tofu Base, 4 Servings)'
+  type: Famous Adaptation (Chinese-American)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 200g)
+  nutritional_facts:
+    calories: 420
+    total_fat_g: 18
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 650
+    total_carbohydrates_g: 50
+    dietary_fiber_g: 4
+    sugars_g: 25
+    protein_g: 25
+    estimated_serving_weight_g: 200
+  ingredients:
+    - '1 block (14 oz) Extra-firm tofu (pressed, cubed)'
+    - 1/4 cup Cornstarch (for coating)
+    - 2 tbsp Oil (for frying/sautéing)
+    - 'Sauce: 1/2 cup Vegetable broth'
+    - 'Sauce: 1/4 cup Soy sauce or Tamari'
+    - 'Sauce: 1/4 cup Rice vinegar'
+    - 'Sauce: 1/4 cup Maple syrup or sugar'
+    - 'Sauce: 1 tbsp Ginger (grated)'
+    - 'Sauce: 1 tsp Chili flakes (optional)'
+    - 'Sauce: 1 tbsp Cornstarch (for thickening)'
+gingerbread_cookie:
+  id: 78
+  name: 'Gingerbread Cookie (Hard, 3 Dozen)'
+  type: Cookie
+  is_recipe: true
+  unit_of_measure: 1 cookie (approx. 20g)
+  nutritional_facts:
+    calories: 95
+    total_fat_g: 3.5
+    saturated_fat_g: 2
+    cholesterol_mg: 10
+    sodium_mg: 50
+    total_carbohydrates_g: 14
+    dietary_fiber_g: 0.5
+    sugars_g: 7
+    protein_g: 1
+    estimated_serving_weight_g: 20
+  ingredients:
+    - 3 cups All-purpose flour
+    - 1/2 cup Molasses
+    - 1/2 cup Brown sugar
+    - 1/2 cup (1 stick) Butter (softened)
+    - 1 large Egg
+    - 1 tbsp Ground Ginger
+    - 1 tsp Ground Cinnamon
+    - 1/2 tsp Ground Cloves
+    - 1 tsp Baking soda
+gingerbread_loaf:
+  id: 145
+  name: Vegan Gingerbread Loaf (9x5 Loaf)
+  type: Quick Bread/Loaf (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 70g)
+  nutritional_facts:
+    calories: 230
+    total_fat_g: 8
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 200
+    total_carbohydrates_g: 38
+    dietary_fiber_g: 1.5
+    sugars_g: 22
+    protein_g: 3
+    estimated_serving_weight_g: 70
+  ingredients:
+    - 2 cups All-purpose flour
+    - 1 tsp Baking soda
+    - 1 tbsp Ground Ginger
+    - 1 tsp Ground Cinnamon
+    - 1/2 tsp Ground Cloves
+    - 1/4 tsp Salt
+    - 1/2 cup Molasses
+    - 1/2 cup Boiling water
+    - 1/2 cup Brown sugar (packed)
+    - 1/4 cup Vegetable oil
+    - 1/4 cup Applesauce
+grapefruit:
+  id: 19
+  name: 'Grapefruit (Pink/Red, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1/2 medium fruit (123g)
+  nutritional_facts:
+    calories: 41
+    total_fat_g: 0.1
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 10.4
+    dietary_fiber_g: 1.6
+    sugars_g: 9.2
+    protein_g: 0.8
+    potassium_mg: 746
+    vitamin_c_mg: 38.4
+grapes:
+  id: 6
+  name: 'Grapes (Red/Green, Seedless)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup (151g)
+  nutritional_facts:
+    calories: 104
+    total_fat_g: 0.2
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 3
+    total_carbohydrates_g: 27.3
+    dietary_fiber_g: 1.4
+    sugars_g: 23.4
+    protein_g: 1.1
+    vitamin_e_mg: 4.3
+    vitamin_c_mg: 3.7
+grilled_portobello_steaks:
+  id: 247
+  name: Grilled Portobello Mushroom Steaks (4 Servings)
+  type: Main Dish (Vegetable Focused)
+  is_recipe: true
+  unit_of_measure: 1 large mushroom cap (approx. 180g)
+  nutritional_facts:
+    calories: 180
+    total_fat_g: 12
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 450
+    total_carbohydrates_g: 15
+    dietary_fiber_g: 4
+    sugars_g: 5
+    protein_g: 10
+    estimated_serving_weight_g: 180
+  ingredients:
+    - 4 large Portobello mushroom caps
+    - 'Marinade: 1/4 cup Balsamic vinegar'
+    - 'Marinade: 1/4 cup Olive oil'
+    - 'Marinade: 2 tbsp Soy sauce or Tamari'
+    - 'Marinade: 1 tsp Smoked paprika'
+    - 'Marinade: 1 tsp Garlic powder'
+    - 1/2 tsp Salt and pepper
+grilled_tempeh_skewers:
+  id: 213
+  name: Marinated & Grilled Tempeh Skewers (4 Servings)
+  type: Main Dish (Tempeh)
+  is_recipe: true
+  unit_of_measure: 2 skewers (approx. 180g)
+  nutritional_facts:
+    calories: 380
+    total_fat_g: 18
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 500
+    total_carbohydrates_g: 25
+    dietary_fiber_g: 8
+    sugars_g: 8
+    protein_g: 30
+    estimated_serving_weight_g: 180
+  ingredients:
+    - 1 block (8 oz) Tempeh (cubed and lightly steamed)
+    - 1 medium Red onion (thick-cut pieces)
+    - 1 large Bell pepper (cubed)
+    - 'Marinade: 1/4 cup Olive oil'
+    - 'Marinade: 1/4 cup Soy sauce or Tamari'
+    - 'Marinade: 2 tbsp Lemon juice'
+    - 'Marinade: 1 tbsp Smoked paprika'
+    - 'Marinade: 1 tbsp Brown sugar'
+guava:
+  id: 27
+  name: 'Guava (Common, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 fruit (55g)
+  nutritional_facts:
+    calories: 37
+    total_fat_g: 0.5
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 1
+    total_carbohydrates_g: 7.9
+    dietary_fiber_g: 3
+    sugars_g: 5
+    protein_g: 1.4
+    manganese_mg: 1.5
+    vitamin_c_mg: 125.6
+heidesand:
+  id: 160
+  name: 'Vegan Heidesand (Brown Butter Cookies, 3 Dozen)'
+  type: 'Cookie (Vegan, Central European Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 cookie (approx. 15g)
+  nutritional_facts:
+    calories: 80
+    total_fat_g: 5
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 20
+    total_carbohydrates_g: 8
+    dietary_fiber_g: 0.1
+    sugars_g: 3
+    protein_g: 0.5
+    estimated_serving_weight_g: 15
+  ingredients:
+    - 1 cup (2 sticks) Vegan butter sticks (browned and chilled)
+    - 1 cup Powdered sugar
+    - 2 1/4 cups All-purpose flour
+    - 1/4 tsp Salt
+    - 1 tsp Vanilla extract
+honeydew_melon:
+  id: 26
+  name: Honeydew Melon (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup diced (177g)
+  nutritional_facts:
+    calories: 64
+    total_fat_g: 0.3
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 32
+    total_carbohydrates_g: 16
+    dietary_fiber_g: 1.4
+    sugars_g: 14
+    protein_g: 1
+    vitamin_a_rae_mcg: 787
+    vitamin_c_mg: 33.1
+hot_chocolate_mix:
+  id: 169
+  name: 'Vegan Hot Chocolate Mix (Large Batch, 10 Servings)'
+  type: Beverage Component (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 serving mix (approx. 30g)
+  nutritional_facts:
+    calories: 110
+    total_fat_g: 2
+    saturated_fat_g: 1.5
+    cholesterol_mg: 0
+    sodium_mg: 10
+    total_carbohydrates_g: 22
+    dietary_fiber_g: 1
+    sugars_g: 20
+    protein_g: 1
+    estimated_serving_weight_g: 30
+  ingredients:
+    - 2 cups Powdered sugar
+    - 1 cup Unsweetened cocoa powder
+    - 1/2 cup Vegan powdered creamer or coconut milk powder
+    - 1/4 tsp Salt
+    - 1/4 tsp Ground Cinnamon (optional)
+hot_cross_buns:
+  id: 173
+  name: Vegan Hot Cross Buns (12 Buns)
+  type: Yeast Dough/Roll (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 bun (approx. 90g)
+  nutritional_facts:
+    calories: 270
+    total_fat_g: 7
+    saturated_fat_g: 3.5
+    cholesterol_mg: 0
+    sodium_mg: 180
+    total_carbohydrates_g: 45
+    dietary_fiber_g: 2
+    sugars_g: 15
+    protein_g: 5
+    estimated_serving_weight_g: 90
+  ingredients:
+    - 3 cups All-purpose flour
+    - 1 tbsp Instant dry yeast
+    - 1 cup Warm vegan milk
+    - 1/4 cup Granulated sugar
+    - 1/4 cup Vegan butter (softened)
+    - 1/2 tsp Salt
+    - '1 tsp Mixed spice blend (cinnamon, nutmeg, allspice)'
+    - 1/2 cup Currants or raisins
+    - 'Cross Paste: 1/2 cup flour + 4 tbsp water'
+    - 'Glaze: 1/4 cup simple syrup or apricot jam'
+hot_dogs:
+  id: 228
+  name: 'Vegan Hot Dogs/Sausages (Seitan Base, 8 Links)'
+  type: Famous Adaptation (Sausage)
+  is_recipe: true
+  unit_of_measure: 1 link (approx. 80g)
+  nutritional_facts:
+    calories: 180
+    total_fat_g: 5
+    saturated_fat_g: 1
+    cholesterol_mg: 0
+    sodium_mg: 600
+    total_carbohydrates_g: 15
+    dietary_fiber_g: 4
+    sugars_g: 3
+    protein_g: 25
+    estimated_serving_weight_g: 80
+  ingredients:
+    - 1 1/2 cups Vital wheat gluten
+    - 1/4 cup Nutritional yeast
+    - 1 cup Vegetable broth
+    - 1/4 cup Oil
+    - 2 tbsp Tomato paste
+    - 1 tsp Liquid smoke
+    - 1 tsp Garlic powder
+    - 1 tsp Onion powder
+    - 1/2 tsp Smoked paprika
+hungarian_goulash:
+  id: 193
+  name: Hungarian 'Goulash' with Soy Curls (4 Servings)
+  type: 'Stew/One-Pot (Vegan, Hungarian Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 350g)
+  nutritional_facts:
+    calories: 380
+    total_fat_g: 10
+    saturated_fat_g: 1.5
+    cholesterol_mg: 0
+    sodium_mg: 550
+    total_carbohydrates_g: 45
+    dietary_fiber_g: 10
+    sugars_g: 8
+    protein_g: 30
+    estimated_serving_weight_g: 350
+  ingredients:
+    - 1 cup Soy curls (or TVP chunks)
+    - 1 tbsp Olive oil
+    - 2 medium Onions (sliced)
+    - 4 cloves Garlic (minced)
+    - 3 tbsp Smoked paprika (Hungarian sweet)
+    - 1 tsp Caraway seeds
+    - 1/4 cup Tomato paste
+    - 3 cups Vegetable broth
+    - 2 medium Potatoes (cubed)
+    - 1 medium Bell pepper (chopped)
+    - 1 tbsp Balsamic vinegar (for depth)
+husarenkrapfen:
+  id: 158
+  name: 'Vegan Husarenkrapfen (Jam Thumbprints, 2 Dozen)'
+  type: 'Cookie (Vegan, Austrian Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 cookie (approx. 20g)
+  nutritional_facts:
+    calories: 90
+    total_fat_g: 5
+    saturated_fat_g: 2.5
+    cholesterol_mg: 0
+    sodium_mg: 10
+    total_carbohydrates_g: 10
+    dietary_fiber_g: 0.2
+    sugars_g: 4
+    protein_g: 1
+    estimated_serving_weight_g: 20
+  ingredients:
+    - 1 1/2 cups All-purpose flour
+    - 1/2 cup Ground almonds
+    - 1/2 cup Powdered sugar
+    - 3/4 cup Vegan butter sticks (softened)
+    - 1 tsp Vanilla extract
+    - '1/4 cup Raspberry jam (vegan, for filling)'
+irish_stew:
+  id: 200
+  name: Vegan Irish Stew with Guinness (4 Servings)
+  type: 'Stew/One-Pot (Vegan, Irish Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 400g)
+  nutritional_facts:
+    calories: 480
+    total_fat_g: 10
+    saturated_fat_g: 1.5
+    cholesterol_mg: 0
+    sodium_mg: 520
+    total_carbohydrates_g: 70
+    dietary_fiber_g: 15
+    sugars_g: 8
+    protein_g: 20
+    estimated_serving_weight_g: 400
+  ingredients:
+    - 1 tbsp Olive oil
+    - 2 large Potatoes (cubed)
+    - 2 large Carrots (chopped)
+    - 1 medium Onion (chochopped)
+    - 1 cup Vegan beef-style chunks (or large mushroom pieces)
+    - 1 (14.9 oz) can Guinness stout (must be vegan version)
+    - 2 cups Vegetable broth
+    - 1 tbsp Tomato paste
+    - 1 tsp Dried thyme
+    - 1/2 cup Green peas (frozen)
+italian_seitan_meatballs:
+  id: 216
+  name: Vegan Italian Seitan Meatballs (12 Meatballs)
+  type: Main Dish (Seitan)
+  is_recipe: true
+  unit_of_measure: 3 meatballs (approx. 100g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 10
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 650
+    total_carbohydrates_g: 25
+    dietary_fiber_g: 5
+    sugars_g: 4
+    protein_g: 35
+    estimated_serving_weight_g: 100
+  ingredients:
+    - 1 1/2 cups Vital wheat gluten
+    - 1/2 cup Nutritional yeast
+    - 1/4 cup All-purpose flour
+    - 1 cup Vegetable broth
+    - 2 tbsp Soy sauce or Tamari
+    - 1 tbsp Fennel seeds
+    - 1 tsp Dried oregano
+    - 2 tbsp Olive oil (for mixing)
+    - '1/4 cup Breadcrumbs (optional, for texture)'
+jabuticaba:
+  id: 49
+  name: 'Jabuticaba (Brazilian Grape, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup (150g)
+  nutritional_facts:
+    calories: 58
+    total_fat_g: 0.1
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 3
+    total_carbohydrates_g: 15.3
+    dietary_fiber_g: 1.4
+    sugars_g: 10
+    protein_g: 0.6
+    niacin_mg: 4.5
+    vitamin_c_mg: 22
+jujube:
+  id: 43
+  name: 'Jujube (Chinese Date, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 3 fruits (100g)
+  nutritional_facts:
+    calories: 79
+    total_fat_g: 0.2
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 3
+    total_carbohydrates_g: 20.2
+    dietary_fiber_g: 3.3
+    sugars_g: 10.6
+    protein_g: 1.2
+    folate_mcg: 120
+    vitamin_c_mg: 69
+kaiserschmarrn:
+  id: 87
+  name: Austrian Kaiserschmarrn (2-3 Servings)
+  type: Pancake/Dessert (Austrian)
+  is_recipe: true
+  unit_of_measure: 1/2 serving (approx. 150g)
+  nutritional_facts:
+    calories: 380
+    total_fat_g: 18
+    saturated_fat_g: 10
+    cholesterol_mg: 150
+    sodium_mg: 150
+    total_carbohydrates_g: 45
+    dietary_fiber_g: 1
+    sugars_g: 15
+    protein_g: 10
+    estimated_serving_weight_g: 150
+  ingredients:
+    - 1 cup All-purpose flour
+    - 1 1/2 cups Milk
+    - 4 large Eggs (separated)
+    - 2 tbsp Granulated sugar
+    - 1/4 cup Raisins
+    - 2 tbsp Butter (for frying)
+    - 2 tbsp Powdered sugar (for dusting)
+kiwi:
+  id: 10
+  name: Kiwi Fruit (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 medium fruit (69g)
+  nutritional_facts:
+    calories: 42
+    total_fat_g: 0.4
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 3
+    total_carbohydrates_g: 10.1
+    dietary_fiber_g: 2.1
+    sugars_g: 8.1
+    protein_g: 0.8
+    vitamin_e_mg: 7.4
+    vitamin_c_mg: 64
+kumquat:
+  id: 36
+  name: Kumquat (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 5 small fruits (49g)
+  nutritional_facts:
+    calories: 32
+    total_fat_g: 0.1
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 8.4
+    dietary_fiber_g: 1.7
+    sugars_g: 5.4
+    protein_g: 0.6
+    omega_3_g: 1.3
+    vitamin_c_mg: 21.8
+lasagna:
+  id: 231
+  name: Vegan Lasagna (8 Servings)
+  type: Famous Comfort Food (Pasta)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 450g)
+  nutritional_facts:
+    calories: 520
+    total_fat_g: 18
+    saturated_fat_g: 5
+    cholesterol_mg: 0
+    sodium_mg: 700
+    total_carbohydrates_g: 65
+    dietary_fiber_g: 10
+    sugars_g: 12
+    protein_g: 30
+    estimated_serving_weight_g: 450
+  ingredients:
+    - 12 Lasagna noodles (oven-ready)
+    - 'Ricotta: 1 block (14 oz) Extra-firm tofu (pressed and crumbled)'
+    - 'Ricotta: 1/4 cup Nutritional yeast'
+    - 'Ricotta: 1 tbsp Lemon juice'
+    - 'Ricotta: 1 tsp Dried basil'
+    - 'Filling: 1 cup Spinach (chopped)'
+    - 'Filling: 1 cup Vegan sausage crumbles (or lentils)'
+    - 'Sauce: 4 cups Marinara sauce (vegan)'
+    - 'Topping: 1 cup Vegan shredded mozzarella (optional)'
+lebkuchen:
+  id: 155
+  name: 'Vegan Lebkuchen (German/Austrian Gingerbread, 18 Disks)'
+  type: 'Cookie (Vegan, Central European Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 disk (approx. 40g)
+  nutritional_facts:
+    calories: 140
+    total_fat_g: 4
+    saturated_fat_g: 0.8
+    cholesterol_mg: 0
+    sodium_mg: 50
+    total_carbohydrates_g: 25
+    dietary_fiber_g: 1
+    sugars_g: 15
+    protein_g: 2
+    estimated_serving_weight_g: 40
+  ingredients:
+    - 1/2 cup Molasses
+    - '1/2 cup Honey substitute (e.g., agave or rice syrup)'
+    - 1/4 cup Brown sugar
+    - 2 1/2 cups All-purpose flour
+    - 1 cup Ground nuts (almonds or walnuts)
+    - 1 tbsp Lebkuchen spice blend
+    - 1 tsp Baking soda
+    - '1/4 cup Candied citrus peel (finely chopped, optional)'
+lemon:
+  id: 17
+  name: Lemon (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 medium fruit (58g)
+  nutritional_facts:
+    calories: 17
+    total_fat_g: 0.2
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 1
+    total_carbohydrates_g: 5.4
+    dietary_fiber_g: 1.6
+    sugars_g: 1.5
+    protein_g: 0.6
+    folate_mcg: 256
+    vitamin_c_mg: 30.7
+lemon_bars:
+  id: 183
+  name: Vegan Lemon Bars (9x9 Pan)
+  type: Bar/Square (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 bar (approx. 70g)
+  nutritional_facts:
+    calories: 220
+    total_fat_g: 10
+    saturated_fat_g: 4
+    cholesterol_mg: 0
+    sodium_mg: 100
+    total_carbohydrates_g: 30
+    dietary_fiber_g: 1
+    sugars_g: 18
+    protein_g: 2
+    estimated_serving_weight_g: 70
+  ingredients:
+    - 1 tbsp Olive oil
+    - 1 large Onion (chopped)
+    - 3 cloves Garlic (minced)
+    - 4 cups Vegetable broth (low sodium)
+    - 2 (15 oz) cans Great Northern or Cannellini beans (rinsed and drained)
+    - '1/2 cup Small pasta (e.g., ditalini, optional)'
+    - '3 cups Kale (chopped, stems removed)'
+    - 1/2 tsp Dried rosemary
+    - To taste Salt and fresh black pepper
+    - 'Crust: 1 1/2 cups All-purpose flour'
+    - 'Crust: 1/2 cup Powdered sugar'
+    - 'Crust: 1/2 cup Vegan butter (cold, cubed)'
+    - 'Filling: 1 cup Granulated sugar'
+    - 'Filling: 1/4 cup All-purpose flour'
+    - 'Filling: 1/4 cup Cornstarch'
+    - 'Filling: 1 cup Fresh lemon juice'
+    - 'Filling: Zest of 2 Lemons'
+    - 'Filling: 1/2 cup Vegan milk'
+lemon_garlic_asparagus_quinoa_bowl:
+  id: 243
+  name: Lemon-Garlic Asparagus and Quinoa Bowl (4 Servings)
+  type: Grain Bowl (Vegetable Focused)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 300g)
+  nutritional_facts:
+    calories: 380
+    total_fat_g: 15
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 350
+    total_carbohydrates_g: 45
+    dietary_fiber_g: 8
+    sugars_g: 4
+    protein_g: 16
+    estimated_serving_weight_g: 300
+  ingredients:
+    - 1 cup Quinoa (uncooked)
+    - 1 bunch Asparagus (trimmed and chopped)
+    - 1 tbsp Olive oil
+    - 4 cloves Garlic (minced)
+    - 1/4 cup Lemon juice (fresh)
+    - '1/2 cup Edamame (shelled, cooked)'
+    - 1/4 cup Toasted slivered almonds
+    - 2 tbsp Fresh parsley (chopped)
+lemon_loaf:
+  id: 53
+  name: Moist Lemon Loaf (Standard 8x4 Loaf)
+  type: Quick Bread/Loaf
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 75g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 14
+    saturated_fat_g: 8
+    cholesterol_mg: 70
+    sodium_mg: 150
+    total_carbohydrates_g: 37
+    dietary_fiber_g: 0.5
+    sugars_g: 25
+    protein_g: 4
+    estimated_serving_weight_g: 75
+  ingredients:
+    - 1 1/2 cups All-purpose flour
+    - 1/2 tsp Baking powder
+    - 1/4 tsp Salt
+    - 1/2 cup Unsalted butter (softened)
+    - 1 cup Granulated sugar
+    - 2 large Eggs
+    - 1/4 cup Yogurt or sour cream
+    - Zest of 1 Lemon
+    - 2 tbsp Lemon juice (fresh)
+    - 1/2 cup Powdered sugar (for glaze)
+    - 1-2 tbsp Milk or Lemon juice (for glaze)
+lemon_loaf_cake:
+  id: 252
+  name: Vegan Lemon Loaf Cake (8 Slices)
+  type: Quick Bread/Loaf (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 90g)
+  nutritional_facts:
+    calories: 320
+    total_fat_g: 15
+    saturated_fat_g: 8
+    cholesterol_mg: 0
+    sodium_mg: 200
+    total_carbohydrates_g: 45
+    dietary_fiber_g: 1
+    sugars_g: 25
+    protein_g: 4
+    estimated_serving_weight_g: 90
+  ingredients:
+    - 1 1/2 cups All-purpose flour
+    - 1/2 cup Vegan milk
+    - 1/2 cup Vegan butter (melted)
+    - 3/4 cup Granulated sugar
+    - 1/4 cup Applesauce or Vegan yogurt
+    - 2 tbsp Fresh lemon zest
+    - 1/4 cup Fresh lemon juice
+    - 1 1/2 tsp Baking powder
+    - 'Glaze: 1 cup Powdered sugar + 3 tbsp lemon juice'
+lemon_poppy_seed_muffin:
+  id: 146
+  name: Vegan Lemon Poppy Seed Muffin (12 Muffins)
+  type: Muffin (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 muffin (approx. 90g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 12
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 220
+    total_carbohydrates_g: 39
+    dietary_fiber_g: 1
+    sugars_g: 18
+    protein_g: 4
+    estimated_serving_weight_g: 90
+  ingredients:
+    - 2 cups All-purpose flour
+    - 1 1/2 tsp Baking powder
+    - 1/2 tsp Salt
+    - 1 cup Granulated sugar
+    - 1 cup Vegan milk
+    - 1/2 cup Vegetable oil
+    - 1 tbsp Lemon juice (fresh)
+    - Zest of 2 Lemons
+    - 2 tbsp Poppy seeds
+lentil_leek_soup:
+  id: 191
+  name: 'French Lentil and Leek Soup (Soupe aux Lentilles, 6 Servings)'
+  type: 'Soup (Vegan, French Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 bowl (approx. 300g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 6
+    saturated_fat_g: 1
+    cholesterol_mg: 0
+    sodium_mg: 400
+    total_carbohydrates_g: 42
+    dietary_fiber_g: 12
+    sugars_g: 5
+    protein_g: 16
+    estimated_serving_weight_g: 300
+  ingredients:
+    - 1 tbsp Olive oil
+    - '2 large Leeks (white and light green parts, sliced)'
+    - 2 medium Carrots (diced)
+    - '1/2 cup French green lentils (Puy, dry)'
+    - 6 cups Vegetable broth (low sodium)
+    - 1/2 tsp Dried thyme
+    - 1 Bay leaf
+    - '1/4 cup Cashew cream (or soy cream, for richness)'
+    - To taste Salt and fresh black pepper
+lime:
+  id: 18
+  name: Lime (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 medium fruit (67g)
+  nutritional_facts:
+    calories: 20
+    total_fat_g: 0.1
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 1
+    total_carbohydrates_g: 7.1
+    dietary_fiber_g: 2
+    sugars_g: 1.1
+    protein_g: 0.5
+    iron_mg: 5.2
+    vitamin_c_mg: 19.5
+linzer_augen:
+  id: 152
+  name: 'Vegan Linzer Augen (Linzer Eyes, 2 Dozen Sandwiches)'
+  type: 'Cookie (Vegan, Austrian Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 cookie sandwich (approx. 25g)
+  nutritional_facts:
+    calories: 120
+    total_fat_g: 6
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 15
+    total_carbohydrates_g: 15
+    dietary_fiber_g: 0.5
+    sugars_g: 7
+    protein_g: 1.5
+    estimated_serving_weight_g: 25
+  ingredients:
+    - 2 cups All-purpose flour
+    - 1/2 cup Ground almonds (or hazelnuts)
+    - 1/2 cup Powdered sugar
+    - '1 cup Vegan butter sticks (cold, cubed)'
+    - '1 tbsp Flaxseed meal (mixed with 3 tbsp water, chilled)'
+    - 1/2 tsp Ground Cinnamon
+    - '1/2 cup Raspberry or red currant jam (vegan, for filling)'
+linzer_cookie:
+  id: 67
+  name: Austrian Linzer Cookie (2 Dozen)
+  type: Cookie (Austrian)
+  is_recipe: true
+  unit_of_measure: 1 cookie sandwich (approx. 25g)
+  nutritional_facts:
+    calories: 130
+    total_fat_g: 7
+    saturated_fat_g: 4
+    cholesterol_mg: 15
+    sodium_mg: 20
+    total_carbohydrates_g: 15
+    dietary_fiber_g: 0.5
+    sugars_g: 7
+    protein_g: 1.5
+    estimated_serving_weight_g: 25
+  ingredients:
+    - 1 3/4 cups All-purpose flour
+    - 1 cup Ground hazelnuts or almonds
+    - 1/2 cup Granulated sugar
+    - 1 cup (2 sticks) Cold butter (cubed)
+    - 2 large Egg yolks
+    - 1/2 tsp Ground Cinnamon
+    - 1/4 tsp Baking powder
+    - 1/2 cup Red currant or raspberry jam
+    - 1/4 cup Powdered sugar (for dusting)
+linzer_schnittchen:
+  id: 253
+  name: 'Vegan Linzer Schnittchen (Linzer Slices, 16 Bars)'
+  type: 'Cookie/Bar (Vegan, Austrian Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 50g)
+  nutritional_facts:
+    calories: 210
+    total_fat_g: 12
+    saturated_fat_g: 5
+    cholesterol_mg: 0
+    sodium_mg: 80
+    total_carbohydrates_g: 25
+    dietary_fiber_g: 1.5
+    sugars_g: 10
+    protein_g: 2
+    estimated_serving_weight_g: 50
+  ingredients:
+    - 1 1/2 cups All-purpose flour
+    - 1/2 cup Ground almonds or hazelnuts
+    - 1/2 cup Powdered sugar
+    - '1 cup Vegan butter (cubed, cold)'
+    - 1 tsp Cinnamon
+    - 1/4 tsp Ground cloves
+    - 1/4 cup Vegan milk (if needed to bind)
+    - 1 cup Raspberry jam (or apricot)
+linzer_torte:
+  id: 127
+  name: Austrian Linzer Torte (Standard 9-inch)
+  type: Tart/Cake (Austrian)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 80g)
+  nutritional_facts:
+    calories: 330
+    total_fat_g: 20
+    saturated_fat_g: 8
+    cholesterol_mg: 40
+    sodium_mg: 50
+    total_carbohydrates_g: 32
+    dietary_fiber_g: 2.5
+    sugars_g: 15
+    protein_g: 5
+    estimated_serving_weight_g: 80
+  ingredients:
+    - 1 1/2 cups All-purpose flour
+    - 1 cup Ground almonds or hazelnuts
+    - 1 cup (2 sticks) Cold butter (cubed)
+    - 3/4 cup Granulated sugar
+    - 1 large Egg yolk
+    - 1 tsp Ground Cinnamon
+    - 1/4 tsp Ground Cloves
+    - 1 cup Raspberry or red currant jam (filling)
+    - '1 large Egg (whisked, for lattice wash)'
+lychee:
+  id: 44
+  name: Lychee (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 10 fruits (100g)
+  nutritional_facts:
+    calories: 66
+    total_fat_g: 0.4
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 1
+    total_carbohydrates_g: 16.5
+    dietary_fiber_g: 1.3
+    sugars_g: 15.2
+    protein_g: 0.8
+    calcium_mg: 64
+    vitamin_c_mg: 71.5
+m_rbteig:
+  id: 156
+  name: 'Vegan Mürbteig (Austrian Shortcrust Base, for 9-inch Tart)'
+  type: Dough/Crust (Vegan)
+  is_recipe: true
+  unit_of_measure: 1/8th of recipe (approx. 40g)
+  nutritional_facts:
+    calories: 170
+    total_fat_g: 10
+    saturated_fat_g: 5
+    cholesterol_mg: 0
+    sodium_mg: 5
+    total_carbohydrates_g: 17
+    dietary_fiber_g: 0.5
+    sugars_g: 5
+    protein_g: 2
+    estimated_serving_weight_g: 40
+  ingredients:
+    - 1 1/2 cups All-purpose flour
+    - 1/2 cup Powdered sugar
+    - 1/2 cup (1 stick) Cold vegan butter sticks (cubed)
+    - 1/4 tsp Salt
+    - 1 tbsp Aquafaba (or 1 tbsp ice water)
+mac_and_cheese:
+  id: 222
+  name: 'Vegan Mac and Cheese (Baked, 6 Servings)'
+  type: Famous Comfort Food (Pasta)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 300g)
+  nutritional_facts:
+    calories: 450
+    total_fat_g: 15
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 550
+    total_carbohydrates_g: 60
+    dietary_fiber_g: 6
+    sugars_g: 4
+    protein_g: 18
+    estimated_serving_weight_g: 300
+  ingredients:
+    - 1 lb Elbow macaroni (dry)
+    - 'Sauce: 1 1/2 cups Raw cashews (soaked and drained)'
+    - 'Sauce: 1 cup Water or vegan milk'
+    - 'Sauce: 1/2 cup Nutritional yeast (for cheesy flavor)'
+    - 'Sauce: 1/4 cup Lemon juice'
+    - 'Sauce: 1 tsp Garlic powder'
+    - 'Sauce: 1 tsp Smoked paprika'
+    - 'Sauce: 1/2 tsp Turmeric (for color)'
+    - 'Topping: 1/4 cup Panko breadcrumbs (mixed with 1 tbsp oil)'
+madeleine:
+  id: 85
+  name: Madeleine (24 Small Shells)
+  type: Small Cake/Cookie
+  is_recipe: true
+  unit_of_measure: 1 small shell (approx. 25g)
+  nutritional_facts:
+    calories: 110
+    total_fat_g: 6
+    saturated_fat_g: 3.5
+    cholesterol_mg: 35
+    sodium_mg: 50
+    total_carbohydrates_g: 12
+    dietary_fiber_g: 0.1
+    sugars_g: 6
+    protein_g: 2
+    estimated_serving_weight_g: 25
+  ingredients:
+    - 3 large Eggs
+    - 1/2 cup Granulated sugar
+    - 1 cup All-purpose flour
+    - 1 tsp Baking powder
+    - 1/2 cup Unsalted butter (melted and cooled)
+    - 1 tsp Lemon zest
+mango:
+  id: 9
+  name: Mango (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup sliced (165g)
+  nutritional_facts:
+    calories: 99
+    total_fat_g: 0.6
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 2
+    total_carbohydrates_g: 24.7
+    dietary_fiber_g: 2.6
+    sugars_g: 22.5
+    protein_g: 1.4
+    manganese_mg: 1.1
+    vitamin_c_mg: 60.1
+maple_syrup:
+  id: 315
+  name: Maple Syrup (Pure)
+  type: Basic Food Item (Sweetener)
+  is_recipe: false
+  unit_of_measure: 1 tbsp (20g)
+  nutritional_facts:
+    calories: 52
+    total_fat_g: 0
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 2
+    total_carbohydrates_g: 13
+    dietary_fiber_g: 0
+    sugars_g: 12
+    protein_g: 0
+marmorkuchen:
+  id: 100
+  name: Austrian Marmorkuchen (Marble Loaf)
+  type: Loaf Cake (Austrian)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 70g)
+  nutritional_facts:
+    calories: 270
+    total_fat_g: 15
+    saturated_fat_g: 9
+    cholesterol_mg: 70
+    sodium_mg: 100
+    total_carbohydrates_g: 29
+    dietary_fiber_g: 0.5
+    sugars_g: 17
+    protein_g: 4
+    estimated_serving_weight_g: 70
+  ingredients:
+    - 2 1/4 cups All-purpose flour
+    - 1 1/2 cups Granulated sugar
+    - 1 cup (2 sticks) Butter (softened)
+    - 4 large Eggs
+    - 1/2 cup Milk
+    - 1 tbsp Baking powder
+    - 1 tsp Vanilla extract
+    - '3 tbsp Cocoa powder (unsweetened, for chocolate portion)'
+    - 2 tbsp Milk (extra for chocolate portion)
+minestrone:
+  id: 197
+  name: 'Minestrone Soup (Classic Italian, 8 Servings)'
+  type: 'Soup/One-Pot (Vegan, Italian Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 bowl (approx. 350g)
+  nutritional_facts:
+    calories: 300
+    total_fat_g: 4
+    saturated_fat_g: 0.5
+    cholesterol_mg: 0
+    sodium_mg: 450
+    total_carbohydrates_g: 50
+    dietary_fiber_g: 12
+    sugars_g: 7
+    protein_g: 15
+    estimated_serving_weight_g: 350
+  ingredients:
+    - 2 tbsp Olive oil
+    - 1 large Onion (diced)
+    - 2 stalks Celery (diced)
+    - 3 cloves Garlic (minced)
+    - 8 cups Vegetable broth
+    - 1 (15 oz) can Diced tomatoes
+    - '1 cup Small pasta (e.g., ditalini or shells)'
+    - 1 (15 oz) can Kidney beans (rinsed)
+    - 1 (15 oz) can Chickpeas (rinsed)
+    - '2 cups Mixed chopped vegetables (zucchini, carrots, cabbage)'
+    - 1/4 cup Fresh parsley and basil (chopped)
+moroccan_roasted_carrot_harissa_salad:
+  id: 248
+  name: Moroccan Roasted Carrot and Harissa Salad (4 Servings)
+  type: Side Dish/Warm Salad (Vegetable Focused)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 250g)
+  nutritional_facts:
+    calories: 350
+    total_fat_g: 18
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 300
+    total_carbohydrates_g: 40
+    dietary_fiber_g: 10
+    sugars_g: 15
+    protein_g: 10
+    estimated_serving_weight_g: 250
+  ingredients:
+    - 1 lb Carrots (sliced diagonally)
+    - 1 tbsp Olive oil
+    - 1 tbsp Harissa paste (vegan)
+    - 1/4 cup Toasted pumpkin seeds (pepitas)
+    - 1/2 cup Cooked chickpeas
+    - 'Dressing: 1 tbsp Lemon juice'
+    - 'Dressing: 1 tsp Maple syrup'
+    - 1/4 cup Fresh mint and cilantro (chopped)
+muffin:
+  id: 72
+  name: 'Muffin (Basic Vanilla/Blueberry, 12 Muffins)'
+  type: Quick Bread/Muffin
+  is_recipe: true
+  unit_of_measure: 1 muffin (approx. 90g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 12
+    saturated_fat_g: 3
+    cholesterol_mg: 40
+    sodium_mg: 250
+    total_carbohydrates_g: 38
+    dietary_fiber_g: 1
+    sugars_g: 18
+    protein_g: 5
+    estimated_serving_weight_g: 90
+  ingredients:
+    - 2 cups All-purpose flour
+    - 2 tsp Baking powder
+    - 1/2 tsp Salt
+    - 3/4 cup Milk
+    - 2 large Eggs
+    - 1/2 cup Vegetable oil
+    - 3/4 cup Granulated sugar
+    - 1 tsp Vanilla extract
+    - 1 cup Fresh or frozen blueberries (optional)
+nectarine:
+  id: 37
+  name: 'Nectarine (Medium, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 medium fruit (142g)
+  nutritional_facts:
+    calories: 62
+    total_fat_g: 0.5
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 15
+    dietary_fiber_g: 2.4
+    sugars_g: 11.2
+    protein_g: 1.5
+    vitamin_k_mcg: 25.1
+    vitamin_c_mg: 7.7
+nutritional_yeast:
+  id: 303
+  name: Nutritional Yeast (Flakes)
+  type: Basic Food Item (Umami/Protein)
+  is_recipe: false
+  unit_of_measure: 2 tbsp (10g)
+  nutritional_facts:
+    calories: 40
+    total_fat_g: 0.5
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 5
+    total_carbohydrates_g: 3
+    dietary_fiber_g: 2
+    sugars_g: 0
+    protein_g: 5
+oatmeal_cookie:
+  id: 103
+  name: 'Oatmeal Cookie (Chewy, 2 Dozen)'
+  type: Cookie
+  is_recipe: true
+  unit_of_measure: 1 cookie (approx. 30g)
+  nutritional_facts:
+    calories: 130
+    total_fat_g: 6
+    saturated_fat_g: 3.5
+    cholesterol_mg: 15
+    sodium_mg: 80
+    total_carbohydrates_g: 19
+    dietary_fiber_g: 1
+    sugars_g: 10
+    protein_g: 2
+    estimated_serving_weight_g: 30
+  ingredients:
+    - 1 1/2 cups All-purpose flour
+    - 3 cups Rolled oats
+    - 1 tsp Baking soda
+    - 1/2 tsp Salt
+    - 1 cup (2 sticks) Butter (softened)
+    - 1 cup Brown sugar (packed)
+    - 1/2 cup Granulated sugar
+    - 2 large Eggs
+    - 1 tsp Vanilla extract
+oatmeal_raisin_cookie:
+  id: 143
+  name: Vegan Oatmeal Raisin Cookie (2 Dozen)
+  type: Cookie (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 cookie (approx. 30g)
+  nutritional_facts:
+    calories: 140
+    total_fat_g: 6
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 80
+    total_carbohydrates_g: 21
+    dietary_fiber_g: 1.5
+    sugars_g: 11
+    protein_g: 2
+    estimated_serving_weight_g: 30
+  ingredients:
+    - 1 cup All-purpose flour
+    - 1 tsp Baking soda
+    - 1/2 tsp Salt
+    - 1 tsp Ground Cinnamon
+    - 1 cup Vegan butter sticks (softened)
+    - 1 cup Brown sugar (packed)
+    - 1/4 cup Applesauce (unsweetened)
+    - 2 cups Rolled oats
+    - 3/4 cup Raisins
+oatmeal_raisin_cookies:
+  id: 254
+  name: Vegan Oatmeal Raisin Cookies (18 Cookies)
+  type: 'Cookie (Vegan, Oatmeal)'
+  is_recipe: true
+  unit_of_measure: 1 cookie (approx. 45g)
+  nutritional_facts:
+    calories: 180
+    total_fat_g: 7
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 90
+    total_carbohydrates_g: 28
+    dietary_fiber_g: 2.5
+    sugars_g: 12
+    protein_g: 3
+    estimated_serving_weight_g: 45
+  ingredients:
+    - 1 cup All-purpose flour
+    - 1 1/2 cups Rolled oats (not instant)
+    - 3/4 cup Vegan butter (softened)
+    - 1/2 cup Brown sugar (packed)
+    - 1/4 cup Granulated sugar
+    - 1/4 cup Applesauce or Flax Egg equivalent
+    - 1 tsp Baking soda
+    - 1 tsp Cinnamon
+    - 1 cup Raisins
+oats:
+  id: 310
+  name: 'Oats (Dry, Rolled/Old-Fashioned)'
+  type: Basic Food Item (Grain/Fiber)
+  is_recipe: false
+  unit_of_measure: 1/2 cup (40g)
+  nutritional_facts:
+    calories: 150
+    total_fat_g: 3
+    saturated_fat_g: 0.5
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 27
+    dietary_fiber_g: 4
+    sugars_g: 0
+    protein_g: 5
+orange:
+  id: 3
+  name: 'Orange (Medium, Navel)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 medium orange (140g)
+  nutritional_facts:
+    calories: 69
+    total_fat_g: 0.2
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 17.5
+    dietary_fiber_g: 3.1
+    sugars_g: 12
+    protein_g: 1.3
+    niacin_mg: 4.2
+    vitamin_c_mg: 82.7
+p_te_sabl_e:
+  id: 75
+  name: 'Pâte Sablée (Sweet Shortcrust, for 9-inch Tart)'
+  type: Dough/Crust
+  is_recipe: true
+  unit_of_measure: 1/8th of recipe (approx. 40g)
+  nutritional_facts:
+    calories: 180
+    total_fat_g: 12
+    saturated_fat_g: 7
+    cholesterol_mg: 40
+    sodium_mg: 5
+    total_carbohydrates_g: 16
+    dietary_fiber_g: 0.5
+    sugars_g: 5
+    protein_g: 2
+    estimated_serving_weight_g: 40
+  ingredients:
+    - 1 1/2 cups All-purpose flour
+    - 1/2 cup Powdered sugar
+    - 1/2 cup (1 stick) Cold unsalted butter (cubed)
+    - 1 large Egg yolk
+    - 1/4 tsp Pinch of salt
+palak_tofu:
+  id: 208
+  name: 'Indian Palak Tofu (Spinach & Tofu Curry, 4 Servings)'
+  type: 'Curry (Vegan, Indian Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 serving curry (approx. 350g)
+  nutritional_facts:
+    calories: 380
+    total_fat_g: 22
+    saturated_fat_g: 5
+    cholesterol_mg: 0
+    sodium_mg: 400
+    total_carbohydrates_g: 25
+    dietary_fiber_g: 7
+    sugars_g: 5
+    protein_g: 28
+    estimated_serving_weight_g: 350
+  ingredients:
+    - 1 block (14 oz) Extra-firm tofu (pressed and cubed)
+    - 1 tbsp Vegetable oil
+    - 1 medium Onion (diced)
+    - 1 tbsp Ginger-garlic paste
+    - 1 lb Fresh spinach (blanched and pureed)
+    - 1/2 cup Water (for thinning)
+    - 1 tsp Garam Masala
+    - 1/2 tsp Turmeric powder
+    - '1/4 cup Cashew cream (or thick vegan yogurt, for finishing)'
+    - 1/2 tsp Salt
+palatschinken:
+  id: 90
+  name: Basic Crêpe/Palatschinken (12 Large)
+  type: Thin Pancake (Austrian)
+  is_recipe: true
+  unit_of_measure: 1 large crêpe (approx. 50g)
+  nutritional_facts:
+    calories: 100
+    total_fat_g: 4
+    saturated_fat_g: 2
+    cholesterol_mg: 60
+    sodium_mg: 50
+    total_carbohydrates_g: 13
+    dietary_fiber_g: 0.2
+    sugars_g: 1.5
+    protein_g: 4
+    estimated_serving_weight_g: 50
+  ingredients:
+    - 1 cup All-purpose flour
+    - 1 1/2 cups Milk
+    - 3 large Eggs
+    - 1/2 tsp Pinch of salt
+    - 2 tbsp Melted butter (plus extra for pan)
+panettone:
+  id: 161
+  name: 'Vegan Panettone (Challenging, 1 Large Loaf)'
+  type: Sweet Leavened Bread (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 70g)
+  nutritional_facts:
+    calories: 250
+    total_fat_g: 10
+    saturated_fat_g: 5
+    cholesterol_mg: 0
+    sodium_mg: 150
+    total_carbohydrates_g: 35
+    dietary_fiber_g: 1.5
+    sugars_g: 18
+    protein_g: 4
+    estimated_serving_weight_g: 70
+  ingredients:
+    - 4 cups Bread flour (high protein)
+    - 2 tsp Instant dry yeast
+    - 1 cup Vegan milk (warmed)
+    - 1/2 cup Granulated sugar (divided)
+    - 1/2 cup Vegan butter sticks (softened)
+    - 1/4 cup Applesauce (or commercial egg replacer)
+    - 1 tsp Vanilla extract
+    - 1/2 tsp Salt
+    - Zest of 1 Orange
+    - Zest of 1 Lemon
+    - 1/2 cup Candied orange peel
+    - '1/4 cup Raisins (soaked in 1 tbsp rum, optional)'
+papaya:
+  id: 28
+  name: Papaya (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup diced (140g)
+  nutritional_facts:
+    calories: 55
+    total_fat_g: 0.2
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 8
+    total_carbohydrates_g: 14.3
+    dietary_fiber_g: 2.5
+    sugars_g: 10.9
+    protein_g: 0.9
+    magnesium_mg: 86
+    vitamin_c_mg: 86.5
+paprika:
+  id: 327
+  name: Smoked Paprika
+  type: Basic Food Item (Spice/Flavor)
+  is_recipe: false
+  unit_of_measure: 1 tsp (2.5g)
+  nutritional_facts:
+    calories: 7
+    total_fat_g: 0.3
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 2
+    total_carbohydrates_g: 1.2
+    dietary_fiber_g: 0.5
+    sugars_g: 0.1
+    protein_g: 0.4
+passion_fruit:
+  id: 29
+  name: 'Passion Fruit (Purple, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 fruit (18g)
+  nutritional_facts:
+    calories: 17
+    total_fat_g: 0.1
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 5
+    total_carbohydrates_g: 4.2
+    dietary_fiber_g: 1.9
+    sugars_g: 2.2
+    protein_g: 0.4
+    manganese_mg: 1.2
+    vitamin_c_mg: 5.4
+peach:
+  id: 13
+  name: 'Peach (Medium, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 medium fruit (150g)
+  nutritional_facts:
+    calories: 58
+    total_fat_g: 0.4
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 14.3
+    dietary_fiber_g: 2.3
+    sugars_g: 12.6
+    protein_g: 1.4
+    omega_3_g: 1.6
+    vitamin_c_mg: 10.2
+peanut_butter:
+  id: 311
+  name: 'Peanut Butter (Natural, Smooth)'
+  type: Basic Food Item (Fat/Protein)
+  is_recipe: false
+  unit_of_measure: 2 tbsp (32g)
+  nutritional_facts:
+    calories: 190
+    total_fat_g: 16
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 5
+    total_carbohydrates_g: 8
+    dietary_fiber_g: 2
+    sugars_g: 1
+    protein_g: 8
+peanut_butter_cookie:
+  id: 131
+  name: 'Vegan Peanut Butter Cookie (Fork-pressed, 16 Cookies)'
+  type: Cookie (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 cookie (approx. 30g)
+  nutritional_facts:
+    calories: 150
+    total_fat_g: 9
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 90
+    total_carbohydrates_g: 14
+    dietary_fiber_g: 1
+    sugars_g: 8
+    protein_g: 5
+    estimated_serving_weight_g: 30
+  ingredients:
+    - '1 cup Peanut butter (natural, creamy)'
+    - 1/2 cup Granulated sugar
+    - 1/4 cup Brown sugar (packed)
+    - '2 tbsp Flaxseed meal (mixed with 6 tbsp water, flax egg)'
+    - 1 tsp Baking soda
+    - 1/4 tsp Salt
+peanut_butter_oatmeal_energy_balls:
+  id: 256
+  name: Vegan Peanut Butter Oatmeal Energy Balls (12 Balls)
+  type: No-Bake/Oatmeal
+  is_recipe: true
+  unit_of_measure: 2 balls (approx. 40g)
+  nutritional_facts:
+    calories: 170
+    total_fat_g: 9
+    saturated_fat_g: 1.5
+    cholesterol_mg: 0
+    sodium_mg: 50
+    total_carbohydrates_g: 18
+    dietary_fiber_g: 3
+    sugars_g: 8
+    protein_g: 6
+    estimated_serving_weight_g: 40
+  ingredients:
+    - 1 cup Rolled oats
+    - 1/2 cup Peanut butter (natural)
+    - 1/3 cup Maple syrup or agave
+    - 1/4 cup Chia seeds or flax seeds
+    - 1/4 cup Vegan chocolate chips (mini)
+    - 1 tsp Vanilla extract
+peanut_stew:
+  id: 190
+  name: 'Vegan Peanut Stew (African Inspired, 4 Servings)'
+  type: Stew (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 400g)
+  nutritional_facts:
+    calories: 550
+    total_fat_g: 28
+    saturated_fat_g: 5
+    cholesterol_mg: 0
+    sodium_mg: 550
+    total_carbohydrates_g: 60
+    dietary_fiber_g: 12
+    sugars_g: 15
+    protein_g: 25
+    estimated_serving_weight_g: 400
+  ingredients:
+    - 1 tbsp Vegetable oil
+    - 1 large Onion (diced)
+    - 4 cloves Garlic (minced)
+    - 1 tbsp Ginger (grated)
+    - 4 cups Vegetable broth
+    - 1 (14.5 oz) can Diced tomatoes
+    - '1/2 cup Peanut butter (natural, creamy)'
+    - 1 large Sweet potato (cubed)
+    - 1/2 tsp Cayenne pepper
+    - 1 (15 oz) can Chickpeas (drained and rinsed)
+    - 2 cups Spinach or kale (fresh)
+pear:
+  id: 24
+  name: 'Pear (Medium, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 medium fruit (178g)
+  nutritional_facts:
+    calories: 101
+    total_fat_g: 0.3
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 2
+    total_carbohydrates_g: 26.9
+    dietary_fiber_g: 5.5
+    sugars_g: 17.2
+    protein_g: 0.6
+    vitamin_c_mg: 7.7
+persimmon:
+  id: 33
+  name: 'Persimmon (Fuyu, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 medium fruit (168g)
+  nutritional_facts:
+    calories: 118
+    total_fat_g: 0.3
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 2
+    total_carbohydrates_g: 31.2
+    dietary_fiber_g: 6
+    sugars_g: 21
+    protein_g: 0.8
+    vitamin_k_mcg: 10.2
+    vitamin_c_mg: 12.6
+pesto_sauce:
+  id: 235
+  name: Vegan Pesto Sauce (Nut-Free Option)
+  type: Component (Sauce)
+  is_recipe: true
+  unit_of_measure: 1/4 cup (approx. 60g)
+  nutritional_facts:
+    calories: 200
+    total_fat_g: 18
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 250
+    total_carbohydrates_g: 8
+    dietary_fiber_g: 2
+    sugars_g: 1
+    protein_g: 4
+    estimated_serving_weight_g: 60
+  ingredients:
+    - 3 cups Fresh basil leaves (packed)
+    - 1/2 cup Nutritional yeast
+    - 1/4 cup Sunflower seeds or walnuts (toasted)
+    - 1/2 cup Olive oil
+    - 3 cloves Garlic
+    - 2 tbsp Lemon juice (fresh)
+    - 1/2 tsp Salt and black pepper
+pie_crust:
+  id: 142
+  name: 'Vegan Pie Crust (9-inch, Single Crust)'
+  type: Dough/Crust (Vegan)
+  is_recipe: true
+  unit_of_measure: 1/8th of recipe (approx. 35g)
+  nutritional_facts:
+    calories: 160
+    total_fat_g: 10
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 50
+    total_carbohydrates_g: 15
+    dietary_fiber_g: 0.5
+    sugars_g: 0.5
+    protein_g: 2
+    estimated_serving_weight_g: 35
+  ingredients:
+    - 1 1/4 cups All-purpose flour
+    - 1/2 tsp Salt
+    - 1/2 cup Cold vegan butter sticks (cut into cubes)
+    - 3-5 tbsp Ice water (as needed)
+pineapple:
+  id: 8
+  name: Pineapple (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup diced (165g)
+  nutritional_facts:
+    calories: 83
+    total_fat_g: 0.2
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 2
+    total_carbohydrates_g: 21.6
+    dietary_fiber_g: 2.3
+    sugars_g: 16.3
+    protein_g: 0.9
+    selenium_mcg: 544
+    vitamin_c_mg: 78.9
+pizza_dough:
+  id: 232
+  name: Vegan Pizza Dough (1 Large 14-inch Pizza)
+  type: Dough (Pizza)
+  is_recipe: true
+  unit_of_measure: 1/6th of dough (approx. 100g)
+  nutritional_facts:
+    calories: 250
+    total_fat_g: 5
+    saturated_fat_g: 1
+    cholesterol_mg: 0
+    sodium_mg: 350
+    total_carbohydrates_g: 45
+    dietary_fiber_g: 2
+    sugars_g: 1
+    protein_g: 8
+    estimated_serving_weight_g: 100
+  ingredients:
+    - 3 1/2 cups All-purpose flour or bread flour
+    - 2 1/4 tsp Instant dry yeast
+    - 1 1/4 cups Warm water
+    - 2 tbsp Olive oil (plus extra for bowl)
+    - 1 tsp Sugar
+    - 1 1/2 tsp Salt
+plantain:
+  id: 46
+  name: 'Plantain (Green, Cooked)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup sliced (154g)
+  nutritional_facts:
+    calories: 179
+    total_fat_g: 0.6
+    saturated_fat_g: 0.2
+    cholesterol_mg: 0
+    sodium_mg: 5
+    total_carbohydrates_g: 47.7
+    dietary_fiber_g: 3.4
+    sugars_g: 20
+    protein_g: 1.7
+    vitamin_d_mcg: 2.9
+    vitamin_c_mg: 21
+plum:
+  id: 14
+  name: 'Plum (Medium, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 medium fruit (66g)
+  nutritional_facts:
+    calories: 30
+    total_fat_g: 0.2
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 7.5
+    dietary_fiber_g: 0.9
+    sugars_g: 6.6
+    protein_g: 0.5
+    calcium_mg: 179
+    vitamin_c_mg: 4.5
+polish_kolach:
+  id: 180
+  name: 'Vegan Polish Kolach (Poppy Seed Filling, 1 Roll)'
+  type: Yeast Roll (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 75g)
+  nutritional_facts:
+    calories: 290
+    total_fat_g: 12
+    saturated_fat_g: 4
+    cholesterol_mg: 0
+    sodium_mg: 150
+    total_carbohydrates_g: 40
+    dietary_fiber_g: 3
+    sugars_g: 15
+    protein_g: 6
+    estimated_serving_weight_g: 75
+  ingredients:
+    - 'Dough: 3 cups All-purpose flour'
+    - 'Dough: 1 tbsp Instant yeast'
+    - 'Dough: 1 cup Warm vegan milk'
+    - 'Dough: 1/4 cup Sugar'
+    - 'Dough: 1/4 cup Vegan butter (softened)'
+    - 'Dough: 1/2 tsp Salt'
+    - 'Filling: 1 cup Poppy seeds (ground)'
+    - 'Filling: 1/2 cup Hot vegan milk'
+    - 'Filling: 1/4 cup Agave or maple syrup'
+    - 'Filling: Zest of 1 Lemon'
+pomegranate:
+  id: 22
+  name: Pomegranate (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1/2 cup arils (87g)
+  nutritional_facts:
+    calories: 72
+    total_fat_g: 1
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 3
+    total_carbohydrates_g: 16.3
+    dietary_fiber_g: 3.5
+    sugars_g: 11.9
+    protein_g: 1.5
+    iron_mg: 6.6
+    vitamin_c_mg: 8.9
+pound_cake:
+  id: 96
+  name: Pound Cake (Simple 9x5 Loaf)
+  type: Loaf Cake
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 70g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 16
+    saturated_fat_g: 9
+    cholesterol_mg: 90
+    sodium_mg: 120
+    total_carbohydrates_g: 30
+    dietary_fiber_g: 0.5
+    sugars_g: 18
+    protein_g: 4
+    estimated_serving_weight_g: 70
+  ingredients:
+    - 1 cup (2 sticks) Unsalted butter (softened)
+    - 1 cup Granulated sugar
+    - 4 large Eggs
+    - 2 cups All-purpose flour
+    - 1 tsp Vanilla extract
+    - 1/2 tsp Salt
+prune:
+  id: 39
+  name: Prune (Dried)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 5 prunes (43g)
+  nutritional_facts:
+    calories: 103
+    total_fat_g: 0.1
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 27.6
+    dietary_fiber_g: 3
+    sugars_g: 16.5
+    protein_g: 0.9
+    oleic_acid_g: 9.9
+    vitamin_c_mg: 0
+puff_pastry_dough:
+  id: 163
+  name: Vegan Puff Pastry Dough (Basic Batch)
+  type: Dough/Pastry (Vegan)
+  is_recipe: true
+  unit_of_measure: 1/4th of dough (approx. 100g)
+  nutritional_facts:
+    calories: 350
+    total_fat_g: 25
+    saturated_fat_g: 18
+    cholesterol_mg: 0
+    sodium_mg: 200
+    total_carbohydrates_g: 28
+    dietary_fiber_g: 1
+    sugars_g: 0.5
+    protein_g: 4
+    estimated_serving_weight_g: 100
+  ingredients:
+    - 2 1/4 cups All-purpose flour
+    - 1 tsp Salt
+    - 1 cup Cold water
+    - 1 cup (2 sticks) Cold vegan butter block (for laminating)
+pumpkin_bread:
+  id: 62
+  name: Pumpkin Bread/Loaf (9x5 Loaf)
+  type: Quick Bread/Loaf
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 80g)
+  nutritional_facts:
+    calories: 270
+    total_fat_g: 12
+    saturated_fat_g: 2
+    cholesterol_mg: 40
+    sodium_mg: 220
+    total_carbohydrates_g: 37
+    dietary_fiber_g: 1.5
+    sugars_g: 20
+    protein_g: 4
+    estimated_serving_weight_g: 80
+  ingredients:
+    - 1 3/4 cups All-purpose flour
+    - 1 tsp Baking soda
+    - 1 tsp Ground Cinnamon
+    - 1/2 tsp Ground Nutmeg
+    - 1/4 tsp Ground Cloves
+    - 1/2 tsp Salt
+    - 1 cup Pumpkin puree
+    - 1/2 cup Vegetable oil
+    - 1 1/2 cups Brown sugar (packed)
+    - 2 large Eggs
+pumpkin_pie_filling:
+  id: 149
+  name: Vegan Pumpkin Pie Filling (9-inch Pie)
+  type: Pie Filling (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 120g)
+  nutritional_facts:
+    calories: 200
+    total_fat_g: 6
+    saturated_fat_g: 1
+    cholesterol_mg: 0
+    sodium_mg: 200
+    total_carbohydrates_g: 32
+    dietary_fiber_g: 3
+    sugars_g: 18
+    protein_g: 4
+    estimated_serving_weight_g: 120
+  ingredients:
+    - 1 1/2 cups Pumpkin puree
+    - 1/2 cup Brown sugar (packed)
+    - 1/4 cup Granulated sugar
+    - 1 1/2 tsp Pumpkin pie spice
+    - 1/2 tsp Salt
+    - 1/2 cup Full-fat canned coconut milk (refrigerated part)
+    - 1/4 cup Cornstarch or Arrowroot powder (thickener)
+    - 1 tsp Vanilla extract
+raisin:
+  id: 40
+  name: Raisin (Seedless)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1/4 cup (40g)
+  nutritional_facts:
+    calories: 108
+    total_fat_g: 0.1
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 4
+    total_carbohydrates_g: 28.7
+    dietary_fiber_g: 1.9
+    sugars_g: 24.3
+    protein_g: 1.2
+    vitamin_e_mg: 2.1
+    vitamin_c_mg: 0.8
+rajma_bean_curry:
+  id: 204
+  name: 'Indian Rajma (Kidney Bean Curry, 6 Servings)'
+  type: 'Curry/Dal (Vegan, Indian Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 serving curry (approx. 320g)
+  nutritional_facts:
+    calories: 300
+    total_fat_g: 6
+    saturated_fat_g: 1
+    cholesterol_mg: 0
+    sodium_mg: 400
+    total_carbohydrates_g: 50
+    dietary_fiber_g: 18
+    sugars_g: 8
+    protein_g: 18
+    estimated_serving_weight_g: 320
+  ingredients:
+    - 1 tbsp Vegetable oil
+    - 1 medium Onion (pureed)
+    - 1 tbsp Ginger-garlic paste
+    - 1 (14.5 oz) can Crushed tomatoes
+    - 1 tsp Rajma Masala spice blend
+    - 1/2 tsp Turmeric powder
+    - '1/4 tsp Asafoetida (hing, optional)'
+    - 2 (15 oz) cans Kidney beans (drained and rinsed)
+    - 1 cup Water or vegetable broth
+    - 1/4 cup Fresh cilantro (chopped)
+rambutan:
+  id: 45
+  name: Rambutan (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 10 fruits (100g)
+  nutritional_facts:
+    calories: 82
+    total_fat_g: 0.1
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 11
+    total_carbohydrates_g: 20.9
+    dietary_fiber_g: 0.9
+    sugars_g: 18.7
+    protein_g: 0.9
+    stearic_acid_g: 4.7
+    vitamin_c_mg: 4.9
+raspberry:
+  id: 11
+  name: Raspberry (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup (123g)
+  nutritional_facts:
+    calories: 64
+    total_fat_g: 0.8
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 1
+    total_carbohydrates_g: 14.7
+    dietary_fiber_g: 8
+    sugars_g: 5.4
+    protein_g: 1.5
+    zinc_mg: 2.2
+    vitamin_c_mg: 30.8
+raw_cashews:
+  id: 305
+  name: Raw Cashews (Unsalted)
+  type: Basic Food Item (Fat/Protein/Binder)
+  is_recipe: false
+  unit_of_measure: 1/4 cup (32g)
+  nutritional_facts:
+    calories: 185
+    total_fat_g: 15
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 3
+    total_carbohydrates_g: 10
+    dietary_fiber_g: 1
+    sugars_g: 1
+    protein_g: 5
+red_lentil_dal:
+  id: 187
+  name: 'Red Lentil Dal (Indian One-Pot, 4 Servings)'
+  type: One-Pot/Dal (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 350g)
+  nutritional_facts:
+    calories: 390
+    total_fat_g: 8
+    saturated_fat_g: 1
+    cholesterol_mg: 0
+    sodium_mg: 420
+    total_carbohydrates_g: 60
+    dietary_fiber_g: 18
+    sugars_g: 5
+    protein_g: 22
+    estimated_serving_weight_g: 350
+  ingredients:
+    - 1 tbsp Coconut oil
+    - 1 medium Onion (diced)
+    - '2 cups Red lentils (split, rinsed)'
+    - 5 cups Water or vegetable broth
+    - 1 tbsp Ginger (grated)
+    - 1 tbsp Turmeric powder
+    - 1 tsp Cumin seeds
+    - 1/2 tsp Cayenne pepper (optional)
+    - 1/2 cup Diced tomato
+    - 1 tbsp Lemon juice (fresh)
+red_lentils:
+  id: 316
+  name: Dried Red Lentils (Uncooked)
+  type: Basic Food Item (Protein/Legume)
+  is_recipe: false
+  unit_of_measure: 1/4 cup dry (50g)
+  nutritional_facts:
+    calories: 180
+    total_fat_g: 0.5
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 2
+    total_carbohydrates_g: 30
+    dietary_fiber_g: 8
+    sugars_g: 3
+    protein_g: 12
+ribollita:
+  id: 192
+  name: 'Italian Ribollita (Tuscan Bean Bread Soup, 6 Servings)'
+  type: 'Soup/Stew (Vegan, Italian Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 thick bowl (approx. 400g)
+  nutritional_facts:
+    calories: 450
+    total_fat_g: 10
+    saturated_fat_g: 1.5
+    cholesterol_mg: 0
+    sodium_mg: 500
+    total_carbohydrates_g: 70
+    dietary_fiber_g: 18
+    sugars_g: 6
+    protein_g: 20
+    estimated_serving_weight_g: 400
+  ingredients:
+    - 2 tbsp Olive oil (plus extra for serving)
+    - 1 medium Onion (diced)
+    - 3 cloves Garlic (minced)
+    - '1 bunch Tuscan kale (Cavolo Nero, chopped)'
+    - 1 (15 oz) can Cannellini beans (rinsed and drained)
+    - 1 (28 oz) can Crushed tomatoes
+    - 4 cups Vegetable broth
+    - 1 tsp Dried basil
+    - 1/2 tsp Red pepper flakes
+    - '3 slices Stale hearty bread (cubed, per serving)'
+roasted_red_pepper_carrot_soup:
+  id: 244
+  name: Creamy Roasted Red Pepper and Carrot Soup (6 Servings)
+  type: Soup (Vegetable Focused)
+  is_recipe: true
+  unit_of_measure: 1 bowl (approx. 300g)
+  nutritional_facts:
+    calories: 250
+    total_fat_g: 12
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 400
+    total_carbohydrates_g: 30
+    dietary_fiber_g: 8
+    sugars_g: 12
+    protein_g: 10
+    estimated_serving_weight_g: 300
+  ingredients:
+    - 4 large Red bell peppers (roasted and peeled)
+    - 1 lb Carrots (chopped and roasted)
+    - 1 medium Onion (chopped)
+    - 3 cups Vegetable broth
+    - '1/2 cup Raw cashews (soaked, for creaminess)'
+    - 1 tbsp Olive oil
+    - 1 tsp Smoked paprika
+    - 1/2 tsp Salt
+roasted_vegetable_tofu_sheet_pan:
+  id: 241
+  name: Roasted Vegetable and Tofu Sheet Pan (4 Servings)
+  type: Main Dish (Vegetable Focused)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 350g)
+  nutritional_facts:
+    calories: 400
+    total_fat_g: 20
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 450
+    total_carbohydrates_g: 40
+    dietary_fiber_g: 10
+    sugars_g: 8
+    protein_g: 25
+    estimated_serving_weight_g: 350
+  ingredients:
+    - 1 block (14 oz) Extra-firm tofu (pressed and cubed)
+    - 1 large Sweet potato (cubed)
+    - 1 large Head broccoli florets
+    - 1 medium Red onion (wedged)
+    - 1 medium Zucchini (sliced)
+    - 3 tbsp Olive oil
+    - 1 tbsp Balsamic glaze
+    - 1 tsp Dried thyme
+    - 1/2 tsp Salt and pepper
+royal_icing:
+  id: 167
+  name: Vegan Royal Icing (for Decorating)
+  type: Icing/Frosting (Vegan)
+  is_recipe: true
+  unit_of_measure: 2 tbsp (approx. 30g)
+  nutritional_facts:
+    calories: 110
+    total_fat_g: 0
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 5
+    total_carbohydrates_g: 27
+    dietary_fiber_g: 0
+    sugars_g: 27
+    protein_g: 0.5
+    estimated_serving_weight_g: 30
+  ingredients:
+    - 3 cups Powdered sugar
+    - 5 tbsp Aquafaba (liquid from canned chickpeas)
+    - 1/2 tsp Vanilla extract
+    - 1/2 tsp Lemon juice (for stability)
+sachertorte:
+  id: 99
+  name: Austrian Sachertorte (Cake Layer)
+  type: Cake (Austrian)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 70g)
+  nutritional_facts:
+    calories: 230
+    total_fat_g: 13
+    saturated_fat_g: 7
+    cholesterol_mg: 60
+    sodium_mg: 80
+    total_carbohydrates_g: 25
+    dietary_fiber_g: 1.5
+    sugars_g: 15
+    protein_g: 4
+    estimated_serving_weight_g: 70
+  ingredients:
+    - '4 oz Dark chocolate (70%, melted)'
+    - 1/2 cup Unsalted butter (softened)
+    - 1/2 cup Granulated sugar (divided)
+    - 6 large Egg yolks
+    - 6 large Egg whites (whipped stiff)
+    - 3/4 cup All-purpose flour
+    - 1/2 cup Apricot jam (for middle layer)
+schwarz_wei_geb_ck:
+  id: 159
+  name: 'Vegan Schwarz-Weiß Gebäck (Black-White Checkerboard, 3 Dozen)'
+  type: 'Cookie (Vegan, Austrian Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 cookie (approx. 15g)
+  nutritional_facts:
+    calories: 70
+    total_fat_g: 4
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 15
+    total_carbohydrates_g: 7
+    dietary_fiber_g: 0.3
+    sugars_g: 3
+    protein_g: 0.8
+    estimated_serving_weight_g: 15
+  ingredients:
+    - 2 cups All-purpose flour (divided)
+    - 1 cup Vegan butter sticks (softened)
+    - 3/4 cup Granulated sugar
+    - 1/4 tsp Salt
+    - 1 tsp Vanilla extract
+    - 3 tbsp Unsweetened cocoa powder (for black dough)
+    - '1 tbsp Vegan milk (extra, for cocoa dough)'
+scone:
+  id: 60
+  name: 'Classic Scone (Plain, 8 Scones)'
+  type: Quick Bread/Pastry
+  is_recipe: true
+  unit_of_measure: 1 scone (approx. 70g)
+  nutritional_facts:
+    calories: 200
+    total_fat_g: 9
+    saturated_fat_g: 5.5
+    cholesterol_mg: 25
+    sodium_mg: 200
+    total_carbohydrates_g: 25
+    dietary_fiber_g: 1
+    sugars_g: 4
+    protein_g: 4
+    estimated_serving_weight_g: 70
+  ingredients:
+    - 2 cups All-purpose flour
+    - 1 tbsp Baking powder
+    - 1/2 tsp Salt
+    - 1/4 cup Granulated sugar
+    - 1/2 cup (1 stick) Cold butter (cubed)
+    - 3/4 cup Cold milk or cream
+    - '1 large Egg (for wash, optional)'
+scones:
+  id: 135
+  name: 'Vegan Scones (Simple Plain, 8 Scones)'
+  type: Quick Bread/Pastry (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 scone (approx. 70g)
+  nutritional_facts:
+    calories: 210
+    total_fat_g: 10
+    saturated_fat_g: 6
+    cholesterol_mg: 0
+    sodium_mg: 220
+    total_carbohydrates_g: 26
+    dietary_fiber_g: 1
+    sugars_g: 5
+    protein_g: 3
+    estimated_serving_weight_g: 70
+  ingredients:
+    - 2 cups All-purpose flour
+    - 1 tbsp Baking powder
+    - 1/2 tsp Salt
+    - 1/4 cup Granulated sugar
+    - 1/2 cup Cold vegan butter (cubed)
+    - '3/4 cup Cold vegan milk (e.g., coconut or soy)'
+seitan_steaks:
+  id: 212
+  name: Seitan Steaks with Mushroom Gravy (4 Servings)
+  type: Main Dish (Seitan)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 250g)
+  nutritional_facts:
+    calories: 350
+    total_fat_g: 8
+    saturated_fat_g: 1.5
+    cholesterol_mg: 0
+    sodium_mg: 700
+    total_carbohydrates_g: 30
+    dietary_fiber_g: 6
+    sugars_g: 4
+    protein_g: 45
+    estimated_serving_weight_g: 250
+  ingredients:
+    - 1 lb Seitan roast or sliced steaks
+    - 1 tbsp Olive oil
+    - 1 tbsp Vegan butter
+    - 'Gravy: 1 cup Mushrooms (sliced)'
+    - 'Gravy: 1/4 cup Onion (diced)'
+    - 'Gravy: 2 tbsp All-purpose flour'
+    - 'Gravy: 1 1/2 cups Vegetable broth (strong flavor)'
+    - 'Gravy: 1 tsp Thyme'
+    - 'Gravy: 1 tbsp Soy sauce (for color/umami)'
+sesame_green_bean_stir_fry:
+  id: 246
+  name: Quick Sesame Green Bean Stir-fry (4 Servings)
+  type: Side Dish (Vegetable Focused)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 150g)
+  nutritional_facts:
+    calories: 150
+    total_fat_g: 8
+    saturated_fat_g: 1
+    cholesterol_mg: 0
+    sodium_mg: 300
+    total_carbohydrates_g: 15
+    dietary_fiber_g: 6
+    sugars_g: 5
+    protein_g: 5
+    estimated_serving_weight_g: 150
+  ingredients:
+    - 1 lb Fresh green beans (trimmed)
+    - 1 tbsp Sesame oil
+    - 4 cloves Garlic (minced)
+    - 1 tbsp Ginger (grated)
+    - 1/4 cup Soy sauce or Tamari
+    - 1 tbsp Maple syrup or agave
+    - 1 tsp Rice vinegar
+    - 1 tbsp Sesame seeds (toasted)
+shortbread_bars:
+  id: 166
+  name: Vegan Shortbread Bars (8x8 Pan)
+  type: Bar/Square (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 square (approx. 60g)
+  nutritional_facts:
+    calories: 270
+    total_fat_g: 18
+    saturated_fat_g: 11
+    cholesterol_mg: 0
+    sodium_mg: 100
+    total_carbohydrates_g: 25
+    dietary_fiber_g: 0.5
+    sugars_g: 10
+    protein_g: 2
+    estimated_serving_weight_g: 60
+  ingredients:
+    - 1 1/2 cups All-purpose flour
+    - 1/2 cup Powdered sugar
+    - '1 cup (2 sticks) Vegan butter sticks (cold, cubed)'
+    - 1/2 tsp Salt
+    - 1 tsp Vanilla extract
+shortbread_cookies:
+  id: 140
+  name: Vegan Shortbread Cookies (2 Dozen)
+  type: Cookie (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 cookie (approx. 15g)
+  nutritional_facts:
+    calories: 85
+    total_fat_g: 5
+    saturated_fat_g: 3.5
+    cholesterol_mg: 0
+    sodium_mg: 25
+    total_carbohydrates_g: 9
+    dietary_fiber_g: 0.1
+    sugars_g: 2.5
+    protein_g: 0.5
+    estimated_serving_weight_g: 15
+  ingredients:
+    - 1 cup (2 sticks) Vegan butter sticks (softened)
+    - 1/2 cup Powdered sugar
+    - 2 cups All-purpose flour
+    - 1/4 tsp Salt
+snickerdoodles:
+  id: 251
+  name: Vegan Snickerdoodles (18 Cookies)
+  type: Cookie (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 cookie (approx. 40g)
+  nutritional_facts:
+    calories: 160
+    total_fat_g: 8
+    saturated_fat_g: 4
+    cholesterol_mg: 0
+    sodium_mg: 100
+    total_carbohydrates_g: 20
+    dietary_fiber_g: 0.5
+    sugars_g: 12
+    protein_g: 1.5
+    estimated_serving_weight_g: 40
+  ingredients:
+    - '1 cup Vegan yogurt (unsweetened, plain)'
+    - 1/2 Cucumber (grated and excess water squeezed out)
+    - 2 cloves Garlic (minced)
+    - 1 tbsp Fresh dill (chopped)
+    - 1 tbsp Lemon juice (fresh)
+    - 1 tbsp Olive oil
+    - 1/2 tsp Salt and black pepper
+    - 2 3/4 cups All-purpose flour
+    - 1 cup Vegan butter (softened)
+    - 1 1/2 cups Granulated sugar (divided)
+    - 2 tsp Cream of tartar
+    - 1 tsp Baking soda
+    - 1/4 cup Applesauce or Flax Egg equivalent
+    - 1/2 tsp Salt
+    - 2 tbsp Cinnamon (for rolling)
+soft_pretzels:
+  id: 172
+  name: 'Vegan Soft Pretzels (Large Batch, 8 Pretzels)'
+  type: Yeast Dough/Snack (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 pretzel (approx. 110g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 4
+    saturated_fat_g: 1
+    cholesterol_mg: 0
+    sodium_mg: 700
+    total_carbohydrates_g: 50
+    dietary_fiber_g: 2
+    sugars_g: 2
+    protein_g: 8
+    estimated_serving_weight_g: 110
+  ingredients:
+    - 4 cups All-purpose flour
+    - 1 1/2 cups Warm water
+    - 1 tbsp Instant dry yeast
+    - 1 tsp Salt
+    - 1 tbsp Brown sugar or maple syrup
+    - 1/4 cup Baking soda (for boiling bath)
+    - 8 cups Water (for boiling bath)
+    - 2 tbsp Coarse salt (for topping)
+soy_carnitas_tacos:
+  id: 219
+  name: Soy Curl 'Carnitas' Tacos (4 Servings)
+  type: Main Dish (Soy Curls)
+  is_recipe: true
+  unit_of_measure: 1 serving filling (approx. 180g)
+  nutritional_facts:
+    calories: 300
+    total_fat_g: 8
+    saturated_fat_g: 1
+    cholesterol_mg: 0
+    sodium_mg: 500
+    total_carbohydrates_g: 25
+    dietary_fiber_g: 8
+    sugars_g: 5
+    protein_g: 35
+    estimated_serving_weight_g: 180
+  ingredients:
+    - '4 oz Soy Curls (dry, rehydrated and squeezed)'
+    - 1 tbsp Oil
+    - 1 large Onion (diced)
+    - 1 tsp Oregano
+    - 1 tsp Cumin
+    - 1/2 cup Orange juice (fresh)
+    - 1 tbsp Lime juice (fresh)
+    - 1/4 cup Vegetable broth
+    - 1/2 tsp Liquid smoke (optional)
+    - 'To serve: Tortillas, salsa, avocado (not included in nutritional count)'
+soy_fajitas:
+  id: 214
+  name: Soy Curl 'Chicken' Fajitas (4 Servings)
+  type: Skillet/Stir-fry (Soy Curls)
+  is_recipe: true
+  unit_of_measure: 1 serving filling (approx. 200g)
+  nutritional_facts:
+    calories: 320
+    total_fat_g: 10
+    saturated_fat_g: 1.5
+    cholesterol_mg: 0
+    sodium_mg: 600
+    total_carbohydrates_g: 25
+    dietary_fiber_g: 7
+    sugars_g: 6
+    protein_g: 35
+    estimated_serving_weight_g: 200
+  ingredients:
+    - '3 oz Soy Curls (dry, rehydrated in hot vegetable broth)'
+    - 1 tbsp Vegetable oil
+    - 1 large Onion (sliced)
+    - 2 large Bell peppers (sliced)
+    - 1 tbsp Fajita seasoning blend
+    - 1/2 cup Vegetable broth (for moisture)
+    - 2 tbsp Lime juice (fresh)
+    - 'To serve: 8 small Tortillas (not included in nutritional count)'
+soy_sauce:
+  id: 314
+  name: Soy Sauce (Regular)
+  type: Basic Food Item (Umami/Flavor)
+  is_recipe: false
+  unit_of_measure: 1 tbsp (15ml)
+  nutritional_facts:
+    calories: 8
+    total_fat_g: 0
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 920
+    total_carbohydrates_g: 1
+    dietary_fiber_g: 0
+    sugars_g: 0
+    protein_g: 1
+spaghetti_bolognese:
+  id: 234
+  name: Vegan Spaghetti Bolognese (4 Servings)
+  type: Pasta Dish (Hearty)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 400g)
+  nutritional_facts:
+    calories: 500
+    total_fat_g: 10
+    saturated_fat_g: 1.5
+    cholesterol_mg: 0
+    sodium_mg: 600
+    total_carbohydrates_g: 70
+    dietary_fiber_g: 10
+    sugars_g: 10
+    protein_g: 30
+    estimated_serving_weight_g: 400
+  ingredients:
+    - 12 oz Spaghetti (dry)
+    - 'Filling: 1 cup TVP (rehydrated in broth) or finely crumbled tempeh'
+    - 1 tbsp Olive oil
+    - 1 medium Onion (diced)
+    - 2 stalks Celery (diced)
+    - 1 carrot (diced)
+    - 1 (28 oz) can Crushed tomatoes
+    - 1/2 cup Red wine (optional) or vegetable broth
+    - 1 tsp Dried oregano
+    - 1 Bay leaf
+spekulatius:
+  id: 154
+  name: 'Vegan Spekulatius (Spiced Biscuits, 3 Dozen)'
+  type: 'Cookie (Vegan, Central European Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 biscuit (approx. 15g)
+  nutritional_facts:
+    calories: 70
+    total_fat_g: 4
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 40
+    total_carbohydrates_g: 8
+    dietary_fiber_g: 0.3
+    sugars_g: 4
+    protein_g: 0.7
+    estimated_serving_weight_g: 15
+  ingredients:
+    - 2 cups All-purpose flour
+    - 1 cup Vegan butter sticks (softened)
+    - 3/4 cup Brown sugar (packed)
+    - '1 tbsp Spekulatius spice blend (cinnamon, cloves, nutmeg, cardamom)'
+    - 1 tsp Baking powder
+    - 1/4 cup Vegan milk (for binding)
+spinach:
+  id: 306
+  name: Spinach (Raw)
+  type: Basic Food Item (Vegetable)
+  is_recipe: false
+  unit_of_measure: 2 cups (60g)
+  nutritional_facts:
+    calories: 14
+    total_fat_g: 0.2
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 47
+    total_carbohydrates_g: 2.2
+    dietary_fiber_g: 2.2
+    sugars_g: 0.3
+    protein_g: 1.7
+star_apple:
+  id: 47
+  name: 'Star Apple (Caimito, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 fruit (100g)
+  nutritional_facts:
+    calories: 67
+    total_fat_g: 1.7
+    saturated_fat_g: 0.6
+    cholesterol_mg: 0
+    sodium_mg: 2
+    total_carbohydrates_g: 15
+    dietary_fiber_g: 3
+    sugars_g: 10
+    protein_g: 0.7
+    calcium_mg: 450
+    vitamin_c_mg: 35
+star_fruit:
+  id: 34
+  name: 'Star Fruit (Carambola, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 medium fruit (91g)
+  nutritional_facts:
+    calories: 28
+    total_fat_g: 0.3
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 1
+    total_carbohydrates_g: 6.1
+    dietary_fiber_g: 2.6
+    sugars_g: 3.6
+    protein_g: 0.9
+    vitamin_e_mg: 5.6
+    vitamin_c_mg: 36.4
+sticky_buns:
+  id: 177
+  name: 'Vegan Sticky Buns (Small Batch, 6 Buns)'
+  type: Yeast Roll (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 bun (approx. 120g)
+  nutritional_facts:
+    calories: 420
+    total_fat_g: 18
+    saturated_fat_g: 9
+    cholesterol_mg: 0
+    sodium_mg: 250
+    total_carbohydrates_g: 60
+    dietary_fiber_g: 2
+    sugars_g: 35
+    protein_g: 6
+    estimated_serving_weight_g: 120
+  ingredients:
+    - 'Dough: 1 1/2 cups All-purpose flour'
+    - 'Dough: 1 tsp Instant yeast'
+    - 'Dough: 1/2 cup Warm vegan milk'
+    - 'Dough: 2 tbsp Sugar'
+    - 'Dough: 2 tbsp Vegan butter (melted)'
+    - 'Topping: 1/2 cup Brown sugar (packed)'
+    - 'Topping: 1/2 cup Vegan butter'
+    - 'Topping: 1/4 cup Maple syrup'
+    - 'Filling: 1/4 cup Cinnamon-sugar mixture'
+strawberry:
+  id: 4
+  name: Strawberry (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup sliced (166g)
+  nutritional_facts:
+    calories: 53
+    total_fat_g: 0.5
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 2
+    total_carbohydrates_g: 12.7
+    dietary_fiber_g: 3.3
+    sugars_g: 8.1
+    protein_g: 1.1
+    potassium_mg: 289
+    vitamin_c_mg: 97.6
+stuffed_bell_peppers:
+  id: 245
+  name: Stuffed Bell Peppers with Lentil and Rice (4 Servings)
+  type: Baked Dish (Vegetable Vessel)
+  is_recipe: true
+  unit_of_measure: 1 pepper half (approx. 320g)
+  nutritional_facts:
+    calories: 420
+    total_fat_g: 8
+    saturated_fat_g: 1
+    cholesterol_mg: 0
+    sodium_mg: 450
+    total_carbohydrates_g: 65
+    dietary_fiber_g: 15
+    sugars_g: 10
+    protein_g: 20
+    estimated_serving_weight_g: 320
+  ingredients:
+    - 4 large Bell peppers (halved lengthwise)
+    - 1 cup Cooked lentils (brown or green)
+    - 1 cup Cooked brown rice
+    - 1 (14.5 oz) can Diced tomatoes (drained)
+    - 1/2 cup Corn (frozen)
+    - 1/4 cup Black olives (sliced)
+    - 1 tbsp Olive oil
+    - 1 tsp Cumin
+    - 1/2 tsp Chili powder
+sugar_cookie:
+  id: 133
+  name: 'Vegan Sugar Cookie (Cutout, 2 Dozen)'
+  type: Cookie (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 cookie (approx. 20g)
+  nutritional_facts:
+    calories: 105
+    total_fat_g: 5.5
+    saturated_fat_g: 2.5
+    cholesterol_mg: 0
+    sodium_mg: 50
+    total_carbohydrates_g: 13
+    dietary_fiber_g: 0.2
+    sugars_g: 6
+    protein_g: 0.8
+    estimated_serving_weight_g: 20
+  ingredients:
+    - 2 1/2 cups All-purpose flour
+    - 1 tsp Baking powder
+    - 1/2 tsp Salt
+    - 1 cup Vegan butter sticks (softened)
+    - 1 cup Granulated sugar
+    - 1/4 cup Vegan milk (for binding)
+    - 1 tsp Vanilla extract
+swedish_pea_soup:
+  id: 199
+  name: 'Swedish Pea Soup (Ärtsoppa, 6 Servings)'
+  type: 'Soup/Stew (Vegan, Scandinavian Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 bowl (approx. 350g)
+  nutritional_facts:
+    calories: 380
+    total_fat_g: 5
+    saturated_fat_g: 1
+    cholesterol_mg: 0
+    sodium_mg: 400
+    total_carbohydrates_g: 60
+    dietary_fiber_g: 25
+    sugars_g: 6
+    protein_g: 25
+    estimated_serving_weight_g: 350
+  ingredients:
+    - 1 cup Dried yellow split peas (rinsed)
+    - 6 cups Water or vegetable broth
+    - 1 medium Onion (chopped)
+    - 1 tsp Dried thyme
+    - 1 tsp Dried marjoram
+    - 1/4 cup Nutritional yeast
+    - '1/2 tsp Ground ginger (optional, traditional flavor)'
+    - '4 oz Vegan smoked sausage (sliced, for flavor and protein)'
+sweet_potato:
+  id: 308
+  name: 'Sweet Potato (Raw, Unpeeled)'
+  type: Basic Food Item (Root Vegetable)
+  is_recipe: false
+  unit_of_measure: 1 medium (150g)
+  nutritional_facts:
+    calories: 130
+    total_fat_g: 0.1
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 40
+    total_carbohydrates_g: 30
+    dietary_fiber_g: 4.5
+    sugars_g: 6.5
+    protein_g: 2.5
+tangerine:
+  id: 20
+  name: 'Tangerine (Medium, Raw)'
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 medium fruit (88g)
+  nutritional_facts:
+    calories: 47
+    total_fat_g: 0.3
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 1
+    total_carbohydrates_g: 12
+    dietary_fiber_g: 1.6
+    sugars_g: 9.3
+    protein_g: 0.7
+    manganese_mg: 0.9
+    vitamin_c_mg: 26.7
+tempeh_chili:
+  id: 218
+  name: Tempeh Chili (3 Servings)
+  type: Chili/Stew (Tempeh)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 350g)
+  nutritional_facts:
+    calories: 450
+    total_fat_g: 15
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 500
+    total_carbohydrates_g: 50
+    dietary_fiber_g: 14
+    sugars_g: 7
+    protein_g: 35
+    estimated_serving_weight_g: 350
+  ingredients:
+    - 1 block (8 oz) Tempeh (crumbled)
+    - 1 tbsp Olive oil
+    - 1 medium Onion (diced)
+    - 1 (14.5 oz) can Diced tomatoes
+    - 1 (15 oz) can Kidney beans (rinsed)
+    - 1 (15 oz) can Black beans (rinsed)
+    - 1 1/2 cups Vegetable broth
+    - 2 tbsp Chili powder
+    - 1 tbsp Cumin
+    - 1/2 tsp Smoked paprika
+thai_coconut_soup:
+  id: 205
+  name: 'Vegan Thai Coconut Soup (Tom Kha, 6 Servings)'
+  type: 'Soup (Vegan, Thai Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 bowl (approx. 300g)
+  nutritional_facts:
+    calories: 300
+    total_fat_g: 22
+    saturated_fat_g: 18
+    cholesterol_mg: 0
+    sodium_mg: 450
+    total_carbohydrates_g: 15
+    dietary_fiber_g: 3
+    sugars_g: 6
+    protein_g: 15
+    estimated_serving_weight_g: 300
+  ingredients:
+    - 1 (13.5 oz) can Full-fat coconut milk
+    - 3 cups Vegetable broth
+    - '1-inch piece Galangal (or ginger, sliced)'
+    - 2 stalks Lemongrass (bruised)
+    - 3 Kaffir lime leaves
+    - 6 oz Tofu (cubed) or 1 cup oyster mushrooms
+    - 1 tbsp Tamari or soy sauce
+    - 1 tbsp Lime juice (fresh)
+    - '1/2 tsp Chili paste (e.g., Sriracha, optional)'
+    - 1/4 cup Fresh cilantro (for garnish)
+thai_green_curry_with_tempeh:
+  id: 207
+  name: Vegan Thai Green Curry with Tempeh (4 Servings)
+  type: 'Curry (Vegan, Thai Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 serving curry (approx. 350g)
+  nutritional_facts:
+    calories: 450
+    total_fat_g: 25
+    saturated_fat_g: 18
+    cholesterol_mg: 0
+    sodium_mg: 580
+    total_carbohydrates_g: 30
+    dietary_fiber_g: 8
+    sugars_g: 8
+    protein_g: 28
+    estimated_serving_weight_g: 350
+  ingredients:
+    - 8 oz Tempeh (cubed and lightly pan-fried)
+    - 1 tbsp Coconut oil
+    - 4 oz Green curry paste (vegan)
+    - 1 (13.5 oz) can Full-fat coconut milk
+    - 1 cup Vegetable broth
+    - 1/2 cup Bamboo shoots (sliced)
+    - 1 cup Broccoli florets
+    - 1 tbsp Soy sauce or Tamari
+    - 1 tsp Lime juice (fresh)
+thai_peanut_noodle:
+  id: 209
+  name: Thai Peanut Noodle Curry (4 Servings)
+  type: 'Curry/One-Pot (Vegan, Thai Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 400g)
+  nutritional_facts:
+    calories: 550
+    total_fat_g: 25
+    saturated_fat_g: 5
+    cholesterol_mg: 0
+    sodium_mg: 650
+    total_carbohydrates_g: 65
+    dietary_fiber_g: 7
+    sugars_g: 12
+    protein_g: 25
+    estimated_serving_weight_g: 400
+  ingredients:
+    - 8 oz Rice noodles (pad Thai style)
+    - 1 tbsp Sesame oil
+    - 4 cloves Garlic (minced)
+    - 1 tbsp Ginger (grated)
+    - '1/2 cup Peanut butter (natural, creamy)'
+    - 1/4 cup Soy sauce or Tamari
+    - 1 tbsp Maple syrup or brown sugar
+    - 1 tbsp Rice vinegar
+    - 2 cups Vegetable broth
+    - '1 cup Mixed vegetables (e.g., carrots, broccoli)'
+    - '4 oz Edamame (shelled, for extra protein)'
+thai_red_curry:
+  id: 201
+  name: Vegan Thai Red Curry with Tofu (4 Servings)
+  type: 'Curry (Vegan, Thai Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 serving curry (approx. 350g)
+  nutritional_facts:
+    calories: 480
+    total_fat_g: 30
+    saturated_fat_g: 20
+    cholesterol_mg: 0
+    sodium_mg: 550
+    total_carbohydrates_g: 35
+    dietary_fiber_g: 5
+    sugars_g: 10
+    protein_g: 25
+    estimated_serving_weight_g: 350
+  ingredients:
+    - '1 block (14 oz) Extra-firm tofu (pressed, cubed, and pan-fried)'
+    - 1 tbsp Coconut oil
+    - 4 oz Red curry paste (vegan)
+    - 1 (13.5 oz) can Full-fat coconut milk
+    - 1/2 cup Vegetable broth
+    - 1/2 cup Water
+    - 1 tbsp Brown sugar or maple syrup
+    - 1 tbsp Soy sauce or Tamari
+    - '1 cup Mixed vegetables (e.g., bell peppers, green beans)'
+    - 3 Kaffir lime leaves (optional)
+    - 1/4 cup Fresh basil (for garnish)
+thai_yellow_curry_with_seitan:
+  id: 203
+  name: Vegan Thai Yellow Curry with Seitan (4 Servings)
+  type: 'Curry (Vegan, Thai Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 serving curry (approx. 380g)
+  nutritional_facts:
+    calories: 420
+    total_fat_g: 22
+    saturated_fat_g: 15
+    cholesterol_mg: 0
+    sodium_mg: 600
+    total_carbohydrates_g: 30
+    dietary_fiber_g: 5
+    sugars_g: 7
+    protein_g: 30
+    estimated_serving_weight_g: 380
+  ingredients:
+    - 8 oz Seitan chunks or strips (pre-cooked)
+    - 1 tbsp Coconut oil
+    - 3 oz Yellow curry paste (vegan)
+    - 1 (13.5 oz) can Full-fat coconut milk
+    - 1 cup Vegetable broth
+    - 1 medium Potato (cubed)
+    - 1/2 medium Onion (sliced)
+    - 1 tbsp Soy sauce or Tamari
+    - 1 tsp Curry powder (extra)
+tofu_jambalaya:
+  id: 188
+  name: Vegan Jambalaya with Smoked Tofu (4 Servings)
+  type: One-Pot/Rice Dish (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 400g)
+  nutritional_facts:
+    calories: 520
+    total_fat_g: 15
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 600
+    total_carbohydrates_g: 70
+    dietary_fiber_g: 8
+    sugars_g: 5
+    protein_g: 28
+    estimated_serving_weight_g: 400
+  ingredients:
+    - 1 tbsp Olive oil
+    - 8 oz Smoked tofu (diced)
+    - 1 medium Onion (diced)
+    - 1 Bell pepper (diced)
+    - 2 stalks Celery (diced)
+    - 1 tbsp Cajun seasoning
+    - 1 (14.5 oz) can Diced tomatoes (undrained)
+    - 1 1/2 cups Vegetable broth
+    - 1 cup Brown rice (uncooked)
+    - 1/2 cup Vegan sausage crumbles (optional)
+tofu_scramble:
+  id: 215
+  name: Vegan Tofu Scramble (4 Servings)
+  type: Breakfast/Main Dish (Tofu)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 200g)
+  nutritional_facts:
+    calories: 250
+    total_fat_g: 15
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 400
+    total_carbohydrates_g: 10
+    dietary_fiber_g: 4
+    sugars_g: 3
+    protein_g: 25
+    estimated_serving_weight_g: 200
+  ingredients:
+    - 1 block (14 oz) Extra-firm tofu (pressed and crumbled)
+    - 1 tbsp Olive oil
+    - 1/2 medium Onion (diced)
+    - '1 cup Mixed vegetables (e.g., mushrooms, bell peppers)'
+    - 1/4 cup Nutritional yeast
+    - 1/2 tsp Turmeric powder (for color)
+    - '1/4 tsp Kala Namak (black salt, for egg flavor)'
+    - 1/2 tsp Garlic powder
+    - To taste Salt and pepper
+tofu_stir_fry:
+  id: 217
+  name: Crispy Tofu Stir-Fry with Broccolini (4 Servings)
+  type: Stir-fry (Tofu)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 300g)
+  nutritional_facts:
+    calories: 380
+    total_fat_g: 15
+    saturated_fat_g: 2
+    cholesterol_mg: 0
+    sodium_mg: 600
+    total_carbohydrates_g: 35
+    dietary_fiber_g: 6
+    sugars_g: 10
+    protein_g: 25
+    estimated_serving_weight_g: 300
+  ingredients:
+    - 1 block (14 oz) Extra-firm tofu (pressed and cubed)
+    - 2 tbsp Cornstarch (for crispy coating)
+    - 1 tbsp Sesame oil
+    - 1 lb Broccolini (or broccoli florets)
+    - 1 tbsp Ginger (minced)
+    - 'Sauce: 1/4 cup Soy sauce or Tamari'
+    - 'Sauce: 2 tbsp Maple syrup'
+    - 'Sauce: 1 tbsp Rice vinegar'
+    - 'Sauce: 1 tsp Chili garlic sauce (optional)'
+tomato_paste:
+  id: 330
+  name: Tomato Paste (Canned)
+  type: Basic Food Item (Umami/Flavor)
+  is_recipe: false
+  unit_of_measure: 2 tbsp (33g)
+  nutritional_facts:
+    calories: 30
+    total_fat_g: 0
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 10
+    total_carbohydrates_g: 7
+    dietary_fiber_g: 2
+    sugars_g: 4
+    protein_g: 1.5
+topfenstrudel:
+  id: 113
+  name: 'Austrian Topfenstrudel (Quark Strudel, 2 Rolls)'
+  type: Pastry (Austrian)
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 100g)
+  nutritional_facts:
+    calories: 280
+    total_fat_g: 15
+    saturated_fat_g: 9
+    cholesterol_mg: 40
+    sodium_mg: 120
+    total_carbohydrates_g: 28
+    dietary_fiber_g: 1
+    sugars_g: 14
+    protein_g: 8
+    estimated_serving_weight_g: 100
+  ingredients:
+    - 1 package Strudel dough (or frozen Filo)
+    - 1 lb Topfen (Quark or Farmer's Cheese)
+    - 1/2 cup Granulated sugar
+    - 2 large Egg yolks
+    - Zest of 1/2 Lemon
+    - 1/4 cup Raisins
+    - 1 tsp Vanilla extract
+    - 1/4 cup Semolina (or breadcrumbs)
+    - '1/2 cup Unsalted butter (melted, for brushing)'
+turmeric:
+  id: 320
+  name: Turmeric Powder
+  type: Basic Food Item (Spice/Color)
+  is_recipe: false
+  unit_of_measure: 1 tsp (3g)
+  nutritional_facts:
+    calories: 9
+    total_fat_g: 0.3
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 0
+    total_carbohydrates_g: 2.1
+    dietary_fiber_g: 0.7
+    sugars_g: 0
+    protein_g: 0.3
+tuscan_white_bean_tomato_garlic_bread_bake:
+  id: 250
+  name: Tuscan White Bean and Tomato-Garlic Bread Bake (4 Servings)
+  type: Baked Dish (Vegetable/Legume Focused)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 350g)
+  nutritional_facts:
+    calories: 450
+    total_fat_g: 15
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 550
+    total_carbohydrates_g: 60
+    dietary_fiber_g: 10
+    sugars_g: 7
+    protein_g: 20
+    estimated_serving_weight_g: 350
+  ingredients:
+    - 2 (15 oz) cans Cannellini beans (rinsed)
+    - 1 (14.5 oz) can Diced tomatoes
+    - 1 medium Onion (diced)
+    - 4 cloves Garlic (minced)
+    - 1 tbsp Olive oil
+    - 1 tsp Dried rosemary
+    - 1/2 cup Vegetable broth
+    - 4 slices Toasted rustic bread (rubbed with garlic)
+    - 1/4 cup Fresh parsley (chopped)
+vanillekipferl:
+  id: 151
+  name: 'Vegan Vanillekipferl (Vanilla Crescents, 3 Dozen)'
+  type: 'Cookie (Vegan, Austrian Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 crescent (approx. 15g)
+  nutritional_facts:
+    calories: 75
+    total_fat_g: 4.5
+    saturated_fat_g: 2.5
+    cholesterol_mg: 0
+    sodium_mg: 10
+    total_carbohydrates_g: 8
+    dietary_fiber_g: 0.5
+    sugars_g: 3
+    protein_g: 1
+    estimated_serving_weight_g: 15
+  ingredients:
+    - 1 1/2 cups All-purpose flour
+    - 1/2 cup Ground almonds (or hazelnuts)
+    - 1/2 cup Powdered sugar
+    - '1 cup (2 sticks) Vegan butter sticks (cold, cubed)'
+    - 1 tsp Vanilla extract
+    - '1/2 cup Powdered sugar (for dusting, mixed with 1 tbsp vanilla sugar)'
+vegetable_korma:
+  id: 210
+  name: Indian Mixed Vegetable Korma (6 Servings)
+  type: 'Curry (Vegan, Indian Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 serving curry (approx. 350g)
+  nutritional_facts:
+    calories: 400
+    total_fat_g: 20
+    saturated_fat_g: 10
+    cholesterol_mg: 0
+    sodium_mg: 450
+    total_carbohydrates_g: 45
+    dietary_fiber_g: 8
+    sugars_g: 10
+    protein_g: 15
+    estimated_serving_weight_g: 350
+  ingredients:
+    - 1 tbsp Vegetable oil
+    - 1 medium Onion (diced)
+    - 1 tbsp Ginger-garlic paste
+    - 1 tsp Garam Masala
+    - 1/2 tsp Cardamom powder
+    - '1 cup Mixed chopped vegetables (carrots, peas, potatoes)'
+    - 1/2 cup Cashews (soaked and blended with 1/2 cup water for cream)
+    - 1/2 cup Full-fat coconut milk
+    - 1/2 cup Vegetable broth
+    - 1/4 cup Raisins (optional)
+vital_wheat_gluten:
+  id: 323
+  name: Vital Wheat Gluten
+  type: Basic Food Item (Pure Protein/Seitan Base)
+  is_recipe: false
+  unit_of_measure: 1/4 cup (28g)
+  nutritional_facts:
+    calories: 103
+    total_fat_g: 0.5
+    saturated_fat_g: 0.1
+    cholesterol_mg: 0
+    sodium_mg: 18
+    total_carbohydrates_g: 4
+    dietary_fiber_g: 0.5
+    sugars_g: 0
+    protein_g: 23
+watermelon:
+  id: 7
+  name: Watermelon (Raw)
+  type: Basic Food Item
+  is_recipe: false
+  unit_of_measure: 1 cup diced (152g)
+  nutritional_facts:
+    calories: 46
+    total_fat_g: 0.2
+    saturated_fat_g: 0
+    cholesterol_mg: 0
+    sodium_mg: 2
+    total_carbohydrates_g: 11.5
+    dietary_fiber_g: 0.6
+    sugars_g: 9.5
+    protein_g: 0.9
+    thiamin_mg: 0.19
+    vitamin_c_mg: 12.5
+wienerschnitzel:
+  id: 102
+  name: 'Wienerschnitzel (Basic Preparation, 4 Cutlets)'
+  type: Main Dish (Austrian)
+  is_recipe: true
+  unit_of_measure: 1 cutlet (approx. 150g)
+  nutritional_facts:
+    calories: 420
+    total_fat_g: 25
+    saturated_fat_g: 8
+    cholesterol_mg: 100
+    sodium_mg: 250
+    total_carbohydrates_g: 25
+    dietary_fiber_g: 1
+    sugars_g: 1
+    protein_g: 25
+    estimated_serving_weight_g: 150
+  ingredients:
+    - 4 thin Veal cutlets (pounded thin)
+    - 1/2 cup All-purpose flour
+    - 2 large Eggs (whisked with a splash of milk)
+    - 2 cups Plain breadcrumbs (fresh preferred)
+    - To taste Salt and fresh black pepper
+    - 2 cups Oil or clarified butter (for frying)
+    - 4 slices Lemon slices (for garnish)
+yellow_cake:
+  id: 144
+  name: Vegan Yellow Cake (Basic 9x13 Sheet)
+  type: Cake (Vegan)
+  is_recipe: true
+  unit_of_measure: 1 square (approx. 80g)
+  nutritional_facts:
+    calories: 260
+    total_fat_g: 12
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 250
+    total_carbohydrates_g: 35
+    dietary_fiber_g: 0.5
+    sugars_g: 18
+    protein_g: 3
+    estimated_serving_weight_g: 80
+  ingredients:
+    - 2 1/2 cups All-purpose flour
+    - 1 1/2 cups Granulated sugar
+    - 1 tbsp Baking powder
+    - 1 tsp Salt
+    - 1 cup Vegan milk
+    - 1/2 cup Vegetable oil
+    - 1 tbsp White vinegar
+    - 1 tbsp Vanilla extract
+zimtsterne:
+  id: 153
+  name: 'Vegan Zimtsterne (Cinnamon Stars, 3 Dozen)'
+  type: 'Cookie (Vegan, Austrian Inspired)'
+  is_recipe: true
+  unit_of_measure: 1 star (approx. 10g)
+  nutritional_facts:
+    calories: 45
+    total_fat_g: 2
+    saturated_fat_g: 0.5
+    cholesterol_mg: 0
+    sodium_mg: 5
+    total_carbohydrates_g: 6
+    dietary_fiber_g: 0.5
+    sugars_g: 4
+    protein_g: 1
+    estimated_serving_weight_g: 10
+  ingredients:
+    - 3 cups Ground almonds (or hazelnuts)
+    - 1 1/2 cups Powdered sugar (divided)
+    - 2 tsp Ground Cinnamon
+    - 3 tbsp Aquafaba (whipped until stiff peaks)
+    - 1 tbsp Lemon juice (for the aquafaba icing)
+zucchini_bread:
+  id: 63
+  name: Zucchini Bread (9x5 Loaf)
+  type: Quick Bread/Loaf
+  is_recipe: true
+  unit_of_measure: 1 slice (approx. 75g)
+  nutritional_facts:
+    calories: 240
+    total_fat_g: 11
+    saturated_fat_g: 2
+    cholesterol_mg: 30
+    sodium_mg: 180
+    total_carbohydrates_g: 34
+    dietary_fiber_g: 1.8
+    sugars_g: 18
+    protein_g: 4
+    estimated_serving_weight_g: 75
+  ingredients:
+    - 2 cups Grated zucchini (squeezed dry)
+    - 2 cups All-purpose flour
+    - 1 tsp Ground Cinnamon
+    - 1 tsp Baking soda
+    - 1/2 tsp Salt
+    - 1/2 cup Vegetable oil
+    - 1 1/2 cups Granulated sugar
+    - 2 large Eggs
+    - 1 tsp Vanilla extract
+zucchini_noodles_with_tofu_pesto:
+  id: 249
+  name: Zucchini Noodles with Tofu-Hemp Seed Pesto (4 Servings)
+  type: Pasta Alternative (Vegetable Focused)
+  is_recipe: true
+  unit_of_measure: 1 serving (approx. 300g)
+  nutritional_facts:
+    calories: 380
+    total_fat_g: 25
+    saturated_fat_g: 3
+    cholesterol_mg: 0
+    sodium_mg: 400
+    total_carbohydrates_g: 20
+    dietary_fiber_g: 6
+    sugars_g: 4
+    protein_g: 25
+    estimated_serving_weight_g: 300
+  ingredients:
+    - 4 medium Zucchinis (spiralized into noodles)
+    - 'Pesto: 2 cups Fresh basil leaves'
+    - 'Pesto: 1/4 cup Hemp seeds (shelled)'
+    - 'Pesto: 1/4 cup Nutritional yeast'
+    - 'Pesto: 1/2 block (7 oz) Soft tofu (for creamy texture)'
+    - 'Pesto: 1/2 cup Olive oil'
+    - 'Pesto: 2 cloves Garlic'
+    - 'Pesto: 1 tbsp Lemon juice'

@@ -1,0 +1,912 @@
+country:
+  Afghanistan
+  Albania
+  Algeria
+  Andorra
+  Angola
+  Antigua
+  Argentina
+  Armenia
+  Australia
+  Austria
+  Azerbaijan
+  Bahamas
+  Bahrain
+  Bangladesh
+  Barbados
+  Belarus
+  Belgium
+  Belize
+  Benin
+  Bhutan
+  Bolivia
+  Bosnia Herzegovina
+  Botswana
+  Brazil
+  Brunei
+  Bulgaria
+  Burkina
+  Burundi
+  Cambodia
+  Cameroon
+  Canada
+  Cape Verde
+  Central African Rep
+  Chad
+  Chile
+  China
+  Colombia
+  Comoros
+  Congo
+  Costa Rica
+  Croatia
+  Cuba
+  Cyprus
+  Czech Republic
+  Denmark
+  Djibouti
+  Dominica
+  Dominican Republic
+  East Timor
+  Ecuador
+  Egypt
+  El Salvador
+  Equatorial Guinea
+  Eritrea
+  Estonia
+  Ethiopia
+  Fiji
+  Finland
+  France
+  Gabon
+  Gambia
+  Georgia
+  Germany
+  Ghana
+  Greece
+  Grenada
+  Guatemala
+  Guinea
+  Guinea-Bissau
+  Guyana
+  Haiti
+  Honduras
+  Hungary
+  Iceland
+  India
+  Indonesia
+  Iran
+  Iraq
+  Ireland
+  Israel
+  Italy
+  Ivory Coast
+  Jamaica
+  Japan
+  Jordan
+  Kazakhstan
+  Kenya
+  Kiribati
+  Korea North
+  Korea South
+  Kosovo
+  Kuwait
+  Kyrgyzstan
+  Laos
+  Latvia
+  Lebanon
+  Lesotho
+  Liberia
+  Libya
+  Liechtenstein
+  Lithuania
+  Luxembourg
+  Macedonia
+  Madagascar
+  Malawi
+  Malaysia
+  Maldives
+  Mali
+  Malta
+  Marshall Islands
+  Mauritania
+  Mauritius
+  Mexico
+  Micronesia
+  Moldova
+  Monaco
+  Mongolia
+  Montenegro
+  Morocco
+  Mozambique
+  Myanmar
+  Namibia
+  Nauru
+  Nepal
+  Netherlands
+  New Zealand
+  Nicaragua
+  Niger
+  Nigeria
+  Norway
+  Oman
+  Pakistan
+  Palau
+  Panama
+  Papua New Guinea
+  Paraguay
+  Peru
+  Philippines
+  Poland
+  Portugal
+  Qatar
+  Romania
+  Russian Federation
+  Rwanda
+  St Kitts & Nevis
+  St Lucia
+  Saint Vincent & the Grenadines
+  Samoa
+  San Marino
+  Sao Tome & Principe
+  Saudi Arabia
+  Senegal
+  Serbia
+  Seychelles
+  Sierra Leone
+  Singapore
+  Slovakia
+  Slovenia
+  Solomon Islands
+  Somalia
+  South Africa
+  South Sudan
+  Spain
+  Sri Lanka
+  Sudan
+  Suriname
+  Swaziland
+  Sweden
+  Switzerland
+  Syria
+  Taiwan
+  Tajikistan
+  Tanzania
+  Thailand
+  Togo
+  Tonga
+  Trinidad & Tobago
+  Tunisia
+  Turkey
+  Turkmenistan
+  Tuvalu
+  Uganda
+  Ukraine
+  United Arab Emirates
+  United Kingdom
+  United States
+  Uruguay
+  Uzbekistan
+  Vanuatu
+  Vatican City
+  Venezuela
+  Vietnam
+  Yemen
+  Zambia
+  Zimbabwe
+us_city:
+  Aberdeen
+  Abilene
+  Akron
+  Albany
+  Albuquerque
+  Alexandria
+  Allentown
+  Amarillo
+  Anaheim
+  Anchorage
+  Ann Arbor
+  Antioch
+  Apple Valley
+  Appleton
+  Arlington
+  Arvada
+  Asheville
+  Athens
+  Atlanta
+  Atlantic City
+  Augusta
+  Aurora
+  Austin
+  Bakersfield
+  Baltimore
+  Barnstable
+  Baton Rouge
+  Beaumont
+  Bel Air
+  Bellevue
+  Berkeley
+  Bethlehem
+  Billings
+  Birmingham
+  Bloomington
+  Boise
+  Boise City
+  Bonita Springs
+  Boston
+  Boulder
+  Bradenton
+  Bremerton
+  Bridgeport
+  Brighton
+  Brownsville
+  Bryan
+  Buffalo
+  Burbank
+  Burlington
+  Cambridge
+  Canton
+  Cape Coral
+  Carrollton
+  Cary
+  Cathedral City
+  Cedar Rapids
+  Champaign
+  Chandler
+  Charleston
+  Charlotte
+  Chattanooga
+  Chesapeake
+  Chicago
+  Chula Vista
+  Cincinnati
+  Clarke County
+  Clarksville
+  Clearwater
+  Cleveland
+  College Station
+  Colorado Springs
+  Columbia
+  Columbus
+  Concord
+  Coral Springs
+  Corona
+  Corpus Christi
+  Costa Mesa
+  Dallas
+  Daly City
+  Danbury
+  Davenport
+  Davidson County
+  Dayton
+  Daytona Beach
+  Deltona
+  Denton
+  Denver
+  Des Moines
+  Detroit
+  Downey
+  Duluth
+  Durham
+  El Monte
+  El Paso
+  Elizabeth
+  Elk Grove
+  Elkhart
+  Erie
+  Escondido
+  Eugene
+  Evansville
+  Fairfield
+  Fargo
+  Fayetteville
+  Fitchburg
+  Flint
+  Fontana
+  Fort Collins
+  Fort Lauderdale
+  Fort Smith
+  Fort Walton Beach
+  Fort Wayne
+  Fort Worth
+  Frederick
+  Fremont
+  Fresno
+  Fullerton
+  Gainesville
+  Garden Grove
+  Garland
+  Gastonia
+  Gilbert
+  Glendale
+  Grand Prairie
+  Grand Rapids
+  Grayslake
+  Green Bay
+  GreenBay
+  Greensboro
+  Greenville
+  Gulfport-Biloxi
+  Hagerstown
+  Hampton
+  Harlingen
+  Harrisburg
+  Hartford
+  Havre de Grace
+  Hayward
+  Hemet
+  Henderson
+  Hesperia
+  Hialeah
+  Hickory
+  High Point
+  Hollywood
+  Honolulu
+  Houma
+  Houston
+  Howell
+  Huntington
+  Huntington Beach
+  Huntsville
+  Independence
+  Indianapolis
+  Inglewood
+  Irvine
+  Irving
+  Jackson
+  Jacksonville
+  Jefferson
+  Jersey City
+  Johnson City
+  Joliet
+  Kailua
+  Kalamazoo
+  Kaneohe
+  Kansas City
+  Kennewick
+  Kenosha
+  Killeen
+  Kissimmee
+  Knoxville
+  Lacey
+  Lafayette
+  Lake Charles
+  Lakeland
+  Lakewood
+  Lancaster
+  Lansing
+  Laredo
+  Las Cruces
+  Las Vegas
+  Layton
+  Leominster
+  Lewisville
+  Lexington
+  Lincoln
+  Little Rock
+  Long Beach
+  Lorain
+  Los Angeles
+  Louisville
+  Lowell
+  Lubbock
+  Macon
+  Madison
+  Manchester
+  Marina
+  Marysville
+  McAllen
+  McHenry
+  Medford
+  Melbourne
+  Memphis
+  Merced
+  Mesa
+  Mesquite
+  Miami
+  Milwaukee
+  Minneapolis
+  Miramar
+  Mission Viejo
+  Mobile
+  Modesto
+  Monroe
+  Monterey
+  Montgomery
+  Moreno Valley
+  Murfreesboro
+  Murrieta
+  Muskegon
+  Myrtle Beach
+  Naperville
+  Naples
+  Nashua
+  Nashville
+  New Bedford
+  New Haven
+  New London
+  New Orleans
+  New York
+  New York City
+  Newark
+  Newburgh
+  Newport News
+  Norfolk
+  Normal
+  Norman
+  North Charleston
+  North Las Vegas
+  North Port
+  Norwalk
+  Norwich
+  Oakland
+  Ocala
+  Oceanside
+  Odessa
+  Ogden
+  Oklahoma City
+  Olathe
+  Olympia
+  Omaha
+  Ontario
+  Orange
+  Orem
+  Orlando
+  Overland Park
+  Oxnard
+  Palm Bay
+  Palm Springs
+  Palmdale
+  Panama City
+  Pasadena
+  Paterson
+  Pembroke Pines
+  Pensacola
+  Peoria
+  Philadelphia
+  Phoenix
+  Pittsburgh
+  Plano
+  Pomona
+  Pompano Beach
+  Port Arthur
+  Port Orange
+  Port Saint Lucie
+  Port St. Lucie
+  Portland
+  Portsmouth
+  Poughkeepsie
+  Providence
+  Provo
+  Pueblo
+  Punta Gorda
+  Racine
+  Raleigh
+  Rancho Cucamonga
+  Reading
+  Redding
+  Reno
+  Richland
+  Richmond
+  Richmond County
+  Riverside
+  Roanoke
+  Rochester
+  Rockford
+  Roseville
+  Round Lake Beach
+  Sacramento
+  Saginaw
+  Saint Louis
+  Saint Paul
+  Saint Petersburg
+  Salem
+  Salinas
+  Salt Lake City
+  San Antonio
+  San Bernardino
+  San Buenaventura
+  San Diego
+  San Francisco
+  San Jose
+  Santa Ana
+  Santa Barbara
+  Santa Clara
+  Santa Clarita
+  Santa Cruz
+  Santa Maria
+  Santa Rosa
+  Sarasota
+  Savannah
+  Scottsdale
+  Scranton
+  Seaside
+  Seattle
+  Sebastian
+  Shreveport
+  Simi Valley
+  Sioux City
+  Sioux Falls
+  South Bend
+  South Lyon
+  Spartanburg
+  Spokane
+  Springdale
+  Springfield
+  St. Louis
+  St. Paul
+  St. Petersburg
+  Stamford
+  Sterling Heights
+  Stockton
+  Sunnyvale
+  Syracuse
+  Tacoma
+  Tallahassee
+  Tampa
+  Temecula
+  Tempe
+  Thornton
+  Thousand Oaks
+  Toledo
+  Topeka
+  Torrance
+  Trenton
+  Tucson
+  Tulsa
+  Tuscaloosa
+  Tyler
+  Utica
+  Vallejo
+  Vancouver
+  Vero Beach
+  Victorville
+  Virginia Beach
+  Visalia
+  Waco
+  Warren
+  Washington
+  Waterbury
+  Waterloo
+  West Covina
+  West Valley City
+  Westminster
+  Wichita
+  Wilmington
+  Winston
+  Winter Haven
+  Worcester
+  Yakima
+  Yonkers
+  York
+  Youngstown
+city:
+  1: Copenhagen, Denmark, http://www.kobenhavn.dk
+  2: Berlin, Germany, http://www.berlin.de
+  3: Stuttgart, Germany, http://www.stuttgart.de
+  4: Bremen, Germany, http://www.bremen.de
+  5: Hamburg, Germany, http://www.hamburg.de
+  6: Arhus, Denmark, http://www.aarhus.dk
+  7: Cologne, Germany, http://www.stadt-koeln.de
+  8: Helsinki, Finland, http://www.hel.fi
+  9: Vienna, Austria, http://www.wien.at
+  10: Barcelona, Spain, http://www.bcn.es
+  11: Odense, Denmark, http://www.odense.dk
+  12: Graz, Austria, http://www.graz.at
+  13: Tampere, Finland, http://www.tampere.fi
+  14: Mannheim, Germany, http://www.mannheim.de
+  15: Turin, Italy, http://www.comune.torino.it
+  16: Duesseldorf, Germany, http://www.duesseldorf.de
+  17: Hanover, Germany, http://www.hannover.de
+  18: Stockholm, Sweden, http://www.stockholm.se
+  19: Espoo, Finland, http://www.espoo.fi
+  20: Dortmund, Germany, http://www.dortmund.de
+  21: Florence, Italy, http://www.comune.firenze.it
+  22: Wuppertal, Germany, http://www.wuppertal.de
+  23: Essen, Germany, http://www.essen.de
+  24: Munich, Germany, http://www.muenchen.de
+  25: Duisburg, Germany, http://www.duisburg.de
+  26: Frankfurt, Germany, http://www.frankfurt.de
+  27: Milano, Italy, http://www.comune.milano.it
+  28: Bielefeld, Germany, http://www.bielefeld.de
+  29: Zurich, Switzerland, http://www.stadt-zuerich.ch
+  30: Leipzig, Germany, http://www.leipzig.de
+  31: Linz, Austria, http://www.linz.at
+  32: Nuremberg, Germany, http://www.nuernberg.de
+  33: Gothenborg, Sweden, http://www.goteborg.se
+  34: Dresden, Germany, http://www.dresden.de
+  35: Valencia, Spain, http://www.ayto-valencia.es
+  36: Geneva, Switzerland, http://www.ville-ge.ch
+  37: Bonn, Germany, http://www.bonn.de
+  38: Bochum, Germany, http://www.bochum.de
+  39: Ghent, Belgium, http://www.gent.be
+  40: Madrid, Spain, http://www.munimadrid.es
+  41: Nantes, France, http://www.mairie-nantes.fr
+  42: Malmo, Sweden, http://www.malmo.se
+  43: Verona, Italy, http://www.comune.verona.it
+  44: Bologna, Italy, http://www.comune.bologna.it
+  45: Antwerp, Belgium, http://www.antwerpen.be
+  46: Hull, UK, http://www.hullcc.gov.uk
+  47: Rotterdam, Netherlands, http://www.rotterdam.nl
+  48: Kirklees, UK, http://www.kirklees.gov.uk
+  49: Warsaw, Poland, http://www.warszawa.um.gov.pl
+  50: Lisbon, Portugal, http://www.cm-lisboa.pt
+  51: Charleroi, Belgium, http://www.charleroi.be
+  52: Bilba, Spain, http://www.bilbao.net
+  53: Padua, Italy, http://www.comune.padova.it
+  54: Leeds, UK, http://www.leeds.gov.uk
+  55: Paris, France, http://www.mairie-paris.fr
+  56: Plymouth, UK, http://www.plymouth.gov.uk
+  57: London, UK, http://www.london.gov.uk
+  58: Marseille, France, http://www.mairie-marseille.fr
+  59: Rennes, France, http://www.ville-rennes.fr
+  60: Wolverhampton, UK, http://www.wolverhampton.gov.uk
+  61: Amsterdam, Netherlands, http://www.amsterdam.nl
+  62: The Hague, Netherlands, http://www.denhaag.nl
+  63: Nice, France, http://www.ville-nice.fr
+  64: Budapest, Hungary, http://www.budapest.hu
+  65: Montpellier, France, http://www.mairie-montpellier.fr
+  66: Bradford, UK, http://www.bradford.gov.uk
+  67: Basel, Switzerland, http://www.basel.ch
+  68: Saragossa, Spain, http://www.ayto-zaragoza.es
+  69: Luxembourg, Luxembourg, http://www.luxembourg-city.lu
+  70: Manchester, UK, http://www.manchester.gov.uk
+  71: Trieste, Italy, http://www.comune.ts.it
+  72: Genova, Italy, http://www.comune.genova.it
+  73: Alicante, Spain, http://www.alicante-ayto.es
+  74: Venice, Italy, http://www.comune.venezia.it
+  75: Palermo, Italy, http://www.comune.palermo.it
+  76: Bergen, Norway, http://www.bergen.kommune.no
+  77: Strasbourg, France, http://www.mairie-strasbourg.fr
+  78: Eindhoven, Netherlands, http://www.eindhoven.nl
+  79: Cardiff, UK, http://www.cardiff.gov.uk
+  80: Vigo, Spain, http://www.vigo.org
+  81: Oslo, Norway, http://www.oslo.kommune.no
+  82: Gijon, Spain, http://www.ayto-gijon.es
+  83: Porto, Portugal, http://www.cm-porto.pt
+  84: Nottingham, UK, http://www.nottinghamcity.gov.uk
+  85: Malaga, Spain, http://www.ayto-malaga.es
+  86: Dublin, Ireland, http://www.duplincorp.ie
+  87: Utrecht, Netherlands, http://www.utrecht.nl
+  88: Toulouse, France, http://www.mairie-toulouse.fr
+  89: Bordeaux, France, http://www.mairie-bordeaux.fr
+  90: Bristol, UK, http://www.bristol-city.gov.uk
+  91: Bratislava, Slovak Republic, http://www.bratislava.sk
+  92: Palma de Mallorca, Spain, http://www.a-palma.es
+  93: Lyon, France, http://www.mairie-lyon.fr
+  94: Edinburgh, UK, http://www.edinburgh.gov.uk
+  95: Istanbul, Turkey, http://www.ibb.gov.tr
+  96: Catania, Italy, http://www.comune.ct.it
+  97: Cork, Ireland, http://www.corkcorp.ie
+  98: Las Palmas, Spain, http://www.laspalmasgc.es
+  99: Seville, Spain, http://www.sevilla.org
+  100: Trondheim, Norway, http://www.trondheim.kommune.no
+  101: Birmingham, UK, http://www.birmingham.gov.uk
+  102: Naples, Italy, http://www.comune.napoli.it
+  103: Cordoba, Spain, http://www.ayuncordoba.es
+  104: Rome, Italy, http://www.comune.roma.it
+  105: Murcia, Spain, http://www.ayto-murcia.es
+  106: Leicester, UK, http://www.leicester.gov.uk
+  107: Wirral, UK, http://www.wirral.gov.uk
+  108: Messina, Italy, http://www.comune.messina.it
+  109: Coventry, UK, http://www.coventry.gov.uk
+  110: Glasgow, UK, http://www.glasgow.gov.uk
+  111: Stoke on Trent, UK, http://www.stoke.gov.uk/
+  112: Bari, Italy, http://www.comune.bari.it
+  113: Vila Nova de Gaia, Portugal, http://www.cm-gaia.pt
+  114: Liverpool, UK, http://www.liverpool.gov.uk
+  115: Limerick, Ireland, http://www.limerickcorp.ie
+  116: Taranto, Italy, http://www.comune.taranto.it
+  117: Belgrad, Serbia, http://www.beograd.org.yu
+  118: Athens, Greece, http://www.cityofathens.gr
+  119: Prague, Czech Republic, http://www.praha.cz
+  120: Belfast, UK, http://www.belfastcity.gov.uk
+  121: Brussels, Belgium, http://www.bruxelles.be
+  122: Sheffield, UK, http://www.sheffield.gov.uk
+  123: Sofia, Bulgaria, http://www.sofia.bg
+  124: Sarajevo, Bosnia, http://www.sarajevo.ba
+  125: Ankara, Turkey, http://www.ankara-bel.gov.tr
+  126: Valladolid, Spain, http://www.ava.es
+  127: Zagreb, Croatia, http://www.zagreb.hr
+  128: Ljubljana. Slovenia, http://www.ljubljana.si
+  129: Bucharest, Romania, http://www.bucuresti.home.ro
+  130: Skopje, Macedonia, http://www.skopje.gov.mk
+capital:
+  Afghanistan: Kabul (1.4 million)
+  Albania: Tirana (0.3 million)
+  Algeria: Algiers (1.5 million)
+  Andorra: Andorra la Vella (0.02 million)
+  Angola: Luanda (1.8 million)
+  Antigua and Barbuda: St John's (0.02 million)
+  Argentina: Buenos Aires (3.0 million)
+  Armenia: Yerevan (1.3 million)
+  Australia: Canberra (0.3 million)
+  Austria: Vienna (1.5 million)
+  Azerbaijan: Baku (1.8 million)
+  Bahamas: Nassau (0.02 million)
+  Bahrain: Manama (0.1 million)
+  Bangladesh: Dhaka (3.4 million)
+  Barbados: Bridgetown (0.008 million)
+  Belarus: Minsk (1.7 million)
+  Belgium: Brussels (1.0 million)
+  Belize: Belmopan (0.008 million)
+  Benin: Porto-Novo (n/a)
+  Bhutan: Thimphu (n/a)
+  Bolivia: La Paz (seat of government) (0.09 million), Sucre (legal capital) (0.2 million)
+  Bosnia and Herzegovina: Sarajevo (0.5 million)
+  Botswana: Gaborone (0.2 million)
+  Brazil: Brasilia (2.0 million)
+  Brunei: Bandar Seri Begawan (0.05 million)
+  Bulgaria: Sofia (1.1 million)
+  Burkina Faso: Ouagadougou (0.6 million)
+  Burma (also Myanmar): Naypyidaw (0.9 million)
+  Burundi: Bujumbura (0.2 million)
+  Cambodia: Phnom Penh (1.0 million)
+  Cameroon: Yaounde (0.6 million)
+  Canada: Ottawa (1.0 million)
+  Cape Verde: Praia (0.06 million)
+  Central African Republic: Bangui (0.5 million)
+  Chad: N'Djamena (0.5 million)
+  Chile: Santiago (4.8 million)
+  China: Beijing (7.4 million)
+  Colombia: Bogota (6.4 million)
+  Comoros: Moroni (0.02 million)
+  Congo (formerly Zaïre): Kinshasa (2.7 million)
+  Congo (Republic of the Congo): Brazzaville (0.6 million)
+  Costa Rica: San Jose (0.3 million)
+  Côte d'Ivoire: Yamoussoukro (0.1 million)
+  Croatia: Zagreb (0.9 million)
+  Cuba: Havana (2.2 million)
+  Cyprus: Nicosia (0.2 million)
+  Czech Republic: Prague (1.2 million)
+  Denmark: Copenhagen (0.5 million)
+  Djibouti: Djibouti (0.06 million)
+  Dominica: Roseau (0.02 million)
+  Dominican Republic: Santo Domingo (2.7 million)
+  East Timor: Dili (0.05 million)
+  Ecuador: Quito (1.6 million)
+  Egypt: Cairo (6.8 million)
+  El Salvador: San Salvador (0.5 million)
+  Equatorial Guinea: Malabo (0.03 million)
+  Eritrea: Asmara (0.4 million)
+  Estonia: Tallinn (0.4 million)
+  Ethiopia: Addis Ababa (2.4 million)
+  Fiji: Suva (0.07 million)
+  Finland: Helsinki (0.5 million)
+  France: Paris (2.2 million)
+  Gabon: Libreville (0.4 million)
+  Gambia, The: Banjul (0.04 million)
+  Georgia: T'bilisi (1.3 million)
+  Germany: Berlin (3.4 million)
+  Ghana: Accra (0.9 million)
+  Greece: Athens (0.8 million)
+  Grenada: Saint George's (0.005 million)
+  Guatemala: Guatemala (1.0 million)
+  Guinea: Conakry (0.2 million)
+  Guinea-Bissau: Bissau (0.1 million)
+  Guyana: Georgetown (0.07 million)
+  Haiti: Port-au-Prince (1.0 million)
+  Holy See (Vatican City): Vatican City (n/a)
+  Honduras: Tegucigalpa (0.5 million)
+  Hungary: Budapest (1.8 million)
+  Iceland: Reykjavik (0.1 million)
+  India: New Delhi (Delhi: 7.2 million)
+  Indonesia: Jakarta (9.4 million)
+  Iran: Tehran (6.8 million)
+  Iraq: Baghdad (3.8 million)
+  Ireland: Dublin (0.5 million)
+  Israel: Jerusalem (0.6 million) (The international community does nor recognise Jerusalem as Israel’s capital. Most foreign embassies are in Tel Aviv.) (0.4 million)
+  Italy: Rome (2.6 million)
+  Jamaica: Kingston (0.1 million)
+  Japan: Tokyo (8.1 million)
+  Jordan: Amman (1.1 million)
+  Kazakhstan: Astana (until 1998 Alma Ata was the capital) (0.3 million)
+  Kenya: Nairobi (1.3 million)
+  Kiribati: Tarawa (0.03 million)
+  Korea, North: Pyongyang (2.7 million)
+  Korea, South: Seoul (10.2 million)
+  Kuwait: Kuwait City (0.03 million)
+  Kyrgyzstan: Bishkek (0.8 million)
+  Laos: Vientiane (0.2 million)
+  Latvia: Riga (0.8 million)
+  Lebanon: Beirut (0.5 million)
+  Lesotho: Maseru (0.1 million)
+  Liberia: Monrovia (0.4 million)
+  Libya: Tripoli (1.5 million)
+  Liechtenstein: Vaduz (0.005 million)
+  Lithuania: Vilnius (0.6 million)
+  Luxembourg: Luxembourg (0.08 million)
+  Macedonia: Skopje (0.4 million)
+  Madagascar: Antananarivo (0.4 million)
+  Malawi: Lilongwe (0.2 million)
+  Malaysia: Kuala Lumpur (1.1 million)
+  Maldives: Male (0.05 million)
+  Mali: Bamako (0.8 million)
+  Malta: Valletta (0.007 million)
+  Marshall Islands: Majuro (n/a)
+  Mauritania: Nouakchott (0.1 million)
+  Mauritius: Port Louis (0.1 million)
+  Mexico: Mexico City (8.2 million)
+  Micronesia: Palikir (n/a)
+  Moldova: Kishinev (0.7 million)
+  Monaco: Monaco (0.03 million)
+  Mongolia: Ulan Bator (0.7 million)
+  Montenegro: Podgoria (0.17 million)
+  Morocco: Rabat (1.2 million)
+  Mozambique: Maputo (1.0 million)
+  Myanmar (formerly Burma): Naypyidaw (0.9 million)
+  Namibia: Windhoek (0.1 million)
+  Nauru: Yaren District (n/a)
+  Nepal: Kathmandu (0.4 million)
+  Netherlands: Amsterdam (capital) (0.7 million); The Hague (seat of government) (0.4 million)
+  New Zealand: Wellington (0.4 million)
+  Nicaragua: Managua (1.1 million)
+  Niger: Niamey (0.4 million)
+  Nigeria: Abuja (0.4 million)
+  Norway: Oslo (0.5 million)
+  Oman: Muscat (0.005 million)
+  Pakistan: Islamabad (0.5 million)
+  Palau: Koror (n/a)
+  Panama: Panama City (0.5 million)
+  Papua New Guinea: Port Moresby (0.2 million)
+  Paraguay: Asuncion (0.5 million)
+  Peru: Lima (5.7 million)
+  Philippines: Manila (1.7 million)
+  Poland: Warsaw (1.6 million)
+  Portugal: Lisbon (0.6 million)
+  Qatar: Doha (0.2 million)
+  Réunion: Saint-Denis (0.1 million)
+  Romania: Bucharest (2.0 million)
+  Russia: Moscow (8.3 million)
+  Rwanda: Kigali (0.2 million)
+  Saint Kitts and Nevis: Basseterre (0.01 million)
+  Saint Lucia: Castries (0.002 million)
+  Saint Vincent and the Grenadines: Kingstown (0.02 million)
+  Samoa: Apia (0.03 million)
+  San Marino: San Marino (0.003 million)
+  Sao Tome and Principe: Sao Tome (0.006 million)
+  Saudi Arabia: Riyadh (1.8 million)
+  Senegal: Dakar (0.9 million)
+  Serbia: Belgrade (1.6 million)
+  Seychelles: Victoria (0.02 million)
+  Sierra Leone: Freetown (0.5 million)
+  Singapore: Singapore (3.9 million)
+  Slovakia: Bratislava (0.5 million)
+  Slovenia: Ljubljana (0.3 million)
+  Solomon Islands: Honiara (0.03 million)
+  Somalia: Mogadishu (0.2 million)
+  South Africa: Pretoria is the administrative capital (0.7 million), Cape Town is the legislative capital (n/a)
+  Spain: Madrid (2.8 million)
+  Sri Lanka: Colombo (0.6 million)
+  Sudan: Khartoum (0.9 million)
+  Suriname: Paramaribo (0.2 million)
+  Swaziland: Mbabane (0.04 million)
+  Sweden: Stockholm (0.7 million)
+  Switzerland: Bern (0.1 million)
+  Syria: Damascus (1.4 million)
+  Taiwan: Taipei (2.6 million)
+  Tajikistan: Dushanbe (0.5 million)
+  Tanzania: Dodoma, (0.2 million)
+  Thailand: Bangkok (7.5 million)
+  Togo: Lome (0.5 million)
+  Tonga: Nuku'alofa (0.02 million)
+  Trinidad and Tobago: Port-of-Spain (0.04 million)
+  Tunisia: Tunis (0.7 million)
+  Turkey: Ankara (3.0 million)
+  Turkmenistan: Ashgabat (0.4 million)
+  Tuvalu: Fongafale (n/a)
+  Uganda: Kampala (0.8 million)
+  Ukraine: Kiev (2.6 million)
+  United Arab Emirates: Abu Dhabi (0.2 million)
+  United Kingdom: London (7.1 million)
+  United States: Washington DC (0.6 million)
+  Uruguay: Montevideo (1.3 million)
+  Uzbekistan: Tashkent (2.1 million)
+  Vanuatu: Port-Vila (0.02 million)
+  Venezuela: Caracas (1.8 million)
+  Vietnam: Hanoi (1.1 million)
+  Western Sahara: El Aaiun (0.02 million)
+  Yemen: Sanaa (0.9 million)
+  Zambia: Lusaka (1.3 million)
+  Zimbabwe: Harare (1.2 million)
+

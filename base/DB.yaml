@@ -1,0 +1,174 @@
+users:
+  amanda:
+    name: amanda
+    color: '#339940FF'
+    motto: let the world spin
+    image: true
+    games:
+      gSpotit:
+        startlevel: 4
+  felix:
+    name: felix
+    color: BLUE
+    motto: 'yin is my bad side, yang is my good side'
+    image: true
+    games:
+      gSpotit:
+        startlevel: 5
+  meckele:
+    name: meckele
+    color: '#F28DB2'
+    motto: miau!
+    image: true
+    games:
+      gSpotit:
+        startlevel: 3
+  mimi:
+    name: mimi
+    color: skyblue
+    motto: spi ma yu
+    image: true
+    games:
+      gSpotit:
+        startlevel: 2
+  nimble:
+    name: nimble
+    color: '#6E52CCFF'
+    motto: one game at a time!
+    image: true
+    games: {}
+    tables: {}
+  ally:
+    name: ally
+    color: '#6660f3'
+    motto: no place like home
+    image: true
+    games: {}
+    tables: {}
+  blade:
+    name: blade
+    color: '#c06996'
+    motto: let's do it!
+    image: true
+    games: {}
+    tables: {}
+  bob:
+    name: bob
+    color: '#033993'
+    motto: let's play!
+    image: true
+    games: {}
+    tables: {}
+  guest:
+    name: guest
+    color: '#93fc0c'
+    motto: cafe landmann
+    image: true
+    games: {}
+    tables: {}
+  gul:
+    name: gul
+    color: '#6fccc3'
+    motto: let's play!
+    image: true
+    games: {}
+    tables: {}
+  lauren:
+    name: lauren
+    color: '#903c00'
+    motto: time to play!
+    image: true
+    games: {}
+    tables: {}
+  leo:
+    name: leo
+    color: '#3f3f03'
+    motto: no place like home
+    image: true
+    games: {}
+    tables: {}
+  max:
+    name: max
+    color: '#966f69'
+    motto: time to play!
+    image: true
+    games: {}
+    tables: {}
+  valerie:
+    name: valerie
+    color: '#03cf9c'
+    motto: time to play!
+    image: true
+    games: {}
+    tables: {}
+  wolfgang:
+    name: wolfgang
+    color: '#93c6f3'
+    motto: listen to my music
+    image: true
+    games: {}
+    tables: {}
+  mitra:
+    name: mitra
+    color: '#9f3ff6'
+    motto: let's play!
+    image: true
+    games: {}
+    tables: {}
+games:
+  gSpotit:
+    friendly: Spotit
+    logo: spy
+    color: silver
+    av_modes: 'training,solo,pp,multi,hotseat'
+    vocab: lifePlus
+    rows: 3
+    cols: 2
+    min_scale: 0.75
+    max_scale: 1.25
+    levels:
+      '0':
+        vocab: animals
+        min_scale: 1
+        max_scale: 1
+      '1':
+        min_scale: 0.9
+        max_scale: 1.1
+      '2':
+        min_scale: 0.75
+        max_scale: 1.25
+      '3':
+        rows: 4
+        min_scale: 0.9
+        max_scale: 1.1
+        vocab: objects
+      '4':
+        rows: 4
+        min_scale: 0.85
+        max_scale: 1.15
+        vocab: nemo
+      '5':
+        rows: 4
+        min_scale: 0.75
+        max_scale: 1.25
+        vocab: nemo
+      '6':
+        rows: 5
+        min_scale: 1
+        max_scale: 1
+        vocab: nemo
+      '7':
+        rows: 5
+        min_scale: 0.85
+        max_scale: 1.15
+        vocab: nemo
+      '8':
+        rows: 5
+        min_scale: 0.75
+        max_scale: 1.25
+        vocab: nemo
+      '9':
+        rows: 5
+        min_scale: 0.75
+        max_scale: 1.25
+        vocab: all

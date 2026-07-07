@@ -1,0 +1,561 @@
+america:
+  res:
+    military: 0
+    stability: 0
+    food: 2
+    stone: 5
+    gold: 7
+    vp: 5
+    workers: 5
+  cards:
+    - a
+    - b:buffalo_horde
+    - b:teepee
+    - m:brave
+    - b:adobe
+    - d:0
+    - w
+    - c
+    - c
+    - w
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+arabia:
+  res:
+    military: 0
+    stability: 0
+    food: 2
+    stone: 5
+    gold: 8
+    vp: 5
+    workers: 5
+  cards:
+    - a
+    - b:kaba
+    - b:quarry
+    - m:axeman
+    - b:bazaar
+    - d:0
+    - w
+    - c
+    - c
+    - w
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+china:
+  res:
+    military: 0
+    stability: 0
+    food: 1
+    stone: 5
+    gold: 5
+    vp: 3
+    workers: 6
+  cards:
+    - a
+    - b:farm
+    - b:quarry
+    - m:axeman
+    - b:pagoda
+    - d:0
+    - w
+    - c
+    - w
+    - w
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+egypt:
+  res:
+    military: 0
+    stability: 0
+    food: 2
+    stone: 7
+    gold: 5
+    vp: 4
+    workers: 5
+  cards:
+    - a
+    - b:brewery
+    - b:quarry
+    - b:temple
+    - b:caravan
+    - d:0
+    - w
+    - c
+    - c
+    - w:pyramids
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+ethiopia:
+  res:
+    military: 0
+    stability: 0
+    food: 4
+    stone: 7
+    gold: 5
+    vp: 5
+    workers: 5
+  cards:
+    - a
+    - b:stele
+    - b:quarry
+    - m:axeman
+    - b:caravan
+    - d:0
+    - w
+    - c
+    - c
+    - w
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+greece:
+  res:
+    military: 0
+    stability: 0
+    food: 3
+    stone: 6
+    gold: 6
+    vp: 5
+    workers: 5
+  cards:
+    - a
+    - b:farm
+    - b:quarry
+    - m:hoplite
+    - b:lyceum
+    - d:0
+    - w
+    - c
+    - c
+    - w
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+india:
+  res:
+    military: 0
+    stability: 0
+    food: 3
+    stone: 4
+    gold: 6
+    vp: 4
+    workers: 5
+  cards:
+    - a
+    - b:temple
+    - b:quarry
+    - m:chariot
+    - b:farm
+    - d:0
+    - w
+    - c
+    - c
+    - w:varanasi
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+japan:
+  res:
+    military: 0
+    stability: 0
+    food: 3
+    stone: 6
+    gold: 7
+    vp: 5
+    workers: 5
+  cards:
+    - a:emperor
+    - b:temple
+    - b:quarry
+    - m:axeman
+    - b:rice_fields
+    - b:hokkaido
+    - w
+    - c
+    - c
+    - w
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+korea:
+  res:
+    military: 0
+    stability: 0
+    food: 2
+    stone: 6
+    gold: 5
+    vp: 4
+    workers: 5
+  cards:
+    - a
+    - b:temple
+    - b:quarry
+    - m:archer
+    - b:confucian_academy
+    - d:0
+    - w
+    - c
+    - c
+    - w
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+mali:
+  res:
+    military: 0
+    stability: 0
+    food: 3
+    stone: 7
+    gold: 5
+    vp: 4
+    workers: 5
+  cards:
+    - a
+    - b:salt_caravan
+    - b:quarry
+    - b:gold_mine
+    - b:farm
+    - d:0
+    - w
+    - c
+    - c
+    - w
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+mongolia:
+  res:
+    military: 0
+    stability: 0
+    food: 3
+    stone: 6
+    gold: 7
+    vp: 4
+    workers: 4
+  cards:
+    - a
+    - b:yurt
+    - b:caravan
+    - m:horse_archer
+    - b:steppe
+    - d:0
+    - w
+    - c
+    - c
+    - w
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - military:3
+    - military:3
+    - military:3
+    - military:3
+    - military:3
+persia:
+  res:
+    military: 0
+    stability: 0
+    food: 3
+    stone: 5
+    gold: 7
+    vp: 4
+    workers: 5
+  cards:
+    - a
+    - c
+    - b:quarry
+    - m:axeman
+    - b:ziggurat
+    - b:temple
+    - w
+    - c
+    - c
+    - w
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+poland:
+  res:
+    military: 0
+    stability: 0
+    food: 3
+    stone: 5
+    gold: 5
+    vp: 3
+    workers: 5
+  cards:
+    - a
+    - b:temple
+    - b:forge
+    - m:axeman
+    - b:quarry
+    - d:0
+    - w
+    - c
+    - w
+    - w
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+portugal:
+  res:
+    military: 0
+    stability: 0
+    food: 2
+    stone: 6
+    gold: 5
+    vp: 2
+    workers: 5
+  cards:
+    - a
+    - b:temple
+    - b:lighthouse
+    - b:caracvan
+    - b:farm
+    - d:0
+    - w
+    - c
+    - c
+    - w
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+rome:
+  res:
+    military: 0
+    stability: 0
+    food: 2
+    stone: 6
+    gold: 6
+    vp: 4
+    workers: 5
+  cards:
+    - a
+    - b:farm
+    - b:quarry
+    - b:legionary
+    - b:aqueduct
+    - d:0
+    - w
+    - c
+    - c
+    - w
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+venice:
+  res:
+    military: 0
+    stability: 0
+    food: 3
+    stone: 6
+    gold: 6
+    vp: 5
+    workers: 5
+  cards:
+    - a
+    - b:glass_blower
+    - b:quarry
+    - b:trireme
+    - b:farm
+    - d:0
+    - w
+    - c
+    - c:constantinople
+    - w
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+vikings:
+  res:
+    military: 0
+    stability: 0
+    food: 2
+    stone: 5
+    gold: 6
+    vp: 3
+    workers: 5
+  cards:
+    - a
+    - b:slave_church
+    - b:quarry
+    - b:berserkers
+    - b:farm
+    - d:0
+    - w
+    - c
+    - c
+    - w:old_uppsala
+    - w
+    - w
+    - w
+    - w
+  workers:
+    - food:3
+    - food:3
+    - food:3
+    - food:3
+    - stability:3
+    - stability:3
+    - stability:3
+    - stability:3
+

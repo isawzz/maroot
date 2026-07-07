@@ -1,0 +1,68 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+button {
+  padding: 5px 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  outline: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: '#000000a0';
+}
+
+.a {
+  color: #00000070;
+  background: #ffffffA0;
+}
+
+.a:hover {
+  color: red;
+}
+
+.active {
+  background: #00000070;
+  color: white;
+}
+
+.hop1:hover {
+  color: 'red';
+}
+
+.input {
+  padding: 5px 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  /* width: 120px; */
+  /* margin-bottom: 10px; */
+}
+
+.input:focus {
+  outline: none;
+}
+
+.no_outline {
+  outline: none;
+  box-shadow: none;
+}
+
+.no_outline:hover {
+  outline: none;
+}
+
+.no_outline:active {
+  outline: none;
+}
+
+.no_outline:focus {
+  outline: none;
+}

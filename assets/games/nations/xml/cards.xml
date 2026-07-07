@@ -1,0 +1,955 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cards>
+  <event>
+    <age1>
+      <card name="aryan_migration" age="1" famine="1" architects="2" id="0">
+        <e pred="least" param="military" book="-3" />
+        <e pred="not_least" param="stability" wheat="3" />
+      </card>
+      <card name="assyrian_deportations" age="1" famine="0" architects="1" id="1">
+        <e pred="least" param="stability" worker="-1" />
+        <e pred="most" param="stability" effect="regain_war_loss" />
+      </card>
+      <card name="attila" age="1" famine="3" architects="2" id="2">
+        <e pred="least" param="military" gold="-3" />
+        <e pred="not_most" param="stability" wheat="-3" />
+        <e pred="most" param="stability" coal="4" />
+      </card>
+      <card name="bread_and_games" age="1" famine="0" architects="2" id="3">
+        <e pred="most" param="stability" wheat="3" />
+        <yesnoChoice text="trade 4 wheat for 6 books?" wheat="-4" book="6" />
+      </card>
+      <card name="hellenism" age="1" famine="1" architects="0" id="4">
+        <e pred="most" param="military" coal="2" />
+        <e pred="not_most" param="military" wheat="-2" />
+        <opt text="undeploy military for 2 books?" effect="foreach_undeploy_military" book="2" />
+      </card>
+      <card name="pax_romana" age="1" famine="2" architects="0" id="5">
+        <e pred="most" param="military" vp="1" />
+        <yesnoChoice pred="most" param="stability" text="take out 1 worker and get 3 wheat with it?" worker="1" wheat="3" />
+      </card>
+      <card name="qin_unification" age="1" famine="1" architects="1" id="6">
+        <e pred="greater_than_war" param="military" vp="1" />
+        <e pred="most" param="stability" effect="go_first" />
+      </card>
+      <card name="rigveda" age="1" famine="2" architects="0" id="7">
+        <foreach pred="cardtype" param="war,battle" vp="1" />
+        <e pred="most" param="wheat" wheat="4" />
+      </card>
+      <card name="sea_peoples" age="1" famine="2" architects="1" id="8">
+        <orChoice pred="least" param="military">
+          <option text="remove architect" arch="-1" />
+          <option text="pay 1 vp" vp="-1" />
+        </orChoice>
+        <e pred="and" vp="-1">
+          <p pred="not_most" param="military" />
+          <p pred="not_most" param="stability" />
+        </e>
+      </card>
+      <card name="shang_oracle_bones" age="1" famine="1" architects="2" id="9">
+        <e pred="least" param="stability" book="-3" />
+        <e pred="most" param="wheat" gold="3" />
+      </card>
+      <card name="taoism" age="1" famine="1" architects="1" id="10">
+        <e pred="pass_first" book="3" />
+        <e pred="most" param="stability" vp="1" />
+      </card>
+      <card name="yellow_turban_rebellion" age="1" famine="1" architects="2" id="11">
+        <e pred="least" param="military" wheat="-3" />
+        <e pred="least" param="stability" gold="-1" effect="go_last" />
+      </card>
+    </age1>
+    <age2>
+      <card name="benedictine_rule" age="2" famine="1" architects="3" id="12">
+        <e pred="most" param="stability" wheat="4" />
+        <opt wheat="-3" gold="5" />
+      </card>
+      <card name="black_death" age="2" famine="3" architects="1" id="13">
+        <e worker="-1" />
+        <e pred="most" param="military" book="3" />
+      </card>
+      <card name="chanson_de_roland" age="2" famine="3" architects="1" id="14">
+        <e pred="least" param="military" book="-1" />
+        <e pred="most" param="military" book="3" />
+        <e pred="least" param="stability" wheat="-2" effect="go_last" />
+      </card>
+      <card name="ecological_collapse" age="2" famine="4" architects="2" id="15">
+        <choice wheat="-2" effect="go_last" />
+        <e pred="least" param="stability" book="-4" />
+      </card>
+      <card name="feudal_dues" age="2" famine="2" architects="0" effect="no_change_in_turn" id="16">
+        <e pred="least" param="stability" effect="lose_all_gold_except_2" />
+      </card>
+      <card name="fourth_crusade" age="2" famine="2" architects="1" id="17">
+        <opt pred="most" param="military" gold="-3" vp="1" />
+        <e pred="least" param="military" book="-4" />
+        <e pred="most" param="stability" effect="regain_war_loss" />
+      </card>
+      <card name="imperial_examination" age="2" famine="0" architects="1" id="18">
+        <e pred="have_card_age_geq" param="advisor,2" vp="1" />
+        <e pred="most" param="stability" vp="1" />
+      </card>
+      <card name="martyrdom_of_ali" age="2" famine="1" architects="1" id="19">
+        <e pred="least" param="military" vp="-1" />
+        <e pred="most" param="stability" book="3" />
+      </card>
+      <card name="peace_of_god" age="2" famine="2" architects="0" id="20">
+        <complex pred="most" param="military" effect="war_bought_by_other_4_book" />
+        <foreach effect="vp_per_medieval_colony" />
+      </card>
+      <card name="raid_on_lindisfarne" age="2" famine="1" architects="2" id="21">
+        <e pred="least" param="military" gold="-4" />
+        <e pred="least" param="stability" wheat="-2" gold="-2" />
+      </card>
+      <card name="sack_of_baghdad" age="2" famine="2" architects="0" id="22">
+        <e pred="least" param="military" book="-5" />
+        <e pred="most" param="wheat" gold="4" />
+      </card>
+      <card name="stupor_mundi" age="2" famine="1" architects="2" id="23">
+        <e pred="most_bought" param="golden" book="4" />
+        <e pred="least" param="stability" gold="-3" />
+      </card>
+    </age2>
+    <age3>
+      <card name="absolute_monarchy" age="3" famine="5" architects="2" id="24">
+        <e pred="have_card_age_leq" param="advisor,2" book="-4" />
+        <opt pred="least" param="stability" effect="-3_gold_or_remove_advisor" gold="-3" />
+      </card>
+      <card name="african_slave_trade" age="3" famine="4" architects="1" id="25">
+        <e pred="least" param="military" vp="-1" />
+        <opt pred="most" param="stability" effect="may_go_last_for_6_gold" gold="6" />
+      </card>
+      <card name="blackbeard" age="3" famine="2" architects="1" id="26">
+        <e pred="least" param="military" gold="-5" />
+        <e pred="most" param="stability" vp="1" />
+      </card>
+      <card name="columbian_exchange" age="3" famine="1" architects="1" id="27">
+        <e pred="least" param="military" wheat="-3" />
+        <e pred="most" param="military" wheat="3" />
+        <e pred="least" param="stability" gold="-5" />
+      </card>
+      <card name="crop_rotation" age="3" famine="4" architects="2" id="28">
+        <e pred="most" param="stability" wheat="6" />
+        <e effect="may_undeploy_building_worker_for_2_coal_each" />
+      </card>
+      <card name="janissaries" age="3" famine="2" architects="1" id="29">
+        <e pred="most" param="military" effect="may_take_2_workers_and_4_coal" />
+        <e pred="most" param="stability" coal="5" />
+      </card>
+      <card name="little_ice_age" age="3" famine="3" architects="1" id="30">
+        <opt effect="-3_wheat_or_-5_books" wheat="-3" book="-5" />
+        <e pred="most" param="stability" book="6" />
+      </card>
+      <card name="magellans_expedition" age="3" famine="3" architects="2" id="31">
+        <foreach effect="foreach_colony_bought_this_round_5_gold" />
+        <e pred="most" param="stability" effect="may_hire_1_arch_for_free" />
+        <e pred="not_most" param="stability" gold="-2" />
+      </card>
+      <card name="pilgrims" age="3" famine="3" architects="3" id="32">
+        <e pred="least" param="stability" effect="go_last" gold="-3" />
+        <e pred="most" param="wheat" worker="1" />
+      </card>
+      <card name="sinking_of_the_vasa" age="3" famine="0" architects="0" id="33">
+        <complex effect="least_stability_and_military_-3_gold_and_-5_wheat_or_-10_book" />
+        <e effect="only_least_stability_-3_gold" gold="-3" />
+        <e effect="only_least_military_-5_wheat" wheat="-5" />
+      </card>
+      <card name="spice_trade" age="3" famine="2" architects="0" id="34">
+        <e pred="most" param="wheat" gold="4" />
+        <e pred="least" param="stability" effect="go_last" coal="-3" />
+      </card>
+      <card name="tulip_mania" age="3" famine="1" architects="0" id="35">
+        <e pred="pass_last" vp="-1" />
+        <e pred="most" param="stability" effect="go_first" gold="3" />
+      </card>
+    </age3>
+    <age4>
+      <card name="american_revolution" age="4" famine="2" architects="1" id="36">
+        <complex pred="least" param="military" effect="remove_colony_if_none_pay_vp" vp="-1" />
+        <complex pred="least" param="stability" effect="remove_advisor_if_none_-2_vp" vp="-2" />
+      </card>
+      <card name="anarchism" age="4" famine="4" architects="1" id="37">
+        <e pred="least" param="military" effect="remove_advisors" vp="-1" />
+        <e pred="most" param="stability" effect="may_hire_2_arch_for_free" />
+      </card>
+      <card name="california_gold_rush" age="4" famine="3" architects="0" id="38">
+        <e pred="most" param="military" gold="8" />
+        <e pred="least" param="stability" wheat="-8" />
+      </card>
+      <card name="entente_cordiale" age="4" famine="4" architects="2" id="39">
+        <e pred="most" param="military" effect="may_deploy_2_workers_to_military_for_free" />
+        <e pred="least" param="stability" coal="-6" />
+      </card>
+      <card name="eruption_of_krakatoa" age="4" famine="3" architects="1" id="40">
+        <e pred="least" param="wheat" vp="-1" />
+        <e pred="most" param="stability" book="10" />
+      </card>
+      <card name="march_to_moscow" age="4" famine="5" architects="1" id="41">
+        <e pred="least" param="wheat" effect="remove_colony_if_none_pay_vp" />
+        <e pred="least" param="stability" book="-10" effect="go_last" />
+      </card>
+      <card name="romanticism" age="4" famine="6" architects="2" id="42">
+        <e pred="pass_first" book="5" />
+        <e pred="most_deployed" param="building,4" vp="1" />
+      </card>
+      <card name="scramble_for_africa" age="4" famine="4" architects="1" id="43">
+        <e pred="have_card_age_geq" param="colony,4" vp="1" />
+        <e pred="least" param="stability" book="-8" />
+      </card>
+      <card name="sick_man_of_europe" age="4" famine="1" architects="3" id="44">
+        <e pred="least" param="military" gold="-8" />
+        <e pred="most" param="stability" vp="1" />
+      </card>
+      <card name="sokoto_caliphate" age="4" famine="3" architects="0" id="45">
+        <opt effect="may_trade" wheat="-4" gold="8" />
+        <e pred="least" param="stability" gold="-7" />
+      </card>
+      <card name="tonghak_movement" age="4" famine="5" architects="0" id="46">
+        <e pred="least" param="military" book="-8" coal="2" />
+        <e pred="least" param="stability" effect="go_last" gold="-5" />
+      </card>
+      <card name="weltpolitik" age="4" famine="2" architects="2" id="47">
+        <foreach effect="+5_gold_and_+5_coal_per_industrial_colony" />
+        <e pred="least" param="stability" worker="-1" />
+      </card>
+    </age4>
+  </event>
+  <civCards>
+    <card name="extra_siberia" type="natural" id="48" />
+    <card name="quarry" age="1" type="building" score="1" deploy="1" coal="1" gold="1" id="49" />
+    <card name="farm" age="1" type="building" score="1" deploy="1" coal="1" wheat="1" id="50" />
+    <card name="axeman" age="1" type="military" raid="2" score="1" military="2" deploy="1" wheat="-1" id="51" />
+    <card name="buffalo_horde" age="1" type="building" maxdeploy="1" score="1" deploy="1" wheat="4" id="52" />
+    <card name="brave" age="1" type="military" raid="2" score="1" military="1" deploy="1" gold="1" id="53" />
+    <card name="teepee" age="1" type="building" score="1" deploy="1" coal="1" book="1" id="54" />
+    <card name="adobe" age="1" type="building" stability="2" score="1" deploy="1" id="55" />
+    <card name="america_dyn1" type="dynasty" id="56">
+      <new_wonder_ready pred="cardtype" param="natural" wheat="2" />
+    </card>
+    <card name="america_federalist_party" type="dynasty" id="57">
+      <buy pred="cardtype" param="building" coal="2" />
+    </card>
+    <card name="america_democratic_republicans" type="dynasty" id="58">
+      <a affects="all" pred="least" param="military" effect="change_dynasty" max="100" />
+      <post_action pred="dynasty_changed" book="3" />
+    </card>
+    <card name="kaba" age="1" type="building" maxdeploy="1" score="2" deploy="2" gold="2" book="2" id="59" />
+    <card name="bazaar" age="1" type="building" score="1" deploy="2" gold="1" wheat="1" id="60" />
+    <card name="arabia_dyn1" type="dynasty" id="61">
+      <buy pred="cardtype" param="battle" effect="may_take_extraworker" />
+    </card>
+    <card name="arabia_abbasid_caliphate" type="dynasty" id="62">
+      <others_buy pred="cardtype" param="golden" effect="may_buy_vp" />
+    </card>
+    <card name="arabia_umayyad_caliphate" type="dynasty" milminbonus="4" id="63" />
+    <card name="china_dyn1" type="dynasty" id="64">
+      <prod pred="pass_first" wheat="1" />
+    </card>
+    <card name="china_ming_dynasty" type="dynasty" id="65">
+      <anytime pred="take" param="worker" wheat="4" />
+    </card>
+    <card name="china_qin_dynasty" type="dynasty" id="66">
+      <a max="3" worker="-1" effect="free_architect" />
+    </card>
+    <card name="temple" age="1" type="building" score="1" deploy="1" book="1" gold="1" id="67" />
+    <card name="caravan" age="1" type="building" stability="1" score="1" deploy="1" gold="1" id="68" />
+    <card name="egypt_dyn1" type="dynasty" id="69">
+      <a arch="1" />
+    </card>
+    <card name="egypt_old_kingdom" type="dynasty" id="70">
+      <a effect="remove_advisor_place_counter_on_this_card" />
+      <prod effect="foreach" param="cross" book="2" />
+      <post_action pred="defeated" effect="remove_counter" />
+    </card>
+    <card name="egypt_new_kingdom" type="dynasty" id="71">
+      <buy pred="cardtype" param="battle" effect="pay_2_less" />
+    </card>
+    <card name="stele" age="1" type="building" stability="1" score="1" deploy="1" book="1" gold="1" id="72" />
+    <card name="ethiopia_dyn1" type="dynasty" id="73">
+      <player_order eff="add military to stability" />
+    </card>
+    <card name="ethiopia_axumite_kingdom" type="dynasty" id="74">
+      <pre_actions effect="place_cross_on_progress_card" />
+      <buy affects="others" pred="buy_card_with_cross" effect="pay_3_gold_to_owner" />
+    </card>
+    <card name="ethiopia_sheba" type="dynasty" id="75">
+      <prod pred="bought" param="colony" effect="no_military_upkeep" />
+    </card>
+    <card name="yurt" age="1" type="building" score="1" deploy="1" wheat="1" gold="1" id="76" />
+    <card name="steppe" age="1" type="building" id="77" />
+    <card name="mongolia_dyn1" type="dynasty" id="78">
+      <war cause="player_defeated" eff="2 more resources" />
+    </card>
+    <card name="mongolia_golden_horde" type="dynasty" id="79">
+      <buy affects="others" pred="cardtype" param="war" effect="gold_goes_to_owner" />
+    </card>
+    <card name="mongolia_yuan_dynasty" type="dynasty" id="80">
+      <when_played effect="take_3_workers" />
+    </card>
+    <card name="greece_dyn1" type="dynasty" bonus="goldenage,1" id="81" />
+    <card name="greece_athens" type="dynasty" id="82">
+      <post_prod pred="most" param="book" gold="3" />
+    </card>
+    <card name="greece_sparta" type="dynasty" id="83">
+      <update_military pred="exactly_1_military_deployed" military="4" />
+    </card>
+    <card name="varanasi" age="1" type="wonder" vp="0" id="84">
+      <prod effect="foreach_undeployed_worker" book="1" wheat="1" />
+    </card>
+    <card name="india_dyn1" type="dynasty" wheat="2" id="85" />
+    <card name="india_mauryan_empire" type="dynasty" id="86">
+      <growth pred="take" param="worker" effect="yesno" worker="2" />
+    </card>
+    <card name="india_mughal_empire" type="dynasty" id="87">
+      <ready vp="1" />
+    </card>
+    <card name="emperor" age="1" type="advisor" stability="2" id="88">
+      <buy pred="cardtype" param="advisor" effect="remove_advisor" cross="1" />
+      <update_military effect="foreach" eparam="cross" military="1" />
+    </card>
+    <card name="rice_fields" age="1" type="building" score="1" deploy="1" wheat="3" id="89" />
+    <card name="hokkaido" age="1" type="building" allows="dynasty" id="90" />
+    <card name="japan_edo_period" type="dynasty" id="91">
+      <war pred="defeated" effect="no_effect" />
+    </card>
+    <card name="japan_heian_period" type="dynasty" id="92">
+      <buy pred="cardtype" param="golden" book="4" />
+    </card>
+    <card name="korea_dyn1" type="dynasty" id="93">
+      <buy pred="cardtype" param="golden" effect="may_hire_2_arch_for_free" />
+    </card>
+    <card name="korea_joseon_kingdom" type="dynasty" id="94">
+      <a effect="place_up_to_3_wheat_coal_gold" />
+      <end_of_age effect="double_each_of_resource_on_card" />
+    </card>
+    <card name="korea_koryo_kingdom" type="dynasty" id="95">
+      <post_action pred="if_war" effect="plus_3_mil_per_mil_worker" />
+    </card>
+    <card name="salt_caravan" score="1" age="1" type="building" stability="1" wheat="1" book="1" deploy="2" id="96" />
+    <card name="gold_mine" age="1" type="building" gold="3" maxdeploy="1" score="1" id="97" />
+    <card name="mali_dyn1" type="dynasty" bonus="goldenage,1" id="98">
+      <growth pred="picked" param="gold" gold="1" />
+    </card>
+    <card name="mali_mali_empire" type="dynasty" id="99">
+      <a effect="remove_advisor" gold="-2" book="3" vp="1" />
+    </card>
+    <card name="mali_songhai_empire" type="dynasty" id="100">
+      <famine affects="others" pred="least" param="military" wheat="-3" />
+    </card>
+    <card name="persia_achaimenid_empire" type="dynasty" id="101">
+      <first_turn pred="took_worker_for_growth" effect="deploy_worker_for_free" eparam="optional" />
+    </card>
+    <card name="persia_sassanid_empire" type="dynasty" id="102">
+      <turmoil pred="choose" param="gold" effect="no_stability_penalty" />
+    </card>
+    <card name="poland_dyn1" type="dynasty" id="103">
+      <prod pred="not_defeated" book="3" />
+    </card>
+    <card name="poland_jagellonian_dynasty" type="dynasty" id="104">
+      <round_start effect="pay_1_gold_to_first_of_other_players_for_extra_action_before_actions" />
+    </card>
+    <card name="poland_polish-lithuanian_commonwealth" type="dynasty" id="105">
+      <buy pred="cardtype" param="advisor" effect="may_place_on_wonder_space" />
+      <a affects="others" effect="pay_poland_3_gold_to_buy_advisor_from_wonder_space" />
+    </card>
+    <card name="portugal_dyn1" type="dynasty" id="106">
+      <buy pred="cardprice" param="3" effect="cost_1_less" />
+    </card>
+    <card name="portugal_kingdom_of_leon" type="dynasty" id="107">
+      <buy pred="cardtype" param="war" effect="gain_battle_effect" />
+    </card>
+    <card name="portugal_portugese_empire" type="dynasty" id="108">
+      <buy pred="cardtype" param="colony" effect="may_place_on_wonder_space" />
+    </card>
+    <card name="rome_dyn1" type="dynasty" military="2" id="109" />
+    <card name="rome_roman_empire" type="dynasty" id="110">
+      <prod effect="most_mil_and_stab_1_vp, most_stab_2_books" />
+    </card>
+    <card name="rome_roman_republic" type="dynasty" id="111">
+      <a effect="discard_architect_from_wic_plus_1_stability" />
+    </card>
+    <card name="constantinople" age="1" type="colony" vp="0" milmin="0" id="112">
+      <buy pred="cardtype" param="golden" effect="vp_cost_1_less" />
+    </card>
+    <card name="glass_blower" age="1" type="building" score="1" book="2" id="113" />
+    <card name="venice_dyn1" type="dynasty" id="114">
+      <prod pred="pass_last" book="2" />
+    </card>
+    <card name="venice_domains_of_the_sea" type="dynasty" id="115">
+      <buy pred="cardtype" param="colony" effect="discard_it_for_1_vp_and_2_gold" />
+    </card>
+    <card name="venice_pactum_warmundi" type="dynasty" id="116">
+      <buy affects="all" effect="others_buy_battle_or_colony_get_1_gold" />
+    </card>
+    <card name="slave_church" age="1" type="building" score="1" book="1" stability="1" id="117" />
+    <card name="berserkers" age="1" type="military" raid="3" score="1" military="3" wheat="-2" id="118" />
+    <card name="old_uppsala" age="1" type="wonder" vp="-2" id="119">
+      <a wheat="-1" military="3" effect="round" />
+    </card>
+    <card name="vikings_dyn1" type="dynasty" id="120">
+      <prod effect="choose_resource_others_lose_1" />
+    </card>
+    <card name="vikings_normans" type="dynasty" raid="3" id="121" />
+    <card name="vikings_varangians" type="dynasty" id="122">
+      <buy pred="cardtype" param="advisor" book="4" />
+    </card>
+  </civCards>
+  <progress>
+    <age1>
+      <card name="aeneid" age="1" type="golden" book="2" id="123" />
+      <card name="aqueduct" age="1" type="building" score="1_1" stability="1" deploy="1" wheat="2" id="124" />
+      <card name="archer" age="1" type="military" raid="4" score="1_1" military="2" deploy="1" id="125" />
+      <card name="archimedes" age="1" type="advisor" coal="1" id="126">
+        <a arch="1" />
+      </card>
+      <card name="armenia" age="1" type="colony" vp="0" milmin="6" coal="2" id="127" />
+      <card name="augustus" age="1" type="advisor" military="1" id="128">
+        <prod pred="most" param="military" coal="2" />
+      </card>
+      <card name="babylonia" age="1" type="colony" vp="0" milmin="5" gold="2" id="129" />
+      <card name="battle_of_cannae" age="1" type="battle" id="130" />
+      <card name="battle_of_issus" age="1" type="battle" id="131" />
+      <card name="battle_of_kadesh" age="1" type="battle" id="132" />
+      <card name="battle_of_thermopylae" age="1" type="battle" id="133" />
+      <card name="boudica" age="1" type="advisor" military="1" wheat="1" gold="1" id="134">
+        <post_action pred="deployed" param="military" effect="remove" />
+      </card>
+      <card name="brewery" age="1" type="building" score="1_1" deploy="1" wheat="2" book="1" id="135" />
+      <card name="buddha" age="1" type="advisor" stability="3" coal="1" first_turn="0" id="136" />
+      <card name="chariot" age="1" type="military" raid="3" score="1_1" military="3" deploy="1" gold="-1" id="137" />
+      <card name="city_wall" age="1" type="building" score="1_1" stability="1" deploy="1" coal="2" id="138" />
+      <card name="coinage" age="1" type="golden" coal="2" id="139" />
+      <card name="colosseum" age="1" type="wonder" vp="1" military="3" arch="2_2" id="140">
+        <ready wheat="-2" />
+      </card>
+      <card name="confucian_academy" age="1" type="building" score="1_1" stability="2" deploy="1" gold="1" id="141" />
+      <card name="crossing_the_alps" age="1" type="battle" id="142" />
+      <card name="cyrus_the_great" age="1" type="advisor" id="143">
+        <prod pred="bought" param="colony" gold="3" />
+      </card>
+      <card name="elephant" age="1" type="military" raid="3" score="1_1" military="4" deploy="1" wheat="-2" id="144" />
+      <card name="forge" age="1" type="building" score="1_1" deploy="1" coal="2" wheat="1" id="145" />
+      <card name="forum" age="1" type="building" score="1_1" deploy="1" gold="2" wheat="1" id="146" />
+      <card name="gaul" age="1" type="colony" vp="0" milmin="7" deploy="1" wheat="2" id="147" />
+      <card name="granary" age="1" type="building" score="1_1" deploy="1" wheat="2" coal="1" id="148" />
+      <card name="great_lighthouse" age="1" type="wonder" vp="2" arch="1_3" deploy="1" gold="1" id="149">
+        <buy pred="cardprice" param="3" book="1" />
+      </card>
+      <card name="hanging_gardens" age="1" type="wonder" vp="1" stability="1" arch="1_2" wheat="2" coal="-1" id="150" />
+      <card name="hannibal" age="1" type="advisor" raid="1" id="151">
+        <others_buy pred="cardtype" param="battle" effect="add_1_to_cost" />
+      </card>
+      <card name="hatshepsut" age="1" type="advisor" gold="1" id="152">
+        <ready book="3" />
+      </card>
+      <card name="hindu_kush" age="1" type="colony" vp="0" milmin="9" cola="3" id="153" />
+      <card name="hispania" age="1" type="colony" vp="0" milmin="4" wheat="2" id="154" />
+      <card name="hoplite" age="1" type="military" raid="3" score="1_1" military="3" deploy="1" coal="-1" id="155" />
+      <card name="hunnic_invasions" age="1" type="war" wheat="4" id="156" />
+      <card name="hyksos_invasion" age="1" type="war" coal="4" id="157" />
+      <card name="immortal" age="1" type="military" raid="3" score="1_1" military="3" stability="-1" deploy="1" id="158" />
+      <card name="iron_working" age="1" type="golden" coal="2" id="159" />
+      <card name="israel" age="1" type="colony" vp="0" milmin="5" book="2" id="160" />
+      <card name="legionary" age="1" type="military" raid="3" score="1_1" military="3" deploy="1" wheat="-1" id="161" />
+      <card name="library" age="1" type="building" score="1_1" deploy="1" book="2" gold="1" id="162" />
+      <card name="lighthouse" age="1" type="building" score="1_1" deploy="1" gold="2" coal="1" id="163" />
+      <card name="lyceum" age="1" type="building" score="1_1" deploy="1" book="2" coal="1" id="164" />
+      <card name="macedonia" age="1" type="colony" vp="0" milmin="4" military="2" id="165" />
+      <card name="mahabharata" age="1" type="golden" book="2" id="166" />
+      <card name="map_making" age="1" type="golden" coal="2" id="167" />
+      <card name="milvian_bridge" age="1" type="battle" id="168" />
+      <card name="mine" age="1" type="building" score="1_1" deploy="1" coal="2" gold="1" id="169" />
+      <card name="nubia" age="1" type="colony" vp="0" milmin="3" gold="2" id="170" />
+      <card name="pagoda" age="1" type="building" score="1_1" stability="1" deploy="1" book="2" id="171" />
+      <card name="parthian_wars" age="1" type="war" gold="3" id="172" />
+      <card name="pelopponesian_war" age="1" type="war" book="4" id="173" />
+      <card name="petra" age="1" type="wonder" vp="0" stability="1" arch="2_0_1" id="174">
+        <a wheat="-1" effect="pick" eparam="{book,coal,gold},3" />
+      </card>
+      <card name="phalanx" age="1" type="military" raid="3" score="1_1" military="4" deploy="1" coal="-2" id="175" />
+      <card name="punic_wars" age="1" type="war" wheat="6" id="176" />
+      <card name="pyramids" age="1" type="wonder" vp="3" arch="2_1_0" gold="2" wheat="-2" id="177" />
+      <card name="qin_shi_huang" age="1" type="advisor" wheat="3" id="178">
+        <post_action pred="least" param="stability" effect="remove" />
+      </card>
+      <card name="saint_augustine" age="1" type="advisor" stability="1" id="179">
+        <prod pred="most" param="stability" book="2" />
+      </card>
+      <card name="siege_of_alesia" age="1" type="battle" id="180" />
+      <card name="siege_of_troy" age="1" type="battle" id="181" />
+      <card name="silk" age="1" type="golden" coal="2" id="182" />
+      <card name="solomons_temple" age="1" type="wonder" vp="0" arch="1_1" id="183">
+        <end_of_age vp="1" />
+      </card>
+      <card name="sphinx" age="1" type="wonder" vp="1" arch="2_2" id="184">
+        <new_wonder_ready coal="5" />
+      </card>
+      <card name="stonehenge" age="1" type="wonder" vp="0" arch="1_1_1" id="185">
+        <ready book="6" wheat="4" />
+      </card>
+      <card name="sun_tzu" age="1" type="advisor" first_turn="2" id="186" />
+      <card name="synagogue" age="1" type="building" score="1_1" deploy="1" gold="2" book="1" id="187" />
+      <card name="terracotta_army" age="1" type="wonder" vp="2" arch="0_0_3" military="1" id="188">
+        <ready affects="all" pred="least" param="stability" gold="-4" />
+      </card>
+      <card name="the_bible" age="1" type="golden" book="2" id="189" />
+      <card name="the_odyssey" age="1" type="golden" book="2" id="190" />
+      <card name="the_oracle" age="1" type="wonder" vp="1" arch="2_1" stability="2" id="191" />
+      <card name="three_kingdoms" age="1" type="war" gold="5" id="192" />
+      <card name="trireme" age="1" type="military" raid="3" score="1_1" military="3" deploy="2" id="193" />
+      <card name="warring_states" age="1" type="war" book="3" id="194" />
+      <card name="wars_of_alexander" age="1" type="war" wheat="2" id="195" />
+      <card name="ziggurat" age="1" type="building" score="1_1" stability="2" deploy="1" coal="1" id="196" />
+    </age1>
+    <age2>
+      <card name="abu_bakr" age="2" type="advisor" military="2" id="197">
+        <buy pred="cardtype" param="battle" book="2" />
+      </card>
+      <card name="alhambra" age="2" type="wonder" vp="1" arch="1_1" id="198">
+        <a arch="1" />
+      </card>
+      <card name="alhazen" age="2" type="advisor" book="2" id="199">
+        <a effect="swap_2_progresscards" />
+      </card>
+      <card name="angkor_wat" age="2" type="wonder" vp="1" arch="3_1" wheat="4" id="200">
+        <prod pred="least" param="military" book="-4" />
+      </card>
+      <card name="anna_komnene" age="2" type="advisor" military="2" book="1" id="201">
+        <prod effect="no_military_upkeep" />
+      </card>
+      <card name="ball_court" age="2" type="building" score="1_1_1" deploy="2" gold="3" wheat="1" id="202" />
+      <card name="battle_of_manzikert" age="2" type="battle" id="203" />
+      <card name="battle_of_agincourt" age="2" type="battle" id="204" />
+      <card name="battle_of_ain_jalut" age="2" type="battle" id="205" />
+      <card name="battle_of_hastings" age="2" type="battle" id="206" />
+      <card name="battle_of_poitiers" age="2" type="battle" id="207" />
+      <card name="battle_of_tannenberg" age="2" type="battle" id="208" />
+      <card name="byzantine_arab_war" age="2" type="war" book="3" id="209" />
+      <card name="camel_archer" age="2" type="military" raid="4" score="1_1_2" military="5" stability="-1" deploy="2" id="210" />
+      <card name="castle" age="2" type="building" score="1_1_1" stability="3" deploy="2" coal="1" id="211" />
+      <card name="cataphract" age="2" type="military" raid="4" score="1_1_2" military="6" deploy="2" coal="-2" id="212" />
+      <card name="cathedral" age="2" type="building" score="1_1_1" stability="2" id="213" />
+      <card name="chichen_itza" age="2" type="wonder" vp="1" arch="2_2" id="214">
+        <buy pred="cardtype" param="war" vp="1" />
+      </card>
+      <card name="cho_ko_nu" age="2" type="military" raid="4" score="1_1_2" military="5" deploy="2" gold="1" id="215" />
+      <card name="compass" age="2" type="golden" coal="2" id="216" />
+      <card name="crusader_states" age="2" type="colony" vp="2" milmin="13" military="3" id="217" />
+      <card name="divina_commedia" age="2" type="golden" book="2" id="218" />
+      <card name="eleanor_of_aquitaine" age="2" type="advisor" military="2" id="219">
+        <prod pred="bought" param="colony" gold="5" />
+      </card>
+      <card name="england" age="2" type="colony" vp="1" milmin="11" gold="3" id="220" />
+      <card name="first_crusade" age="2" type="war" book="6" id="221" />
+      <card name="genghis_khan" age="2" type="advisor" military="3" id="222">
+        <milstab affects="all" stability="-3" />
+      </card>
+      <card name="great_wall" age="2" type="wonder" vp="1" stability="2" arch="1_1" id="223">
+        <war pred="pass_first" effect="no_vp_lost_to_war" />
+      </card>
+      <card name="greek_fire_galley" age="2" type="military" raid="4" score="1_1_2" military="6" deploy="2" wheat="2" id="224" />
+      <card name="greenland" age="2" type="colony" vp="1" milmin="7" wheat="3" id="225" />
+      <card name="guild_hall" age="2" type="building" score="1_1_1" deploy="2" coal="3" book="1" id="226" />
+      <card name="gunpowder" age="2" type="golden" coal="2" id="227" />
+      <card name="heavy_plough" age="2" type="golden" coal="2" id="228" />
+      <card name="harald_hardrada" age="2" type="advisor" gold="4" id="229">
+        <post_action pred="least" param="military" effect="remove" />
+      </card>
+      <card name="hippodrome" age="2" type="building" score="1_1_1" stability="3" deploy="2" book="1" id="230" />
+      <card name="horse_archer" age="2" type="military" raid="4" score="1_1_2" military="5" wheat="-1" deploy="2" id="231" />
+      <card name="hundred_years_war" age="2" type="war" wheat="5" id="232" />
+      <card name="knight" age="2" type="military" raid="4" score="1_1_2" military="5" deploy="2" coal="1" id="233" />
+      <card name="krak_des_chevaliers" age="2" type="wonder" vp="2" military="6" arch="5_5" id="234" />
+      <card name="lombardy" age="2" type="colony" vp="1" milmin="9" book="3" id="235" />
+      <card name="longbowman" age="2" type="military" raid="4" score="1_1_2" military="4" deploy="2" id="236" />
+      <card name="longships" age="2" type="military" raid="4" score="1_1_2" military="5" deploy="2" book="-1" id="237" />
+      <card name="madrasa" age="2" type="building" score="1_1_1" deploy="2" book="2" gold="2" id="238" />
+      <card name="magna_carta" age="2" type="golden" book="2" id="239" />
+      <card name="mansa_musa" age="2" type="advisor" gold="1" id="240">
+        <buy pred="spend_last_gold" book="2" wheat="1" />
+      </card>
+      <card name="marco_polo" age="2" type="advisor" id="241">
+        <a effect="choice" eparam="wheat|coal,-2" gold="4" />
+      </card>
+      <card name="market" age="2" type="building" score="1_1_1" deploy="2" gold="2" wheat="2" id="242" />
+      <card name="mint" age="2" type="building" score="1_1_1" stability="1" deploy="2" gold="3" id="243" />
+      <card name="moai_statues" age="2" type="wonder" vp="2" arch="1_1_1" wheat="-1" id="244">
+        <ready coal="12" />
+      </card>
+      <card name="monastery" age="2" type="building" score="1_1_1" deploy="2" book="3" wheat="1" id="245" />
+      <card name="mongol_invasions" age="2" type="war" wheat="10" id="246" />
+      <card name="mosque" age="2" type="building" score="1_1_1" stability="2" deploy="2" gold="2" id="247" />
+      <card name="notre_dame" age="2" type="wonder" vp="1" arch="2_1" book="2" id="248">
+        <prod pred="most" res="stability" book="3" />
+      </card>
+      <card name="ocean_fishing" age="2" type="building" score="1_1_1" deploy="2" gold="2" coal="2" id="249" />
+      <card name="piazza_san_marco" age="2" type="wonder" vp="1" arch="3_2_1" id="250">
+        <a effect="get 5 book|wheat|coal" gold="-2" />
+      </card>
+      <card name="porcelain_tower" age="2" type="wonder" vp="0" arch="1_0" allows="advisor" id="251" />
+      <card name="prussia" age="2" type="colony" vp="1" milmin="12" book="3" id="252" />
+      <card name="reconquista" age="2" type="war" gold="4" id="253" />
+      <card name="saharan_trade" age="2" type="colony" vp="1" milmin="15" coal="4" id="254" />
+      <card name="sankore_university" age="2" type="wonder" vp="2" arch="1_2_3" id="255">
+        <ready book="8" />
+      </card>
+      <card name="sejong_the_great" age="2" type="advisor" wheat="2" id="256">
+        <buy pred="cardtype" param="golden" coal="2" />
+      </card>
+      <card name="sicily" age="2" type="colony" vp="1" milmin="12" wheat="3" id="257" />
+      <card name="siege_of_constantinople" age="2" type="battle" id="258" />
+      <card name="spectacles" age="2" type="golden" coal="2" id="259" />
+      <card name="the_horns_of_hattin" age="2" type="battle" id="260" />
+      <card name="the_quoran" age="2" type="golden" book="2" id="261" />
+      <card name="thomas_aquino" age="2" type="advisor" stability="1" id="262">
+        <prod pred="most" param="stability" book="4" />
+      </card>
+      <card name="three_kingdoms_2" age="2" type="golden" book="2" id="263" />
+      <card name="tibet" age="2" type="colony" vp="1" milmin="8" stability="3" id="264" />
+      <card name="university" age="2" type="building" score="1_1_1" deploy="2" book="2" coal="2" id="265" />
+      <card name="vandalic_war" age="2" type="war" coal="6" id="266" />
+      <card name="viking_raids" age="2" type="war" book="4" id="267" />
+      <card name="war_of_the_roses" age="2" type="war" gold="7" id="268" />
+      <card name="watermill" age="2" type="building" score="1_1_1" deploy="2" coal="3" wheat="1" id="269" />
+      <card name="windmill" age="2" type="building" score="1_1_1" deploy="2" wheat="3" gold="1" id="270" />
+    </age2>
+    <age3>
+      <card name="aztec_empire" age="3" type="colony" vp="1" milmin="15" gold="4" id="271" />
+      <card name="bank" age="3" type="building" score="2_1_1" gold="3" book="2" id="272" />
+      <card name="battle_of_cajamarca" age="3" type="battle" id="273" />
+      <card name="battle_of_noryang" age="3" type="battle" id="274" />
+      <card name="battle_of_poltava" age="3" type="battle" id="275" />
+      <card name="brazil" age="3" type="colony" vp="1" milmin="14" coal="4" id="276" />
+      <card name="chateau" age="3" type="building" score="2_1_1" stability="3" gold="2" id="277" />
+      <card name="clocks" age="3" type="golden" coal="2" id="278" />
+      <card name="colonial_trading" age="3" type="building" score="2_1_1" gold="3" stability="2" id="279" />
+      <card name="conquistador" age="3" type="military" raid="5" score="1_2_2" military="7" book="-1" id="280" />
+      <card name="cortes_expedition" age="3" type="war" wheat="6" id="281" />
+      <card name="courthouse" age="3" type="building" score="2_1_1" stability="3" book="2" id="282" />
+      <card name="dike" age="3" type="building" score="2_1_1" coal="3" wheat="2" id="283" />
+      <card name="don_quixote" age="3" type="golden" book="2" id="284" />
+      <card name="dutch_liberation_war" age="3" type="war" gold="9" id="285" />
+      <card name="elizabeth" age="3" type="advisor" coal="2" id="286">
+        <war military="8" />
+      </card>
+      <card name="fall_of_constantinople" age="3" type="battle" id="287" />
+      <card name="fall_of_louisburg" age="3" type="battle" id="288" />
+      <card name="forbidden_palace" age="3" type="wonder" vp="1" arch="2_1" id="289">
+        <prod pred="pass_first" vp="1" />
+      </card>
+      <card name="frigate" age="3" type="military" raid="6" score="1_2_2" military="8" coal="-1" deploy="4" id="290" />
+      <card name="galileo_galilei" age="3" type="advisor" book="2" id="291">
+        <a effect="buy_golden_or_wonder_for_free" />
+      </card>
+      <card name="great_northern_war" age="3" type="war" wheat="8" id="292" />
+      <card name="gutenberg_bible" age="3" type="golden" book="2" id="293" />
+      <card name="hakkapeliitta" age="3" type="military" raid="5" score="1_2_2" military="8" stability="-1" id="294" />
+      <card name="hammam" age="3" type="building" score="2_1_1" wheat="3" stability="2" id="295" />
+      <card name="himegi_castle" age="3" type="wonder" vp="1" arch="1_1_1" id="296">
+        <buy pred="replace_building_with_newer_age_building" coal="4" />
+      </card>
+      <card name="imjin_war" age="3" type="war" coal="5" id="297" />
+      <card name="incan_empire" age="3" type="colony" vp="1" milmin="17" gold="4" id="298" />
+      <card name="isabella" age="3" type="advisor" wheat="2" id="299">
+        <prod effect="3_gold_per_renaissance_colony" />
+      </card>
+      <card name="jaguar_warrior" age="3" type="military" raid="5" score="1_2_2" military="7" stability="-1" id="300" />
+      <card name="la_noche_triste" age="3" type="battle" id="301" />
+      <card name="machu_picchu" age="3" type="wonder" vp="0" arch="0_2_0" gold="6" id="302" />
+      <card name="martin_luther" age="3" type="advisor" gold="4" id="303">
+        <war affects="all" pred="defeated" wheat="-4" />
+      </card>
+      <card name="mercenary" age="3" type="military" raid="4" score="1_2_2" military="8" gold="-2" deploy="2" id="304" />
+      <card name="microscope" age="3" type="golden" coal="2" id="305" />
+      <card name="montezuma" age="3" type="advisor" wheat="2" id="306">
+        <buy pred="cardtype" param="war,battle" book="3" />
+      </card>
+      <card name="mughal_invasion" age="3" type="war" book="7" id="307" />
+      <card name="niccolo_machiavelli" age="3" type="advisor" book="4" id="308">
+        <new_event effect="draw_2_events_pick_one" />
+      </card>
+      <card name="observatory" age="3" type="building" score="2_1_1" book="3" coal="2" id="309" />
+      <card name="parliament" age="3" type="building" score="2_1_1" coal="3" stability="2" id="310" />
+      <card name="peter_the_great" age="3" type="advisor" id="311">
+        <prod pred="greater_than_war" param="military" effect="5_coal_gold_book" />
+      </card>
+      <card name="philippines" age="3" type="colony" vp="1" milmin="18" coal="4" id="312" />
+      <card name="pocahontas" age="3" type="advisor" wheat="4" effect="milmin_plus_4_for_all" id="313" />
+      <card name="potala_palace" age="3" type="wonder" vp="1" arch="1_1" id="314">
+        <score effect="vp_per_advisor" />
+      </card>
+      <card name="principia" age="3" type="golden" book="2" id="315" />
+      <card name="printing_press" age="3" type="building" score="2_1_1" coal="3" book="2" id="316" />
+      <card name="quebec" age="3" type="colony" vp="1" milmin="12" book="4" id="317" />
+      <card name="ranger" age="3" type="military" raid="5" score="1_2_2" military="6" id="318" />
+      <card name="red_fort" age="3" type="wonder" vp="1" arch="0_3" id="319">
+        <buy pred="cardprice" param="1" wheat="2" />
+      </card>
+      <card name="redcoat" age="3" type="military" raid="5" score="1_2_2" military="7" wheat="-1" id="320" />
+      <card name="romeo_and_juliet" age="3" type="golden" book="2" id="321" />
+      <card name="royal_society" age="3" type="wonder" vp="1" arch="3_2" id="322">
+        <a effect="deploy_1_worker_for_free" />
+      </card>
+      <card name="sacrificial_altar" age="3" type="building" score="2_1_1" stability="3" wheat="2" id="323" />
+      <card name="samurai" age="3" type="military" raid="5" score="1_2_2" military="7" gold="-1" id="324" />
+      <card name="sawmill" age="3" type="building" score="2_1_1" gold="3" wheat="2" id="325" />
+      <card name="shipyard" age="3" type="building" score="2_1_1" coal="3" gold="2" id="326" />
+      <card name="siege_of_rhodes" age="3" type="battle" id="327" />
+      <card name="siege_of_vienna" age="3" type="battle" id="328" />
+      <card name="sistine_chapel" age="3" type="wonder" vp="1" arch="1_1" book="1" id="329">
+        <hire_architect book="3" />
+      </card>
+      <card name="south_africa" age="3" type="colony" vp="1" milmin="13" wheat="4" id="330" />
+      <card name="suleiman" age="3" type="advisor" military="3" id="331">
+        <a pred="most" param="military" worker="1" max="100" effect="impossible" />
+      </card>
+      <card name="taj_mahal" age="3" type="wonder" vp="1" arch="3_1_2" id="332">
+        <ready book="15" />
+      </card>
+      <card name="telescope" age="3" type="golden" coal="2" id="333" />
+      <card name="terrace_farming" age="3" type="building" score="2_1_1" wheat="3" coal="2" id="334" />
+      <card name="the_caribbean" age="3" type="colony" vp="1" milmin="15" stability="4" id="335" />
+      <card name="theatre" age="3" type="building" score="2_1_1" book="3" gold="2" id="336" />
+      <card name="thermometer" age="3" type="golden" coal="2" id="337" />
+      <card name="thirty_years_war" age="3" type="war" wheat="9" id="338" />
+      <card name="tokugawa" age="3" type="advisor" military="2" id="339">
+        <prod effect="2_coal_per_building_and_military_from_current_age" />
+      </card>
+      <card name="uraniborg" age="3" type="wonder" vp="2" arch="0_3_2" book="2" id="340">
+        <buy pred="cardtype" param="golden" effect="bonus" eparam="2" />
+      </card>
+      <card name="versailles" age="3" type="wonder" vp="4" arch="4_0_1" id="341">
+        <ready effect="least_stability_for_this_round" />
+      </card>
+      <card name="virginia" age="3" type="colony" vp="1" milmin="21" coal="5" id="342" />
+      <card name="war_of_cyprus" age="3" type="war" coal="7" id="343" />
+      <card name="war_of_jenkins_ear" age="3" type="war" gold="6" id="344" />
+    </age3>
+    <age4>
+      <card name="alfred_nobel" age="4" type="advisor" military="2" effect="may_not_buy_war" id="345">
+        <prod effect="3_coal_per_worker_on_industrial_building" />
+      </card>
+      <card name="algeria" age="4" type="colony" vp="2" milmin="25" military="5" id="346" />
+      <card name="abraham_lincoln" age="4" type="advisor" stability="3" id="347">
+        <a worker="1" max="100" effect="check_out_worker" />
+      </card>
+      <card name="american_civil_war" age="4" type="war" book="12" id="348" />
+      <card name="anglo-afghan_war" age="4" type="war" coal="7" id="349" />
+      <card name="australia" age="4" type="colony" vp="2" milmin="24" stability="5" id="350" />
+      <card name="balkan_war" age="4" type="war" book="7" id="351" />
+      <card name="battle_of_austerlitz" age="4" type="battle" id="352" />
+      <card name="battle_of_balaclava" age="4" type="battle" id="353" />
+      <card name="battle_of_borodino" age="4" type="battle" id="354" />
+      <card name="battle_of_trafalgar" age="4" type="battle" id="355" />
+      <card name="battle_of_tsushima" age="4" type="battle" id="356" />
+      <card name="benjamin_disraeli" age="4" type="advisor" gold="2" id="357">
+        <prod pred="bought" param="colony" wheat="8" />
+      </card>
+      <card name="big_ben" age="4" type="wonder" vp="1" arch="3_0" id="358">
+        <scoring effect="vp_per_industrial_colony" />
+      </card>
+      <card name="brandenburg_gate" age="4" type="wonder" vp="2" arch="2_2" id="359">
+        <ready affect="all" pred="most" param="military" gold="6" coal="6" effect="impossible" />
+      </card>
+      <card name="british_museum" age="4" type="wonder" vp="2" arch="0_1_3" id="360">
+        <ready affect="all" pred="least" param="military" book="-10" />
+      </card>
+      <card name="candide" age="4" type="golden" book="2" id="361" />
+      <card name="cavalry" age="4" type="military" raid="6" score="1_2_2_2" military="9" book="-1" id="362" />
+      <card name="coal_mine" age="4" type="building" score="2_2_1" coal="4" gold="2" id="363" />
+      <card name="congo" age="4" type="colony" vp="2" milmin="23" gold="5" id="364" />
+      <card name="conscript" age="4" type="military" raid="4" score="1_2_2_2" military="7" deploy="2" id="365" />
+      <card name="cossack" age="4" type="military" raid="6" score="1_2_2_2" military="9" stability="-1" id="366" />
+      <card name="crimean_war" age="4" type="war" gold="10" id="367" />
+      <card name="darwins_voyage" age="4" type="wonder" vp="1" arch="3_2" id="368">
+        <ready gold="15" />
+      </card>
+      <card name="das_kapital" age="4" type="golden" book="2" id="369" />
+      <card name="dreadnought" age="4" type="military" raid="7" score="1_2_3" military="14" coal="-3" deploy="6" id="370" />
+      <card name="dynamite" age="4" type="golden" coal="2" id="371" />
+      <card name="electricity" age="4" type="golden" coal="2" id="372" />
+      <card name="engineering_school" age="4" type="building" score="2_2_1" coal="4" book="2" id="373" />
+      <card name="factory" age="4" type="building" score="2_2_1" gold="3" coal="3" id="374" />
+      <card name="fashoda_incident" age="4" type="battle" id="375" />
+      <card name="florence_nightingale" age="4" type="advisor" book="6" effect="no_vp_loss_defaulting" id="376" />
+      <card name="ford_motor_company" age="4" type="wonder" vp="1" arch="2_2" coal="6" id="377" />
+      <card name="franco-prussian_war" age="4" type="war" gold="10" id="378" />
+      <card name="frederick_the_great" age="4" type="advisor" military="2" effect="mil_deploy_costs_2_less_min_1" id="379" />
+      <card name="grand_duchy_of_finland" age="4" type="colony" vp="2" milmin="21" coal="5" id="380">
+        <a effect="skip_turn" />
+      </card>
+      <card name="hong_kong" age="4" type="colony" vp="2" milmin="27" book="5" id="381" />
+      <card name="hospital" age="4" type="building" score="2_2_1" book="4" wheat="2" id="382" />
+      <card name="hussar" age="4" type="military" raid="6" score="1_2_2_2" military="9" gold="-1" id="383" />
+      <card name="hydro_plant" age="4" type="building" score="2_2_1" gold="3" wheat="3" id="384" />
+      <card name="india" age="4" type="colony" vp="2" milmin="25" book="5" id="385" />
+      <card name="kalevala" age="4" type="golden" book="2" id="386" />
+      <card name="libya" age="4" type="colony" vp="2" milmin="30" coal="6" id="387" />
+      <card name="lin_zexu" age="4" type="advisor" wheat="4" gold="4" id="388">
+        <prod pred="least" param="military" book="-8" />
+      </card>
+      <card name="machine_gunner" age="4" type="military" raid="6" score="1_2_2_2" military="10" gold="-2" id="389" />
+      <card name="marie_antoinette" age="4" type="advisor" book="10" stability="-3" id="390" />
+      <card name="marie_curie" age="4" type="advisor" coal="4" id="391">
+        <a arch="1" max="2" />
+      </card>
+      <card name="mit" age="4" type="wonder" vp="1" arch="0_1" id="392">
+        <buy pred="cardtype" param="building" effect="deploy_worker_on_it_for_free" />
+      </card>
+      <card name="napoleonic_war" age="4" type="war" wheat="11" id="393" />
+      <card name="national_park" age="4" type="building" score="2_2_1" book="4" coal="2" id="394" />
+      <card name="nigeria" age="4" type="colony" vp="2" milmin="20" book="5" id="395" />
+      <card name="opium_war" age="4" type="war" gold="8" id="396" />
+      <card name="origin_of_species" age="4" type="golden" book="2" id="397" />
+      <card name="ostafrika" age="4" type="colony" vp="2" milmin="22" wheat="5" id="398" />
+      <card name="penal_colony" age="4" type="building" score="2_2_1" wheat="4" stability="2" id="399" />
+      <card name="radio" age="4" type="building" score="2_2_1" stability="4" gold="2" id="400" />
+      <card name="railroad" age="4" type="building" score="2_2_1" coal="3" stability="3" id="401" />
+      <card name="rifleman" age="4" type="military" raid="6" score="1_2_2_2" military="9" wheat="-1" id="402" />
+      <card name="second_boer_war" age="4" type="war" wheat="8" id="403" />
+      <card name="sewer_system" age="4" type="building" score="2_2_1" wheat="4" stability="2" id="404" />
+      <card name="shaka_zulu" age="4" type="advisor" military="8" id="405">
+        <buy affects="others" pred="cardtype" param="colony" coal="5" />
+      </card>
+      <card name="simon_bolivar" age="4" type="advisor" coal="4" id="406">
+        <a effect="remove_colony" gold="4" coal="4" max="100" />
+      </card>
+      <card name="south_pole_expedition" age="4" type="wonder" vp="3" arch="2_1" id="407">
+        <ready wheat="-5" />
+      </card>
+      <card name="spinning_jenny" age="4" type="golden" coal="2" id="408" />
+      <card name="statue_of_liberty" age="4" type="wonder" vp="1" arch="0_2" id="409">
+        <scoring pred="most" param="stability" vp="2" />
+      </card>
+      <card name="stock_exchange" age="4" type="building" score="2_2_1" gold="4" coal="2" id="410" />
+      <card name="submarine" age="4" type="military" raid="5" score="1_2_2_2" military="8" id="411" />
+      <card name="suez_canal" age="4" type="wonder" vp="1" arch="2_1" military="4" gold="3" id="412" />
+      <card name="surrender_of_yorktown" age="4" type="battle" id="413" />
+      <card name="titanic" age="4" type="wonder" vp="3" arch="2_0_2" id="414">
+        <ready affects="all" effect="pay 4 gold or remove advisor" />
+      </card>
+      <card name="urban_center" age="4" type="building" score="2_2_1" gold="3" stability="3" id="415" />
+      <card name="vaccine" age="4" type="golden" coal="2" id="416" />
+      <card name="voortrekker" age="4" type="building" score="2_2_1" wheat="3" coal="3" id="417" />
+      <card name="zeppelin" age="4" type="building" score="2_2_1" book="4" stability="2" id="418" />
+    </age4>
+  </progress>
+  <progressDynExt>
+    <age1>
+      <card name="antikythera_mechanism" age="1" exp="dyn" type="golden" effect="draw_until_gwb" id="419" />
+      <card name="great_library" age="1" type="wonder" exp="dyn" vp="0" book="2" arch="1" id="420">
+        <buy effect="golden_age_bonus" />
+        <post_action pred="least" param="stability" effect="remove" />
+      </card>
+      <card name="hypatia" age="1" type="advisor" exp="dyn" cross="1" id="421">
+        <prod effect="foreach" param="cross" book="1" />
+        <post_action pred="more_than" param="stability,2" effect="remove" />
+      </card>
+      <card name="mount_ararat" age="1" type="natural" exp="dyn" vp="0" turns="1" id="422">
+        <ready affects="others" wheat="-3" />
+      </card>
+      <card name="mount_kailash" age="1" type="natural" exp="dyn" vp="2" turns="3" id="423" />
+      <card name="praetorian_guard" age="1" type="military" exp="dyn" raid="3" score="2" maxdeploy="1" military="3" stability="1" deploy="1" id="424" />
+      <card name="silk_road" age="1" type="building" exp="dyn" score="3" maxdeploy="1" deploy="2" gold="5" coal="-1" id="425" />
+      <card name="siwa_oasis" age="1" type="natural" exp="dyn" vp="0" turns="1" id="426">
+        <buy pred="cardtype" param="colony" book="3" />
+      </card>
+      <card name="the_pillar_of_hercules" age="1" type="natural" exp="dyn" vp="0" turns="1" id="427">
+        <ready effect="round" military="7" />
+      </card>
+      <card name="vatican" age="1" type="building" exp="dyn" score="2" maxdeploy="1" deploy="2" gold="1" book="3" id="428" />
+      <card name="vesuvius" age="1" type="natural" exp="dyn" vp="4" turns="2" wheat="1" id="429">
+        <end_of_age worker="-1" />
+      </card>
+    </age1>
+    <age2>
+      <card name="arabian_nights" age="2" exp="dyn" type="golden" effect="passed_over_2_books" id="430" />
+      <card name="assassin" age="2" type="military" exp="dyn" raid="5" score="2" maxdeploy="1" deploy="1" id="431">
+        <buy pred="cardtype" param="battle" effect="others_choose_-3_wheat_or_remove_advisor" />
+      </card>
+      <card name="aurora_borealis" age="2" type="natural" exp="dyn" vp="1" turns="1" id="432">
+        <ready gold="2" />
+      </card>
+      <card name="grand_banks" age="2" type="natural" exp="dyn" vp="1" turns="2" wheat="2" id="433" />
+      <card name="hansa" age="2" type="building" exp="dyn" score="2_2" maxdeploy="2" deploy="4" wheat="4" stability="1" id="434" />
+      <card name="hawaii" age="2" type="natural" exp="dyn" vp="-1" turns="4" id="435">
+        <ready worker="1" effect="place_x_on_population_track" />
+      </card>
+      <card name="knights_templar" age="2" type="building" exp="dyn" score="2" maxdeploy="1" deploy="2" military="4" coal="2" id="436" />
+      <card name="sahara" age="2" type="natural" exp="dyn" vp="1" turns="1" id="437">
+        <war military="4" />
+      </card>
+      <card name="shwedagon_pagoda" age="2" type="wonder" exp="dyn" vp="1" arch="3_2" id="438">
+        <a pred="none_passed" effect="plus_1_stability_until_end_of_round" max="100" />
+      </card>
+      <card name="siberia" age="2" type="natural" exp="dyn" vp="2" turns="2" effect="covers_two_wonder_spaces" coal="2" id="439" />
+      <card name="zhu_xi" age="2" type="advisor" exp="dyn" stability="1" gold="1" effect="keep_when_replaced_first_time" id="440" />
+    </age2>
+    <age3>
+      <card name="cape_of_good_hope" age="3" type="natural" exp="dyn" vp="1" turns="1" id="441">
+        <milmin military="4" />
+      </card>
+      <card name="carolus_linneaus" age="3" type="advisor" exp="dyn" stability="1" id="442">
+        <buy pred="golden_age_vp" vp="1" />
+      </card>
+      <card name="coffee_house" age="3" type="building" exp="dyn" score="2_1_1_2" gold="2" wheat="2" id="443">
+        <prod pred="pass_last" effect="2_book_per_worker_on_coffee_house" />
+      </card>
+      <card name="grand_canyon" age="3" type="natural" exp="dyn" vp="0" turns="2" id="444">
+        <scoring effect="vp_for_each_natural_wonder" />
+      </card>
+      <card name="great_barrier_reef" age="3" type="natural" exp="dyn" vp="2" turns="3" id="445">
+        <a vp="-1" wheat="5" />
+      </card>
+      <card name="great_plains" age="3" type="natural" exp="dyn" vp="0" turns="1" allows="building,military" id="446" />
+      <card name="le_vite" age="3" exp="dyn" type="golden" effect="add_3_architects_pay_1_less_coal_per_architect_this_round" id="447" />
+      <card name="oresund_dues" age="3" type="wonder" exp="dyn" vp="1" arch="2_1_0" id="448">
+        <post_action pred="all_passed" coal="2" />
+      </card>
+      <card name="potosi" age="3" type="building" exp="dyn" score="1" gold="7" maxdeploy="1" id="449" />
+      <card name="privateer" age="3" type="military" exp="dyn" raid="7" score="2_2_1" military="4" deploy="2" id="450" />
+      <card name="spice_islands" age="3" type="natural" exp="dyn" vp="0" turns="2" id="451">
+        <growth effect="4_of_wheat_coal_gold_if_take_resource" />
+      </card>
+    </age3>
+    <age4>
+      <card name="boxers" age="4" type="military" exp="dyn" raid="2" score="1_1_2_2_3" military="6" deploy="1" id="452" />
+      <card name="department_store" age="4" type="building" exp="dyn" score="4" maxdeploy="1" deploy="6" gold="3" book="1" id="453" />
+      <card name="frederic_chopin" age="4" type="advisor" exp="dyn" id="454">
+        <prod effect="books_times_two" />
+        <a affects="others" pred="before_owner_passes" effect="may_buy_chopin_for_5_gold" />
+      </card>
+      <card name="northwest_passage" age="4" type="natural" exp="dyn" vp="4" turns="2" id="455">
+        <ready worker="-2" />
+      </card>
+      <card name="shanty_town" age="4" type="building" exp="dyn" score="1_1_1_1" deploy="1" coal="7" stability="-1" id="456" />
+      <card name="titusville" age="4" type="natural" exp="dyn" vp="1" turns="2" id="457">
+        <scoring effect="coal_times_two" />
+      </card>
+      <card name="uluru" age="4" type="natural" exp="dyn" vp="0" turns="4" id="458">
+        <ready effect="vp_per_player_passed" />
+      </card>
+      <card name="uncle_toms_cabin" age="4" exp="dyn" type="golden" effect="remove_buildings_deploy_1" id="459" />
+      <card name="victoria_falls" age="4" type="natural" exp="dyn" vp="2" turns="2" id="460">
+        <ready effect="draw_20_cards_colony_as_row_4" />
+        <a affects="all" effect="buy_card_from_row4_for_4_gold" />
+      </card>
+      <card name="wardenclyffe_tower" age="4" type="wonder" exp="dyn" vp="1" arch="1_1" id="461">
+        <ready effect="take_3_actions" />
+      </card>
+    </age4>
+  </progressDynExt>
+  <progressFakeExt>
+    <age1>
+      <card name="Julius Caesar" age="1" type="advisor" gold="1" exp="fake" id="462">
+        <info image="head01.png" text="Others: no military deployed =&gt; skip first turn" />
+        <first_turn pred="not" effect="skip_turn" affects="others">
+          <p pred="deployed" param="military" />
+        </first_turn>
+      </card>
+    </age1>
+    <age2 />
+    <age3 />
+    <age4 />
+  </progressFakeExt>
+</cards>

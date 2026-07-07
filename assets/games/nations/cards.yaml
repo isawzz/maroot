@@ -1,0 +1,6133 @@
+abraham_lincoln:
+  Category: D
+  Stage: IV
+  Name: Abraham Lincoln
+  Impact: 'Action: Take 1 Meeple'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age4_abraham_lincoln.jpg
+  Type: advisor
+  key: abraham_lincoln
+  age: 4
+absolute_monarchy:
+  Stage: III
+  No. of Architect: '2'
+  Name of Event 1: Absolute Monarchy
+  Impact: 'Least Stability: -3 Gold or remove Advisor'
+  Name of Event 2: Salem Witch Trials
+  Famine (Food): '-5'
+  '': ''
+  Name: Absolute Monarchy
+  Path: age3_absolute_monarchy.jpg
+  Type: event
+  key: absolute_monarchy
+  age: 3
+abu_bakr:
+  Category: B
+  Stage: II
+  Name: Abu Bakr
+  Impact: 'Buy Battle: +2 Book'
+  Military Strength: '2'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age2_abu_bakr.jpg
+  Type: advisor
+  key: abu_bakr
+  age: 2
+adobe:
+  Category: B
+  Stage: Start
+  Name: Adobe
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '2'
+  VP: '"1'
+  Deploy Cost (Stone): 1"
+  Note: '-1'
+  Path: age0_adobe.jpg
+  Type: building
+  key: adobe
+  age: 0
+aeneid:
+  Category: B
+  Stage: I
+  Name: Aeneid
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age1_aeneid.jpg
+  Type: golden_age
+  key: aeneid
+  age: 1
+african_slave_trade:
+  Stage: III
+  No. of Architect: '1'
+  Name of Event 1: African Slave Trade
+  Impact: 'Most Stability: May go last: +6 Gold'
+  Name of Event 2: Glorious revolution
+  Famine (Food): '-4'
+  '': ''
+  Name: African Slave Trade
+  Path: age3_african_slave_trade.jpg
+  Type: event
+  key: african_slave_trade
+  age: 3
+alfred_nobel:
+  Category: B
+  Stage: IV
+  Name: Alfred Nobel
+  Impact: '"May not buy War - Production: +3 Stone per Meeple on Industrial Building"'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Stability: ''
+  '': ''
+  Path: age4_alfred_nobel.jpg
+  Type: advisor
+  key: alfred_nobel
+  age: 4
+algeria:
+  Category: A
+  Stage: II II
+  Name: Algeria
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: '5'
+  Stability: ''
+  VP: '2'
+  Deploy Cost (Military): '25'
+  '': ''
+  Note: ''
+  Path: age4_algeria.jpg
+  Type: colony
+  key: algeria
+  age: 4
+alhambra:
+  Category: B
+  Stage: II
+  Name: Alhambra
+  Impact: 1 private architect per round
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-1'
+  VP: ' -1"'
+  Path: age2_alhambra.jpg
+  Type: wonder
+  key: alhambra
+  age: 2
+alhazen:
+  Category: B
+  Stage: II
+  Name: Alhazen
+  Impact: '"Action'
+  Military Strength: ' 1 per round: Swap places of two cards on the Progress Board"'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: '2'
+  '': ''
+  Path: age2_alhazen.jpg
+  Type: advisor
+  key: alhazen
+  age: 2
+american_civil_war:
+  Category: E
+  Stage: II II
+  Name: American Civil War
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '-12'
+  VP: ''
+  Note: ''
+  Path: age4_american_civil_war.jpg
+  Type: war
+  key: american_civil_war
+  age: 4
+american_revolution:
+  Stage: II II
+  No. of Architect: '1'
+  Name of Event 1: American revolution
+  Impact: French Revolution
+  Name of Event 2: ' if none: -1 VP"'
+  Famine (Food): '"Least Stability: Remove Advisor'
+  '': '-2'
+  Name: American revolution
+  Path: age4_american_revolution.jpg
+  Type: event
+  key: american_revolution
+  age: 4
+anarchism:
+  Stage: II II
+  No. of Architect: '1'
+  Name of Event 1: Anarchism
+  Impact: '"Most Stability: May hire 2 Architect for free"'
+  Name of Event 2: Great Exhibition
+  Famine (Food): '-4'
+  '': ''
+  Name: Anarchism
+  Path: age4_anarchism.jpg
+  Type: event
+  key: anarchism
+  age: 4
+angkor_wat:
+  Category: B
+  Stage: II
+  Name: Angkor Wat
+  Impact: 'Production: if least Military Strength: -4 Book'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: '4'
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-3'
+  VP: ' -1"'
+  Path: age2_angkor_wat.jpg
+  Type: wonder
+  key: angkor_wat
+  age: 2
+anglo_afghan_war:
+  Category: A
+  Stage: II II
+  Name: Anglo-Afghan War
+  Gold: ''
+  Stone: '-7'
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age4_anglo_afghan_war.jpg
+  Type: war
+  key: anglo_afghan_war
+  age: 4
+anna_komnene:
+  Category: B
+  Stage: II
+  Name: Anna Komnene
+  Impact: 'Production: No upkeep for Military Meeple'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '1'
+  Stability: ''
+  '': ''
+  Path: age2_anna_komnene.jpg
+  Type: advisor
+  key: anna_komnene
+  age: 2
+antikythera_mechanism:
+  Category: B
+  Stage: I
+  Name: Antikythera Mechanism
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: 'draw next age card until first golden age, wonder, or building, play it.'
+  Path: age1_antikythera_mechanism.jpg
+  Type: golden_age
+  key: antikythera_mechanism
+  age: 1
+aqueduct:
+  Category: B
+  Stage: I
+  Name: Aqueduct
+  Gold: ''
+  Stone: ''
+  Food: '2'
+  Book: ''
+  Military: ''
+  Stability: '1'
+  VP: '"1'
+  Deploy Cost (Stone): 1"
+  Note: '-1'
+  Path: age1_aqueduct.jpg
+  Type: building
+  key: aqueduct
+  age: 1
+archer:
+  Category: A
+  Stage: I
+  Name: Archer
+  Military Strength: '2'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: 1"
+  Deploy Cost (Stone): '4'
+  Note: '-1'
+  Path: age1_archer.jpg
+  Type: military
+  key: archer
+  age: 1
+archimedes:
+  Category: B
+  Stage: I
+  Name: Archimedes
+  Impact: 1 private Architect per round
+  Military Strength: ''
+  Gold: ''
+  Stone: '1'
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age1_archimedes.jpg
+  Type: advisor
+  key: archimedes
+  age: 1
+armenia:
+  Category: E
+  Stage: I
+  Name: Armenia
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '0'
+  Deploy Cost (Military): '6'
+  '': ''
+  Note: ''
+  Path: age1_armenia.jpg
+  Type: colony
+  key: armenia
+  age: 1
+aryan_migration:
+  Stage: I
+  No. of Architect: '2'
+  Name of Event 1: Aryan Migration
+  Impact: 'All except least Stability: +3 Food'
+  Name of Event 2: Code of Hammurabi
+  Famine (Food): '-1'
+  '': ''
+  Name: Aryan Migration
+  Path: age1_aryan_migration.jpg
+  Type: event
+  key: aryan_migration
+  age: 1
+assassin:
+  Category: D
+  Stage: II
+  Name: Assassin
+  Military Strength: '0'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '2'
+  RAID: '5'
+  Deploy Cost (Stone): '-1'
+  Note: '"Buy battle: Others Choose -3 Food or remove Advisor'
+  Path: age2_assassin.jpg
+  Type: military
+  key: assassin
+  age: 2
+assyrian_deportations:
+  Stage: I
+  No. of Architect: '1'
+  Name of Event 1: Assyrian deportations
+  Impact: 'Most Stability: Regain all VP lost to War this round'
+  Name of Event 2: Jain Ascetism
+  Famine (Food): '0'
+  '': ''
+  Name: Assyrian deportations
+  Path: age1_assyrian_deportations.jpg
+  Type: event
+  key: assyrian_deportations
+  age: 1
+attila:
+  Stage: I
+  No. of Architect: '2'
+  Name of Event 1: Attila
+  Impact: '"Most Stability: +4 Stone or others: -3 Food"'
+  Name of Event 2: Zoroastrian revival
+  Famine (Food): '-3'
+  '': ''
+  Name: Attila
+  Path: age1_attila.jpg
+  Type: event
+  key: attila
+  age: 1
+augustus:
+  Category: B
+  Stage: I
+  Name: Augustus
+  Impact: 'Production: if most Military Strength: +2 Stone'
+  Military Strength: '1'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age1_augustus.jpg
+  Type: advisor
+  key: augustus
+  age: 1
+aurora_borealis:
+  Stage: II
+  Name: Aurora Borealis
+  Impact: 'When discovered: +2 Gold'
+  VP: '1'
+  Deploy Cost (No. of Turn): '1'
+  Note: ''
+  Path: age2_aurora_borealis.jpg
+  Type: natural
+  key: aurora_borealis
+  age: 2
+australia:
+  Category: E
+  Stage: II II
+  Name: Australia
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '5'
+  VP: '2'
+  Deploy Cost (Military): '24'
+  '': ''
+  Note: ''
+  Path: age4_australia.jpg
+  Type: colony
+  key: australia
+  age: 4
+axeman:
+  Category: B
+  Stage: Start
+  Name: Axeman
+  Military Strength: '2'
+  Gold: ''
+  Stone: ''
+  Food: '-1'
+  Book: ''
+  Stability: ''
+  VP: ''
+  RAID: ''
+  Deploy Cost (Stone): '-1'
+  Note: ''
+  Path: age0_axeman.jpg
+  Type: military
+  key: axeman
+  age: 0
+aztec_empire:
+  Category: B
+  Stage: III
+  Name: Aztec Empire
+  Gold: '4'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '1'
+  Deploy Cost (Military): '15'
+  '': ''
+  Note: ''
+  Path: age3_aztec_empire.jpg
+  Type: colony
+  key: aztec_empire
+  age: 3
+babylonia:
+  Category: A
+  Stage: I
+  Name: Babylonia
+  Gold: '2'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '0'
+  Deploy Cost (Military): '5'
+  '': ''
+  Note: ''
+  Path: age1_babylonia.jpg
+  Type: colony
+  key: babylonia
+  age: 1
+balkan_wars:
+  Category: B
+  Stage: II II
+  Name: Balkan Wars
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '-7'
+  VP: ''
+  Note: ''
+  Path: age4_balkan_wars.jpg
+  Type: war
+  key: balkan_wars
+  age: 4
+ball_court:
+  Category: A
+  Stage: II
+  Name: Ball Court
+  Gold: '3'
+  Stone: ''
+  Food: '1'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age2_ball_court.jpg
+  Type: building
+  key: ball_court
+  age: 2
+bank:
+  Category: A
+  Stage: III
+  Name: Bank
+  Gold: '3'
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age3_bank.jpg
+  Type: building
+  key: bank
+  age: 3
+battle_of_agincourt:
+  Category: B
+  Stage: II
+  Name: Battle of Agincourt
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age2_battle_of_agincourt.jpg
+  Type: battle
+  key: battle_of_agincourt
+  age: 2
+battle_of_ain_jalut:
+  Category: E
+  Stage: II
+  Name: Battle of Ain Jalut
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age2_battle_of_ain_jalut.jpg
+  Type: battle
+  key: battle_of_ain_jalut
+  age: 2
+battle_of_austerlitz:
+  Category: A
+  Stage: II II
+  Name: Battle of Austerlitz
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age4_battle_of_austerlitz.jpg
+  Type: battle
+  key: battle_of_austerlitz
+  age: 4
+battle_of_balaclava:
+  Category: E
+  Stage: II II
+  Name: Battle of Balaclava
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age4_battle_of_balaclava.jpg
+  Type: battle
+  key: battle_of_balaclava
+  age: 4
+battle_of_borodino:
+  Category: A
+  Stage: II II
+  Name: Battle of Borodino
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age4_battle_of_borodino.jpg
+  Type: battle
+  key: battle_of_borodino
+  age: 4
+battle_of_cajamarca:
+  Category: A
+  Stage: III
+  Name: Battle of Cajamarca
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age3_battle_of_cajamarca.jpg
+  Type: battle
+  key: battle_of_cajamarca
+  age: 3
+battle_of_cannae:
+  Category: B
+  Stage: I
+  Name: Battle of Cannae
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age1_battle_of_cannae.jpg
+  Type: battle
+  key: battle_of_cannae
+  age: 1
+battle_of_hastings:
+  Category: B
+  Stage: II
+  Name: Battle of Hastings
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age2_battle_of_hastings.jpg
+  Type: battle
+  key: battle_of_hastings
+  age: 2
+battle_of_issus:
+  Category: E
+  Stage: I
+  Name: Battle of Issus
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age1_battle_of_issus.jpg
+  Type: battle
+  key: battle_of_issus
+  age: 1
+battle_of_kadesh:
+  Category: B
+  Stage: I
+  Name: Battle of Kadesh
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age1_battle_of_kadesh.jpg
+  Type: battle
+  key: battle_of_kadesh
+  age: 1
+battle_of_manzikert:
+  Category: A
+  Stage: II
+  Name: Battle of Manzikert
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age2_battle_of_manzikert.jpg
+  Type: battle
+  key: battle_of_manzikert
+  age: 2
+battle_of_noryang:
+  Category: A
+  Stage: III
+  Name: Battle of Noryang
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age3_battle_of_noryang.jpg
+  Type: battle
+  key: battle_of_noryang
+  age: 3
+battle_of_poitiers:
+  Category: B
+  Stage: II
+  Name: Battle of Poitiers
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age2_battle_of_poitiers.jpg
+  Type: battle
+  key: battle_of_poitiers
+  age: 2
+battle_of_poltava:
+  Category: B
+  Stage: III
+  Name: Battle of Poltava
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age3_battle_of_poltava.jpg
+  Type: battle
+  key: battle_of_poltava
+  age: 3
+battle_of_tannenberg:
+  Category: B
+  Stage: II
+  Name: Battle of Tannenberg
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age2_battle_of_tannenberg.jpg
+  Type: battle
+  key: battle_of_tannenberg
+  age: 2
+battle_of_thermopylae:
+  Category: A
+  Stage: I
+  Name: Battle of Thermopylae
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age1_battle_of_thermopylae.jpg
+  Type: battle
+  key: battle_of_thermopylae
+  age: 1
+battle_of_trafalgar:
+  Category: E
+  Stage: II II
+  Name: Battle of Trafalgar
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age4_battle_of_trafalgar.jpg
+  Type: battle
+  key: battle_of_trafalgar
+  age: 4
+battle_of_tsushima:
+  Category: B
+  Stage: II II
+  Name: Battle of Tsushima
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age4_battle_of_tsushima.jpg
+  Type: battle
+  key: battle_of_tsushima
+  age: 4
+battle_of_waterloo:
+  Category: B
+  Stage: II II
+  Name: Battle of Waterloo
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age4_battle_of_waterloo.jpg
+  Type: battle
+  key: battle_of_waterloo
+  age: 4
+benedictine_rule:
+  Stage: II
+  No. of Architect: '3'
+  Name of Event 1: Benedictine Rule
+  Impact: 'All: May -3 Food: +5 Gold'
+  Name of Event 2: Paper Money
+  Famine (Food): '-1'
+  '': ''
+  Name: Benedictine Rule
+  Path: age2_benedictine_rule.jpg
+  Type: event
+  key: benedictine_rule
+  age: 2
+benjamin_disraeli:
+  Category: E
+  Stage: IV
+  Name: Benjamin Disraeli
+  Impact: 'Production: If you bought Colony this round: +8 Food'
+  Military Strength: ''
+  Gold: '2'
+  Stone: ''
+  Food: ''
+  Book: '4'
+  Stability: ''
+  '': ''
+  Path: age4_benjamin_disraeli.jpg
+  Type: advisor
+  key: benjamin_disraeli
+  age: 4
+big_ben:
+  Category: B
+  Stage: II II
+  Name: Big Ben
+  Impact: 'Scoring: +1 per Industrial Colony'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-3'
+  VP: 0"
+  Path: age4_big_ben.jpg
+  Type: wonder
+  key: big_ben
+  age: 4
+black_death:
+  Stage: II
+  No. of Architect: '1'
+  Name of Event 1: Black Death
+  Impact: 'Most Military Strength: +3 Book'
+  Name of Event 2: Hunt for Prester John
+  Famine (Food): '-3'
+  '': ''
+  Name: Black Death
+  Path: age2_black_death.jpg
+  Type: event
+  key: black_death
+  age: 2
+blackbeard:
+  Stage: III
+  No. of Architect: '1'
+  Name of Event 1: Blackbeard
+  Impact: 'Most Stability: +1 VP'
+  Name of Event 2: Habeas Corpus Act
+  Famine (Food): '-2'
+  '': ''
+  Name: Blackbeard
+  Path: age3_blackbeard.jpg
+  Type: event
+  key: blackbeard
+  age: 3
+boudica:
+  Category: B
+  Stage: I
+  Name: Boudica
+  Impact: 'If you have Military Meeple: remove'
+  Military Strength: '1'
+  Gold: '1'
+  Stone: ''
+  Food: '1'
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age1_boudica.jpg
+  Type: advisor
+  key: boudica
+  age: 1
+boxers:
+  Category: D
+  Stage: II II
+  Name: Boxers
+  Military Strength: '6'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '1'
+  Deploy Cost (Stone): '2'
+  Note: '2'
+  Path: age4_boxers.jpg
+  Type: military
+  key: boxers
+  age: 4
+brandenburg_gate:
+  Category: B
+  Stage: II II
+  Name: Brandenburg Gate
+  Impact: '"When ready: Most Military Strength: +6 Gold'
+  Military Strength: ' +6 Stone"'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): ''
+  VP: '"-2'
+  Path: age4_brandenburg_gate.jpg
+  Type: wonder
+  key: brandenburg_gate
+  age: 4
+brave:
+  Category: B
+  Stage: Start
+  Name: Brave
+  Military Strength: '1'
+  Gold: '1'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '1'
+  RAID: '2'
+  Deploy Cost (Stone): '-1'
+  Note: ''
+  Path: age0_brave.jpg
+  Type: military
+  key: brave
+  age: 0
+brazil:
+  Category: A
+  Stage: III
+  Name: Brazil
+  Gold: ''
+  Stone: '4'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '1'
+  Deploy Cost (Military): '14'
+  '': ''
+  Note: ''
+  Path: age3_brazil.jpg
+  Type: colony
+  key: brazil
+  age: 3
+bread_and_games:
+  Stage: I
+  No. of Architect: '2'
+  Name of Event 1: Bread and GAmes
+  Impact: 'All: May -4 Food: +6 Book'
+  Name of Event 2: Christianity
+  Famine (Food): '0'
+  '': ''
+  Name: Bread and GAmes
+  Path: age1_bread_and_games.jpg
+  Type: event
+  key: bread_and_games
+  age: 1
+brewery:
+  Category: B
+  Stage: I
+  Name: Brewery
+  Gold: ''
+  Stone: ''
+  Food: '2'
+  Book: '1'
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): 1"
+  Note: '-1'
+  Path: age1_brewery.jpg
+  Type: building
+  key: brewery
+  age: 1
+british_museum:
+  Category: B
+  Stage: II II
+  Name: British Museum
+  Impact: 'When ready: Least Military Strength: -10 Book'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-1'
+  VP: ' -1"'
+  Path: age4_british_museum.jpg
+  Type: wonder
+  key: british_museum
+  age: 4
+buddha:
+  Category: B
+  Stage: I
+  Name: Buddha
+  Impact: '"Action'
+  Military Strength: ' first turn: Must skip"'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': '3'
+  Path: age1_buddha.jpg
+  Type: advisor
+  key: buddha
+  age: 1
+byzantine_arab_war:
+  Category: B
+  Stage: II
+  Name: Byzantine-Arab War
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '-3'
+  VP: ''
+  Note: ''
+  Path: age2_byzantine_arab_war.jpg
+  Type: war
+  key: byzantine_arab_war
+  age: 2
+californian_gold_rush:
+  Stage: II II
+  No. of Architect: '0'
+  Name of Event 1: Californian Gold Rush
+  Impact: '"Least Stability: -8 Food"'
+  Name of Event 2: Irish Potato Blight
+  Famine (Food): '-3'
+  '': ''
+  Name: Californian Gold Rush
+  Path: age4_californian_gold_rush.jpg
+  Type: event
+  key: californian_gold_rush
+  age: 4
+camel_archer:
+  Category: B
+  Stage: II
+  Name: Camel Archer
+  Military Strength: '5'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: '-1'
+  VP: '"1'
+  RAID: '1'
+  Deploy Cost (Stone): 2"
+  Note: '4'
+  Path: age2_camel_archer.jpg
+  Type: military
+  key: camel_archer
+  age: 2
+cape_of_good_hope:
+  Stage: III
+  Name: Cape of Good Hope
+  Impact: 'Buy Colony: +3 Book'
+  VP: '1'
+  Deploy Cost (No. of Turn): '1'
+  Note: ''
+  Path: age3_cape_of_good_hope.jpg
+  Type: natural
+  key: cape_of_good_hope
+  age: 3
+caravan:
+  Category: B
+  Stage: Start
+  Name: Caravan
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age0_caravan.jpg
+  Type: building
+  key: caravan
+  age: 0
+carolus_linneaus:
+  Category: B
+  Stage: III
+  Name: Carolus Linneaus
+  Impact: '"Buy Golden Age: Gain VP +1 VP"'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age3_carolus_linneaus.jpg
+  Type: advisor
+  key: carolus_linneaus
+  age: 3
+castle:
+  Category: A
+  Stage: II
+  Name: Castle
+  Gold: ''
+  Stone: '1'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '3'
+  VP: '"1'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age2_castle.jpg
+  Type: building
+  key: castle
+  age: 2
+cataphract:
+  Category: E
+  Stage: II
+  Name: Cataphract
+  Military Strength: '6'
+  Gold: ''
+  Stone: '-2'
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '1'
+  Deploy Cost (Stone): 2"
+  Note: '4'
+  Path: age2_cataphract.jpg
+  Type: military
+  key: cataphract
+  age: 2
+cathedral:
+  Category: B
+  Stage: II
+  Name: Cathedral
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '2'
+  VP: '"1'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age2_cathedral.jpg
+  Type: building
+  key: cathedral
+  age: 2
+cavalry:
+  Category: B
+  Stage: II II
+  Name: Cavalry
+  Military Strength: '9'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '-1'
+  Stability: ''
+  VP: '"1'
+  RAID: '2'
+  Deploy Cost (Stone): '2'
+  Note: 2"
+  Path: age4_cavalry.jpg
+  Type: military
+  key: cavalry
+  age: 4
+chanson_de_roland:
+  Stage: II
+  No. of Architect: '1'
+  Name of Event 1: Chanson de Roland
+  Impact: '"Least Stability: Go last and -2 Food"'
+  Name of Event 2: Zanj Revolt
+  Famine (Food): '-3'
+  '': ''
+  Name: Chanson de Roland
+  Path: age2_chanson_de_roland.jpg
+  Type: event
+  key: chanson_de_roland
+  age: 2
+chariot:
+  Category: B
+  Stage: I
+  Name: Chariot
+  Military Strength: '3'
+  Gold: '-1'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: 1"
+  Deploy Cost (Stone): '3'
+  Note: '-1'
+  Path: age1_chariot.jpg
+  Type: military
+  key: chariot
+  age: 1
+chateau:
+  Category: E
+  Stage: III
+  Name: Chateau
+  Gold: '2'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '3'
+  VP: '"2'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age3_chateau.jpg
+  Type: building
+  key: chateau
+  age: 3
+chichen_itza:
+  Category: B
+  Stage: II
+  Name: Chichen Itza
+  Impact: 'Buy War: +1 VP'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-2'
+  VP: ' -2"'
+  Path: age2_chichen_itza.jpg
+  Type: wonder
+  key: chichen_itza
+  age: 2
+cho_ko_nu:
+  Category: B
+  Stage: II
+  Name: Cho-Ko-Nu
+  Military Strength: '5'
+  Gold: '-1'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '1'
+  Deploy Cost (Stone): 2"
+  Note: '4'
+  Path: age2_cho_ko_nu.jpg
+  Type: military
+  key: cho_ko_nu
+  age: 2
+city_wall:
+  Category: B
+  Stage: I
+  Name: City Wall
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '1'
+  VP: '"1'
+  Deploy Cost (Stone): 1"
+  Note: '-1'
+  Path: age1_city_wall.jpg
+  Type: building
+  key: city_wall
+  age: 1
+clocks:
+  Category: B
+  Stage: I
+  Name: Clocks
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age3_clocks.jpg
+  Type: golden_age
+  key: clocks
+  age: 3
+coal_mine:
+  Category: E
+  Stage: II II
+  Name: Coal Mine
+  Gold: '2'
+  Stone: '4'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '2'
+  Note: 1"
+  Path: age4_coal_mine.jpg
+  Type: building
+  key: coal_mine
+  age: 4
+coffee_house:
+  Category: D
+  Stage: III
+  Name: Coffee House
+  Gold: '2'
+  Stone: ''
+  Food: '2'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '1'
+  Note: '1'
+  Path: age3_coffee_house.jpg
+  Type: building
+  key: coffee_house
+  age: 3
+coinage:
+  Category: B
+  Stage: I
+  Name: Coinage
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age1_coinage.jpg
+  Type: golden_age
+  key: coinage
+  age: 1
+colonial_trading:
+  Category: B
+  Stage: III
+  Name: Colonial Trading
+  Gold: '3'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '2'
+  VP: '"2'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age3_colonial_trading.jpg
+  Type: building
+  key: colonial_trading
+  age: 3
+colosseum:
+  Category: B
+  Stage: I
+  Name: Colosseum
+  Impact: 'When ready: -2 Food'
+  Military Strength: '3'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-2'
+  VP: ' -2"'
+  Path: age1_colosseum.jpg
+  Type: wonder
+  key: colosseum
+  age: 1
+columbian_exchange:
+  Stage: III
+  No. of Architect: '1'
+  Name of Event 1: Columbian Exchange
+  Impact: 'Least Stability: -5 Gold'
+  Name of Event 2: Expulsion of Jews
+  Famine (Food): '-1'
+  '': ''
+  Name: Columbian Exchange
+  Path: age3_columbian_exchange.jpg
+  Type: event
+  key: columbian_exchange
+  age: 3
+compass:
+  Category: B
+  Stage: I
+  Name: Compass
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age2_compass.jpg
+  Type: golden_age
+  key: compass
+  age: 2
+confucian_academy:
+  Category: E
+  Stage: I
+  Name: Confucian Academy
+  Gold: '1'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '2'
+  VP: '"1'
+  Deploy Cost (Stone): 1"
+  Note: '-1'
+  Path: age1_confucian_academy.jpg
+  Type: building
+  key: confucian_academy
+  age: 1
+congo:
+  Category: B
+  Stage: II II
+  Name: Congo
+  Gold: '5'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '2'
+  Deploy Cost (Military): '23'
+  '': ''
+  Note: ''
+  Path: age4_congo.jpg
+  Type: colony
+  key: congo
+  age: 4
+conquistador:
+  Category: B
+  Stage: III
+  Name: Conquistador
+  Military Strength: '7'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '-1'
+  Stability: ''
+  VP: '"1'
+  RAID: '2'
+  Deploy Cost (Stone): 2"
+  Note: '5'
+  Path: age3_conquistador.jpg
+  Type: military
+  key: conquistador
+  age: 3
+conscript:
+  Category: A
+  Stage: II II
+  Name: Conscript
+  Military Strength: '7'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '1'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age4_conscript.jpg
+  Type: military
+  key: conscript
+  age: 4
+cortes_expedition:
+  Category: A
+  Stage: III
+  Name: Cortes Expedition
+  Gold: ''
+  Stone: ''
+  Food: '-6'
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age3_cortes_expedition.jpg
+  Type: war
+  key: cortes_expedition
+  age: 3
+cossack:
+  Category: B
+  Stage: II II
+  Name: Cossack
+  Military Strength: '9'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: '-1'
+  VP: '"1'
+  RAID: '2'
+  Deploy Cost (Stone): '2'
+  Note: 2"
+  Path: age4_cossack.jpg
+  Type: military
+  key: cossack
+  age: 4
+courthouse:
+  Category: B
+  Stage: III
+  Name: Courthouse
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: '3'
+  VP: '"2'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age3_courthouse.jpg
+  Type: building
+  key: courthouse
+  age: 3
+crimean_war:
+  Category: E
+  Stage: II II
+  Name: Crimean War
+  Gold: '-10'
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age4_crimean_war.jpg
+  Type: war
+  key: crimean_war
+  age: 4
+crop_rotation:
+  Stage: III
+  No. of Architect: '2'
+  Name of Event 1: Crop Rotation
+  Impact: 'All: May undeploy Military Meeple: +2 Book for each'
+  Name of Event 2: Merchantilism
+  Famine (Food): '-4'
+  '': ''
+  Name: Crop Rotation
+  Path: age3_crop_rotation.jpg
+  Type: event
+  key: crop_rotation
+  age: 3
+crossing_the_alps:
+  Category: E
+  Stage: I
+  Name: Crossing the Alps
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age1_crossing_the_alps.jpg
+  Type: battle
+  key: crossing_the_alps
+  age: 1
+crusader_states:
+  Category: E
+  Stage: II
+  Name: Crusader States
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: '3'
+  Stability: ''
+  VP: '2'
+  Deploy Cost (Military): '13'
+  '': ''
+  Note: ''
+  Path: age2_crusader_states.jpg
+  Type: colony
+  key: crusader_states
+  age: 2
+cyrus_the_great:
+  Category: B
+  Stage: I
+  Name: Cyrus the Great
+  Impact: 'Production: If you bought Colony this round: +3 Gold'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age1_cyrus_the_great.jpg
+  Type: advisor
+  key: cyrus_the_great
+  age: 1
+darwins_voyage:
+  Category: D
+  Stage: II II
+  Name: Darwin's Voyage
+  Impact: 'When ready: +15 Gold'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-2'
+  VP: '-1"'
+  Path: age4_darwins_voyage.jpg
+  Type: wonder
+  key: darwins_voyage
+  age: 4
+department_store:
+  Category: D
+  Stage: II II
+  Name: Department Store
+  Gold: '3'
+  Stone: ''
+  Food: ''
+  Book: '1'
+  Military: ''
+  Stability: ''
+  VP: '4'
+  Deploy Cost (Stone): '-6'
+  Note: ''
+  Path: age4_department_store.jpg
+  Type: building
+  key: department_store
+  age: 4
+dike:
+  Category: B
+  Stage: III
+  Name: Dike
+  Gold: ''
+  Stone: '3'
+  Food: '2'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age3_dike.jpg
+  Type: building
+  key: dike
+  age: 3
+divina_commedia:
+  Category: B
+  Stage: I
+  Name: Divina Commedia
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age2_divina_commedia.jpg
+  Type: golden_age
+  key: divina_commedia
+  age: 2
+don_quixote:
+  Category: B
+  Stage: I
+  Name: Don Quixote
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age3_don_quixote.jpg
+  Type: golden_age
+  key: don_quixote
+  age: 3
+dreadnought:
+  Category: E
+  Stage: II II
+  Name: Dreadnought
+  Military Strength: '14'
+  Gold: ''
+  Stone: '-3'
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '2'
+  Deploy Cost (Stone): 3"
+  Note: '7'
+  Path: age4_dreadnought.jpg
+  Type: military
+  key: dreadnought
+  age: 4
+dutch_liberation_war:
+  Category: A
+  Stage: III
+  Name: Dutch Liberation War
+  Gold: '-9'
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age3_dutch_liberation_war.jpg
+  Type: war
+  key: dutch_liberation_war
+  age: 3
+ecological_collapse:
+  Stage: II
+  No. of Architect: '2'
+  Name of Event 1: Ecological Collapse
+  Impact: 'Least Stability: -4 Book'
+  Name of Event 2: Caste system
+  Famine (Food): '-4'
+  '': ''
+  Name: Ecological Collapse
+  Path: age2_ecological_collapse.jpg
+  Type: event
+  key: ecological_collapse
+  age: 2
+eleanor_of_aquitaine:
+  Category: B
+  Stage: II
+  Name: Eleanor of Aquitaine
+  Impact: 'Production: If you bought Colony this round: +5 Gold'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age2_eleanor_of_aquitaine.jpg
+  Type: advisor
+  key: eleanor_of_aquitaine
+  age: 2
+elephant:
+  Category: E
+  Stage: I
+  Name: Elephant
+  Military Strength: '4'
+  Gold: ''
+  Stone: ''
+  Food: '-2'
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: 1"
+  Deploy Cost (Stone): '3'
+  Note: '-1'
+  Path: age1_elephant.jpg
+  Type: military
+  key: elephant
+  age: 1
+elizabeth:
+  Category: E
+  Stage: III
+  Name: Elizabeth
+  Impact: 'War: +8 Military Strength'
+  Military Strength: ''
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age3_elizabeth.jpg
+  Type: advisor
+  key: elizabeth
+  age: 3
+engineering_school:
+  Category: A
+  Stage: II II
+  Name: Engineering School
+  Gold: ''
+  Stone: '4'
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '2'
+  Note: 1"
+  Path: age4_engineering_school.jpg
+  Type: building
+  key: engineering_school
+  age: 4
+england:
+  Category: A
+  Stage: II
+  Name: England
+  Gold: '3'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '1'
+  Deploy Cost (Military): '11'
+  '': ''
+  Note: ''
+  Path: age2_england.jpg
+  Type: colony
+  key: england
+  age: 2
+entente_cordiale:
+  Stage: II II
+  No. of Architect: '2'
+  Name of Event 1: Entente Cordiale
+  Impact: '"Least Stability: -6 Stone"'
+  Name of Event 2: General Strike
+  Famine (Food): '-4'
+  '': ''
+  Name: Entente Cordiale
+  Path: age4_entente_cordiale.jpg
+  Type: event
+  key: entente_cordiale
+  age: 4
+eruption_of_krakatoa:
+  Stage: II II
+  No. of Architect: '1'
+  Name of Event 1: Eruption of Krakatoa
+  Impact: 'Most Stability: +10 Book'
+  Name of Event 2: First Vatican Council
+  Famine (Food): '-3'
+  '': ''
+  Name: Eruption of Krakatoa
+  Path: age4_eruption_of_krakatoa.jpg
+  Type: event
+  key: eruption_of_krakatoa
+  age: 4
+factory:
+  Category: B
+  Stage: II II
+  Name: Factory
+  Gold: '3'
+  Stone: '3'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '2'
+  Note: 1"
+  Path: age4_factory.jpg
+  Type: building
+  key: factory
+  age: 4
+fall_of_constantinople:
+  Category: B
+  Stage: III
+  Name: Fall of Constantinople
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age3_fall_of_constantinople.jpg
+  Type: battle
+  key: fall_of_constantinople
+  age: 3
+fall_of_louisburg:
+  Category: E
+  Stage: III
+  Name: Fall of Louisburg
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age3_fall_of_louisburg.jpg
+  Type: battle
+  key: fall_of_louisburg
+  age: 3
+farm:
+  Category: B
+  Stage: Start
+  Name: Farm
+  Gold: ''
+  Stone: '1'
+  Food: '1'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): 0"
+  Note: '-1'
+  Path: age0_farm.jpg
+  Type: building
+  key: farm
+  age: 0
+fashoda_incident:
+  Category: B
+  Stage: II II
+  Name: Fashoda Incident
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age4_fashoda_incident.jpg
+  Type: battle
+  key: fashoda_incident
+  age: 4
+feudal_dues:
+  Stage: II
+  No. of Architect: '0'
+  Name of Event 1: Feudal dues
+  Impact: '"Least Stability: Lose all Gold except 2"'
+  Name of Event 2: Hajj from Mali
+  Famine (Food): '-2'
+  '': ''
+  Name: Feudal dues
+  Path: age2_feudal_dues.jpg
+  Type: event
+  key: feudal_dues
+  age: 2
+first_crusade:
+  Category: B
+  Stage: II
+  Name: First Crusade
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '-6'
+  VP: ''
+  Note: ''
+  Path: age2_first_crusade.jpg
+  Type: war
+  key: first_crusade
+  age: 2
+florence_nightingale:
+  Category: B
+  Stage: IV
+  Name: Florence Nightingale
+  Impact: 'Lack of resources: No VP loss'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: '2'
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age4_florence_nightingale.jpg
+  Type: advisor
+  key: florence_nightingale
+  age: 4
+forbidden_palace:
+  Category: A
+  Stage: III
+  Name: Forbidden Palace
+  Impact: 'Pass first: +1 VP'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-3'
+  VP: ' 0"'
+  Path: age3_forbidden_palace.jpg
+  Type: wonder
+  key: forbidden_palace
+  age: 3
+ford_motor_company:
+  Category: B
+  Stage: II II
+  Name: Ford Motor Company
+  Impact: ''
+  Military Strength: ''
+  Gold: ''
+  Stone: '6'
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"0'
+  VP: ' -2'
+  Path: age4_ford_motor_company.jpg
+  Type: wonder
+  key: ford_motor_company
+  age: 4
+forge:
+  Category: E
+  Stage: I
+  Name: Forge
+  Gold: ''
+  Stone: '2'
+  Food: '1'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): 1"
+  Note: '-1'
+  Path: age1_forge.jpg
+  Type: building
+  key: forge
+  age: 1
+forum:
+  Category: B
+  Stage: I
+  Name: Forum
+  Gold: '2'
+  Stone: '1'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): 1"
+  Note: '-1'
+  Path: age1_forum.jpg
+  Type: building
+  key: forum
+  age: 1
+fourth_crusade:
+  Stage: II
+  No. of Architect: '1'
+  Name of Event 1: Fourth Crusade
+  Impact: >-
+    Most Stability: Regain all Food / Stone / Gold / Book / VP lost to War this
+    round
+  Name of Event 2: Song Resistance
+  Famine (Food): '-2'
+  '': ''
+  Name: Fourth Crusade
+  Path: age2_fourth_crusade.jpg
+  Type: event
+  key: fourth_crusade
+  age: 2
+franco_prussian_war:
+  Category: B
+  Stage: II II
+  Name: Franco-Prussian War
+  Gold: ''
+  Stone: '-9'
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age4_franco_prussian_war.jpg
+  Type: war
+  key: franco_prussian_war
+  age: 4
+frederic_chopin:
+  Category: B
+  Stage: IV
+  Name: Frederic Chopin
+  Impact: '"Production: Book x2 - Others'
+  Military Strength: ' before you pass: Action: May buy Chopin for 5 Gold"'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Stability: ''
+  '': ''
+  Path: age4_frederic_chopin.jpg
+  Type: advisor
+  key: frederic_chopin
+  age: 4
+frederick_the_great:
+  Category: B
+  Stage: IV
+  Name: Frederick the Great
+  Impact: Military cost 2 Stone less to deploy (at least 1 Stone)
+  Military Strength: '2'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age4_frederick_the_great.jpg
+  Type: advisor
+  key: frederick_the_great
+  age: 4
+frigate:
+  Category: A
+  Stage: III
+  Name: Frigate
+  Military Strength: '8'
+  Gold: ''
+  Stone: '-1'
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '2'
+  Deploy Cost (Stone): 2"
+  Note: '6'
+  Path: age3_frigate.jpg
+  Type: military
+  key: frigate
+  age: 3
+galileo_galilei:
+  Category: B
+  Stage: III
+  Name: Galileo Galilei
+  Impact: '"Action'
+  Military Strength: ' 1 per round: Buy Golden Age or Wonder for free"'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age3_galileo_galilei.jpg
+  Type: advisor
+  key: galileo_galilei
+  age: 3
+gaul:
+  Category: A
+  Stage: I
+  Name: Gaul
+  Gold: ''
+  Stone: ''
+  Food: '2'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '0'
+  Deploy Cost (Military): '7'
+  '': ''
+  Note: ''
+  Path: age1_gaul.jpg
+  Type: colony
+  key: gaul
+  age: 1
+genghis_khan:
+  Category: B
+  Stage: II
+  Name: Genghis Khan
+  Impact: 'All: -3 Stability'
+  Military Strength: '3'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age2_genghis_khan.jpg
+  Type: advisor
+  key: genghis_khan
+  age: 2
+granary:
+  Category: A
+  Stage: I
+  Name: Granary
+  Gold: ''
+  Stone: '1'
+  Food: '2'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): 1"
+  Note: '-1'
+  Path: age1_granary.jpg
+  Type: building
+  key: granary
+  age: 1
+grand_banks:
+  Stage: II
+  Name: Grand Banks
+  Impact: 'Food Production: +2'
+  VP: '0'
+  Deploy Cost (No. of Turn): '2'
+  Note: ''
+  Path: age2_grand_banks.jpg
+  Type: natural
+  key: grand_banks
+  age: 2
+grand_canyon:
+  Stage: III
+  Name: Grand Canyon
+  Impact: '"Final Scoring: +1 VP per other Natural Wonder"'
+  VP: '0'
+  Deploy Cost (No. of Turn): '2'
+  Note: ''
+  Path: age3_grand_canyon.jpg
+  Type: natural
+  key: grand_canyon
+  age: 3
+grand_duchy_of_finland:
+  Category: P
+  Stage: II II
+  Name: Grand Duchy of Finland
+  Gold: ''
+  Stone: '5'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '2'
+  Deploy Cost (Military): '21'
+  '': ''
+  Note: '"Action'
+  Path: age4_grand_duchy_of_finland.jpg
+  Type: colony
+  key: grand_duchy_of_finland
+  age: 4
+great_barrier_reef:
+  Stage: III
+  Name: Great Barrier Reef
+  Impact: '"Action'
+  VP: ' 1 per round: -1 VP'
+  Deploy Cost (No. of Turn): ' +5 Food"'
+  Note: '2'
+  Path: age3_great_barrier_reef.jpg
+  Type: natural
+  key: great_barrier_reef
+  age: 3
+great_library:
+  Category: D
+  Stage: I
+  Name: Great Library
+  Impact: '"Golden age bonus: 1 - Lost if least Stability"'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Stability: ''
+  Deploy Cost (No. of Stone): '-1'
+  VP: '0'
+  Path: age1_great_library.jpg
+  Type: wonder
+  key: great_library
+  age: 1
+great_lighthouse:
+  Category: B
+  Stage: I
+  Name: Great Lighthouse
+  Impact: 'Buy card for 3 Gold: +1 Book'
+  Military Strength: ''
+  Gold: '1'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-1'
+  VP: ' -3"'
+  Path: age1_great_lighthouse.jpg
+  Type: wonder
+  key: great_lighthouse
+  age: 1
+great_northern_war:
+  Category: B
+  Stage: III
+  Name: Great Northern War
+  Gold: ''
+  Stone: ''
+  Food: '-8'
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age3_great_northern_war.jpg
+  Type: war
+  key: great_northern_war
+  age: 3
+great_plains:
+  Stage: III
+  Name: Great Plains
+  Impact: This Wonder space may be used for a Building or Military
+  VP: '0'
+  Deploy Cost (No. of Turn): '1'
+  Note: ''
+  Path: age3_great_plains.jpg
+  Type: natural
+  key: great_plains
+  age: 3
+great_wall:
+  Category: B
+  Stage: II
+  Name: Great Wall
+  Impact: 'Pass first: No VP lost to War'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: '2'
+  Deploy Cost (No. of Stone): '"-1'
+  VP: ' -1"'
+  Path: age2_great_wall.jpg
+  Type: wonder
+  key: great_wall
+  age: 2
+greek_fire_galley:
+  Category: E
+  Stage: II
+  Name: Greek Fire Galley
+  Military Strength: '6'
+  Gold: ''
+  Stone: ''
+  Food: '-2'
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '1'
+  Deploy Cost (Stone): 2"
+  Note: '4'
+  Path: age2_greek_fire_galley.jpg
+  Type: military
+  key: greek_fire_galley
+  age: 2
+greenland:
+  Category: B
+  Stage: II
+  Name: Greenland
+  Gold: ''
+  Stone: ''
+  Food: '3'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '1'
+  Deploy Cost (Military): '7'
+  '': ''
+  Note: ''
+  Path: age2_greenland.jpg
+  Type: colony
+  key: greenland
+  age: 2
+guild_hall:
+  Category: A
+  Stage: II
+  Name: Guild Hall
+  Gold: ''
+  Stone: '3'
+  Food: ''
+  Book: '1'
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age2_guild_hall.jpg
+  Type: building
+  key: guild_hall
+  age: 2
+gunpowder:
+  Category: B
+  Stage: I
+  Name: Gunpowder
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age2_gunpowder.jpg
+  Type: golden_age
+  key: gunpowder
+  age: 2
+gutenberg_bible:
+  Category: B
+  Stage: I
+  Name: Gutenberg Bible
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age3_gutenberg_bible.jpg
+  Type: golden_age
+  key: gutenberg_bible
+  age: 3
+hagia_sophia:
+  Category: B
+  Stage: II
+  Name: Hagia Sophia
+  Impact: ''
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): ''
+  VP: ''
+  Path: age2_hagia_sophia.jpg
+  Type: wonder
+  key: hagia_sophia
+  age: 2
+hakkapeliitta:
+  Category: E
+  Stage: III
+  Name: Hakkapeliitta
+  Military Strength: '8'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: '-2'
+  VP: '"1'
+  RAID: '2'
+  Deploy Cost (Stone): 2"
+  Note: '5'
+  Path: age3_hakkapeliitta.jpg
+  Type: military
+  key: hakkapeliitta
+  age: 3
+hammam:
+  Category: E
+  Stage: III
+  Name: Hammam
+  Gold: ''
+  Stone: ''
+  Food: '3'
+  Book: ''
+  Military: ''
+  Stability: '2'
+  VP: '"2'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age3_hammam.jpg
+  Type: building
+  key: hammam
+  age: 3
+hanging_gardens:
+  Category: B
+  Stage: I
+  Name: Hanging Gardens
+  Impact: ''
+  Military Strength: ''
+  Gold: ''
+  Stone: '-1'
+  Food: '2'
+  Book: ''
+  Stability: '1'
+  Deploy Cost (No. of Stone): '"-1'
+  VP: ' -2"'
+  Path: age1_hanging_gardens.jpg
+  Type: wonder
+  key: hanging_gardens
+  age: 1
+hannibal:
+  Category: B
+  Stage: I
+  Name: Hannibal
+  Impact: '"RAID: +1 - Others: Battles cost 1 Gold more"'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age1_hannibal.jpg
+  Type: advisor
+  key: hannibal
+  age: 1
+hansa:
+  Category: D
+  Stage: II
+  Name: Hansa
+  Gold: ''
+  Stone: ''
+  Food: '4'
+  Book: ''
+  Military: ''
+  Stability: '1'
+  VP: '"2'
+  Deploy Cost (Stone): 2"
+  Note: '-4'
+  Path: age2_hansa.jpg
+  Type: building
+  key: hansa
+  age: 2
+harald_hardrada:
+  Category: B
+  Stage: II
+  Name: Harald Hardrada
+  Impact: '"If least Military Strength'
+  Military Strength: ' remove"'
+  Gold: ''
+  Stone: '4'
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age2_harald_hardrada.jpg
+  Type: advisor
+  key: harald_hardrada
+  age: 2
+hatshepsut:
+  Category: B
+  Stage: I
+  Name: Hatshepsut
+  Impact: 'When Wonder Ready: +3 Book'
+  Military Strength: ''
+  Gold: '1'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age1_hatshepsut.jpg
+  Type: advisor
+  key: hatshepsut
+  age: 1
+hawaii:
+  Stage: II
+  Name: Hawaii
+  Impact: '"When discovered: Take 1 meeple'
+  VP: ' place cross on the population track"'
+  Deploy Cost (No. of Turn): '-1'
+  Note: '4'
+  Path: age2_hawaii.jpg
+  Type: natural
+  key: hawaii
+  age: 2
+hellenism:
+  Stage: I
+  No. of Architect: '0'
+  Name of Event 1: Hellenism
+  Impact: 'All: May undeploy Military Meeple: +2 Book for each'
+  Name of Event 2: Ashokas conversion
+  Famine (Food): '-1'
+  '': ''
+  Name: Hellenism
+  Path: age1_hellenism.jpg
+  Type: event
+  key: hellenism
+  age: 1
+heavy_plough:
+  Category: B
+  Stage: I
+  Name: Heavy Plough
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age2_heavy_plough.jpg
+  Type: golden_age
+  key: heavy_plough
+  age: 2
+himeji_castle:
+  Category: A
+  Stage: III
+  Name: Himeji Castle
+  Impact: 'Replace Building with newer age Building: +4 Stone'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-1'
+  VP: '-1'
+  Path: age3_himeji_castle.jpg
+  Type: wonder
+  key: himeji_castle
+  age: 3
+hindu_kush:
+  Category: E
+  Stage: I
+  Name: Hindu Kush
+  Gold: ''
+  Stone: '3'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '0'
+  Deploy Cost (Military): '9'
+  '': ''
+  Note: ''
+  Path: age1_hindu_kush.jpg
+  Type: colony
+  key: hindu_kush
+  age: 1
+hippodrome:
+  Category: E
+  Stage: II
+  Name: Hippodrome
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '1'
+  Military: ''
+  Stability: '3'
+  VP: '"1'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age2_hippodrome.jpg
+  Type: building
+  key: hippodrome
+  age: 2
+hispania:
+  Category: B
+  Stage: I
+  Name: Hispania
+  Gold: ''
+  Stone: ''
+  Food: '2'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '0'
+  Deploy Cost (Military): '4'
+  '': ''
+  Note: ''
+  Path: age1_hispania.jpg
+  Type: colony
+  key: hispania
+  age: 1
+hong_kong:
+  Category: A
+  Stage: II II
+  Name: Hong Kong
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '5'
+  Military: ''
+  Stability: ''
+  VP: '2'
+  Deploy Cost (Military): '27'
+  '': ''
+  Note: ''
+  Path: age4_hong_kong.jpg
+  Type: colony
+  key: hong_kong
+  age: 4
+hoplite:
+  Category: B
+  Stage: I
+  Name: Hoplite
+  Military Strength: '3'
+  Gold: ''
+  Stone: '-1'
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: 1"
+  Deploy Cost (Stone): '3'
+  Note: '-1'
+  Path: age1_hoplite.jpg
+  Type: military
+  key: hoplite
+  age: 1
+horse_archer:
+  Category: B
+  Stage: II
+  Name: Horse Archer
+  Military Strength: '5'
+  Gold: ''
+  Stone: ''
+  Food: '-1'
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '1'
+  Deploy Cost (Stone): 2"
+  Note: '4'
+  Path: age2_horse_archer.jpg
+  Type: military
+  key: horse_archer
+  age: 2
+hospital:
+  Category: B
+  Stage: II II
+  Name: Hospital
+  Gold: ''
+  Stone: ''
+  Food: '2'
+  Book: '4'
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '2'
+  Note: 1"
+  Path: age4_hospital.jpg
+  Type: building
+  key: hospital
+  age: 4
+hundred_years_war:
+  Category: B
+  Stage: II
+  Name: Hundred Years War
+  Gold: ''
+  Stone: ''
+  Food: '-5'
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age2_hundred_years_war.jpg
+  Type: war
+  key: hundred_years_war
+  age: 2
+hunnic_invasions:
+  Category: B
+  Stage: I
+  Name: Hunnic Invasions
+  Gold: ''
+  Stone: ''
+  Food: '-4'
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age1_hunnic_invasions.jpg
+  Type: war
+  key: hunnic_invasions
+  age: 1
+hussar:
+  Category: B
+  Stage: II II
+  Name: Hussar
+  Military Strength: '9'
+  Gold: '-1'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '2'
+  Deploy Cost (Stone): '2'
+  Note: 2"
+  Path: age4_hussar.jpg
+  Type: military
+  key: hussar
+  age: 4
+hydro_plant:
+  Category: B
+  Stage: II II
+  Name: Hydro Plant
+  Gold: '3'
+  Stone: ''
+  Food: '3'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '2'
+  Note: 1"
+  Path: age4_hydro_plant.jpg
+  Type: building
+  key: hydro_plant
+  age: 4
+hyksos_invasion:
+  Category: E
+  Stage: I
+  Name: Hyksos Invasion
+  Gold: ''
+  Stone: '-4'
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age1_hyksos_invasion.jpg
+  Type: war
+  key: hyksos_invasion
+  age: 1
+hypatia:
+  Category: D
+  Stage: I
+  Name: Hypatia
+  Impact: '"If over 2 Stability: Remove - Production: +1 Cross then +1 Book per Cross"'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age1_hypatia.jpg
+  Type: advisor
+  key: hypatia
+  age: 1
+imjin_war:
+  Category: B
+  Stage: III
+  Name: Imjin War
+  Gold: ''
+  Stone: '-5'
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age3_imjin_war.jpg
+  Type: war
+  key: imjin_war
+  age: 3
+immortal:
+  Category: B
+  Stage: I
+  Name: Immortal
+  Military Strength: '3'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: '-1'
+  VP: '"1'
+  RAID: 1"
+  Deploy Cost (Stone): '3'
+  Note: '-1'
+  Path: age1_immortal.jpg
+  Type: military
+  key: immortal
+  age: 1
+imperial_examination:
+  Stage: II
+  No. of Architect: '1'
+  Name of Event 1: Imperial Examination
+  Impact: 'Most Stability: +1 VP'
+  Name of Event 2: Justinian Code
+  Famine (Food): '0'
+  '': ''
+  Name: Imperial Examination
+  Path: age2_imperial_examination.jpg
+  Type: event
+  key: imperial_examination
+  age: 2
+incan_empire:
+  Category: B
+  Stage: III
+  Name: Incan Empire
+  Gold: '4'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '1'
+  Deploy Cost (Military): '17'
+  '': ''
+  Note: ''
+  Path: age3_incan_empire.jpg
+  Type: colony
+  key: incan_empire
+  age: 3
+india:
+  Category: B
+  Stage: II II
+  Name: India
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '5'
+  Military: ''
+  Stability: ''
+  VP: '2'
+  Deploy Cost (Military): '25'
+  '': ''
+  Note: ''
+  Path: age4_india.jpg
+  Type: colony
+  key: india
+  age: 4
+iron_working:
+  Category: B
+  Stage: I
+  Name: Iron Working
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age1_iron_working.jpg
+  Type: golden_age
+  key: iron_working
+  age: 1
+isabella:
+  Category: B
+  Stage: III
+  Name: Isabella
+  Impact: 'Production: +3 Gold per Renaissance Colony'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '6'
+  Stability: ''
+  '': ''
+  Path: age3_isabella.jpg
+  Type: advisor
+  key: isabella
+  age: 3
+israel:
+  Category: B
+  Stage: I
+  Name: Israel
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: '0'
+  Deploy Cost (Military): '5'
+  '': ''
+  Note: ''
+  Path: age1_israel.jpg
+  Type: colony
+  key: israel
+  age: 1
+jaguar_warrior:
+  Category: B
+  Stage: III
+  Name: Jaguar Warrior
+  Military Strength: '7'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: '-1'
+  VP: '"1'
+  RAID: '2'
+  Deploy Cost (Stone): 2"
+  Note: '5'
+  Path: age3_jaguar_warrior.jpg
+  Type: military
+  key: jaguar_warrior
+  age: 3
+janissaries:
+  Stage: III
+  No. of Architect: '1'
+  Name of Event 1: Janissaries
+  Impact: '"Most Stability: +5 Stone"'
+  Name of Event 2: Council of Trent
+  Famine (Food): '-2'
+  '': ''
+  Name: Janissaries
+  Path: age3_janissaries.jpg
+  Type: event
+  key: janissaries
+  age: 3
+knight:
+  Category: A
+  Stage: II
+  Name: Knight
+  Military Strength: '5'
+  Gold: ''
+  Stone: '-1'
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '1'
+  Deploy Cost (Stone): 2"
+  Note: '4'
+  Path: age2_knight.jpg
+  Type: military
+  key: knight
+  age: 2
+knights_templar:
+  Category: D
+  Stage: II
+  Name: Knights Templar
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: '4'
+  Stability: ''
+  VP: '2'
+  Deploy Cost (Stone): '-2'
+  Note: MAX 1 Deployment
+  Path: age2_knights_templar.jpg
+  Type: building
+  key: knights_templar
+  age: 2
+krak_des_chevaliers:
+  Category: B
+  Stage: II
+  Name: Krak des Chevaliers
+  Impact: ''
+  Military Strength: '6'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-5'
+  VP: ' -5"'
+  Path: age2_krak_des_chevaliers.jpg
+  Type: wonder
+  key: krak_des_chevaliers
+  age: 2
+kremlin:
+  Category: E
+  Stage: III
+  Name: Kremlin
+  Impact: ''
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): ''
+  VP: ''
+  Path: age3_kremlin.jpg
+  Type: wonder
+  key: kremlin
+  age: 3
+la_noche_triste:
+  Category: B
+  Stage: III
+  Name: La Noche Triste
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age3_la_noche_triste.jpg
+  Type: battle
+  key: la_noche_triste
+  age: 3
+legionary:
+  Category: B
+  Stage: I
+  Name: Legionary
+  Military Strength: '3'
+  Gold: ''
+  Stone: ''
+  Food: '-1'
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: 1"
+  Deploy Cost (Stone): '3'
+  Note: '-1'
+  Path: age1_legionary.jpg
+  Type: military
+  key: legionary
+  age: 1
+library:
+  Category: E
+  Stage: I
+  Name: Library
+  Gold: '1'
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): 1"
+  Note: '-1'
+  Path: age1_library.jpg
+  Type: building
+  key: library
+  age: 1
+libya:
+  Category: E
+  Stage: II II
+  Name: Libya
+  Gold: ''
+  Stone: '6'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '2'
+  Deploy Cost (Military): '30'
+  '': ''
+  Note: ''
+  Path: age4_libya.jpg
+  Type: colony
+  key: libya
+  age: 4
+lighthouse:
+  Category: B
+  Stage: I
+  Name: Lighthouse
+  Gold: '2'
+  Stone: '1'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): 1"
+  Note: '-1'
+  Path: age1_lighthouse.jpg
+  Type: building
+  key: lighthouse
+  age: 1
+lin_zexu:
+  Category: E
+  Stage: IV
+  Name: Lin Zexu
+  Impact: 'Production: if least Military Strength: -8 Book'
+  Military Strength: ''
+  Gold: '4'
+  Stone: ''
+  Food: '2'
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age4_lin_zexu.jpg
+  Type: advisor
+  key: lin_zexu
+  age: 4
+little_ice_age:
+  Stage: III
+  No. of Architect: '1'
+  Name of Event 1: Little Ice Age
+  Impact: 'Most Stability: +6 Book'
+  Name of Event 2: City Upon a Hill
+  Famine (Food): '-3'
+  '': ''
+  Name: Little Ice Age
+  Path: age3_little_ice_age.jpg
+  Type: event
+  key: little_ice_age
+  age: 3
+lombardy:
+  Category: B
+  Stage: II
+  Name: Lombardy
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '3'
+  Military: ''
+  Stability: ''
+  VP: '1'
+  Deploy Cost (Military): '9'
+  '': ''
+  Note: ''
+  Path: age2_lombardy.jpg
+  Type: colony
+  key: lombardy
+  age: 2
+longboats:
+  Category: B
+  Stage: II
+  Name: Longboats
+  Military Strength: '5'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '-1'
+  Stability: ''
+  VP: '"1'
+  RAID: '1'
+  Deploy Cost (Stone): 2"
+  Note: '4'
+  Path: age2_longboats.jpg
+  Type: military
+  key: longboats
+  age: 2
+longbowman:
+  Category: A
+  Stage: II
+  Name: Longbowman
+  Military Strength: '4'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '1'
+  Deploy Cost (Stone): 2"
+  Note: '4'
+  Path: age2_longbowman.jpg
+  Type: military
+  key: longbowman
+  age: 2
+lyceum:
+  Category: B
+  Stage: I
+  Name: Lyceum
+  Gold: ''
+  Stone: '1'
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): 1"
+  Note: '-1'
+  Path: age1_lyceum.jpg
+  Type: building
+  key: lyceum
+  age: 1
+macedonia:
+  Category: B
+  Stage: I
+  Name: Macedonia
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: '2'
+  Stability: ''
+  VP: '0'
+  Deploy Cost (Military): '4'
+  '': ''
+  Note: ''
+  Path: age1_macedonia.jpg
+  Type: colony
+  key: macedonia
+  age: 1
+machine_gunner:
+  Category: E
+  Stage: II II
+  Name: Machine Gunner
+  Military Strength: '10'
+  Gold: '-2'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '2'
+  Deploy Cost (Stone): '2'
+  Note: 2"
+  Path: age4_machine_gunner.jpg
+  Type: military
+  key: machine_gunner
+  age: 4
+machu_picchu:
+  Category: B
+  Stage: III
+  Name: Machu Picchu
+  Impact: ''
+  Military Strength: ''
+  Gold: '6'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"0'
+  VP: ' -2'
+  Path: age3_machu_picchu.jpg
+  Type: wonder
+  key: machu_picchu
+  age: 3
+madrasa:
+  Category: B
+  Stage: II
+  Name: Madrasa
+  Gold: '2'
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age2_madrasa.jpg
+  Type: building
+  key: madrasa
+  age: 2
+magna_carta:
+  Category: B
+  Stage: I
+  Name: Magna Carta
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age2_magna_carta.jpg
+  Type: golden_age
+  key: magna_carta
+  age: 2
+magellans_expedition:
+  Stage: III
+  No. of Architect: '2'
+  Name of Event 1: Magellan's expedition
+  Impact: '"Most Stability: May hire 1 Architect for free - Others: -2 Gold"'
+  Name of Event 2: Papal Indulgence
+  Famine (Food): '-3'
+  '': ''
+  Name: Magellan's expedition
+  Path: age3_magellans_expedition.jpg
+  Type: event
+  key: magellans_expedition
+  age: 3
+mahabharata:
+  Category: B
+  Stage: I
+  Name: Mahabharata
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age1_mahabharata.jpg
+  Type: golden_age
+  key: mahabharata
+  age: 1
+mansa_musa:
+  Category: B
+  Stage: II
+  Name: Mansa Musa
+  Impact: '"Spend your last Gold: +2 Book and 1 Food"'
+  Military Strength: ''
+  Gold: '1'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age2_mansa_musa.jpg
+  Type: advisor
+  key: mansa_musa
+  age: 2
+map_making:
+  Category: B
+  Stage: I
+  Name: Map Making
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age1_map_making.jpg
+  Type: golden_age
+  key: map_making
+  age: 1
+march_to_moscow:
+  Stage: II II
+  No. of Architect: '1'
+  Name of Event 1: March to Moscow
+  Impact: Taiping Rebellion
+  Name of Event 2: ' if none: -1 VP"'
+  Famine (Food): '"Least Stability: Go last and -10 Book"'
+  '': ''
+  Name: March to Moscow
+  Path: age4_march_to_moscow.jpg
+  Type: event
+  key: march_to_moscow
+  age: 4
+marco_polo:
+  Category: B
+  Stage: II
+  Name: Marco Polo
+  Impact: '"Action'
+  Military Strength: ' 1 per round: -2 Food / -2 Stone: +4 Gold"'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age2_marco_polo.jpg
+  Type: advisor
+  key: marco_polo
+  age: 2
+marie_antoinette:
+  Category: B
+  Stage: IV
+  Name: Marie Antoinette
+  Impact: ''
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age4_marie_antoinette.jpg
+  Type: advisor
+  key: marie_antoinette
+  age: 4
+marie_curie:
+  Category: ''
+  Stage: IV
+  Name: Marie Curie
+  Impact: 2 private Architect per round
+  Military Strength: ''
+  Gold: ''
+  Stone: '4'
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age4_marie_curie.jpg
+  Type: advisor
+  key: marie_curie
+  age: 4
+market:
+  Category: B
+  Stage: II
+  Name: Market
+  Gold: '2'
+  Stone: ''
+  Food: '2'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age2_market.jpg
+  Type: building
+  key: market
+  age: 2
+martin_luther:
+  Category: D
+  Stage: III
+  Name: Martin Luther
+  Impact: 'All: Defeats cost 4 extra food'
+  Military Strength: ''
+  Gold: '4'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age3_martin_luther.jpg
+  Type: advisor
+  key: martin_luther
+  age: 3
+martyrdom_of_ali:
+  Stage: II
+  No. of Architect: '1'
+  Name of Event 1: Martyrdom of Ali
+  Impact: 'Most Stability: +3 Book'
+  Name of Event 2: Scholasticism
+  Famine (Food): '-1'
+  '': ''
+  Name: Martyrdom of Ali
+  Path: age2_martyrdom_of_ali.jpg
+  Type: event
+  key: martyrdom_of_ali
+  age: 2
+mercenary:
+  Category: E
+  Stage: III
+  Name: Mercenary
+  Military Strength: '8'
+  Gold: '-2'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '2'
+  Deploy Cost (Stone): 2"
+  Note: '4'
+  Path: age3_mercenary.jpg
+  Type: military
+  key: mercenary
+  age: 3
+microscope:
+  Category: B
+  Stage: I
+  Name: microscope
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age3_microscope.jpg
+  Type: golden_age
+  key: microscope
+  age: 3
+milvian_bridge:
+  Category: A
+  Stage: I
+  Name: Milvian Bridge
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age1_milvian_bridge.jpg
+  Type: battle
+  key: milvian_bridge
+  age: 1
+mine:
+  Category: A
+  Stage: I
+  Name: Mine
+  Gold: '1'
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): 1"
+  Note: '-1'
+  Path: age1_mine.jpg
+  Type: building
+  key: mine
+  age: 1
+mint:
+  Category: E
+  Stage: II
+  Name: Mint
+  Gold: '3'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '1'
+  VP: '"1'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age2_mint.jpg
+  Type: building
+  key: mint
+  age: 2
+mit:
+  Category: B
+  Stage: II II
+  Name: MIT
+  Impact: 'Buy a new building: Deploy 1 Meeple on it for free'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"0'
+  VP: '-1"'
+  Path: age4_mit.jpg
+  Type: wonder
+  key: mit
+  age: 4
+moai_statues:
+  Category: B
+  Stage: II
+  Name: Moai Statues
+  Impact: 'When ready: +12 Stone'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: '-1'
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-1'
+  VP: ' -1'
+  Path: age2_moai_statues.jpg
+  Type: wonder
+  key: moai_statues
+  age: 2
+monastery:
+  Category: B
+  Stage: II
+  Name: Monastery
+  Gold: ''
+  Stone: ''
+  Food: '1'
+  Book: '3'
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age2_monastery.jpg
+  Type: building
+  key: monastery
+  age: 2
+mongol_invasions:
+  Category: E
+  Stage: II
+  Name: Mongol Invasions
+  Gold: ''
+  Stone: ''
+  Food: '-10'
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age2_mongol_invasions.jpg
+  Type: war
+  key: mongol_invasions
+  age: 2
+montezuma:
+  Category: A
+  Stage: III
+  Name: Montezuma
+  Impact: 'Buy War or Battle: +3 Book'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: '3'
+  '': ''
+  Path: age3_montezuma.jpg
+  Type: advisor
+  key: montezuma
+  age: 3
+mosque:
+  Category: B
+  Stage: II
+  Name: Mosque
+  Gold: '2'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '2'
+  VP: '"1'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age2_mosque.jpg
+  Type: building
+  key: mosque
+  age: 2
+mount_ararat:
+  Stage: I
+  Name: Mount Ararat
+  Impact: 'When discovered: Others: -3 Food'
+  VP: '0'
+  Deploy Cost (No. of Turn): '1'
+  Note: ''
+  Path: age1_mount_ararat.jpg
+  Type: natural
+  key: mount_ararat
+  age: 1
+mount_kailash:
+  Stage: I
+  Name: Mount Kailash
+  Impact: ''
+  VP: '2'
+  Deploy Cost (No. of Turn): '3'
+  Note: ''
+  Path: age1_mount_kailash.jpg
+  Type: natural
+  key: mount_kailash
+  age: 1
+mughal_invasion:
+  Category: B
+  Stage: III
+  Name: Mughal Invasion
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '-7'
+  VP: ''
+  Note: ''
+  Path: age3_mughal_invasion.jpg
+  Type: war
+  key: mughal_invasion
+  age: 3
+napoleonic_war:
+  Category: A
+  Stage: II II
+  Name: Napoleonic War
+  Gold: ''
+  Stone: ''
+  Food: '-11'
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age4_napoleonic_war.jpg
+  Type: war
+  key: napoleonic_war
+  age: 4
+national_park:
+  Category: E
+  Stage: II II
+  Name: National Park
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: '4'
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '2'
+  Note: 1"
+  Path: age4_national_park.jpg
+  Type: building
+  key: national_park
+  age: 4
+niccolo_machiavelli:
+  Category: A
+  Stage: III
+  Name: Niccolo Machiavelli
+  Impact: 'Reveal Events: Draw 2 choose 1'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '10'
+  Stability: '-3'
+  '': ''
+  Path: age3_niccolo_machiavelli.jpg
+  Type: advisor
+  key: niccolo_machiavelli
+  age: 3
+nigeria:
+  Category: B
+  Stage: II II
+  Name: Nigeria
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '5'
+  Military: ''
+  Stability: ''
+  VP: '2'
+  Deploy Cost (Military): '20'
+  '': ''
+  Note: ''
+  Path: age4_nigeria.jpg
+  Type: colony
+  key: nigeria
+  age: 4
+northwest_passage:
+  Stage: II II
+  Name: Northwest Passage
+  Impact: 'When discovered: Return 2 Meeples'
+  VP: '4'
+  Deploy Cost (No. of Turn): '2'
+  Note: ''
+  Path: age4_northwest_passage.jpg
+  Type: natural
+  key: northwest_passage
+  age: 4
+notre_dame:
+  Category: B
+  Stage: II
+  Name: Notre Dame
+  Impact: 'Production: if most Stability: +3 Book'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-2'
+  VP: ' -1"'
+  Path: age2_notre_dame.jpg
+  Type: wonder
+  key: notre_dame
+  age: 2
+nubia:
+  Category: B
+  Stage: I
+  Name: Nubia
+  Gold: '2'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '0'
+  Deploy Cost (Military): '3'
+  '': ''
+  Note: ''
+  Path: age1_nubia.jpg
+  Type: colony
+  key: nubia
+  age: 1
+observatory:
+  Category: B
+  Stage: III
+  Name: Observatory
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: '3'
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age3_observatory.jpg
+  Type: building
+  key: observatory
+  age: 3
+ocean_fishing:
+  Category: E
+  Stage: II
+  Name: Ocean Fishing
+  Gold: ''
+  Stone: '2'
+  Food: '2'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age2_ocean_fishing.jpg
+  Type: building
+  key: ocean_fishing
+  age: 2
+opium_war:
+  Category: B
+  Stage: II II
+  Name: Opium War
+  Gold: '-8'
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age4_opium_war.jpg
+  Type: war
+  key: opium_war
+  age: 4
+oresund_dues:
+  Category: D
+  Stage: III
+  Name: 'Oresund Dues'
+  Impact: 'After passing: when passed over: +2 Stone'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): ''
+  VP: ''
+  Path: age3_oresund_dues.jpg
+  Type: wonder
+  key: oresund_dues
+  age: 3
+origin_of_species:
+  Category: B
+  Stage: I
+  Name: Origin of Species
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age4_origin_of_species.jpg
+  Type: golden_age
+  key: origin_of_species
+  age: 4
+ostafrika:
+  Category: B
+  Stage: II II
+  Name: Ostafrika
+  Gold: ''
+  Stone: ''
+  Food: '5'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '2'
+  Deploy Cost (Military): '22'
+  '': ''
+  Note: ''
+  Path: age4_ostafrika.jpg
+  Type: colony
+  key: ostafrika
+  age: 4
+pagoda:
+  Category: A
+  Stage: I
+  Name: Pagoda
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: '1'
+  VP: '"1'
+  Deploy Cost (Stone): 1"
+  Note: '-1'
+  Path: age1_pagoda.jpg
+  Type: building
+  key: pagoda
+  age: 1
+parliament:
+  Category: B
+  Stage: III
+  Name: Parliament
+  Gold: ''
+  Stone: '3'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '2'
+  VP: '"2'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age3_parliament.jpg
+  Type: building
+  key: parliament
+  age: 3
+parthian_wars:
+  Category: A
+  Stage: I
+  Name: Parthian Wars
+  Gold: '-3'
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age1_parthian_wars.jpg
+  Type: war
+  key: parthian_wars
+  age: 1
+pax_romana:
+  Stage: I
+  No. of Architect: '0'
+  Name of Event 1: Pax Romana
+  Impact: '"Most Stability: May take 1 Meeple and +3 Food"'
+  Name of Event 2: Han dynasty
+  Famine (Food): '-2'
+  '': ''
+  Name: Pax Romana
+  Path: age1_pax_romana.jpg
+  Type: event
+  key: pax_romana
+  age: 1
+peace_of_god:
+  Stage: II
+  No. of Architect: '0'
+  Name of Event 1: Peace of God
+  Impact: 'All: +1 VP per Medieval Colony'
+  Name of Event 2: Council of Clermont
+  Famine (Food): '-2'
+  '': ''
+  Name: Peace of God
+  Path: age2_peace_of_god.jpg
+  Type: event
+  key: peace_of_god
+  age: 2
+pelopponesian_war:
+  Category: B
+  Stage: I
+  Name: Pelopponesian War
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '-4'
+  VP: ''
+  Note: ''
+  Path: age1_pelopponesian_war.jpg
+  Type: war
+  key: pelopponesian_war
+  age: 1
+penal_colony:
+  Category: B
+  Stage: II II
+  Name: Penal Colony
+  Gold: ''
+  Stone: ''
+  Food: '4'
+  Book: ''
+  Military: ''
+  Stability: '2'
+  VP: '"2'
+  Deploy Cost (Stone): '2'
+  Note: 1"
+  Path: age4_penal_colony.jpg
+  Type: building
+  key: penal_colony
+  age: 4
+peter_the_great:
+  Category: B
+  Stage: III
+  Name: Peter the Great
+  Impact: >-
+    "Production: if Military Stength > War Military: +5 Stone / +5 Gold / +5
+    Book"
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age3_peter_the_great.jpg
+  Type: advisor
+  key: peter_the_great
+  age: 3
+petra:
+  Category: B
+  Stage: I
+  Name: Petra
+  Impact: '"Action'
+  Military Strength: ' 1 per round: -1 Food: +3 Book / +3 Gold / +3 Stone"'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): ''
+  VP: '"-2'
+  Path: age1_petra.jpg
+  Type: wonder
+  key: petra
+  age: 1
+phalanx:
+  Category: E
+  Stage: I
+  Name: Phalanx
+  Military Strength: '4'
+  Gold: ''
+  Stone: '-2'
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: 1"
+  Deploy Cost (Stone): '3'
+  Note: '-1'
+  Path: age1_phalanx.jpg
+  Type: military
+  key: phalanx
+  age: 1
+philippines:
+  Category: A
+  Stage: III
+  Name: Philippines
+  Gold: ''
+  Stone: '4'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '1'
+  Deploy Cost (Military): '18'
+  '': ''
+  Note: ''
+  Path: age3_philippines.jpg
+  Type: colony
+  key: philippines
+  age: 3
+piazza_san_marco:
+  Category: B
+  Stage: II
+  Name: Piazza San Marco
+  Impact: '"Action'
+  Military Strength: ' 1 per round: -2 Gold: +5 Book / +5 Food / +5 Stone"'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): ''
+  VP: '"-3'
+  Path: age2_piazza_san_marco.jpg
+  Type: wonder
+  key: piazza_san_marco
+  age: 2
+pilgrims:
+  Stage: III
+  No. of Architect: '3'
+  Name of Event 1: Pilgrims
+  Impact: 'Least Stability: Go last and -3 Gold'
+  Name of Event 2: Dutch Revolt
+  Famine (Food): '-3'
+  '': ''
+  Name: Pilgrims
+  Path: age3_pilgrims.jpg
+  Type: event
+  key: pilgrims
+  age: 3
+pocahontas:
+  Category: B
+  Stage: III
+  Name: Pocahontas
+  Impact: 'All: Colonies require 4 Military Strength extra'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age3_pocahontas.jpg
+  Type: advisor
+  key: pocahontas
+  age: 3
+porcelain_tower:
+  Category: B
+  Stage: II
+  Name: Porcelain Tower
+  Impact: This Wonder space may be used for an Advisor
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-1'
+  VP: ' 0"'
+  Path: age2_porcelain_tower.jpg
+  Type: wonder
+  key: porcelain_tower
+  age: 2
+potala_palace:
+  Category: B
+  Stage: III
+  Name: Potala Palace
+  Impact: 'Scoring: +1 VP per Advisor'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-1'
+  VP: ' -1"'
+  Path: age3_potala_palace.jpg
+  Type: wonder
+  key: potala_palace
+  age: 3
+potosi:
+  Category: D
+  Stage: III
+  Name: Potosi
+  Gold: '7'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '1'
+  Deploy Cost (Stone): '-3'
+  Note: MAX 1 Deployment
+  Path: age3_potosi.jpg
+  Type: building
+  key: potosi
+  age: 3
+praetorian_guard:
+  Category: D
+  Stage: I
+  Name: Praetorian Guard
+  Military Strength: '3'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: '1'
+  VP: '2'
+  RAID: '3'
+  Deploy Cost (Stone): '-1'
+  Note: MAX 1 Deployment
+  Path: age1_praetorian_guard.jpg
+  Type: military
+  key: praetorian_guard
+  age: 1
+principia:
+  Category: B
+  Stage: I
+  Name: Principia
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age3_principia.jpg
+  Type: golden_age
+  key: principia
+  age: 3
+printing_press:
+  Category: E
+  Stage: III
+  Name: Printing Press
+  Gold: ''
+  Stone: '3'
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age3_printing_press.jpg
+  Type: building
+  key: printing_press
+  age: 3
+privateer:
+  Category: D
+  Stage: III
+  Name: Privateer
+  Military Strength: '4'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"2'
+  RAID: '2'
+  Deploy Cost (Stone): 1"
+  Note: '7'
+  Path: age3_privateer.jpg
+  Type: military
+  key: privateer
+  age: 3
+prussia:
+  Category: A
+  Stage: II
+  Name: Prussia
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '3'
+  Military: ''
+  Stability: ''
+  VP: '1'
+  Deploy Cost (Military): '12'
+  '': ''
+  Note: ''
+  Path: age2_prussia.jpg
+  Type: colony
+  key: prussia
+  age: 2
+punic_wars:
+  Category: E
+  Stage: I
+  Name: Punic Wars
+  Gold: ''
+  Stone: ''
+  Food: '-6'
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age1_punic_wars.jpg
+  Type: war
+  key: punic_wars
+  age: 1
+pyramids:
+  Category: B
+  Stage: I
+  Name: Pyramids
+  Impact: ''
+  Military Strength: ''
+  Gold: '2'
+  Stone: ''
+  Food: '-2'
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-2'
+  VP: ' -1'
+  Path: age1_pyramids.jpg
+  Type: wonder
+  key: pyramids
+  age: 1
+qin_shi_huang:
+  Category: B
+  Stage: I
+  Name: Qin Shi Huang
+  Impact: 'If least Stability: remove'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: '3'
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age1_qin_shi_huang.jpg
+  Type: advisor
+  key: qin_shi_huang
+  age: 1
+qin_unification:
+  Stage: I
+  No. of Architect: '1'
+  Name of Event 1: Qin Unification
+  Impact: 'Most Stability: Go first'
+  Name of Event 2: Olympic games
+  Famine (Food): '-1'
+  '': ''
+  Name: Qin Unification
+  Path: age1_qin_unification.jpg
+  Type: event
+  key: qin_unification
+  age: 1
+quarry:
+  Category: B
+  Stage: Start
+  Name: Quarry
+  Gold: '1'
+  Stone: '1'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): 0"
+  Note: '-1'
+  Path: age0_quarry.jpg
+  Type: building
+  key: quarry
+  age: 0
+quebec:
+  Category: B
+  Stage: III
+  Name: Quebec
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '4'
+  Military: ''
+  Stability: ''
+  VP: '1'
+  Deploy Cost (Military): '12'
+  '': ''
+  Note: ''
+  Path: age3_quebec.jpg
+  Type: colony
+  key: quebec
+  age: 3
+radio:
+  Category: E
+  Stage: II II
+  Name: Radio
+  Gold: '2'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '4'
+  VP: '"2'
+  Deploy Cost (Stone): '2'
+  Note: 1"
+  Path: age4_radio.jpg
+  Type: building
+  key: radio
+  age: 4
+raid_on_lindisfarne:
+  Stage: II
+  No. of Architect: '2'
+  Name of Event 1: Raid on Lindisfarne
+  Impact: '"Least Stability: -2 Gold'
+  Name of Event 2: Iconoclasm
+  Famine (Food): ' -2 Food"'
+  '': ''
+  Name: Raid on Lindisfarne
+  Path: age2_raid_on_lindisfarne.jpg
+  Type: event
+  key: raid_on_lindisfarne
+  age: 2
+railroad:
+  Category: B
+  Stage: II II
+  Name: Railroad
+  Gold: ''
+  Stone: '3'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '3'
+  VP: '"2'
+  Deploy Cost (Stone): '2'
+  Note: 1"
+  Path: age4_railroad.jpg
+  Type: building
+  key: railroad
+  age: 4
+ranger:
+  Category: A
+  Stage: III
+  Name: Ranger
+  Military Strength: '6'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '2'
+  Deploy Cost (Stone): 2"
+  Note: '5'
+  Path: age3_ranger.jpg
+  Type: military
+  key: ranger
+  age: 3
+reconquista:
+  Category: B
+  Stage: II
+  Name: Reconquista
+  Gold: '-4'
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age2_reconquista.jpg
+  Type: war
+  key: reconquista
+  age: 2
+red_fort:
+  Category: E
+  Stage: III
+  Name: Red Fort
+  Impact: 'Buy card for 1 Gold: +2 Food'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): ''
+  VP: ''
+  Path: age3_red_fort.jpg
+  Type: wonder
+  key: red_fort
+  age: 3
+redcoat:
+  Category: B
+  Stage: III
+  Name: Redcoat
+  Military Strength: '7'
+  Gold: ''
+  Stone: ''
+  Food: '-1'
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '2'
+  Deploy Cost (Stone): 2"
+  Note: '5'
+  Path: age3_redcoat.jpg
+  Type: military
+  key: redcoat
+  age: 3
+rifleman:
+  Category: B
+  Stage: II II
+  Name: Rifleman
+  Military Strength: '9'
+  Gold: ''
+  Stone: ''
+  Food: '-1'
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '2'
+  Deploy Cost (Stone): '2'
+  Note: 2"
+  Path: age4_rifleman.jpg
+  Type: military
+  key: rifleman
+  age: 4
+rigveda:
+  Stage: I
+  No. of Architect: '0'
+  Name of Event 1: Rigveda
+  Impact: 'Most Food: +4 Food'
+  Name of Event 2: Exodus
+  Famine (Food): '-2'
+  '': ''
+  Name: Rigveda
+  Path: age1_rigveda.jpg
+  Type: event
+  key: rigveda
+  age: 1
+romanticism:
+  Stage: II II
+  No. of Architect: '2'
+  Name of Event 1: Romanticism
+  Impact: 'Most Meeple in Industrial Buildings: +1 VP'
+  Name of Event 2: Industrial Revolution
+  Famine (Food): '-6'
+  '': ''
+  Name: Romanticism
+  Path: age4_romanticism.jpg
+  Type: event
+  key: romanticism
+  age: 4
+romeo_and_juliet:
+  Category: B
+  Stage: I
+  Name: Romeo and Juliet
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age3_romeo_and_juliet.jpg
+  Type: golden_age
+  key: romeo_and_juliet
+  age: 3
+royal_society:
+  Category: B
+  Stage: III
+  Name: Royal Society
+  Impact: '"Action'
+  Military Strength: ' 1 per round: Deploy 1 Meeple for free"'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): ''
+  VP: '"-2'
+  Path: age3_royal_society.jpg
+  Type: wonder
+  key: royal_society
+  age: 3
+sack_of_baghdad:
+  Stage: II
+  No. of Architect: '0'
+  Name of Event 1: Sack of Baghdad
+  Impact: 'Most Food: +4 Gold'
+  Name of Event 2: Hanseatic Salt Trade
+  Famine (Food): '-2'
+  '': ''
+  Name: Sack of Baghdad
+  Path: age2_sack_of_baghdad.jpg
+  Type: event
+  key: sack_of_baghdad
+  age: 2
+sacrificial_altar:
+  Category: A
+  Stage: III
+  Name: Sacrificial Altar
+  Gold: ''
+  Stone: ''
+  Food: '2'
+  Book: ''
+  Military: ''
+  Stability: '3'
+  VP: '"2'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age3_sacrificial_altar.jpg
+  Type: building
+  key: sacrificial_altar
+  age: 3
+sahara:
+  Stage: II
+  Name: Sahara
+  Impact: 'War: +4 Military Strength'
+  VP: '1'
+  Deploy Cost (No. of Turn): '1'
+  Note: ''
+  Path: age2_sahara.jpg
+  Type: natural
+  key: sahara
+  age: 2
+saharan_trade:
+  Category: E
+  Stage: II
+  Name: Saharan Trade
+  Gold: ''
+  Stone: '4'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '1'
+  Deploy Cost (Military): '15'
+  '': ''
+  Note: ''
+  Path: age2_saharan_trade.jpg
+  Type: colony
+  key: saharan_trade
+  age: 2
+saint_augustine:
+  Category: B
+  Stage: I
+  Name: Saint Augustine
+  Impact: 'Production: if most Stability: +2 Book'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: '1'
+  '': ''
+  Path: age1_saint_augustine.jpg
+  Type: advisor
+  key: saint_augustine
+  age: 1
+samurai:
+  Category: B
+  Stage: III
+  Name: Samurai
+  Military Strength: '7'
+  Gold: '-1'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '2'
+  Deploy Cost (Stone): 2"
+  Note: '5'
+  Path: age3_samurai.jpg
+  Type: military
+  key: samurai
+  age: 3
+sankore_university:
+  Category: B
+  Stage: II
+  Name: Sankore University
+  Impact: 'When ready: +8 Book'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-1'
+  VP: ' -2'
+  Path: age2_sankore_university.jpg
+  Type: wonder
+  key: sankore_university
+  age: 2
+sawmill:
+  Category: B
+  Stage: III
+  Name: Sawmill
+  Gold: '3'
+  Stone: ''
+  Food: '2'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age3_sawmill.jpg
+  Type: building
+  key: sawmill
+  age: 3
+scramble_for_africa:
+  Stage: II II
+  No. of Architect: '1'
+  Name of Event 1: Scramble for Africa
+  Impact: 'Least Stability: -8 Food'
+  Name of Event 2: Dreyfus Affair
+  Famine (Food): '-4'
+  '': ''
+  Name: Scramble for Africa
+  Path: age4_scramble_for_africa.jpg
+  Type: event
+  key: scramble_for_africa
+  age: 4
+sea_peoples:
+  Stage: I
+  No. of Architect: '1'
+  Name of Event 1: Sea Peoples
+  Impact: 'All except most Military Strength and/or Stability: -1 VP'
+  Name of Event 2: Bronze Age Colapse
+  Famine (Food): '-2'
+  '': ''
+  Name: Sea Peoples
+  Path: age1_sea_peoples.jpg
+  Type: event
+  key: sea_peoples
+  age: 1
+second_boer_war:
+  Category: B
+  Stage: II II
+  Name: Second Boer War
+  Gold: ''
+  Stone: ''
+  Food: '-8'
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age4_second_boer_war.jpg
+  Type: war
+  key: second_boer_war
+  age: 4
+sejong_the_great:
+  Category: B
+  Stage: II
+  Name: Sejong the Great
+  Impact: 'Buy Golden Age: +2 Stone'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: '2'
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age2_sejong_the_great.jpg
+  Type: advisor
+  key: sejong_the_great
+  age: 2
+sewer_system:
+  Category: A
+  Stage: II II
+  Name: Sewer System
+  Gold: ''
+  Stone: ''
+  Food: '4'
+  Book: ''
+  Military: ''
+  Stability: '2'
+  VP: '"2'
+  Deploy Cost (Stone): '2'
+  Note: 1"
+  Path: age4_sewer_system.jpg
+  Type: building
+  key: sewer_system
+  age: 4
+shaka_zulu:
+  Category: B
+  Stage: IV
+  Name: Shaka Zulu
+  Impact: '"Others: Buy Colony: +5 Stone"'
+  Military Strength: '8'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age4_shaka_zulu.jpg
+  Type: advisor
+  key: shaka_zulu
+  age: 4
+shang_oracle_bones:
+  Stage: I
+  No. of Architect: '1'
+  Name of Event 1: Shang Oracle Bones
+  Impact: 'Most Food: +3 Gold'
+  Name of Event 2: Ionian Colonisation
+  Famine (Food): '-1'
+  '': ''
+  Name: Shang Oracle Bones
+  Path: age1_shang_oracle_bones.jpg
+  Type: event
+  key: shang_oracle_bones
+  age: 1
+shantytown:
+  Category: D
+  Stage: II II
+  Name: Shantytown
+  Gold: ''
+  Stone: '7'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '-1'
+  VP: '"1'
+  Deploy Cost (Stone): '1'
+  Note: '1'
+  Path: age4_shantytown.jpg
+  Type: building
+  key: shantytown
+  age: 4
+shipyard:
+  Category: A
+  Stage: III
+  Name: Shipyard
+  Gold: '2'
+  Stone: '3'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age3_shipyard.jpg
+  Type: building
+  key: shipyard
+  age: 3
+shwedagon_pagoda:
+  Category: D
+  Stage: II
+  Name: Shwedagon Pagoda
+  Impact: '"Action'
+  Military Strength: ' if none have passed: +1 Stability until end of round"'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): ''
+  VP: '"-3'
+  Path: age2_shwedagon_pagoda.jpg
+  Type: wonder
+  key: shwedagon_pagoda
+  age: 2
+siberia:
+  Stage: II
+  Name: Siberia
+  Impact: 'Stone Production: +2'
+  VP: '2'
+  Deploy Cost (No. of Turn): '2'
+  Note: Cover 2 wonder spaces
+  Path: age2_siberia.jpg
+  Type: natural
+  key: siberia
+  age: 2
+sicily:
+  Category: B
+  Stage: II
+  Name: Sicily
+  Gold: ''
+  Stone: ''
+  Food: '3'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '1'
+  Deploy Cost (Military): '12'
+  '': ''
+  Note: ''
+  Path: age2_sicily.jpg
+  Type: colony
+  key: sicily
+  age: 2
+sick_man_of_europe:
+  Stage: II II
+  No. of Architect: '3'
+  Name of Event 1: Sick Man of Europe
+  Impact: 'Most Stability: +1 VP'
+  Name of Event 2: Women's Suffrage
+  Famine (Food): '-1'
+  '': ''
+  Name: Sick Man of Europe
+  Path: age4_sick_man_of_europe.jpg
+  Type: event
+  key: sick_man_of_europe
+  age: 4
+siege_of_alesia:
+  Category: B
+  Stage: I
+  Name: Siege of Alesia
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age1_siege_of_alesia.jpg
+  Type: battle
+  key: siege_of_alesia
+  age: 1
+siege_of_constantinople:
+  Category: E
+  Stage: II
+  Name: Siege of Constantinople
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age2_siege_of_constantinople.jpg
+  Type: battle
+  key: siege_of_constantinople
+  age: 2
+siege_of_rhodes:
+  Category: B
+  Stage: III
+  Name: Siege of Rhodes
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age3_siege_of_rhodes.jpg
+  Type: battle
+  key: siege_of_rhodes
+  age: 3
+siege_of_troy:
+  Category: B
+  Stage: I
+  Name: Siege of Troy
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age1_siege_of_troy.jpg
+  Type: battle
+  key: siege_of_troy
+  age: 1
+siege_of_vienna:
+  Category: E
+  Stage: III
+  Name: Siege of Vienna
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age3_siege_of_vienna.jpg
+  Type: battle
+  key: siege_of_vienna
+  age: 3
+silk:
+  Category: B
+  Stage: I
+  Name: Silk
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age1_silk.jpg
+  Type: golden_age
+  key: silk
+  age: 1
+silk_road:
+  Category: D
+  Stage: I
+  Name: Silk Road
+  Gold: '5'
+  Stone: '-1'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '3'
+  Deploy Cost (Stone): '-2'
+  Note: MAX 1 Deployment
+  Path: age1_silk_road.jpg
+  Type: building
+  key: silk_road
+  age: 1
+simon_bolivar:
+  Category: D
+  Stage: IV
+  Name: Simon Bolivar
+  Impact: 'Action: Remove Colony: +4 Gold and +4 Stone'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: '1'
+  '': ''
+  Path: age4_simon_bolivar.jpg
+  Type: advisor
+  key: simon_bolivar
+  age: 4
+sinking_of_the_vasa:
+  Stage: III
+  No. of Architect: '0'
+  Name of Event 1: Sinking of the Vasa
+  Impact: 'Least Military Strength: -5 Food'
+  Name of Event 2: Peace of Westphalia
+  Famine (Food): '0'
+  '': ''
+  Name: Sinking of the Vasa
+  Path: age3_sinking_of_the_vasa.jpg
+  Type: event
+  key: sinking_of_the_vasa
+  age: 3
+sistine_chapel:
+  Category: B
+  Stage: III
+  Name: Sistine Chapel
+  Impact: 'Hire Architect: +3 Book'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"0'
+  VP: ' -1"'
+  Path: age3_sistine_chapel.jpg
+  Type: wonder
+  key: sistine_chapel
+  age: 3
+siwa_oasis:
+  Stage: I
+  Name: Siwa Oasis
+  Impact: 'Buy Colony: +3 Book'
+  VP: '0'
+  Deploy Cost (No. of Turn): '1'
+  Note: ''
+  Path: age1_siwa_oasis.jpg
+  Type: natural
+  key: siwa_oasis
+  age: 1
+sokoto_caliphate:
+  Stage: II II
+  No. of Architect: '0'
+  Name of Event 1: Sokoto Caliphate
+  Impact: 'Least Stability: -7 Gold'
+  Name of Event 2: Tennis Court Oath
+  Famine (Food): '-3'
+  '': ''
+  Name: Sokoto Caliphate
+  Path: age4_sokoto_caliphate.jpg
+  Type: event
+  key: sokoto_caliphate
+  age: 4
+solomons_temple:
+  Category: B
+  Stage: I
+  Name: Solomon's Temple
+  Impact: '"End of each age: +1 VP - If defeated: remove"'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-1'
+  VP: ' -1"'
+  Path: age1_solomons_temple.jpg
+  Type: wonder
+  key: solomons_temple
+  age: 1
+south_africa:
+  Category: B
+  Stage: III
+  Name: South Africa
+  Gold: ''
+  Stone: ''
+  Food: '4'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '1'
+  Deploy Cost (Military): '13'
+  '': ''
+  Note: ''
+  Path: age3_south_africa.jpg
+  Type: colony
+  key: south_africa
+  age: 3
+south_pole_expedition:
+  Category: B
+  Stage: II II
+  Name: South Pole Expedition
+  Impact: 'When ready: -5 Food'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '1'
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-1'
+  VP: ' -1"'
+  Path: age4_south_pole_expedition.jpg
+  Type: wonder
+  key: south_pole_expedition
+  age: 4
+spectacles:
+  Category: B
+  Stage: I
+  Name: Spectacles
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age2_spectacles.jpg
+  Type: golden_age
+  key: spectacles
+  age: 2
+sphinx:
+  Category: B
+  Stage: I
+  Name: Sphinx
+  Impact: 'New wonder ready: +5 Stone'
+  Military Strength: ''
+  Gold: ''
+  Stone: '1'
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-2'
+  VP: ' -2"'
+  Path: age1_sphinx.jpg
+  Type: wonder
+  key: sphinx
+  age: 1
+spice_islands:
+  Stage: III
+  Name: Spice Islands
+  Impact: 'Growth: Food / Stone / Gold bonus: +4 same resources'
+  VP: '0'
+  Deploy Cost (No. of Turn): '2'
+  Note: ''
+  Path: age3_spice_islands.jpg
+  Type: natural
+  key: spice_islands
+  age: 3
+spice_trade:
+  Stage: III
+  No. of Architect: '0'
+  Name of Event 1: Spice Trade
+  Impact: 'Least Stability: Go last and -3 Stone'
+  Name of Event 2: Muntzer Revolt
+  Famine (Food): '-2'
+  '': ''
+  Name: Spice Trade
+  Path: age3_spice_trade.jpg
+  Type: event
+  key: spice_trade
+  age: 3
+spinning_jenny:
+  Category: B
+  Stage: I
+  Name: Spinning Jenny
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age4_spinning_jenny.jpg
+  Type: golden_age
+  key: spinning_jenny
+  age: 4
+statue_of_liberty:
+  Category: ''
+  Stage: II II
+  Name: Statue of Liberty
+  Impact: 'Scoring: +2 VP if most Meeple'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-2'
+  VP: ' -1"'
+  Path: age4_statue_of_liberty.jpg
+  Type: wonder
+  key: statue_of_liberty
+  age: 4
+stock_exchange:
+  Category: A
+  Stage: II II
+  Name: Stock Exchange
+  Gold: '4'
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '2'
+  Note: 1"
+  Path: age4_stock_exchange.jpg
+  Type: building
+  key: stock_exchange
+  age: 4
+stonehenge:
+  Category: B
+  Stage: I
+  Name: Stonehenge
+  Impact: '"When ready: +6 Book'
+  Military Strength: ' +4 Food"'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): ''
+  VP: '"-1'
+  Path: age1_stonehenge.jpg
+  Type: wonder
+  key: stonehenge
+  age: 1
+stupor_mundi:
+  Stage: II
+  No. of Architect: '2'
+  Name of Event 1: Stupor Mundi
+  Impact: 'Least Stability: -3 Gold'
+  Name of Event 2: Great Schism
+  Famine (Food): '-1'
+  '': ''
+  Name: Stupor Mundi
+  Path: age2_stupor_mundi.jpg
+  Type: event
+  key: stupor_mundi
+  age: 2
+submarine:
+  Category: A
+  Stage: II II
+  Name: Submarine
+  Military Strength: '8'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: '2'
+  Deploy Cost (Stone): '2'
+  Note: 2"
+  Path: age4_submarine.jpg
+  Type: military
+  key: submarine
+  age: 4
+suez_canal:
+  Category: ''
+  Stage: II II
+  Name: Suez Canal
+  Impact: ''
+  Military Strength: '4'
+  Gold: '3'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): ''
+  VP: ''
+  Path: age4_suez_canal.jpg
+  Type: wonder
+  key: suez_canal
+  age: 4
+suleiman:
+  Category: B
+  Stage: III
+  Name: Suleiman
+  Impact: '"Action'
+  Military Strength: ' if most Military Strength: Take 1 Meeple"'
+  Gold: '3'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age3_suleiman.jpg
+  Type: advisor
+  key: suleiman
+  age: 3
+sun_tzu:
+  Category: B
+  Stage: I
+  Name: Sun Tzu
+  Impact: '"Action'
+  Military Strength: ' first turn each round: Take 2 Actions"'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age1_sun_tzu.jpg
+  Type: advisor
+  key: sun_tzu
+  age: 1
+surrender_at_yorktown:
+  Category: B
+  Stage: II II
+  Name: Surrender at Yorktown
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age4_surrender_at_yorktown.jpg
+  Type: battle
+  key: surrender_at_yorktown
+  age: 4
+synagogue:
+  Category: B
+  Stage: I
+  Name: Synagogue
+  Gold: '2'
+  Stone: ''
+  Food: ''
+  Book: '1'
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): 1"
+  Note: '-1'
+  Path: age1_synagogue.jpg
+  Type: building
+  key: synagogue
+  age: 1
+taj_mahal:
+  Category: B
+  Stage: III
+  Name: Taj Mahal
+  Impact: 'When ready: +15 Book'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-3'
+  VP: '-1'
+  Path: age3_taj_mahal.jpg
+  Type: wonder
+  key: taj_mahal
+  age: 3
+taoism:
+  Stage: I
+  No. of Architect: '1'
+  Name of Event 1: Taoism
+  Impact: 'Most Stability: +1 VP'
+  Name of Event 2: Philosophy
+  Famine (Food): '-1'
+  '': ''
+  Name: Taoism
+  Path: age1_taoism.jpg
+  Type: event
+  key: taoism
+  age: 1
+telescope:
+  Category: B
+  Stage: I
+  Name: Telescope
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age3_telescope.jpg
+  Type: golden_age
+  key: telescope
+  age: 3
+temple:
+  Category: B
+  Stage: Start
+  Name: Temple
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age0_temple.jpg
+  Type: building
+  key: temple
+  age: 0
+terrace_farming:
+  Category: B
+  Stage: III
+  Name: Terrace Farming
+  Gold: ''
+  Stone: '2'
+  Food: '3'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age3_terrace_farming.jpg
+  Type: building
+  key: terrace_farming
+  age: 3
+terracotta_army:
+  Category: B
+  Stage: I
+  Name: Terracotta Army
+  Impact: 'When ready: Least Stability: -4 Gold'
+  Military Strength: '1'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"0'
+  VP: ' 0'
+  Path: age1_terracotta_army.jpg
+  Type: wonder
+  key: terracotta_army
+  age: 1
+the_bible:
+  Category: B
+  Stage: I
+  Name: The Bible
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age1_the_bible.jpg
+  Type: golden_age
+  key: the_bible
+  age: 1
+the_caribbean:
+  Category: E
+  Stage: III
+  Name: The Caribbean
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '4'
+  VP: '1'
+  Deploy Cost (Military): '15'
+  '': ''
+  Note: ''
+  Path: age3_the_caribbean.jpg
+  Type: colony
+  key: the_caribbean
+  age: 3
+the_horns_of_hattin:
+  Category: A
+  Stage: II
+  Name: The Horns of Hattin
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age2_the_horns_of_hattin.jpg
+  Type: battle
+  key: the_horns_of_hattin
+  age: 2
+the_odyssey:
+  Category: B
+  Stage: I
+  Name: The Odyssey
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age1_the_odyssey.jpg
+  Type: golden_age
+  key: the_odyssey
+  age: 1
+the_oracle:
+  Category: B
+  Stage: I
+  Name: The Oracle
+  Impact: ''
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: '2'
+  Deploy Cost (No. of Stone): '"-2'
+  VP: ' -1"'
+  Path: age1_the_oracle.jpg
+  Type: wonder
+  key: the_oracle
+  age: 1
+the_pillar_of_hercules:
+  Stage: I
+  Name: The Pillar of Hercules
+  Impact: Military Strength +7 until end of round
+  VP: '0'
+  Deploy Cost (No. of Turn): '1'
+  Note: ''
+  Path: age1_the_pillar_of_hercules.jpg
+  Type: natural
+  key: the_pillar_of_hercules
+  age: 1
+the_quoran:
+  Category: B
+  Stage: I
+  Name: The Quoran
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age2_the_quoran.jpg
+  Type: golden_age
+  key: the_quoran
+  age: 2
+theatre:
+  Category: B
+  Stage: III
+  Name: Theatre
+  Gold: '2'
+  Stone: ''
+  Food: ''
+  Book: '3'
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age3_theatre.jpg
+  Type: building
+  key: theatre
+  age: 3
+thermometer:
+  Category: B
+  Stage: I
+  Name: Thermometer
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age3_thermometer.jpg
+  Type: golden_age
+  key: thermometer
+  age: 3
+thirty_years_war:
+  Category: E
+  Stage: III
+  Name: Thirty Years War
+  Gold: ''
+  Stone: ''
+  Food: '-9'
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age3_thirty_years_war.jpg
+  Type: war
+  key: thirty_years_war
+  age: 3
+three_kingdoms:
+  Category: B
+  Stage: I
+  Name: Three Kingdoms
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age2_three_kingdoms.jpg
+  Type: golden_age
+  key: three_kingdoms
+  age: 2
+tibet:
+  Category: B
+  Stage: II
+  Name: Tibet
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '3'
+  VP: '1'
+  Deploy Cost (Military): '8'
+  '': ''
+  Note: ''
+  Path: age2_tibet.jpg
+  Type: colony
+  key: tibet
+  age: 2
+titanic:
+  Category: ''
+  Stage: II II
+  Name: Titanic
+  Impact: 'When ready: All: -4 Gold or remove Advisor'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-2'
+  VP: ' 0'
+  Path: age4_titanic.jpg
+  Type: wonder
+  key: titanic
+  age: 4
+titusville:
+  Stage: II II
+  Name: Titusville
+  Impact: '"Final Scoring: Stone x 2"'
+  VP: '1'
+  Deploy Cost (No. of Turn): '2'
+  Note: ''
+  Path: age4_titusville.jpg
+  Type: natural
+  key: titusville
+  age: 4
+tokugawa:
+  Category: A
+  Stage: III
+  Name: Tokugawa
+  Impact: 'Production: +2 Stone per Building and Military from current age'
+  Military Strength: '2'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  '': ''
+  Path: age3_tokugawa.jpg
+  Type: advisor
+  key: tokugawa
+  age: 3
+tonghak_movement:
+  Stage: II II
+  No. of Architect: '0'
+  Name of Event 1: Tonghak movement
+  Impact: Sepoy Mutiny
+  Name of Event 2: ' +2 Stone"'
+  Famine (Food): '"Least Stability: Go last and -5 Gold"'
+  '': ''
+  Name: Tonghak movement
+  Path: age4_tonghak_movement.jpg
+  Type: event
+  key: tonghak_movement
+  age: 4
+trireme:
+  Category: A
+  Stage: I
+  Name: Trireme
+  Military Strength: '3'
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  VP: '"1'
+  RAID: 1"
+  Deploy Cost (Stone): '3'
+  Note: '-2'
+  Path: age1_trireme.jpg
+  Type: military
+  key: trireme
+  age: 1
+tulip_mania:
+  Stage: III
+  No. of Architect: '0'
+  Name of Event 1: Tulip Mania
+  Impact: 'Most Stability: Go first and +3 Gold'
+  Name of Event 2: Kangxi Era
+  Famine (Food): '-1'
+  '': ''
+  Name: Tulip Mania
+  Path: age3_tulip_mania.jpg
+  Type: event
+  key: tulip_mania
+  age: 3
+uluru:
+  Stage: II II
+  Name: Uluru
+  Impact: 'When discovered: 1 VP per player who has passed'
+  VP: '0'
+  Deploy Cost (No. of Turn): '4'
+  Note: ''
+  Path: age4_uluru.jpg
+  Type: natural
+  key: uluru
+  age: 4
+uncle_toms_cabin:
+  Category: B
+  Stage: I
+  Name: Uncle Tom's Cabin
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age4_uncle_toms_cabin.jpg
+  Type: golden_age
+  key: uncle_toms_cabin
+  age: 4
+university:
+  Category: B
+  Stage: II
+  Name: University
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: '2'
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age2_university.jpg
+  Type: building
+  key: university
+  age: 2
+uraniborg:
+  Category: A
+  Stage: III
+  Name: Uraniborg
+  Impact: 'Golden Age bonus: 2'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"0'
+  VP: '-3'
+  Path: age3_uraniborg.jpg
+  Type: wonder
+  key: uraniborg
+  age: 3
+urban_center:
+  Category: B
+  Stage: II II
+  Name: Urban Center
+  Gold: '3'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '3'
+  VP: '"2'
+  Deploy Cost (Stone): '2'
+  Note: 1"
+  Path: age4_urban_center.jpg
+  Type: building
+  key: urban_center
+  age: 4
+vandalic_war:
+  Category: E
+  Stage: II
+  Name: Vandalic War
+  Gold: ''
+  Stone: ''
+  Food: '-6'
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age2_vandalic_war.jpg
+  Type: war
+  key: vandalic_war
+  age: 2
+vatican:
+  Category: D
+  Stage: I
+  Name: Vatican
+  Gold: '1'
+  Stone: ''
+  Food: ''
+  Book: '3'
+  Military: ''
+  Stability: ''
+  VP: '2'
+  Deploy Cost (Stone): '-2'
+  Note: MAX 1 Deployment
+  Path: age1_vatican.jpg
+  Type: building
+  key: vatican
+  age: 1
+vaccine:
+  Category: B
+  Stage: I
+  Name: Vaccine
+  Gold: ''
+  Stone: '2'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: ''
+  Deploy Cost (Stone): ''
+  Note: ''
+  Path: age4_vaccine.jpg
+  Type: golden_age
+  key: vaccine
+  age: 4
+versailles:
+  Category: B
+  Stage: III
+  Name: Versailles
+  Impact: 'When ready: Least Stability for rest of the round'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"-4'
+  VP: '0'
+  Path: age3_versailles.jpg
+  Type: wonder
+  key: versailles
+  age: 3
+vesuvius:
+  Stage: I
+  Name: Vesuvius
+  Impact: 'End of each age: Return 1 Meeple'
+  VP: '4'
+  Deploy Cost (No. of Turn): '2'
+  Note: ''
+  Path: age1_vesuvius.jpg
+  Type: natural
+  key: vesuvius
+  age: 1
+victoria_falls:
+  Stage: II II
+  Name: Victoria Falls
+  Impact: '"When discovered: Draw 20 cards'
+  VP: ' place colonies as row 4'
+  Deploy Cost (No. of Turn): ' discard others Action'
+  Note: ' All: 4 Gold to buy card from row 4"'
+  Path: age4_victoria_falls.jpg
+  Type: natural
+  key: victoria_falls
+  age: 4
+viking_raids:
+  Category: A
+  Stage: II
+  Name: Viking Raids
+  Gold: '-4'
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age2_viking_raids.jpg
+  Type: war
+  key: viking_raids
+  age: 2
+virginia:
+  Category: E
+  Stage: III
+  Name: Virginia
+  Gold: ''
+  Stone: '5'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '1'
+  Deploy Cost (Military): '21'
+  '': ''
+  Note: ''
+  Path: age3_virginia.jpg
+  Type: colony
+  key: virginia
+  age: 3
+voortrekker:
+  Category: B
+  Stage: II II
+  Name: Voortrekker
+  Gold: ''
+  Stone: '3'
+  Food: '3'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"2'
+  Deploy Cost (Stone): '2'
+  Note: 1"
+  Path: age4_voortrekker.jpg
+  Type: building
+  key: voortrekker
+  age: 4
+war_of_cyprus:
+  Category: E
+  Stage: III
+  Name: War of Cyprus
+  Gold: ''
+  Stone: '-7'
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age3_war_of_cyprus.jpg
+  Type: war
+  key: war_of_cyprus
+  age: 3
+war_of_jenkins_ear:
+  Category: B
+  Stage: III
+  Name: War of Jenkins' Ear
+  Gold: '-6'
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age3_war_of_jenkins_ear.jpg
+  Type: war
+  key: war_of_jenkins_ear
+  age: 3
+war_of_the_roses:
+  Category: A
+  Stage: II
+  Name: War of the Roses
+  Gold: '-7'
+  Stone: ''
+  Food: ''
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age2_war_of_the_roses.jpg
+  Type: war
+  key: war_of_the_roses
+  age: 2
+wardenclyffe_tower:
+  Category: ''
+  Stage: II II
+  Name: Wardenclyffe Tower
+  Impact: 'When ready: Take 3 actions'
+  Military Strength: ''
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: ''
+  Deploy Cost (No. of Stone): '"0'
+  VP: ' -3"'
+  Path: age4_wardenclyffe_tower.jpg
+  Type: wonder
+  key: wardenclyffe_tower
+  age: 4
+warring_states:
+  Category: B
+  Stage: I
+  Name: Warring States
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '-3'
+  VP: ''
+  Note: ''
+  Path: age1_warring_states.jpg
+  Type: war
+  key: warring_states
+  age: 1
+wars_of_alexander:
+  Category: B
+  Stage: I
+  Name: Wars of Alexander
+  Gold: ''
+  Stone: ''
+  Food: '-2'
+  Book: ''
+  VP: ''
+  Note: ''
+  Path: age1_wars_of_alexander.jpg
+  Type: war
+  key: wars_of_alexander
+  age: 1
+watermill:
+  Category: B
+  Stage: II
+  Name: Watermill
+  Gold: ''
+  Stone: '3'
+  Food: '1'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age2_watermill.jpg
+  Type: building
+  key: watermill
+  age: 2
+weltpolitik:
+  Stage: II II
+  No. of Architect: '2'
+  Name of Event 1: Weltpolitik
+  Impact: Emigration
+  Name of Event 2: ' +5 Stone per Industrial Colony"'
+  Famine (Food): 'Least Stability: Remove 1 Meeple'
+  '': ''
+  Name: Weltpolitik
+  Path: age4_weltpolitik.jpg
+  Type: event
+  key: weltpolitik
+  age: 4
+windmill:
+  Category: B
+  Stage: II
+  Name: Windmill
+  Gold: '1'
+  Stone: ''
+  Food: '3'
+  Book: ''
+  Military: ''
+  Stability: ''
+  VP: '"1'
+  Deploy Cost (Stone): '1'
+  Note: 1"
+  Path: age2_windmill.jpg
+  Type: building
+  key: windmill
+  age: 2
+yello_turban_rebellion:
+  Stage: I
+  No. of Architect: '1'
+  Name of Event 1: Yello Turban Rebellion
+  Impact: 'Least Stability: Go last and -1 Gold'
+  Name of Event 2: Spartacus revolt
+  Famine (Food): '-2'
+  '': ''
+  Name: Yello Turban Rebellion
+  Path: age1_yello_turban_rebellion.jpg
+  Type: event
+  key: yello_turban_rebellion
+  age: 1
+zeppelin:
+  Category: B
+  Stage: II II
+  Name: Zeppelin
+  Gold: ''
+  Stone: ''
+  Food: ''
+  Book: '4'
+  Military: ''
+  Stability: '2'
+  VP: '"2'
+  Deploy Cost (Stone): '2'
+  Note: 1"
+  Path: age4_zeppelin.jpg
+  Type: building
+  key: zeppelin
+  age: 4
+zhu_xi:
+  Category: B
+  Stage: II
+  Name: Zhu Xi
+  Impact: Keep when replaced 1st time
+  Military Strength: ''
+  Gold: '1'
+  Stone: ''
+  Food: ''
+  Book: ''
+  Stability: '1'
+  '': ''
+  Path: age2_zhu_xi.jpg
+  Type: advisor
+  key: zhu_xi
+  age: 2
+ziggurat:
+  Category: B
+  Stage: I
+  Name: Ziggurat
+  Gold: ''
+  Stone: '1'
+  Food: ''
+  Book: ''
+  Military: ''
+  Stability: '2'
+  VP: '"1'
+  Deploy Cost (Stone): 1"
+  Note: '-1'
+  Path: age1_ziggurat.jpg
+  Type: building
+  key: ziggurat
+  age: 1

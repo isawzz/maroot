@@ -1,0 +1,243 @@
+randomIndices:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+settings:
+  rows: 9
+  cols: 11
+  boardMarginLeft: 0
+  boardMarginTop: 0
+  boardRotation: 0
+  dxCenter: 100
+  dyCenter: 92
+  szField: 117
+  szPerle: 83
+  szPoolPerle: 73
+  dimming: 77
+  fieldColor: "#042C283C"
+  baseColor: "#040404FF"
+  boardLayout: hex
+  freeForm: true
+  uniformRows: false
+  boardFilename: shapeShifters768.png
+  wGap: 15
+  hGap: 13
+  backgroundSize: initial
+  sizeBoardHeightToImage: true
+  fieldShape: circle
+  boardLayoutFile: null
+  wFieldArea: 768
+  hFieldArea: 768
+  bgPool: transparent
+  fgPool: "#ffffffff"
+  bgBoard: silver
+  fgBoard: black
+  fzLabel: 16
+  nFields: 95
+  wBoard: 100%
+  hBoard: 768
+  boardStandard: none
+  poolSelection: random
+  numPool: 10
+  labelPos: hover
+  naturalImageSize:
+    w: 768
+    h: 768
+  idealBg: rgb(76, 127, 206)
+state:
+  pool:
+    "0":
+      key: fear
+      index: 0
+    "1":
+      key: taoismus
+      index: 1
+    "2":
+      key: collectivism
+      index: 2
+    "3":
+      key: hinduismus
+      index: 3
+    "4":
+      key: angkor wat
+      index: 4
+    "5":
+      key: gutes will und böses schafft
+      index: 5
+    "6":
+      key: wald
+      index: 6
+    "7":
+      key: weltkrieg II
+      index: 7
+    "8":
+      key: katalysator weltsicht
+      index: 8
+    "9":
+      key: uncertainty
+      index: 9
+    "10":
+      key: wasser
+      index: 10
+    "11":
+      key: culture wars
+      index: 11
+    "12":
+      key: english
+      index: 12
+    "13":
+      key: carelessness
+      index: 13
+    "14":
+      key: european theatre
+      index: 14
+    "15":
+      key: genetic engineering
+      index: 15
+    "16":
+      key: rechts links
+      index: 16
+    "17":
+      key: mit blutigen augen in die welt schauen
+      index: 17
+    "18":
+      key: woke
+      index: 18
+    "19":
+      key: rassismus 02
+      index: 19
+  poolArr:
+    - 2
+    - 8
+    - 0
+    - 1
+    - 4
+    - 5
+    - 6
+    - 7
+    - 9
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+    - 15
+    - 16
+    - 17
+    - 18
+    - 19
+  boardArr:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - - 3
+      - -6.5
+      - 9
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null

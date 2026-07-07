@@ -1,0 +1,7922 @@
+ad:
+    cats: []
+    fa: f641
+    key: ad
+address_book:
+    cats: []
+    fa: f2b9
+    fa6: f2b9
+    key: address_book
+address_card:
+    cats: []
+    fa: f2bb
+    fa6: f2bb
+    key: address_card
+adjust:
+    cats: [action]
+    fa: f042
+    key: adjust
+air_freshener:
+    cats: []
+    fa: f5d0
+    key: air_freshener
+align_center:
+    cats: []
+    fa: f037
+    fa6: f037
+    key: align_center
+align_justify:
+    cats: []
+    fa: f039
+    fa6: f039
+    key: align_justify
+align_left:
+    cats: []
+    fa: f036
+    fa6: f036
+    key: align_left
+align_right:
+    cats: []
+    fa: f038
+    fa6: f038
+    key: align_right
+allergies:
+    cats: []
+    fa: f461
+    key: allergies
+ambulance:
+    emo: '&#128657;'
+    cats: [transport]
+    fa: f0f9
+    ga: E5D4
+    img: ../assets/img/emo/ambulance.png
+    key: ambulance
+american_sign_language_interpreting:
+    cats: []
+    fa: f2a3
+    key: american_sign_language_interpreting
+anchor:
+    emo: '&#9875;'
+    cats: []
+    fa: f13d
+    ga: E53C
+    fa6: f13d
+    img: ../assets/img/emo/anchor.png
+    key: anchor
+anchor_circle_check:
+    cats: []
+    fa6: e4aa
+    key: anchor_circle_check
+anchor_circle_exclamation:
+    cats: []
+    fa6: e4ab
+    key: anchor_circle_exclamation
+anchor_circle_xmark:
+    cats: []
+    fa6: e4ac
+    key: anchor_circle_xmark
+anchor_lock:
+    cats: []
+    fa6: e4ad
+    key: anchor_lock
+angle_double_down:
+    cats: []
+    fa: f103
+    key: angle_double_down
+angle_double_left:
+    cats: []
+    fa: f100
+    key: angle_double_left
+angle_double_right:
+    cats: []
+    fa: f101
+    key: angle_double_right
+angle_double_up:
+    cats: []
+    fa: f102
+    key: angle_double_up
+angle_down:
+    cats: []
+    fa: f107
+    fa6: f107
+    key: angle_down
+angle_left:
+    cats: []
+    fa: f104
+    fa6: f104
+    key: angle_left
+angle_right:
+    cats: []
+    fa: f105
+    fa6: f105
+    key: angle_right
+angle_up:
+    cats: []
+    fa: f106
+    fa6: f106
+    key: angle_up
+angles_down:
+    cats: []
+    fa6: f103
+    key: angles_down
+angles_left:
+    cats: []
+    fa6: f100
+    key: angles_left
+angles_right:
+    cats: []
+    fa6: f101
+    key: angles_right
+angles_up:
+    cats: []
+    fa6: f102
+    key: angles_up
+angry:
+    cats: [emotion]
+    fa: f556
+    key: angry
+ankh:
+    cats: []
+    fa: f644
+    ga: E0B4
+    fa6: f644
+    key: ankh
+apple_alt:
+    cats: [food]
+    fa: f5d1
+    key: apple_alt
+apple_whole:
+    cats: [food]
+    fa6: f5d1
+    key: apple_whole
+archive:
+    cats: []
+    fa: f187
+    key: archive
+archway:
+    cats: []
+    fa: f557
+    fa6: f557
+    key: archway
+arrow_alt_circle_down:
+    cats: []
+    fa: f358
+    key: arrow_alt_circle_down
+arrow_alt_circle_left:
+    cats: []
+    fa: f359
+    key: arrow_alt_circle_left
+arrow_alt_circle_right:
+    cats: []
+    fa: f35a
+    key: arrow_alt_circle_right
+arrow_alt_circle_up:
+    cats: []
+    fa: f35b
+    key: arrow_alt_circle_up
+arrow_circle_down:
+    cats: []
+    fa: f0ab
+    key: arrow_circle_down
+arrow_circle_left:
+    cats: []
+    fa: f0a8
+    key: arrow_circle_left
+arrow_circle_right:
+    cats: []
+    fa: f0a9
+    key: arrow_circle_right
+arrow_circle_up:
+    cats: []
+    fa: f0aa
+    key: arrow_circle_up
+arrow_down:
+    cats: []
+    fa: f063
+    fa6: f063
+    key: arrow_down
+arrow_down_1_9:
+    cats: []
+    fa6: f162
+    key: arrow_down_1_9
+arrow_down_9_1:
+    cats: []
+    fa6: f886
+    key: arrow_down_9_1
+arrow_down_a_z:
+    cats: []
+    fa6: f15d
+    key: arrow_down_a_z
+arrow_down_long:
+    cats: []
+    fa6: f175
+    key: arrow_down_long
+arrow_down_short_wide:
+    cats: []
+    fa6: f884
+    key: arrow_down_short_wide
+arrow_down_up_across_line:
+    cats: []
+    fa6: e4af
+    key: arrow_down_up_across_line
+arrow_down_up_lock:
+    cats: []
+    fa6: e4b0
+    key: arrow_down_up_lock
+arrow_down_wide_short:
+    cats: []
+    fa6: f160
+    key: arrow_down_wide_short
+arrow_down_z_a:
+    cats: []
+    fa6: f881
+    key: arrow_down_z_a
+arrow_left:
+    cats: []
+    fa: f060
+    fa6: f060
+    key: arrow_left
+arrow_left_long:
+    cats: []
+    fa6: f177
+    key: arrow_left_long
+arrow_pointer:
+    cats: []
+    fa6: f245
+    key: arrow_pointer
+arrow_right:
+    cats: []
+    fa: f061
+    fa6: f061
+    key: arrow_right
+arrow_right_arrow_left:
+    cats: []
+    fa6: f0ec
+    key: arrow_right_arrow_left
+arrow_right_from_bracket:
+    cats: []
+    fa6: f08b
+    key: arrow_right_from_bracket
+arrow_right_long:
+    cats: []
+    fa6: f178
+    key: arrow_right_long
+arrow_right_to_bracket:
+    cats: []
+    fa6: f090
+    key: arrow_right_to_bracket
+arrow_right_to_city:
+    cats: []
+    fa6: e4b3
+    key: arrow_right_to_city
+arrow_rotate_left:
+    cats: [action]
+    fa6: f0e2
+    key: arrow_rotate_left
+arrow_rotate_right:
+    cats: []
+    fa6: f01e
+    key: arrow_rotate_right
+arrow_trend_down:
+    cats: []
+    fa6: e097
+    key: arrow_trend_down
+arrow_trend_up:
+    cats: []
+    fa6: e098
+    key: arrow_trend_up
+arrow_turn_down:
+    cats: []
+    fa6: f149
+    key: arrow_turn_down
+arrow_turn_up:
+    cats: []
+    fa6: f148
+    key: arrow_turn_up
+arrow_up:
+    cats: []
+    fa: f062
+    fa6: f062
+    key: arrow_up
+arrow_up_1_9:
+    cats: []
+    fa6: f163
+    key: arrow_up_1_9
+arrow_up_9_1:
+    cats: []
+    fa6: f887
+    key: arrow_up_9_1
+arrow_up_a_z:
+    cats: []
+    fa6: f15e
+    key: arrow_up_a_z
+arrow_up_from_bracket:
+    cats: []
+    fa6: e09a
+    key: arrow_up_from_bracket
+arrow_up_from_ground_water:
+    cats: []
+    fa6: e4b5
+    key: arrow_up_from_ground_water
+arrow_up_from_water_pump:
+    cats: []
+    fa6: e4b6
+    key: arrow_up_from_water_pump
+arrow_up_long:
+    cats: []
+    fa6: f176
+    key: arrow_up_long
+arrow_up_right_dots:
+    cats: []
+    fa6: e4b7
+    key: arrow_up_right_dots
+arrow_up_right_from_square:
+    cats: []
+    fa6: f08e
+    key: arrow_up_right_from_square
+arrow_up_short_wide:
+    cats: []
+    fa6: f885
+    key: arrow_up_short_wide
+arrow_up_wide_short:
+    cats: []
+    fa6: f161
+    key: arrow_up_wide_short
+arrow_up_z_a:
+    cats: []
+    fa6: f882
+    key: arrow_up_z_a
+arrows_alt:
+    cats: []
+    fa: f0b2
+    key: arrows_alt
+arrows_alt_h:
+    cats: []
+    fa: f337
+    key: arrows_alt_h
+arrows_alt_v:
+    cats: []
+    fa: f338
+    key: arrows_alt_v
+arrows_down_to_line:
+    cats: []
+    fa6: e4b8
+    key: arrows_down_to_line
+arrows_down_to_people:
+    cats: []
+    fa6: e4b9
+    key: arrows_down_to_people
+arrows_left_right:
+    cats: []
+    fa6: f07e
+    key: arrows_left_right
+arrows_left_right_to_line:
+    cats: [clothing]
+    fa6: e4ba
+    key: arrows_left_right_to_line
+arrows_rotate:
+    cats: []
+    fa6: f021
+    key: arrows_rotate
+arrows_spin:
+    cats: []
+    fa6: e4bb
+    key: arrows_spin
+arrows_split_up_and_left:
+    cats: []
+    fa6: e4bc
+    key: arrows_split_up_and_left
+arrows_to_circle:
+    cats: []
+    fa6: e4bd
+    key: arrows_to_circle
+arrows_to_dot:
+    cats: []
+    fa6: e4be
+    key: arrows_to_dot
+arrows_to_eye:
+    cats: []
+    fa6: e4bf
+    key: arrows_to_eye
+arrows_turn_right:
+    cats: []
+    fa6: e4c0
+    key: arrows_turn_right
+arrows_turn_to_dots:
+    cats: []
+    fa6: e4c1
+    key: arrows_turn_to_dots
+arrows_up_down:
+    cats: []
+    fa6: f07d
+    key: arrows_up_down
+arrows_up_down_left_right:
+    cats: []
+    fa6: f047
+    key: arrows_up_down_left_right
+arrows_up_to_line:
+    cats: []
+    fa6: e4c2
+    key: arrows_up_to_line
+assistive_listening_systems:
+    cats: []
+    fa: f2a2
+    key: assistive_listening_systems
+asterisk:
+    cats: []
+    fa: f069
+    fa6: 2a
+    img: ../assets/img/emo/asterisk.png
+    key: asterisk
+at:
+    cats: []
+    fa: f1fa
+    fa6: '40'
+    key: at
+atlas:
+    cats: []
+    fa: f558
+    ga: E45A
+    key: atlas
+atom:
+    cats: []
+    fa: f5d2
+    ga: ED67
+    fa6: f5d2
+    key: atom
+audio_description:
+    cats: []
+    fa: f29e
+    fa6: f29e
+    key: audio_description
+austral_sign:
+    cats: []
+    fa6: e0a9
+    key: austral_sign
+award:
+    emo: '&#127894;'
+    cats: []
+    fa: f559
+    fa6: f559
+    key: award
+baby:
+    emo: '&#128118;'
+    cats: []
+    fa: f77c
+    fa6: f77c
+    img: ../assets/img/emo/baby.png
+    key: baby
+baby_carriage:
+    cats: []
+    fa: f77d
+    fa6: f77d
+    key: baby_carriage
+backspace:
+    cats: []
+    fa: f55a
+    key: backspace
+backward:
+    cats: []
+    fa: f04a
+    fa6: f04a
+    key: backward
+backward_fast:
+    cats: []
+    fa6: f049
+    key: backward_fast
+backward_step:
+    cats: []
+    fa6: f048
+    key: backward_step
+bacon:
+    emo: '&#129363;'
+    cats: [food]
+    fa: f7e5
+    ga: E9FE
+    fa6: f7e5
+    img: ../assets/img/emo/bacon.png
+    key: bacon
+bacteria:
+    cats: []
+    fa6: e059
+    key: bacteria
+bacterium:
+    cats: []
+    fa6: e05a
+    key: bacterium
+bag_shopping:
+    cats: []
+    fa6: f290
+    key: bag_shopping
+bahai:
+    cats: []
+    fa6: f666
+    key: bahai
+baht_sign:
+    cats: []
+    fa6: e0ac
+    key: baht_sign
+balance_scale:
+    emo: '&#9878;'
+    cats: []
+    fa: f24e
+    img: ../assets/img/emo/balance-scale.png
+    key: balance_scale
+balance_scale_left:
+    cats: []
+    fa: f515
+    key: balance_scale_left
+balance_scale_right:
+    cats: []
+    fa: f516
+    key: balance_scale_right
+ban:
+    cats: []
+    fa: f05e
+    fa6: f05e
+    key: ban
+ban_smoking:
+    cats: []
+    fa6: f54d
+    key: ban_smoking
+band_aid:
+    cats: []
+    fa: f462
+    key: band_aid
+bandage:
+    cats: []
+    fa6: f462
+    key: bandage
+bangladeshi_taka_sign:
+    cats: []
+    fa6: e2e6
+    key: bangladeshi_taka_sign
+barcode:
+    cats: []
+    fa: f02a
+    fa6: f02a
+    key: barcode
+bars:
+    cats: []
+    fa: f0c9
+    fa6: f0c9
+    key: bars
+bars_progress:
+    cats: []
+    fa6: f828
+    key: bars_progress
+bars_staggered:
+    cats: []
+    fa6: f550
+    key: bars_staggered
+baseball:
+    emo: '&#9918;'
+    cats: [sport]
+    fa6: f433
+    img: ../assets/img/emo/baseball.png
+    key: baseball
+baseball_ball:
+    cats: [sport]
+    fa: f433
+    key: baseball_ball
+baseball_bat_ball:
+    cats: []
+    fa6: f432
+    key: baseball_bat_ball
+basket_shopping:
+    cats: []
+    fa6: f291
+    key: basket_shopping
+basketball:
+    emo: '&#127936;'
+    cats: [sport]
+    fa6: f434
+    img: ../assets/img/emo/basketball.png
+    key: basketball
+basketball_ball:
+    cats: [sport]
+    fa: f434
+    ga: ECFA
+    key: basketball_ball
+bath:
+    cats: [action]
+    fa: f2cd
+    fa6: f2cd
+    key: bath
+battery_empty:
+    cats: []
+    fa: f244
+    fa6: f244
+    key: battery_empty
+battery_full:
+    cats: []
+    fa: f240
+    fa6: f240
+    key: battery_full
+battery_half:
+    cats: []
+    fa: f242
+    fa6: f242
+    key: battery_half
+battery_quarter:
+    cats: []
+    fa: f243
+    fa6: f243
+    key: battery_quarter
+battery_three_quarters:
+    cats: []
+    fa: f241
+    fa6: f241
+    key: battery_three_quarters
+bed:
+    emo: '&#128719;'
+    cats: []
+    fa: f236
+    ga: EC52
+    fa6: f236
+    img: ../assets/img/emo/bed.png
+    key: bed
+bed_pulse:
+    cats: []
+    fa6: f487
+    key: bed_pulse
+beer:
+    cats: []
+    fa: f0fc
+    key: beer
+beer_mug_empty:
+    cats: []
+    fa6: f0fc
+    key: beer_mug_empty
+bell:
+    emo: '&#128276;'
+    cats: []
+    fa: f0f3
+    fa6: f0f3
+    img: ../assets/img/emo/bell.png
+    key: bell
+bell_concierge:
+    cats: []
+    fa6: f562
+    key: bell_concierge
+bell_slash:
+    cats: []
+    fa: f1f6
+    fa6: f1f6
+    key: bell_slash
+bezier_curve:
+    cats: []
+    fa: f55b
+    fa6: f55b
+    key: bezier_curve
+bible:
+    cats: []
+    fa: f647
+    key: bible
+bicycle:
+    emo: '&#128690;'
+    cats: [sport, transport]
+    fa: f206
+    fa6: f206
+    img: ../assets/img/emo/bicycle.png
+    key: bicycle
+biking:
+    emo: '&#128692;'
+    cats: [action, sport]
+    fa: f84a
+    key: biking
+binoculars:
+    cats: []
+    fa: f1e5
+    ga: E45D
+    fa6: f1e5
+    key: binoculars
+biohazard:
+    emo: '&#9763;'
+    cats: []
+    fa: f780
+    ga: E0B9
+    fa6: f780
+    img: ../assets/img/emo/biohazard.png
+    key: biohazard
+birthday_cake:
+    emo: '&#127874;'
+    cats: [food]
+    fa: f1fd
+    img: ../assets/img/emo/birthday-cake.png
+    key: birthday_cake
+bitcoin_sign:
+    cats: []
+    fa6: e0b4
+    key: bitcoin_sign
+blender:
+    cats: []
+    fa: f517
+    fa6: f517
+    key: blender
+blender_phone:
+    cats: []
+    fa: f6b6
+    fa6: f6b6
+    key: blender_phone
+blind:
+    cats: []
+    fa: f29d
+    key: blind
+blog:
+    cats: []
+    fa: f781
+    fa6: f781
+    key: blog
+bold:
+    cats: []
+    fa: f032
+    fa6: f032
+    key: bold
+bolt:
+    cats: []
+    fa: f0e7
+    fa6: f0e7
+    key: bolt
+bolt_lightning:
+    cats: []
+    fa6: e0b7
+    key: bolt_lightning
+bomb:
+    emo: '&#128163;'
+    cats: [emotion]
+    fa: f1e2
+    fa6: f1e2
+    img: ../assets/img/emo/bomb.png
+    key: bomb
+bone:
+    emo: '&#129460;'
+    cats: []
+    fa: f5d7
+    fa6: f5d7
+    img: ../assets/img/emo/bone.png
+    key: bone
+bong:
+    cats: []
+    fa: f55c
+    fa6: f55c
+    key: bong
+book:
+    cats: []
+    fa: f02d
+    fa6: f02d
+    key: book
+book_atlas:
+    cats: []
+    fa6: f558
+    key: book_atlas
+book_bible:
+    cats: []
+    fa6: f647
+    key: book_bible
+book_bookmark:
+    cats: []
+    fa6: e0bb
+    key: book_bookmark
+book_dead:
+    cats: []
+    fa: f6b7
+    key: book_dead
+book_journal_whills:
+    cats: []
+    fa6: f66a
+    key: book_journal_whills
+book_medical:
+    cats: []
+    fa: f7e6
+    fa6: f7e6
+    key: book_medical
+book_open:
+    cats: []
+    fa: f518
+    fa6: f518
+    key: book_open
+book_open_reader:
+    cats: []
+    fa6: f5da
+    key: book_open_reader
+book_quran:
+    cats: []
+    fa6: f687
+    key: book_quran
+book_reader:
+    cats: []
+    fa: f5da
+    key: book_reader
+book_skull:
+    cats: []
+    fa6: f6b7
+    key: book_skull
+book_tanakh:
+    cats: []
+    fa6: f827
+    key: book_tanakh
+bookmark:
+    emo: '&#128278;'
+    cats: []
+    fa: f02e
+    ga: EBAA
+    fa6: f02e
+    img: ../assets/img/emo/bookmark.png
+    key: bookmark
+booth:
+    cats: []
+    fa: f756
+    key: booth
+border_all:
+    cats: []
+    fa: f84c
+    fa6: f84c
+    key: border_all
+border_none:
+    cats: []
+    fa: f850
+    fa6: f850
+    key: border_none
+border_style:
+    cats: []
+    fa: f853
+    key: border_style
+border_top_left:
+    cats: []
+    fa6: f853
+    key: border_top_left
+bore_hole:
+    cats: []
+    fa6: e4c3
+    key: bore_hole
+bottle_droplet:
+    cats: []
+    fa6: e4c4
+    key: bottle_droplet
+bottle_water:
+    cats: [plant]
+    fa6: e4c5
+    key: bottle_water
+bowl_food:
+    cats: []
+    fa6: e4c6
+    key: bowl_food
+bowl_rice:
+    cats: []
+    fa6: e2eb
+    key: bowl_rice
+bowling_ball:
+    cats: [sport]
+    fa: f436
+    fa6: f436
+    key: bowling_ball
+box:
+    cats: []
+    fa: f466
+    fa6: f466
+    key: box
+box_archive:
+    cats: []
+    fa6: f187
+    key: box_archive
+box_open:
+    cats: []
+    fa: f49e
+    fa6: f49e
+    key: box_open
+box_tissue:
+    cats: []
+    fa6: e05b
+    key: box_tissue
+boxes:
+    cats: []
+    fa: f468
+    key: boxes
+boxes_packing:
+    cats: []
+    fa6: e4c7
+    key: boxes_packing
+boxes_stacked:
+    cats: []
+    fa6: f468
+    key: boxes_stacked
+braille:
+    cats: []
+    fa: f2a1
+    fa6: f2a1
+    key: braille
+brain:
+    emo: '&#129504;'
+    cats: []
+    fa: f5dc
+    ga: E6C0
+    fa6: f5dc
+    img: ../assets/img/emo/brain.png
+    key: brain
+brazilian_real_sign:
+    cats: []
+    fa6: e46c
+    key: brazilian_real_sign
+bread_slice:
+    cats: [food]
+    fa: f7ec
+    ga: EBC2
+    fa6: f7ec
+    key: bread_slice
+bridge:
+    cats: []
+    ga: EB32
+    fa6: e4c8
+    key: bridge
+bridge_circle_check:
+    cats: []
+    fa6: e4c9
+    key: bridge_circle_check
+bridge_circle_exclamation:
+    cats: []
+    fa6: e4ca
+    key: bridge_circle_exclamation
+bridge_circle_xmark:
+    cats: []
+    fa6: e4cb
+    key: bridge_circle_xmark
+bridge_lock:
+    cats: []
+    fa6: e4cc
+    key: bridge_lock
+bridge_water:
+    cats: []
+    fa6: e4ce
+    key: bridge_water
+briefcase:
+    emo: '&#128188;'
+    cats: []
+    fa: f0b1
+    ga: EAD0
+    fa6: f0b1
+    img: ../assets/img/emo/briefcase.png
+    key: briefcase
+briefcase_medical:
+    cats: []
+    fa: f469
+    fa6: f469
+    key: briefcase_medical
+broadcast_tower:
+    cats: []
+    fa: f519
+    key: broadcast_tower
+broom:
+    emo: '&#129529;'
+    cats: []
+    fa: f51a
+    ga: EB59
+    fa6: f51a
+    img: ../assets/img/emo/broom.png
+    key: broom
+broom_ball:
+    cats: [sport]
+    fa6: f458
+    key: broom_ball
+brush:
+    cats: []
+    fa: f55d
+    fa6: f55d
+    key: brush
+bucket:
+    emo: '&#129699;'
+    cats: []
+    fa6: e4cf
+    img: ../assets/img/emo/bucket.png
+    key: bucket
+bug:
+    emo: '&#128027;'
+    cats: [animal]
+    fa: f188
+    fa6: f188
+    img: ../assets/img/emo/bug.png
+    key: bug
+bug_slash:
+    cats: []
+    fa6: e490
+    key: bug_slash
+bugs:
+    cats: []
+    fa6: e4d0
+    key: bugs
+building:
+    cats: []
+    fa: f1ad
+    fa6: f1ad
+    key: building
+building_circle_arrow_right:
+    cats: []
+    fa6: e4d1
+    key: building_circle_arrow_right
+building_circle_check:
+    cats: []
+    fa6: e4d2
+    key: building_circle_check
+building_circle_exclamation:
+    cats: []
+    fa6: e4d3
+    key: building_circle_exclamation
+building_circle_xmark:
+    cats: []
+    fa6: e4d4
+    key: building_circle_xmark
+building_columns:
+    cats: []
+    fa6: f19c
+    key: building_columns
+building_flag:
+    cats: []
+    fa6: e4d5
+    key: building_flag
+building_lock:
+    cats: []
+    fa6: e4d6
+    key: building_lock
+building_ngo:
+    cats: []
+    fa6: e4d7
+    key: building_ngo
+building_shield:
+    cats: []
+    fa6: e4d8
+    key: building_shield
+building_un:
+    cats: []
+    fa6: e4d9
+    key: building_un
+building_user:
+    cats: []
+    fa6: e4da
+    key: building_user
+building_wheat:
+    cats: []
+    fa6: e4db
+    key: building_wheat
+bullhorn:
+    cats: []
+    fa: f0a1
+    fa6: f0a1
+    key: bullhorn
+bullseye:
+    cats: []
+    fa: f140
+    ga: E262
+    fa6: f140
+    key: bullseye
+burger:
+    cats: [food]
+    fa6: f805
+    key: burger
+burn:
+    cats: [action]
+    fa: f46a
+    ga: E34D
+    key: burn
+burst:
+    cats: []
+    fa6: e4dc
+    key: burst
+bus:
+    emo: '&#128652;'
+    cats: [sport, transport]
+    fa: f207
+    ga: E5D7
+    fa6: f207
+    img: ../assets/img/emo/bus.png
+    key: bus
+bus_alt:
+    cats: [transport]
+    fa: f55e
+    key: bus_alt
+bus_simple:
+    cats: [transport]
+    fa6: f55e
+    key: bus_simple
+business_time:
+    cats: []
+    fa: f64a
+    fa6: f64a
+    key: business_time
+cable_car:
+    cats: [sport, transport]
+    fa6: f7da
+    key: cable_car
+cake_candles:
+    cats: [food]
+    fa6: f1fd
+    key: cake_candles
+calculator:
+    cats: []
+    fa: f1ec
+    fa6: f1ec
+    key: calculator
+calendar:
+    emo: '&#128197;'
+    cats: []
+    fa: f133
+    ga: EB81
+    fa6: f133
+    img: ../assets/img/emo/calendar.png
+    key: calendar
+calendar_alt:
+    cats: []
+    fa: f073
+    key: calendar_alt
+calendar_check:
+    cats: []
+    fa: f274
+    fa6: f274
+    key: calendar_check
+calendar_day:
+    cats: []
+    fa: f783
+    fa6: f783
+    key: calendar_day
+calendar_days:
+    cats: []
+    fa6: f073
+    key: calendar_days
+calendar_minus:
+    cats: []
+    fa: f272
+    fa6: f272
+    key: calendar_minus
+calendar_plus:
+    cats: []
+    fa: f271
+    fa6: f271
+    key: calendar_plus
+calendar_times:
+    cats: []
+    fa: f273
+    key: calendar_times
+calendar_week:
+    cats: []
+    fa: f784
+    fa6: f784
+    key: calendar_week
+calendar_xmark:
+    cats: []
+    fa6: f273
+    key: calendar_xmark
+camera:
+    emo: '&#128247;'
+    cats: []
+    fa: f030
+    fa6: f030
+    img: ../assets/img/emo/camera.png
+    key: camera
+camera_retro:
+    cats: []
+    fa: f083
+    fa6: f083
+    key: camera_retro
+camera_rotate:
+    cats: []
+    fa6: e0d8
+    key: camera_rotate
+campground:
+    cats: []
+    fa: f6bb
+    fa6: f6bb
+    key: campground
+candy_cane:
+    cats: [food]
+    fa: f786
+    fa6: f786
+    key: candy_cane
+cannabis:
+    cats: [plant]
+    fa: f55f
+    fa6: f55f
+    key: cannabis
+capsules:
+    cats: []
+    fa: f46b
+    fa6: f46b
+    key: capsules
+car:
+    cats: [transport]
+    fa: f1b9
+    fa6: f1b9
+    key: car
+car_alt:
+    cats: [transport]
+    fa: f5de
+    key: car_alt
+car_battery:
+    cats: []
+    fa: f5df
+    ga: EDEB
+    fa6: f5df
+    key: car_battery
+car_burst:
+    cats: []
+    fa6: f5e1
+    key: car_burst
+car_crash:
+    cats: []
+    fa: f5e1
+    key: car_crash
+car_on:
+    cats: []
+    fa6: e4dd
+    key: car_on
+car_rear:
+    cats: [transport]
+    fa6: f5de
+    key: car_rear
+car_side:
+    cats: []
+    fa: f5e4
+    fa6: f5e4
+    key: car_side
+car_tunnel:
+    cats: []
+    fa6: e4de
+    key: car_tunnel
+caravan:
+    cats: [transport]
+    ga: E5DC
+    fa6: f8ff
+    key: caravan
+caret_down:
+    cats: []
+    fa: f0d7
+    fa6: f0d7
+    key: caret_down
+caret_left:
+    cats: []
+    fa: f0d9
+    fa6: f0d9
+    key: caret_left
+caret_right:
+    cats: []
+    fa: f0da
+    fa6: f0da
+    key: caret_right
+caret_square_down:
+    cats: []
+    fa: f150
+    key: caret_square_down
+caret_square_left:
+    cats: []
+    fa: f191
+    key: caret_square_left
+caret_square_right:
+    cats: []
+    fa: f152
+    key: caret_square_right
+caret_square_up:
+    cats: []
+    fa: f151
+    key: caret_square_up
+caret_up:
+    cats: []
+    fa: f0d8
+    fa6: f0d8
+    key: caret_up
+carrot:
+    emo: '&#129365;'
+    cats: [food, plant]
+    fa: f787
+    ga: EA9A
+    fa6: f787
+    img: ../assets/img/emo/carrot.png
+    key: carrot
+cart_arrow_down:
+    cats: []
+    fa: f218
+    fa6: f218
+    key: cart_arrow_down
+cart_flatbed:
+    cats: []
+    fa6: f474
+    key: cart_flatbed
+cart_flatbed_suitcase:
+    cats: []
+    fa6: f59d
+    key: cart_flatbed_suitcase
+cart_plus:
+    cats: []
+    fa: f217
+    fa6: f217
+    key: cart_plus
+cart_shopping:
+    cats: []
+    fa6: f07a
+    key: cart_shopping
+cash_register:
+    cats: []
+    fa: f788
+    fa6: f788
+    key: cash_register
+cat:
+    emo: '&#128008;'
+    cats: [animal]
+    fa: f6be
+    ga: E3A4
+    fa6: f6be
+    img: ../assets/img/emo/cat.png
+    photo: ../assets/img/tierspiel/minou.png
+    key: cat
+cedi_sign:
+    cats: []
+    fa6: e0df
+    key: cedi_sign
+cent_sign:
+    cats: []
+    fa6: e3f5
+    key: cent_sign
+certificate:
+    cats: []
+    fa: f0a3
+    fa6: f0a3
+    key: certificate
+chair:
+    emo: '&#129681;'
+    cats: []
+    fa: f6c0
+    fa6: f6c0
+    img: ../assets/img/emo/chair.png
+    key: chair
+chalkboard:
+    cats: []
+    fa: f51b
+    fa6: f51b
+    key: chalkboard
+chalkboard_teacher:
+    cats: []
+    fa: f51c
+    key: chalkboard_teacher
+chalkboard_user:
+    cats: []
+    fa6: f51c
+    key: chalkboard_user
+champagne_glasses:
+    cats: []
+    fa6: f79f
+    key: champagne_glasses
+charging_station:
+    cats: []
+    fa: f5e7
+    fa6: f5e7
+    key: charging_station
+chart_area:
+    cats: []
+    fa: f1fe
+    fa6: f1fe
+    key: chart_area
+chart_bar:
+    cats: []
+    fa: f080
+    fa6: f080
+    key: chart_bar
+chart_column:
+    cats: []
+    fa6: e0e3
+    key: chart_column
+chart_gantt:
+    cats: []
+    fa6: e0e4
+    key: chart_gantt
+chart_line:
+    cats: []
+    fa: f201
+    fa6: f201
+    key: chart_line
+chart_pie:
+    cats: []
+    fa: f200
+    fa6: f200
+    key: chart_pie
+chart_simple:
+    cats: []
+    fa6: e473
+    key: chart_simple
+check:
+    cats: []
+    fa: f00c
+    fa6: f00c
+    key: check
+check_circle:
+    cats: []
+    fa: f058
+    key: check_circle
+check_double:
+    cats: []
+    fa: f560
+    fa6: f560
+    key: check_double
+check_square:
+    cats: []
+    fa: f14a
+    key: check_square
+check_to_slot:
+    cats: []
+    fa6: f772
+    key: check_to_slot
+cheese:
+    cats: [food]
+    fa: f7ef
+    fa6: f7ef
+    key: cheese
+chess:
+    cats: []
+    fa: f439
+    fa6: f439
+    key: chess
+chess_bishop:
+    cats: []
+    fa: f43a
+    ga: E175
+    fa6: f43a
+    key: chess_bishop
+chess_board:
+    cats: []
+    fa: f43c
+    fa6: f43c
+    key: chess_board
+chess_king:
+    cats: []
+    fa: f43f
+    ga: E176
+    fa6: f43f
+    key: chess_king
+chess_knight:
+    cats: []
+    fa: f441
+    ga: E177
+    fa6: f441
+    key: chess_knight
+chess_pawn:
+    emo: '&#9823;'
+    cats: [action, sport]
+    fa: f443
+    ga: E178
+    fa6: f443
+    img: ../assets/img/emo/chess-pawn.png
+    key: chess_pawn
+chess_queen:
+    cats: []
+    fa: f445
+    ga: E179
+    fa6: f445
+    key: chess_queen
+chess_rook:
+    cats: []
+    fa: f447
+    ga: E17A
+    fa6: f447
+    key: chess_rook
+chevron_circle_down:
+    cats: []
+    fa: f13a
+    key: chevron_circle_down
+chevron_circle_left:
+    cats: []
+    fa: f137
+    key: chevron_circle_left
+chevron_circle_right:
+    cats: []
+    fa: f138
+    key: chevron_circle_right
+chevron_circle_up:
+    cats: []
+    fa: f139
+    key: chevron_circle_up
+chevron_down:
+    cats: []
+    fa: f078
+    fa6: f078
+    key: chevron_down
+chevron_left:
+    cats: []
+    fa: f053
+    fa6: f053
+    key: chevron_left
+chevron_right:
+    cats: []
+    fa: f054
+    fa6: f054
+    key: chevron_right
+chevron_up:
+    cats: []
+    fa: f077
+    fa6: f077
+    key: chevron_up
+child:
+    emo: '&#129490;'
+    cats: []
+    fa: f1ae
+    fa6: f1ae
+    img: ../assets/img/emo/child.png
+    key: child
+child_combatant:
+    cats: []
+    fa6: e4e0
+    key: child_combatant
+child_dress:
+    cats: []
+    fa6: e59c
+    key: child_dress
+child_reaching:
+    cats: []
+    fa6: e59d
+    key: child_reaching
+children:
+    cats: []
+    fa6: e4e1
+    key: children
+church:
+    emo: '&#9962;'
+    cats: [building]
+    fa: f51d
+    ga: E7B1
+    fa6: f51d
+    img: ../assets/img/emo/church.png
+    key: church
+circle:
+    uni: '&#x25cb;'
+    cats: []
+    fa: f111
+    ga: EB83
+    fa6: f111
+    key: circle
+circle_arrow_down:
+    cats: []
+    fa6: f0ab
+    key: circle_arrow_down
+circle_arrow_left:
+    cats: []
+    fa6: f0a8
+    key: circle_arrow_left
+circle_arrow_right:
+    cats: []
+    fa6: f0a9
+    key: circle_arrow_right
+circle_arrow_up:
+    cats: []
+    fa6: f0aa
+    key: circle_arrow_up
+circle_check:
+    cats: []
+    fa6: f058
+    key: circle_check
+circle_chevron_down:
+    cats: []
+    fa6: f13a
+    key: circle_chevron_down
+circle_chevron_left:
+    cats: []
+    fa6: f137
+    key: circle_chevron_left
+circle_chevron_right:
+    cats: []
+    fa6: f138
+    key: circle_chevron_right
+circle_chevron_up:
+    cats: []
+    fa6: f139
+    key: circle_chevron_up
+circle_dollar_to_slot:
+    cats: [action]
+    fa6: f4b9
+    key: circle_dollar_to_slot
+circle_dot:
+    cats: []
+    fa6: f192
+    key: circle_dot
+circle_down:
+    cats: []
+    fa6: f358
+    key: circle_down
+circle_exclamation:
+    cats: []
+    fa6: f06a
+    key: circle_exclamation
+circle_h:
+    cats: []
+    fa6: f47e
+    key: circle_h
+circle_half_stroke:
+    cats: [action]
+    fa6: f042
+    key: circle_half_stroke
+circle_info:
+    cats: []
+    fa6: f05a
+    key: circle_info
+circle_left:
+    cats: []
+    fa6: f359
+    key: circle_left
+circle_minus:
+    cats: []
+    fa6: f056
+    key: circle_minus
+circle_nodes:
+    cats: []
+    fa6: e4e2
+    key: circle_nodes
+circle_notch:
+    cats: []
+    fa: f1ce
+    fa6: f1ce
+    key: circle_notch
+circle_pause:
+    cats: []
+    fa6: f28b
+    key: circle_pause
+circle_play:
+    cats: []
+    fa6: f144
+    key: circle_play
+circle_plus:
+    cats: []
+    fa6: f055
+    key: circle_plus
+circle_question:
+    cats: []
+    fa6: f059
+    key: circle_question
+circle_radiation:
+    cats: []
+    fa6: f7ba
+    key: circle_radiation
+circle_right:
+    cats: []
+    fa6: f35a
+    key: circle_right
+circle_stop:
+    cats: []
+    fa6: f28d
+    key: circle_stop
+circle_up:
+    cats: []
+    fa6: f35b
+    key: circle_up
+circle_user:
+    cats: []
+    fa6: f2bd
+    key: circle_user
+circle_xmark:
+    cats: []
+    fa6: f057
+    key: circle_xmark
+city:
+    cats: []
+    fa: f64f
+    fa6: f64f
+    key: city
+clapperboard:
+    cats: []
+    ga: EB84
+    fa6: e131
+    key: clapperboard
+clinic_medical:
+    cats: []
+    fa: f7f2
+    key: clinic_medical
+clipboard:
+    emo: '&#128203;'
+    cats: []
+    fa: f328
+    fa6: f328
+    img: ../assets/img/emo/clipboard.png
+    key: clipboard
+clipboard_check:
+    cats: []
+    fa: f46c
+    fa6: f46c
+    key: clipboard_check
+clipboard_list:
+    cats: []
+    fa: f46d
+    fa6: f46d
+    key: clipboard_list
+clipboard_question:
+    cats: []
+    fa6: e4e3
+    key: clipboard_question
+clipboard_user:
+    cats: []
+    fa6: f7f3
+    key: clipboard_user
+clock:
+    cats: []
+    fa: f017
+    fa6: f017
+    key: clock
+clock_rotate_left:
+    cats: [action]
+    fa6: f1da
+    key: clock_rotate_left
+clone:
+    cats: []
+    fa: f24d
+    fa6: f24d
+    key: clone
+closed_captioning:
+    cats: []
+    fa: f20a
+    fa6: f20a
+    key: closed_captioning
+cloud:
+    friendly: cloud
+    img: ../assets/img/emo/cloud.png
+    fa: f0c2
+    emo: '&#9729;'
+    cats: []
+    fa6: f0c2
+    uni: '&#x2601;'
+    key: cloud
+cloud_arrow_down:
+    cats: []
+    fa6: f0ed
+    key: cloud_arrow_down
+cloud_arrow_up:
+    cats: []
+    fa6: f0ee
+    key: cloud_arrow_up
+cloud_bolt:
+    cats: []
+    fa6: f76c
+    key: cloud_bolt
+cloud_download_alt:
+    cats: []
+    fa: f381
+    key: cloud_download_alt
+cloud_meatball:
+    cats: []
+    fa: f73b
+    fa6: f73b
+    key: cloud_meatball
+cloud_moon:
+    cats: []
+    fa: f6c3
+    fa6: f6c3
+    key: cloud_moon
+cloud_moon_rain:
+    cats: []
+    fa: f73c
+    fa6: f73c
+    key: cloud_moon_rain
+cloud_rain:
+    cats: []
+    fa: f73d
+    fa6: f73d
+    key: cloud_rain
+cloud_showers_heavy:
+    cats: []
+    fa: f740
+    fa6: f740
+    key: cloud_showers_heavy
+cloud_showers_water:
+    cats: []
+    fa6: e4e4
+    key: cloud_showers_water
+cloud_sun:
+    cats: []
+    fa: f6c4
+    fa6: f6c4
+    key: cloud_sun
+cloud_sun_rain:
+    cats: []
+    fa: f743
+    fa6: f743
+    key: cloud_sun_rain
+cloud_upload_alt:
+    cats: []
+    fa: f382
+    key: cloud_upload_alt
+clover:
+    cats: [plant]
+    ga: E0BC
+    fa6: e139
+    key: clover
+cocktail:
+    cats: []
+    fa: f561
+    key: cocktail
+code:
+    cats: []
+    fa: f121
+    fa6: f121
+    key: code
+code_branch:
+    cats: []
+    fa: f126
+    fa6: f126
+    key: code_branch
+code_commit:
+    cats: []
+    fa6: f386
+    key: code_commit
+code_compare:
+    cats: []
+    fa6: e13a
+    key: code_compare
+code_fork:
+    cats: []
+    fa6: e13b
+    key: code_fork
+code_merge:
+    cats: []
+    fa6: f387
+    key: code_merge
+code_pull_request:
+    cats: []
+    fa6: e13c
+    key: code_pull_request
+coffee:
+    cats: []
+    fa: f0f4
+    key: coffee
+cog:
+    cats: []
+    fa: f013
+    ga: E752
+    key: cog
+cogs:
+    cats: []
+    fa: f085
+    key: cogs
+coins:
+    cats: []
+    fa: f51e
+    ga: E14F
+    fa6: f51e
+    key: coins
+colon_sign:
+    cats: []
+    fa6: e140
+    key: colon_sign
+columns:
+    cats: []
+    fa: f0db
+    key: columns
+comment:
+    cats: []
+    fa: f075
+    fa6: f075
+    key: comment
+comment_alt:
+    cats: []
+    fa: f27a
+    key: comment_alt
+comment_dollar:
+    cats: []
+    fa: f651
+    fa6: f651
+    key: comment_dollar
+comment_dots:
+    cats: []
+    fa: f4ad
+    fa6: f4ad
+    key: comment_dots
+comment_medical:
+    cats: []
+    fa: f7f5
+    fa6: f7f5
+    key: comment_medical
+comment_slash:
+    cats: []
+    fa: f4b3
+    fa6: f4b3
+    key: comment_slash
+comment_sms:
+    cats: []
+    fa6: f7cd
+    key: comment_sms
+comments:
+    cats: []
+    fa: f086
+    fa6: f086
+    key: comments
+comments_dollar:
+    cats: []
+    fa: f653
+    fa6: f653
+    key: comments_dollar
+compact_disc:
+    cats: []
+    fa: f51f
+    ga: E579
+    fa6: f51f
+    key: compact_disc
+compass:
+    emo: '&#129517;'
+    cats: []
+    fa: f14e
+    ga: E487
+    fa6: f14e
+    img: ../assets/img/emo/compass.png
+    key: compass
+compass_drafting:
+    cats: []
+    fa6: f568
+    key: compass_drafting
+compress:
+    cats: [action]
+    fa: f066
+    fa6: f066
+    key: compress
+compress_arrows_alt:
+    cats: [action]
+    fa: f78c
+    key: compress_arrows_alt
+computer:
+    cats: []
+    fa6: e4e5
+    key: computer
+computer_mouse:
+    emo: '&#128433;'
+    cats: []
+    fa6: f8cc
+    img: ../assets/img/emo/computer-mouse.png
+    key: computer_mouse
+concierge_bell:
+    cats: []
+    fa: f562
+    key: concierge_bell
+cookie:
+    emo: '&#127850;'
+    cats: [food]
+    fa: f563
+    ga: EBC7
+    fa6: f563
+    img: ../assets/img/emo/cookie.png
+    key: cookie
+cookie_bite:
+    cats: [food]
+    fa: f564
+    fa6: f564
+    key: cookie_bite
+copy:
+    cats: [action]
+    fa: f0c5
+    fa6: f0c5
+    key: copy
+copyright:
+    friendly: copyright
+    img: ../assets/img/emo/copyright.png
+    fa: f1f9
+    emo: '&#169;'
+    cats: []
+    fa6: f1f9
+    uni: '&#xa9;'
+    key: copyright
+couch:
+    cats: []
+    fa: f4b8
+    fa6: f4b8
+    key: couch
+cow:
+    emo: '&#128004;'
+    cats: [animal]
+    ga: E364
+    fa6: f6c8
+    img: ../assets/img/emo/cow.png
+    key: cow
+credit_card:
+    emo: '&#128179;'
+    cats: []
+    fa: f09d
+    fa6: f09d
+    img: ../assets/img/emo/credit-card.png
+    key: credit_card
+crop:
+    cats: [plant]
+    fa: f125
+    fa6: f125
+    key: crop
+crop_alt:
+    cats: [plant]
+    fa: f565
+    key: crop_alt
+crop_simple:
+    cats: [plant]
+    fa6: f565
+    key: crop_simple
+cross:
+    uni: '&#x271d;'
+    cats: []
+    fa: f654
+    fa6: f654
+    key: cross
+crosshairs:
+    cats: []
+    fa: f05b
+    fa6: f05b
+    key: crosshairs
+crow:
+    cats: [animal]
+    fa: f520
+    fa6: f520
+    img: ../assets/img/tierspiel/crow.png
+    key: crow
+crown:
+    friendly: crown
+    img: ../assets/img/emo/person-with-crown.png
+    cats: []
+    emo: '&#128081;'
+    fa6: f521
+    uni: '&#x2655;'
+    key: crown
+crutch:
+    cats: []
+    fa: f7f7
+    fa6: f7f7
+    img: ../assets/img/emo/crutch.png
+    key: crutch
+cruzeiro_sign:
+    cats: []
+    fa6: e152
+    key: cruzeiro_sign
+cube:
+    cats: []
+    fa: f1b2
+    ga: EB86
+    fa6: f1b2
+    key: cube
+cubes:
+    cats: []
+    fa: f1b3
+    ga: E0C2
+    fa6: f1b3
+    key: cubes
+cubes_stacked:
+    cats: []
+    fa6: e4e6
+    key: cubes_stacked
+cursor:
+    cats: []
+    fa: f246
+    key: cursor
+cut:
+    cats: [action]
+    fa: f0c4
+    key: cut
+database:
+    cats: []
+    fa: f1c0
+    ga: E992
+    fa6: f1c0
+    key: database
+deaf:
+    cats: []
+    fa: f2a4
+    key: deaf
+delete_left:
+    cats: []
+    fa6: f55a
+    key: delete_left
+democrat:
+    cats: []
+    fa: f747
+    fa6: f747
+    key: democrat
+desktop:
+    cats: []
+    fa: f108
+    fa6: f390
+    key: desktop
+dharmachakra:
+    cats: []
+    fa: f655
+    fa6: f655
+    key: dharmachakra
+diagnoses:
+    cats: []
+    fa: f470
+    key: diagnoses
+diagram_next:
+    cats: []
+    fa6: e476
+    key: diagram_next
+diagram_predecessor:
+    cats: []
+    fa6: e477
+    key: diagram_predecessor
+diagram_project:
+    cats: []
+    fa6: f542
+    key: diagram_project
+diagram_successor:
+    cats: []
+    fa6: e47a
+    key: diagram_successor
+diamond:
+    cats: []
+    fa6: f219
+    key: diamond
+diamond_turn_right:
+    cats: []
+    fa6: f5eb
+    key: diamond_turn_right
+dice:
+    cats: []
+    fa: f522
+    fa6: f522
+    key: dice
+dice_d20:
+    cats: []
+    fa: f6cf
+    fa6: f6cf
+    key: dice_d20
+dice_d6:
+    cats: []
+    fa: f6d1
+    fa6: f6d1
+    key: dice_d6
+dice_five:
+    cats: []
+    fa: f523
+    fa6: f523
+    key: dice_five
+dice_four:
+    cats: []
+    fa: f524
+    fa6: f524
+    key: dice_four
+dice_one:
+    cats: []
+    fa: f525
+    fa6: f525
+    key: dice_one
+dice_six:
+    cats: []
+    fa: f526
+    fa6: f526
+    key: dice_six
+dice_three:
+    cats: []
+    fa: f527
+    fa6: f527
+    key: dice_three
+dice_two:
+    cats: []
+    fa: f528
+    fa6: f528
+    key: dice_two
+digital_tachograph:
+    cats: []
+    fa: f566
+    key: digital_tachograph
+directions:
+    cats: []
+    fa: f5eb
+    key: directions
+disease:
+    cats: []
+    fa6: f7fa
+    key: disease
+display:
+    cats: []
+    fa6: e163
+    key: display
+divide:
+    emo: '&#10135;'
+    cats: [action]
+    fa: f529
+    fa6: f529
+    key: divide
+dizzy:
+    emo: '&#128171;'
+    cats: [emotion]
+    fa: f567
+    img: ../assets/img/emo/dizzy.png
+    key: dizzy
+dna:
+    emo: '&#129516;'
+    cats: []
+    fa: f471
+    fa6: f471
+    img: ../assets/img/emo/dna.png
+    key: dna
+dog:
+    emo: '&#128021;'
+    cats: [animal]
+    fa: f6d3
+    fa6: f6d3
+    img: ../assets/img/emo/dog.png
+    key: dog
+dollar_sign:
+    cats: []
+    fa: f155
+    fa6: '24'
+    key: dollar_sign
+dolly:
+    cats: []
+    fa: f472
+    fa6: f472
+    key: dolly
+dolly_flatbed:
+    cats: []
+    fa: f474
+    key: dolly_flatbed
+donate:
+    cats: [action]
+    fa: f4b9
+    key: donate
+dong_sign:
+    cats: []
+    fa6: e169
+    key: dong_sign
+door_closed:
+    cats: []
+    fa: f52a
+    fa6: f52a
+    key: door_closed
+door_open:
+    cats: []
+    fa: f52b
+    fa6: f52b
+    key: door_open
+dot_circle:
+    cats: []
+    fa: f192
+    key: dot_circle
+dove:
+    emo: '&#128330;'
+    cats: [animal]
+    fa: f4ba
+    ga: E67B
+    fa6: f4ba
+    img: ../assets/img/emo/dove.png
+    key: dove
+down_left_and_up_right_to_center:
+    cats: []
+    fa6: f422
+    key: down_left_and_up_right_to_center
+down_long:
+    cats: []
+    fa6: f309
+    key: down_long
+download:
+    cats: [action]
+    fa: f019
+    fa6: f019
+    key: download
+drafting_compass:
+    cats: []
+    fa: f568
+    key: drafting_compass
+dragon:
+    emo: '&#128009;'
+    cats: [animal]
+    fa: f6d5
+    fa6: f6d5
+    img: ../assets/img/emo/dragon.png
+    key: dragon
+draw_polygon:
+    cats: [action]
+    fa: f5ee
+    fa6: f5ee
+    key: draw_polygon
+droplet:
+    emo: '&#128167;'
+    cats: []
+    fa6: f043
+    img: ../assets/img/emo/droplet.png
+    key: droplet
+droplet_slash:
+    cats: []
+    fa6: f5c7
+    key: droplet_slash
+drum:
+    emo: '&#129345;'
+    cats: []
+    fa: f569
+    ga: E57A
+    fa6: f569
+    img: ../assets/img/emo/drum.png
+    key: drum
+drum_steelpan:
+    cats: []
+    fa: f56a
+    fa6: f56a
+    key: drum_steelpan
+drumstick_bite:
+    cats: [food]
+    fa: f6d7
+    fa6: f6d7
+    key: drumstick_bite
+dumbbell:
+    cats: []
+    fa: f44b
+    fa6: f44b
+    key: dumbbell
+dumpster:
+    cats: []
+    fa: f793
+    fa6: f793
+    key: dumpster
+dumpster_fire:
+    cats: []
+    fa: f794
+    fa6: f794
+    key: dumpster_fire
+dungeon:
+    cats: []
+    fa: f6d9
+    fa6: f6d9
+    key: dungeon
+ear_deaf:
+    cats: []
+    fa6: f2a4
+    key: ear_deaf
+ear_listen:
+    cats: []
+    fa6: f2a2
+    key: ear_listen
+earth_africa:
+    cats: []
+    fa6: f57c
+    key: earth_africa
+earth_americas:
+    cats: []
+    fa6: f57d
+    key: earth_americas
+earth_asia:
+    cats: []
+    fa6: f57e
+    key: earth_asia
+earth_europe:
+    cats: []
+    fa6: f7a2
+    key: earth_europe
+earth_oceania:
+    cats: []
+    fa6: e47b
+    key: earth_oceania
+edit:
+    cats: [action]
+    fa: f044
+    key: edit
+egg:
+    emo: '&#129370;'
+    cats: [food]
+    fa: f7fb
+    fa6: f7fb
+    img: ../assets/img/emo/egg.png
+    key: egg
+eject:
+    cats: [action]
+    fa: f052
+    fa6: f052
+    key: eject
+elevator:
+    emo: '&#128727;'
+    cats: []
+    ga: E7BA
+    fa6: e16d
+    img: ../assets/img/emo/elevator.png
+    key: elevator
+ellipsis:
+    cats: []
+    fa6: f141
+    key: ellipsis
+ellipsis_h:
+    cats: []
+    fa: f141
+    key: ellipsis_h
+ellipsis_v:
+    cats: []
+    fa: f142
+    key: ellipsis_v
+ellipsis_vertical:
+    cats: []
+    fa6: f142
+    key: ellipsis_vertical
+envelope:
+    friendly: envelope
+    img: ../assets/img/emo/envelope.png
+    ga: EBAB
+    fa: f0e0
+    emo: '&#9993;'
+    cats: []
+    fa6: f0e0
+    uni: '&#x2709;'
+    key: envelope
+envelope_circle_check:
+    cats: []
+    fa6: e4e8
+    key: envelope_circle_check
+envelope_open:
+    cats: []
+    fa: f2b6
+    fa6: f2b6
+    key: envelope_open
+envelope_open_text:
+    cats: []
+    fa: f658
+    fa6: f658
+    key: envelope_open_text
+envelope_square:
+    cats: []
+    fa: f199
+    key: envelope_square
+envelopes_bulk:
+    cats: []
+    fa6: f674
+    key: envelopes_bulk
+equals:
+    cats: []
+    fa: f52c
+    fa6: 3d
+    key: equals
+eraser:
+    cats: []
+    fa: f12d
+    fa6: f12d
+    key: eraser
+ethernet:
+    cats: []
+    fa: f796
+    fa6: f796
+    key: ethernet
+euro_sign:
+    cats: []
+    fa: f153
+    fa6: f153
+    key: euro_sign
+exchange_alt:
+    cats: []
+    fa: f362
+    key: exchange_alt
+exclamation:
+    cats: []
+    fa: f12a
+    fa6: '21'
+    key: exclamation
+exclamation_circle:
+    cats: []
+    fa: f06a
+    key: exclamation_circle
+exclamation_triangle:
+    cats: []
+    fa: f071
+    key: exclamation_triangle
+expand:
+    cats: [action]
+    fa: f065
+    ga: E1FF
+    fa6: f065
+    key: expand
+expand_arrows_alt:
+    cats: []
+    fa: f31e
+    key: expand_arrows_alt
+explosion:
+    cats: []
+    fa6: e4e9
+    key: explosion
+external_link_alt:
+    cats: []
+    fa: f35d
+    key: external_link_alt
+external_link_square_alt:
+    cats: []
+    fa: f360
+    key: external_link_square_alt
+eye:
+    emo: '&#128065;'
+    cats: [action]
+    fa: f06e
+    fa6: f06e
+    img: ../assets/img/emo/eye.png
+    key: eye
+eye_dropper:
+    cats: []
+    fa: f1fb
+    fa6: f1fb
+    key: eye_dropper
+eye_low_vision:
+    cats: []
+    fa6: f2a8
+    key: eye_low_vision
+eye_slash:
+    cats: []
+    fa: f070
+    fa6: f070
+    key: eye_slash
+face_angry:
+    cats: [emotion]
+    fa6: f556
+    key: face_angry
+face_dizzy:
+    cats: [emotion]
+    fa6: f567
+    key: face_dizzy
+face_flushed:
+    cats: [emotion]
+    fa6: f579
+    key: face_flushed
+face_frown:
+    cats: [emotion]
+    fa6: f119
+    key: face_frown
+face_frown_open:
+    cats: [emotion]
+    fa6: f57a
+    key: face_frown_open
+face_grimace:
+    cats: []
+    fa6: f57f
+    key: face_grimace
+face_grin:
+    cats: []
+    fa6: f580
+    key: face_grin
+face_grin_beam:
+    cats: []
+    fa6: f582
+    key: face_grin_beam
+face_grin_beam_sweat:
+    cats: []
+    fa6: f583
+    key: face_grin_beam_sweat
+face_grin_hearts:
+    cats: []
+    fa6: f584
+    key: face_grin_hearts
+face_grin_squint:
+    cats: []
+    fa6: f585
+    key: face_grin_squint
+face_grin_squint_tears:
+    cats: []
+    fa6: f586
+    key: face_grin_squint_tears
+face_grin_stars:
+    cats: []
+    fa6: f587
+    key: face_grin_stars
+face_grin_tears:
+    cats: []
+    fa6: f588
+    key: face_grin_tears
+face_grin_tongue:
+    cats: []
+    fa6: f589
+    key: face_grin_tongue
+face_grin_tongue_squint:
+    cats: []
+    fa6: f58a
+    key: face_grin_tongue_squint
+face_grin_tongue_wink:
+    cats: []
+    fa6: f58b
+    key: face_grin_tongue_wink
+face_grin_wide:
+    cats: []
+    fa6: f581
+    key: face_grin_wide
+face_grin_wink:
+    cats: []
+    fa6: f58c
+    key: face_grin_wink
+face_kiss:
+    cats: [gesture]
+    fa6: f596
+    key: face_kiss
+face_kiss_beam:
+    cats: []
+    fa6: f597
+    key: face_kiss_beam
+face_kiss_wink_heart:
+    cats: []
+    fa6: f598
+    key: face_kiss_wink_heart
+face_laugh:
+    cats: []
+    fa6: f599
+    key: face_laugh
+face_laugh_beam:
+    cats: []
+    fa6: f59a
+    key: face_laugh_beam
+face_laugh_squint:
+    cats: []
+    fa6: f59b
+    key: face_laugh_squint
+face_laugh_wink:
+    cats: []
+    fa6: f59c
+    key: face_laugh_wink
+face_meh:
+    cats: []
+    fa6: f11a
+    key: face_meh
+face_meh_blank:
+    cats: []
+    fa6: f5a4
+    key: face_meh_blank
+face_rolling_eyes:
+    cats: []
+    fa6: f5a5
+    key: face_rolling_eyes
+face_sad_cry:
+    cats: []
+    fa6: f5b3
+    key: face_sad_cry
+face_sad_tear:
+    cats: []
+    fa6: f5b4
+    key: face_sad_tear
+face_smile:
+    cats: [emotion]
+    fa6: f118
+    key: face_smile
+face_smile_beam:
+    cats: [emotion]
+    fa6: f5b8
+    key: face_smile_beam
+face_smile_wink:
+    cats: [emotion]
+    fa6: f4da
+    key: face_smile_wink
+face_surprise:
+    cats: [emotion]
+    fa6: f5c2
+    key: face_surprise
+face_tired:
+    cats: [emotion]
+    fa6: f5c8
+    key: face_tired
+fan:
+    cats: []
+    fa: f863
+    fa6: f863
+    key: fan
+fast_backward:
+    cats: []
+    fa: f049
+    key: fast_backward
+fast_forward:
+    cats: []
+    fa: f050
+    key: fast_forward
+faucet:
+    cats: []
+    fa6: e005
+    key: faucet
+faucet_drip:
+    cats: []
+    fa6: e006
+    key: faucet_drip
+fax:
+    cats: []
+    fa: f1ac
+    fa6: f1ac
+    key: fax
+feather:
+    emo: '&#129718;'
+    cats: [animal]
+    fa: f52d
+    ga: E67E
+    fa6: f52d
+    img: ../assets/img/emo/feather.png
+    key: feather
+feather_alt:
+    cats: []
+    fa: f56b
+    key: feather_alt
+feather_pointed:
+    cats: []
+    fa6: f56b
+    key: feather_pointed
+female:
+    uni: '&#x2640;'
+    cats: []
+    fa: f182
+    ga: E082
+    key: female
+ferry:
+    emo: '&#9972;'
+    cats: [sport, transport]
+    fa6: e4ea
+    img: ../assets/img/emo/ferry.png
+    key: ferry
+fighter_jet:
+    cats: []
+    fa: f0fb
+    key: fighter_jet
+file:
+    cats: []
+    fa: f15b
+    fa6: f15b
+    key: file
+file_alt:
+    cats: []
+    fa: f15c
+    key: file_alt
+file_archive:
+    cats: []
+    fa: f1c6
+    key: file_archive
+file_arrow_down:
+    cats: []
+    fa6: f56d
+    key: file_arrow_down
+file_arrow_up:
+    cats: []
+    fa6: f574
+    key: file_arrow_up
+file_audio:
+    cats: []
+    fa: f1c7
+    fa6: f1c7
+    key: file_audio
+file_circle_check:
+    cats: []
+    fa6: e5a0
+    key: file_circle_check
+file_circle_exclamation:
+    cats: []
+    fa6: e4eb
+    key: file_circle_exclamation
+file_circle_minus:
+    cats: []
+    fa6: e4ed
+    key: file_circle_minus
+file_circle_plus:
+    cats: []
+    fa6: e494
+    key: file_circle_plus
+file_circle_question:
+    cats: []
+    fa6: e4ef
+    key: file_circle_question
+file_circle_xmark:
+    cats: []
+    fa6: e5a1
+    key: file_circle_xmark
+file_code:
+    cats: []
+    fa: f1c9
+    fa6: f1c9
+    key: file_code
+file_contract:
+    cats: []
+    fa: f56c
+    fa6: f56c
+    key: file_contract
+file_csv:
+    cats: []
+    fa: f6dd
+    fa6: f6dd
+    key: file_csv
+file_download:
+    cats: []
+    fa: f56d
+    key: file_download
+file_excel:
+    cats: []
+    fa: f1c3
+    fa6: f1c3
+    key: file_excel
+file_export:
+    cats: []
+    fa: f56e
+    fa6: f56e
+    key: file_export
+file_image:
+    cats: []
+    fa: f1c5
+    fa6: f1c5
+    key: file_image
+file_import:
+    cats: []
+    fa: f56f
+    fa6: f56f
+    key: file_import
+file_invoice:
+    cats: []
+    fa: f570
+    fa6: f570
+    key: file_invoice
+file_invoice_dollar:
+    cats: []
+    fa: f571
+    fa6: f571
+    key: file_invoice_dollar
+file_lines:
+    cats: []
+    fa6: f15c
+    key: file_lines
+file_medical:
+    cats: []
+    fa: f477
+    fa6: f477
+    key: file_medical
+file_medical_alt:
+    cats: []
+    fa: f478
+    key: file_medical_alt
+file_pdf:
+    cats: []
+    fa: f1c1
+    fa6: f1c1
+    key: file_pdf
+file_pen:
+    cats: []
+    fa6: f31c
+    key: file_pen
+file_powerpoint:
+    cats: []
+    fa: f1c4
+    fa6: f1c4
+    key: file_powerpoint
+file_prescription:
+    cats: []
+    fa: f572
+    fa6: f572
+    key: file_prescription
+file_shield:
+    cats: [emotion]
+    fa6: e4f0
+    key: file_shield
+file_signature:
+    cats: []
+    fa: f573
+    fa6: f573
+    key: file_signature
+file_upload:
+    cats: []
+    fa: f574
+    key: file_upload
+file_video:
+    cats: []
+    fa: f1c8
+    fa6: f1c8
+    key: file_video
+file_waveform:
+    cats: []
+    fa6: f478
+    key: file_waveform
+file_word:
+    cats: []
+    fa: f1c2
+    fa6: f1c2
+    key: file_word
+file_zipper:
+    cats: []
+    fa6: f1c6
+    key: file_zipper
+fill:
+    cats: [action]
+    fa: f575
+    fa6: f575
+    key: fill
+fill_drip:
+    cats: [action]
+    fa: f576
+    fa6: f576
+    key: fill_drip
+film:
+    cats: []
+    fa: f008
+    fa6: f008
+    key: film
+filter:
+    cats: []
+    fa: f0b0
+    fa6: f0b0
+    key: filter
+filter_circle_dollar:
+    cats: []
+    fa6: f662
+    key: filter_circle_dollar
+filter_circle_xmark:
+    cats: []
+    fa6: e17b
+    key: filter_circle_xmark
+fingerprint:
+    cats: []
+    fa: f577
+    fa6: f577
+    key: fingerprint
+fire:
+    emo: '&#128293;'
+    cats: [action]
+    fa: f06d
+    ga: E34E
+    fa6: f06d
+    img: ../assets/img/emo/fire.png
+    key: fire
+fire_alt:
+    cats: []
+    fa: f7e4
+    key: fire_alt
+fire_burner:
+    cats: []
+    fa6: e4f1
+    key: fire_burner
+fire_extinguisher:
+    emo: '&#129519;'
+    cats: []
+    fa: f134
+    ga: E2FE
+    fa6: f134
+    img: ../assets/img/emo/fire-extinguisher.png
+    key: fire_extinguisher
+fire_flame_curved:
+    cats: []
+    fa6: f7e4
+    key: fire_flame_curved
+fire_flame_simple:
+    cats: [action]
+    fa6: f46a
+    key: fire_flame_simple
+first_aid:
+    cats: []
+    fa: f479
+    key: first_aid
+fish:
+    emo: '&#128031;'
+    cats: [animal]
+    fa: f578
+    fa6: f578
+    img: ../assets/img/emo/fish.png
+    key: fish
+fish_fins:
+    cats: []
+    fa6: e4f2
+    key: fish_fins
+fist_raised:
+    cats: []
+    fa: f6de
+    key: fist_raised
+flag:
+    cats: []
+    fa: f024
+    fa6: f024
+    key: flag
+flag_checkered:
+    cats: []
+    fa: f11e
+    fa6: f11e
+    key: flag_checkered
+flag_usa:
+    cats: []
+    fa: f74d
+    fa6: f74d
+    key: flag_usa
+flask:
+    cats: []
+    fa: f0c3
+    fa6: f0c3
+    key: flask
+flask_vial:
+    cats: []
+    fa6: e4f3
+    key: flask_vial
+floppy_disk:
+    emo: '&#128190;'
+    cats: []
+    fa6: f0c7
+    img: ../assets/img/emo/floppy-disk.png
+    key: floppy_disk
+florin_sign:
+    cats: []
+    fa6: e184
+    key: florin_sign
+flushed:
+    cats: [emotion]
+    fa: f579
+    key: flushed
+folder:
+    cats: []
+    fa: f07b
+    fa6: f07b
+    key: folder
+folder_closed:
+    cats: [clothing]
+    fa6: e185
+    key: folder_closed
+folder_minus:
+    cats: []
+    fa: f65d
+    fa6: f65d
+    key: folder_minus
+folder_open:
+    cats: []
+    fa: f07c
+    fa6: f07c
+    key: folder_open
+folder_plus:
+    cats: []
+    fa: f65e
+    fa6: f65e
+    key: folder_plus
+folder_tree:
+    cats: []
+    fa6: f802
+    key: folder_tree
+font:
+    cats: []
+    fa: f031
+    fa6: f031
+    key: font
+font_awesome_logo_full:
+    cats: []
+    fa: f4e6
+    key: font_awesome_logo_full
+football:
+    cats: []
+    fa6: f44e
+    key: football
+football_ball:
+    cats: []
+    fa: f44e
+    key: football_ball
+forward:
+    cats: [action]
+    fa: f04e
+    fa6: f04e
+    key: forward
+forward_fast:
+    cats: []
+    fa6: f050
+    key: forward_fast
+forward_step:
+    cats: []
+    fa6: f051
+    key: forward_step
+franc_sign:
+    cats: []
+    fa6: e18f
+    key: franc_sign
+frog:
+    emo: '&#128056;'
+    cats: [animal]
+    fa: f52e
+    ga: E3B6
+    fa6: f52e
+    img: ../assets/img/emo/frog.png
+    photo: ../assets/img/tierspiel/tree_frog.png
+    key: frog
+frown:
+    cats: [emotion]
+    fa: f119
+    key: frown
+frown_open:
+    cats: [emotion]
+    fa: f57a
+    key: frown_open
+funnel_dollar:
+    cats: []
+    fa: f662
+    key: funnel_dollar
+futbol:
+    cats: [sport]
+    fa: f1e3
+    fa6: f1e3
+    key: futbol
+gamepad:
+    cats: []
+    fa: f11b
+    ga: EB8D
+    fa6: f11b
+    key: gamepad
+gas_pump:
+    cats: []
+    fa: f52f
+    ga: E5E6
+    fa6: f52f
+    key: gas_pump
+gauge:
+    cats: []
+    fa6: f624
+    key: gauge
+gauge_high:
+    cats: []
+    fa6: f625
+    key: gauge_high
+gauge_simple:
+    cats: []
+    fa6: f629
+    key: gauge_simple
+gauge_simple_high:
+    cats: []
+    fa6: f62a
+    key: gauge_simple_high
+gavel:
+    cats: []
+    fa: f0e3
+    ga: EB6F
+    fa6: f0e3
+    key: gavel
+gear:
+    emo: '&#9881;'
+    cats: []
+    fa6: f013
+    img: ../assets/img/emo/gear.png
+    key: gear
+gears:
+    cats: []
+    ga: E754
+    fa6: f085
+    key: gears
+gem:
+    cats: []
+    fa: f3a5
+    fa6: f3a5
+    key: gem
+genderless:
+    cats: []
+    fa: f22d
+    fa6: f22d
+    key: genderless
+ghost:
+    emo: '&#128123;'
+    cats: [emotion]
+    fa: f6e2
+    ga: E502
+    fa6: f6e2
+    img: ../assets/img/emo/ghost.png
+    key: ghost
+gift:
+    cats: []
+    fa: f06b
+    fa6: f06b
+    key: gift
+gifts:
+    cats: []
+    fa: f79c
+    fa6: f79c
+    key: gifts
+glass_cheers:
+    cats: []
+    fa: f79f
+    key: glass_cheers
+glass_martini:
+    cats: []
+    fa: f000
+    key: glass_martini
+glass_martini_alt:
+    cats: []
+    fa: f57b
+    key: glass_martini_alt
+glass_water:
+    cats: []
+    fa6: e4f4
+    key: glass_water
+glass_water_droplet:
+    cats: []
+    fa6: e4f5
+    key: glass_water_droplet
+glass_whiskey:
+    cats: []
+    fa: f7a0
+    key: glass_whiskey
+glasses:
+    emo: '&#128083;'
+    cats: [clothing]
+    fa: f530
+    fa6: f530
+    img: ../assets/img/emo/glasses.png
+    key: glasses
+globe:
+    cats: []
+    fa: f0ac
+    ga: E488
+    fa6: f0ac
+    key: globe
+globe_africa:
+    cats: []
+    fa: f57c
+    key: globe_africa
+globe_americas:
+    cats: []
+    fa: f57d
+    key: globe_americas
+globe_asia:
+    cats: []
+    fa: f57e
+    key: globe_asia
+globe_europe:
+    cats: []
+    fa: f7a2
+    key: globe_europe
+golf_ball:
+    cats: [sport]
+    fa: f450
+    key: golf_ball
+golf_ball_tee:
+    cats: [sport]
+    fa6: f450
+    key: golf_ball_tee
+gopuram:
+    cats: []
+    fa: f664
+    fa6: f664
+    key: gopuram
+graduation_cap:
+    emo: '&#127891;'
+    cats: [clothing]
+    fa: f19d
+    fa6: f19d
+    img: ../assets/img/emo/graduation-cap.png
+    key: graduation_cap
+greater_than:
+    cats: []
+    fa: f531
+    fa6: 3e
+    key: greater_than
+greater_than_equal:
+    cats: []
+    fa: f532
+    fa6: f532
+    key: greater_than_equal
+grimace:
+    cats: []
+    fa: f57f
+    key: grimace
+grin:
+    cats: []
+    fa: f580
+    key: grin
+grin_alt:
+    cats: []
+    fa: f581
+    key: grin_alt
+grin_beam:
+    cats: []
+    fa: f582
+    key: grin_beam
+grin_beam_sweat:
+    cats: []
+    fa: f583
+    key: grin_beam_sweat
+grin_hearts:
+    cats: []
+    fa: f584
+    key: grin_hearts
+grin_squint:
+    cats: []
+    fa: f585
+    key: grin_squint
+grin_squint_tears:
+    cats: []
+    fa: f586
+    key: grin_squint_tears
+grin_stars:
+    cats: []
+    fa: f587
+    key: grin_stars
+grin_tears:
+    cats: []
+    fa: f588
+    key: grin_tears
+grin_tongue:
+    cats: []
+    fa: f589
+    key: grin_tongue
+grin_tongue_squint:
+    cats: []
+    fa: f58a
+    key: grin_tongue_squint
+grin_tongue_wink:
+    cats: []
+    fa: f58b
+    key: grin_tongue_wink
+grin_wink:
+    cats: []
+    fa: f58c
+    key: grin_wink
+grip:
+    cats: []
+    fa6: f58d
+    key: grip
+grip_horizontal:
+    cats: []
+    fa: f58d
+    key: grip_horizontal
+grip_lines:
+    cats: []
+    fa: f7a4
+    fa6: f7a4
+    key: grip_lines
+grip_lines_vertical:
+    cats: []
+    fa: f7a5
+    fa6: f7a5
+    key: grip_lines_vertical
+grip_vertical:
+    cats: []
+    fa: f58e
+    fa6: f58e
+    key: grip_vertical
+group_arrows_rotate:
+    cats: []
+    fa6: e4f6
+    key: group_arrows_rotate
+guarani_sign:
+    cats: []
+    fa6: e19a
+    key: guarani_sign
+guitar:
+    emo: '&#127928;'
+    cats: []
+    fa: f7a6
+    ga: E5A1
+    fa6: f7a6
+    img: ../assets/img/emo/guitar.png
+    key: guitar
+gun:
+    cats: [action]
+    fa6: e19b
+    key: gun
+h_square:
+    cats: []
+    fa: f0fd
+    key: h_square
+hamburger:
+    emo: '&#127828;'
+    cats: [food]
+    fa: f805
+    ga: EBCD
+    img: ../assets/img/emo/hamburger.png
+    key: hamburger
+hammer:
+    emo: '&#128296;'
+    cats: []
+    fa: f6e3
+    fa6: f6e3
+    img: ../assets/img/emo/hammer.png
+    key: hammer
+hamsa:
+    cats: []
+    fa: f665
+    fa6: f665
+    img: ../assets/img/emo/hamsa.png
+    key: hamsa
+hand:
+    cats: []
+    ga: E979
+    fa6: f256
+    key: hand
+hand_back_fist:
+    cats: [action]
+    fa6: f255
+    key: hand_back_fist
+hand_dots:
+    cats: []
+    fa6: f461
+    key: hand_dots
+hand_fist:
+    cats: []
+    fa6: f6de
+    key: hand_fist
+hand_holding:
+    cats: [action]
+    fa: f4bd
+    fa6: f4bd
+    key: hand_holding
+hand_holding_dollar:
+    cats: []
+    fa6: f4c0
+    key: hand_holding_dollar
+hand_holding_droplet:
+    cats: []
+    fa6: f4c1
+    key: hand_holding_droplet
+hand_holding_hand:
+    cats: []
+    fa6: e4f7
+    key: hand_holding_hand
+hand_holding_heart:
+    cats: []
+    fa: f4be
+    fa6: f4be
+    key: hand_holding_heart
+hand_holding_medical:
+    cats: []
+    fa6: e05c
+    key: hand_holding_medical
+hand_holding_usd:
+    cats: []
+    fa: f4c0
+    key: hand_holding_usd
+hand_lizard:
+    cats: []
+    fa: f258
+    fa6: f258
+    key: hand_lizard
+hand_middle_finger:
+    cats: [action]
+    fa: f806
+    fa6: f806
+    key: hand_middle_finger
+hand_paper:
+    cats: [action]
+    fa: f256
+    key: hand_paper
+hand_peace:
+    cats: [action]
+    fa: f25b
+    fa6: f25b
+    key: hand_peace
+hand_point_down:
+    cats: [action]
+    fa: f0a7
+    fa6: f0a7
+    key: hand_point_down
+hand_point_left:
+    cats: [action]
+    fa: f0a5
+    fa6: f0a5
+    key: hand_point_left
+hand_point_right:
+    cats: [action]
+    fa: f0a4
+    fa6: f0a4
+    key: hand_point_right
+hand_point_up:
+    cats: [action]
+    fa: f0a6
+    fa6: f0a6
+    key: hand_point_up
+hand_pointer:
+    cats: [action]
+    fa: f25a
+    fa6: f25a
+    key: hand_pointer
+hand_rock:
+    cats: [action]
+    fa: f255
+    key: hand_rock
+hand_scissors:
+    cats: []
+    fa: f257
+    fa6: f257
+    key: hand_scissors
+hand_sparkles:
+    cats: []
+    fa6: e05d
+    key: hand_sparkles
+hand_spock:
+    cats: [action]
+    fa: f259
+    fa6: f259
+    key: hand_spock
+handcuffs:
+    cats: []
+    ga: E024
+    fa6: e4f8
+    key: handcuffs
+hands:
+    cats: []
+    fa: f4c2
+    fa6: f2a7
+    key: hands
+hands_asl_interpreting:
+    cats: []
+    fa6: f2a3
+    key: hands_asl_interpreting
+hands_bound:
+    cats: []
+    fa6: e4f9
+    key: hands_bound
+hands_bubbles:
+    cats: []
+    fa6: e05e
+    key: hands_bubbles
+hands_clapping:
+    cats: [clothing]
+    fa6: e1a8
+    key: hands_clapping
+hands_helping:
+    cats: [action]
+    fa: f4c4
+    key: hands_helping
+hands_holding:
+    cats: []
+    fa6: f4c2
+    key: hands_holding
+hands_holding_child:
+    cats: []
+    fa6: e4fa
+    key: hands_holding_child
+hands_holding_circle:
+    cats: []
+    fa6: e4fb
+    key: hands_holding_circle
+hands_praying:
+    cats: []
+    fa6: f684
+    key: hands_praying
+handshake:
+    emo: '&#129309;'
+    cats: [gesture]
+    fa: f2b5
+    fa6: f2b5
+    img: ../assets/img/emo/handshake.png
+    key: handshake
+handshake_angle:
+    cats: [action]
+    fa6: f4c4
+    key: handshake_angle
+handshake_simple:
+    cats: []
+    fa6: f4c6
+    key: handshake_simple
+handshake_simple_slash:
+    cats: []
+    fa6: e05f
+    key: handshake_simple_slash
+handshake_slash:
+    cats: []
+    fa6: e060
+    key: handshake_slash
+hanukiah:
+    cats: []
+    fa: f6e6
+    fa6: f6e6
+    key: hanukiah
+hard_drive:
+    cats: []
+    fa6: f0a0
+    key: hard_drive
+hard_hat:
+    cats: [clothing]
+    fa: f807
+    key: hard_hat
+hashtag:
+    cats: []
+    fa: f292
+    fa6: '23'
+    key: hashtag
+hat_cowboy:
+    cats: [clothing]
+    fa: f8c0
+    fa6: f8c0
+    key: hat_cowboy
+hat_cowboy_side:
+    cats: [clothing]
+    fa: f8c1
+    fa6: f8c1
+    key: hat_cowboy_side
+hat_wizard:
+    cats: [clothing]
+    fa: f6e8
+    fa6: f6e8
+    key: hat_wizard
+haykal:
+    cats: []
+    fa: f666
+    key: haykal
+hdd:
+    cats: []
+    fa: f0a0
+    key: hdd
+head_side_cough:
+    cats: []
+    fa6: e061
+    key: head_side_cough
+head_side_cough_slash:
+    cats: []
+    fa6: e062
+    key: head_side_cough_slash
+head_side_mask:
+    cats: []
+    fa6: e063
+    key: head_side_mask
+head_side_virus:
+    cats: []
+    fa6: e064
+    key: head_side_virus
+heading:
+    cats: [action]
+    fa: f1dc
+    fa6: f1dc
+    key: heading
+headphones:
+    cats: []
+    fa: f025
+    ga: E57F
+    fa6: f025
+    key: headphones
+headphones_alt:
+    cats: []
+    fa: f58f
+    key: headphones_alt
+headphones_simple:
+    cats: []
+    fa6: f58f
+    key: headphones_simple
+headset:
+    cats: []
+    fa: f590
+    fa6: f590
+    key: headset
+heart:
+    cats: []
+    fa: f004
+    fa6: f004
+    key: heart
+heart_broken:
+    cats: []
+    fa: f7a9
+    key: heart_broken
+heart_circle_bolt:
+    cats: []
+    fa6: e4fc
+    key: heart_circle_bolt
+heart_circle_check:
+    cats: [plant]
+    fa6: e4fd
+    key: heart_circle_check
+heart_circle_exclamation:
+    cats: []
+    fa6: e4fe
+    key: heart_circle_exclamation
+heart_circle_minus:
+    cats: []
+    fa6: e4ff
+    key: heart_circle_minus
+heart_circle_plus:
+    cats: []
+    fa6: e500
+    key: heart_circle_plus
+heart_circle_xmark:
+    cats: []
+    fa6: e501
+    key: heart_circle_xmark
+heart_crack:
+    cats: []
+    fa6: f7a9
+    key: heart_crack
+heart_pulse:
+    cats: []
+    fa6: f21e
+    key: heart_pulse
+heartbeat:
+    cats: []
+    fa: f21e
+    key: heartbeat
+helicopter:
+    emo: '&#128641;'
+    cats: [sport, transport]
+    fa: f533
+    ga: E5E9
+    fa6: f533
+    img: ../assets/img/emo/helicopter.png
+    key: helicopter
+helicopter_symbol:
+    cats: []
+    fa6: e502
+    key: helicopter_symbol
+helmet_safety:
+    cats: [clothing]
+    fa6: f807
+    key: helmet_safety
+helmet_un:
+    cats: [emotion]
+    fa6: e503
+    key: helmet_un
+highlighter:
+    cats: []
+    fa: f591
+    fa6: f591
+    key: highlighter
+hiking:
+    cats: [action]
+    fa: f6ec
+    key: hiking
+hill_avalanche:
+    cats: [action]
+    fa6: e507
+    key: hill_avalanche
+hill_rockslide:
+    cats: []
+    fa6: e508
+    key: hill_rockslide
+hippopotamus:
+    emo: '&#129435;'
+    cats: [animal]
+    fa: f6ed
+    fa6: f6ed
+    img: ../assets/img/emo/hippopotamus.png
+    photo: ../assets/img/tierspiel/hippo.png
+    key: hippopotamus
+history:
+    cats: [action]
+    fa: f1da
+    key: history
+hockey_puck:
+    cats: [sport]
+    fa: f453
+    fa6: f453
+    key: hockey_puck
+holly_berry:
+    cats: [plant]
+    fa: f7aa
+    fa6: f7aa
+    key: holly_berry
+home:
+    cats: []
+    fa: f015
+    key: home
+horse:
+    emo: '&#128014;'
+    cats: [animal]
+    fa: f6f0
+    fa6: f6f0
+    img: ../assets/img/emo/horse.png
+    photo: ../assets/img/tierspiel/camargue_horse.png
+    key: horse
+horse_head:
+    cats: [animal]
+    fa: f7ab
+    ga: E376
+    fa6: f7ab
+    key: horse_head
+hospital:
+    cats: [building]
+    fa: f0f8
+    ga: E7CA
+    fa6: f0f8
+    img: ../assets/img/emo/hospital.png
+    key: hospital
+hospital_alt:
+    cats: []
+    fa: f47d
+    key: hospital_alt
+hospital_symbol:
+    cats: []
+    fa: f47e
+    key: hospital_symbol
+hospital_user:
+    cats: []
+    fa6: f80d
+    key: hospital_user
+hot_tub:
+    cats: []
+    fa: f593
+    key: hot_tub
+hot_tub_person:
+    cats: []
+    fa6: f593
+    key: hot_tub_person
+hotdog:
+    emo: '&#127789;'
+    cats: [food]
+    fa: f80f
+    fa6: f80f
+    key: hotdog
+hotel:
+    cats: [building]
+    fa: f594
+    fa6: f594
+    img: ../assets/img/emo/hotel.png
+    key: hotel
+hourglass:
+    cats: []
+    fa: f254
+    ga: E16D
+    fa6: f254
+    key: hourglass
+hourglass_end:
+    cats: []
+    fa: f253
+    fa6: f253
+    key: hourglass_end
+hourglass_half:
+    cats: []
+    fa: f252
+    fa6: f252
+    key: hourglass_half
+hourglass_start:
+    cats: []
+    fa: f251
+    fa6: f251
+    key: hourglass_start
+house:
+    emo: '&#127968;'
+    cats: [building]
+    ga: E7CB
+    fa6: f015
+    img: ../assets/img/emo/house.png
+    key: house
+house_chimney:
+    cats: []
+    fa6: e3af
+    key: house_chimney
+house_chimney_crack:
+    cats: []
+    fa6: f6f1
+    key: house_chimney_crack
+house_chimney_medical:
+    cats: []
+    fa6: f7f2
+    key: house_chimney_medical
+house_chimney_user:
+    cats: []
+    fa6: e065
+    key: house_chimney_user
+house_chimney_window:
+    cats: [action]
+    fa6: e00d
+    key: house_chimney_window
+house_circle_check:
+    cats: []
+    fa6: e509
+    key: house_circle_check
+house_circle_exclamation:
+    cats: []
+    fa6: e50a
+    key: house_circle_exclamation
+house_circle_xmark:
+    cats: []
+    fa6: e50b
+    key: house_circle_xmark
+house_crack:
+    cats: []
+    fa6: e3b1
+    key: house_crack
+house_damage:
+    cats: []
+    fa: f6f1
+    key: house_damage
+house_fire:
+    cats: []
+    fa6: e50c
+    key: house_fire
+house_flag:
+    cats: []
+    fa6: e50d
+    key: house_flag
+house_flood_water:
+    cats: []
+    fa6: e50e
+    key: house_flood_water
+house_flood_water_circle_arrow_right:
+    cats: []
+    fa6: e50f
+    key: house_flood_water_circle_arrow_right
+house_laptop:
+    cats: []
+    fa6: e066
+    key: house_laptop
+house_lock:
+    cats: []
+    fa6: e510
+    key: house_lock
+house_medical:
+    cats: []
+    fa6: e3b2
+    key: house_medical
+house_medical_circle_check:
+    cats: []
+    fa6: e511
+    key: house_medical_circle_check
+house_medical_circle_exclamation:
+    cats: []
+    fa6: e512
+    key: house_medical_circle_exclamation
+house_medical_circle_xmark:
+    cats: []
+    fa6: e513
+    key: house_medical_circle_xmark
+house_medical_flag:
+    cats: []
+    fa6: e514
+    key: house_medical_flag
+house_signal:
+    cats: []
+    fa6: e012
+    key: house_signal
+house_tsunami:
+    cats: []
+    fa6: e515
+    key: house_tsunami
+house_user:
+    cats: []
+    fa6: e1b0
+    key: house_user
+hryvnia:
+    cats: []
+    fa: f6f2
+    key: hryvnia
+hryvnia_sign:
+    cats: []
+    fa6: f6f2
+    key: hryvnia_sign
+hurricane:
+    cats: []
+    fa6: f751
+    key: hurricane
+i_cursor:
+    cats: []
+    fa6: f246
+    key: i_cursor
+ice_cream:
+    emo: '&#127848;'
+    cats: [food]
+    fa: f810
+    fa6: f810
+    img: ../assets/img/emo/ice-cream.png
+    key: ice_cream
+icicles:
+    cats: []
+    fa: f7ad
+    fa6: f7ad
+    key: icicles
+icons:
+    cats: []
+    fa: f86d
+    fa6: f86d
+    key: icons
+id_badge:
+    cats: []
+    fa: f2c1
+    fa6: f2c1
+    key: id_badge
+id_card:
+    cats: []
+    fa: f2c2
+    ga: E00E
+    fa6: f2c2
+    key: id_card
+id_card_alt:
+    cats: []
+    fa: f47f
+    key: id_card_alt
+id_card_clip:
+    cats: []
+    fa6: f47f
+    key: id_card_clip
+igloo:
+    cats: []
+    fa: f7ae
+    ga: E7CF
+    fa6: f7ae
+    key: igloo
+image:
+    cats: []
+    fa: f03e
+    fa6: f03e
+    key: image
+image_portrait:
+    cats: []
+    fa6: f3e0
+    key: image_portrait
+images:
+    cats: []
+    fa: f302
+    fa6: f302
+    key: images
+inbox:
+    cats: []
+    fa: f01c
+    fa6: f01c
+    key: inbox
+indent:
+    cats: []
+    fa: f03c
+    fa6: f03c
+    key: indent
+indian_rupee_sign:
+    cats: []
+    fa6: e1bc
+    key: indian_rupee_sign
+industry:
+    cats: []
+    fa: f275
+    fa6: f275
+    key: industry
+infinity:
+    friendly: infinity
+    img: ../assets/img/emo/infinity.png
+    ga: E10E
+    fa: f534
+    emo: '&#9854;'
+    cats: []
+    fa6: f534
+    uni: '&#x221e;'
+    key: infinity
+info:
+    cats: []
+    fa: f129
+    ga: E08D
+    fa6: f129
+    key: info
+info_circle:
+    cats: []
+    fa: f05a
+    key: info_circle
+italic:
+    cats: []
+    fa: f033
+    fa6: f033
+    key: italic
+jar:
+    cats: []
+    fa6: e516
+    img: ../assets/img/emo/jar.png
+    key: jar
+jar_wheat:
+    cats: []
+    fa6: e517
+    key: jar_wheat
+jedi:
+    cats: []
+    fa: f669
+    fa6: f669
+    key: jedi
+jet_fighter:
+    cats: []
+    ga: E5ED
+    fa6: f0fb
+    key: jet_fighter
+jet_fighter_up:
+    cats: []
+    fa6: e518
+    key: jet_fighter_up
+joint:
+    cats: []
+    fa: f595
+    ga: EAED
+    fa6: f595
+    key: joint
+journal_whills:
+    cats: []
+    fa: f66a
+    key: journal_whills
+jug_detergent:
+    cats: []
+    fa6: e519
+    key: jug_detergent
+kaaba:
+    cats: [building]
+    fa: f66b
+    fa6: f66b
+    img: ../assets/img/emo/kaaba.png
+    key: kaaba
+key:
+    emo: '&#128273;'
+    cats: [action, object]
+    fa: f084
+    ga: EC98
+    fa6: f084
+    img: ../assets/img/emo/key.png
+    key: key
+keyboard:
+    emo: '&#9000;'
+    cats: []
+    fa: f11c
+    ga: EB90
+    fa6: f11c
+    img: ../assets/img/emo/keyboard.png
+    key: keyboard
+khanda:
+    cats: []
+    fa: f66d
+    fa6: f66d
+    img: ../assets/img/emo/khanda.png
+    key: khanda
+kip_sign:
+    cats: []
+    fa6: e1c4
+    key: kip_sign
+kiss:
+    emo: '&#128143;'
+    cats: [gesture]
+    fa: f596
+    img: ../assets/img/emo/kiss.png
+    key: kiss
+kiss_beam:
+    cats: []
+    fa: f597
+    key: kiss_beam
+kiss_wink_heart:
+    cats: []
+    fa: f598
+    key: kiss_wink_heart
+kit_medical:
+    cats: []
+    fa6: f479
+    key: kit_medical
+kitchen_set:
+    cats: []
+    fa6: e51a
+    key: kitchen_set
+kiwi_bird:
+    cats: [animal]
+    fa: f535
+    ga: E66F
+    fa6: f535
+    key: kiwi_bird
+land_mine_on:
+    cats: []
+    fa6: e51b
+    key: land_mine_on
+landmark:
+    cats: []
+    fa: f66f
+    fa6: f66f
+    key: landmark
+landmark_dome:
+    cats: []
+    fa6: f752
+    key: landmark_dome
+landmark_flag:
+    cats: []
+    fa6: e51c
+    key: landmark_flag
+language:
+    cats: []
+    fa: f1ab
+    fa6: f1ab
+    key: language
+laptop:
+    emo: '&#128187;'
+    cats: []
+    fa: f109
+    fa6: f109
+    key: laptop
+laptop_code:
+    cats: []
+    fa: f5fc
+    fa6: f5fc
+    key: laptop_code
+laptop_file:
+    cats: [transport]
+    fa6: e51d
+    key: laptop_file
+laptop_medical:
+    cats: []
+    fa: f812
+    fa6: f812
+    key: laptop_medical
+lari_sign:
+    cats: []
+    fa6: e1c8
+    key: lari_sign
+laugh:
+    cats: []
+    fa: f599
+    key: laugh
+laugh_beam:
+    cats: []
+    fa: f59a
+    key: laugh_beam
+laugh_squint:
+    cats: []
+    fa: f59b
+    key: laugh_squint
+laugh_wink:
+    cats: []
+    fa: f59c
+    key: laugh_wink
+layer_group:
+    cats: []
+    fa: f5fd
+    fa6: f5fd
+    key: layer_group
+leaf:
+    cats: [plant]
+    fa: f06c
+    fa6: f06c
+    key: leaf
+left_long:
+    cats: []
+    fa6: f30a
+    key: left_long
+left_right:
+    cats: []
+    fa6: f337
+    key: left_right
+lemon:
+    emo: '&#127819;'
+    cats: [food]
+    fa: f094
+    ga: ECE8
+    fa6: f094
+    img: ../assets/img/emo/lemon.png
+    key: lemon
+less_than:
+    cats: []
+    fa: f536
+    fa6: 3c
+    key: less_than
+less_than_equal:
+    cats: []
+    fa: f537
+    fa6: f537
+    key: less_than_equal
+level_down_alt:
+    cats: []
+    fa: f3be
+    key: level_down_alt
+level_up_alt:
+    cats: []
+    fa: f3bf
+    key: level_up_alt
+life_ring:
+    cats: []
+    fa: f1cd
+    fa6: f1cd
+    key: life_ring
+lightbulb:
+    cats: []
+    fa: f0eb
+    fa6: f0eb
+    key: lightbulb
+lines_leaning:
+    cats: [transport]
+    fa6: e51e
+    key: lines_leaning
+link:
+    emo: '&#128279;'
+    cats: []
+    fa: f0c1
+    fa6: f0c1
+    img: ../assets/img/emo/link.png
+    key: link
+link_slash:
+    cats: [action]
+    fa6: f127
+    key: link_slash
+lira_sign:
+    cats: []
+    fa: f195
+    fa6: f195
+    key: lira_sign
+list:
+    cats: []
+    fa: f03a
+    fa6: f03a
+    key: list
+list_alt:
+    cats: []
+    fa: f022
+    key: list_alt
+list_check:
+    cats: []
+    fa6: f0ae
+    key: list_check
+list_ol:
+    cats: []
+    fa: f0cb
+    fa6: f0cb
+    key: list_ol
+list_ul:
+    cats: []
+    fa: f0ca
+    fa6: f0ca
+    key: list_ul
+litecoin_sign:
+    cats: []
+    fa6: e1d3
+    key: litecoin_sign
+location_arrow:
+    cats: []
+    fa: f124
+    fa6: f124
+    key: location_arrow
+location_crosshairs:
+    cats: []
+    fa6: f601
+    key: location_crosshairs
+location_dot:
+    cats: []
+    fa6: f3c5
+    key: location_dot
+location_pin:
+    cats: []
+    fa6: f041
+    key: location_pin
+location_pin_lock:
+    cats: []
+    fa6: e51f
+    key: location_pin_lock
+lock:
+    cats: []
+    fa: f023
+    fa6: f023
+    key: lock
+lock_open:
+    cats: []
+    fa: f3c1
+    fa6: f3c1
+    key: lock_open
+locust:
+    cats: [transport]
+    fa6: e520
+    key: locust
+long_arrow_alt_down:
+    cats: []
+    fa: f309
+    key: long_arrow_alt_down
+long_arrow_alt_left:
+    cats: []
+    fa: f30a
+    key: long_arrow_alt_left
+long_arrow_alt_right:
+    cats: []
+    fa: f30b
+    key: long_arrow_alt_right
+long_arrow_alt_up:
+    cats: []
+    fa: f30c
+    key: long_arrow_alt_up
+low_vision:
+    cats: []
+    fa: f2a8
+    key: low_vision
+luggage_cart:
+    cats: []
+    fa: f59d
+    key: luggage_cart
+lungs:
+    emo: '&#129729;'
+    cats: []
+    ga: ED8F
+    fa6: f604
+    img: ../assets/img/emo/lungs.png
+    key: lungs
+lungs_virus:
+    cats: [action]
+    fa6: e067
+    key: lungs_virus
+magic:
+    cats: []
+    fa: f0d0
+    key: magic
+magnet:
+    emo: '&#129522;'
+    cats: []
+    fa: f076
+    ga: E8CB
+    fa6: f076
+    img: ../assets/img/emo/magnet.png
+    key: magnet
+magnifying_glass:
+    cats: []
+    ga: E026
+    fa6: f002
+    key: magnifying_glass
+magnifying_glass_arrow_right:
+    cats: [sport, transport]
+    fa6: e521
+    key: magnifying_glass_arrow_right
+magnifying_glass_chart:
+    cats: [transport]
+    fa6: e522
+    key: magnifying_glass_chart
+magnifying_glass_dollar:
+    cats: []
+    fa6: f688
+    key: magnifying_glass_dollar
+magnifying_glass_location:
+    cats: []
+    fa6: f689
+    key: magnifying_glass_location
+magnifying_glass_minus:
+    cats: []
+    fa6: f010
+    key: magnifying_glass_minus
+magnifying_glass_plus:
+    cats: []
+    fa6: f00e
+    key: magnifying_glass_plus
+mail_bulk:
+    cats: []
+    fa: f674
+    key: mail_bulk
+male:
+    uni: '&#x2642;'
+    cats: []
+    fa: f183
+    ga: E09A
+    key: male
+manat_sign:
+    cats: []
+    fa6: e1d5
+    key: manat_sign
+map:
+    cats: []
+    fa: f279
+    fa6: f279
+    key: map
+map_location:
+    cats: []
+    fa6: f59f
+    key: map_location
+map_location_dot:
+    cats: []
+    fa6: f5a0
+    key: map_location_dot
+map_marked:
+    cats: []
+    fa: f59f
+    key: map_marked
+map_marked_alt:
+    cats: []
+    fa: f5a0
+    key: map_marked_alt
+map_marker:
+    cats: []
+    fa: f041
+    key: map_marker
+map_marker_alt:
+    cats: []
+    fa: f3c5
+    key: map_marker_alt
+map_pin:
+    cats: []
+    fa: f276
+    fa6: f276
+    key: map_pin
+map_signs:
+    cats: []
+    fa: f277
+    key: map_signs
+marker:
+    cats: []
+    fa: f5a1
+    fa6: f5a1
+    key: marker
+mars:
+    cats: []
+    fa: f222
+    fa6: f222
+    key: mars
+mars_and_venus:
+    cats: []
+    fa6: f224
+    key: mars_and_venus
+mars_and_venus_burst:
+    cats: [transport]
+    fa6: e523
+    key: mars_and_venus_burst
+mars_double:
+    cats: []
+    fa: f227
+    fa6: f227
+    key: mars_double
+mars_stroke:
+    cats: []
+    fa: f229
+    fa6: f229
+    key: mars_stroke
+mars_stroke_h:
+    cats: []
+    fa: f22b
+    key: mars_stroke_h
+mars_stroke_right:
+    cats: []
+    fa6: f22b
+    key: mars_stroke_right
+mars_stroke_up:
+    cats: []
+    fa6: f22a
+    key: mars_stroke_up
+mars_stroke_v:
+    cats: []
+    fa: f22a
+    key: mars_stroke_v
+martini_glass:
+    cats: []
+    fa6: f57b
+    key: martini_glass
+martini_glass_citrus:
+    cats: []
+    fa6: f561
+    key: martini_glass_citrus
+martini_glass_empty:
+    cats: []
+    fa6: f000
+    key: martini_glass_empty
+mask:
+    cats: [clothing]
+    fa: f6fa
+    fa6: f6fa
+    key: mask
+mask_face:
+    cats: []
+    fa6: e1d7
+    key: mask_face
+mask_ventilator:
+    cats: [animal]
+    fa6: e524
+    key: mask_ventilator
+masks_theater:
+    cats: []
+    fa6: f630
+    key: masks_theater
+mattress_pillow:
+    cats: []
+    fa6: e525
+    key: mattress_pillow
+maximize:
+    cats: []
+    fa6: f31e
+    key: maximize
+medal:
+    emo: '&#127941;'
+    cats: []
+    fa: f5a2
+    ga: E8A3
+    fa6: f5a2
+    key: medal
+medkit:
+    cats: []
+    fa: f0fa
+    key: medkit
+meh:
+    cats: []
+    fa: f11a
+    key: meh
+meh_blank:
+    cats: []
+    fa: f5a4
+    key: meh_blank
+meh_rolling_eyes:
+    cats: []
+    fa: f5a5
+    key: meh_rolling_eyes
+memory:
+    cats: []
+    fa: f538
+    fa6: f538
+    key: memory
+menorah:
+    emo: '&#128334;'
+    cats: []
+    fa: f676
+    fa6: f676
+    img: ../assets/img/emo/menorah.png
+    key: menorah
+mercury:
+    cats: []
+    fa: f223
+    fa6: f223
+    key: mercury
+message:
+    cats: []
+    fa6: f27a
+    key: message
+meteor:
+    cats: []
+    fa: f753
+    fa6: f753
+    key: meteor
+microchip:
+    cats: []
+    fa: f2db
+    ga: E94E
+    fa6: f2db
+    key: microchip
+microphone:
+    emo: '&#127908;'
+    cats: [action]
+    fa: f130
+    ga: E585
+    fa6: f130
+    img: ../assets/img/emo/microphone.png
+    key: microphone
+microphone_alt:
+    cats: []
+    fa: f3c9
+    key: microphone_alt
+microphone_alt_slash:
+    cats: []
+    fa: f539
+    key: microphone_alt_slash
+microphone_lines:
+    cats: []
+    fa6: f3c9
+    key: microphone_lines
+microphone_lines_slash:
+    cats: []
+    fa6: f539
+    key: microphone_lines_slash
+microphone_slash:
+    cats: []
+    fa: f131
+    fa6: f131
+    key: microphone_slash
+microscope:
+    emo: '&#128300;'
+    cats: [action]
+    fa: f610
+    ga: E958
+    fa6: f610
+    img: ../assets/img/emo/microscope.png
+    key: microscope
+mill_sign:
+    cats: []
+    fa6: e1ed
+    key: mill_sign
+minimize:
+    cats: [action]
+    fa6: f78c
+    key: minimize
+minus:
+    emo: '&#10134;'
+    cats: []
+    fa: f068
+    fa6: f068
+    key: minus
+minus_circle:
+    cats: []
+    fa: f056
+    key: minus_circle
+minus_square:
+    cats: []
+    fa: f146
+    key: minus_square
+mitten:
+    cats: [clothing]
+    fa: f7b5
+    fa6: f7b5
+    key: mitten
+mobile:
+    cats: []
+    fa: f10b
+    fa6: f3ce
+    key: mobile
+mobile_alt:
+    cats: []
+    fa: f3cd
+    key: mobile_alt
+mobile_button:
+    cats: []
+    fa6: f10b
+    key: mobile_button
+mobile_retro:
+    cats: []
+    fa6: e527
+    key: mobile_retro
+mobile_screen:
+    cats: []
+    fa6: f3cf
+    key: mobile_screen
+mobile_screen_button:
+    cats: []
+    fa6: f3cd
+    key: mobile_screen_button
+money_bill:
+    cats: []
+    fa: f0d6
+    fa6: f0d6
+    key: money_bill
+money_bill_1:
+    cats: []
+    fa6: f3d1
+    key: money_bill_1
+money_bill_1_wave:
+    cats: []
+    fa6: f53b
+    key: money_bill_1_wave
+money_bill_alt:
+    cats: []
+    fa: f3d1
+    key: money_bill_alt
+money_bill_transfer:
+    cats: []
+    fa6: e528
+    key: money_bill_transfer
+money_bill_trend_up:
+    cats: []
+    fa6: e529
+    key: money_bill_trend_up
+money_bill_wave:
+    cats: []
+    fa: f53a
+    fa6: f53a
+    key: money_bill_wave
+money_bill_wave_alt:
+    cats: []
+    fa: f53b
+    key: money_bill_wave_alt
+money_bill_wheat:
+    cats: []
+    fa6: e52a
+    key: money_bill_wheat
+money_bills:
+    cats: []
+    fa6: e1f3
+    key: money_bills
+money_check:
+    cats: []
+    fa: f53c
+    fa6: f53c
+    key: money_check
+money_check_alt:
+    cats: []
+    fa: f53d
+    key: money_check_alt
+money_check_dollar:
+    cats: []
+    fa6: f53d
+    key: money_check_dollar
+monument:
+    cats: []
+    fa: f5a6
+    fa6: f5a6
+    key: monument
+moon:
+    cats: []
+    fa: f186
+    ga: EC7D
+    fa6: f186
+    key: moon
+mortar_pestle:
+    cats: []
+    fa: f5a7
+    fa6: f5a7
+    key: mortar_pestle
+mosque:
+    emo: '&#128332;'
+    cats: [building]
+    fa: f678
+    fa6: f678
+    img: ../assets/img/emo/mosque.png
+    key: mosque
+mosquito:
+    emo: '&#129439;'
+    cats: [animal]
+    fa6: e52b
+    img: ../assets/img/emo/mosquito.png
+    key: mosquito
+mosquito_net:
+    cats: []
+    fa6: e52c
+    key: mosquito_net
+motorcycle:
+    emo: '&#127949;'
+    cats: [sport, transport]
+    fa: f21c
+    fa6: f21c
+    img: ../assets/img/emo/motorcycle.png
+    key: motorcycle
+mound:
+    cats: []
+    fa6: e52d
+    key: mound
+mountain:
+    emo: '&#9968;'
+    cats: []
+    fa: f6fc
+    fa6: f6fc
+    img: ../assets/img/emo/mountain.png
+    key: mountain
+mountain_city:
+    cats: []
+    fa6: e52e
+    key: mountain_city
+mountain_sun:
+    cats: []
+    fa6: e52f
+    key: mountain_sun
+mouse:
+    emo: '&#128045;'
+    cats: [animal]
+    fa: f8cc
+    ga: E3C9
+    img: ../assets/img/emo/mouse.png
+    photo: ../assets/img/story/mouse.png
+    key: mouse
+mouse_pointer:
+    cats: []
+    fa: f245
+    key: mouse_pointer
+mug_hot:
+    cats: []
+    fa: f7b6
+    fa6: f7b6
+    key: mug_hot
+mug_saucer:
+    cats: []
+    fa6: f0f4
+    key: mug_saucer
+music:
+    cats: []
+    fa: f001
+    fa6: f001
+    key: music
+naira_sign:
+    cats: []
+    fa6: e1f6
+    key: naira_sign
+network_wired:
+    cats: []
+    fa: f6ff
+    fa6: f6ff
+    key: network_wired
+neuter:
+    cats: []
+    fa: f22c
+    fa6: f22c
+    key: neuter
+newspaper:
+    emo: '&#128240;'
+    cats: []
+    fa: f1ea
+    ga: EB94
+    fa6: f1ea
+    img: ../assets/img/emo/newspaper.png
+    key: newspaper
+not_equal:
+    cats: []
+    fa: f53e
+    fa6: f53e
+    key: not_equal
+notdef:
+    cats: [action]
+    fa6: e1fe
+    key: notdef
+note_sticky:
+    cats: []
+    fa6: f249
+    key: note_sticky
+notes_medical:
+    cats: []
+    fa: f481
+    fa6: f481
+    key: notes_medical
+object_group:
+    cats: []
+    fa: f247
+    fa6: f247
+    key: object_group
+object_ungroup:
+    cats: []
+    fa: f248
+    fa6: f248
+    key: object_ungroup
+oil_can:
+    cats: []
+    fa: f613
+    fa6: f613
+    key: oil_can
+oil_well:
+    cats: [sport, transport]
+    fa6: e532
+    key: oil_well
+om:
+    emo: '&#128329;'
+    cats: []
+    fa: f679
+    fa6: f679
+    img: ../assets/img/emo/om.png
+    key: om
+otter:
+    emo: '&#129446;'
+    cats: [animal]
+    fa: f700
+    fa6: f700
+    img: ../assets/img/emo/otter.png
+    key: otter
+outdent:
+    cats: []
+    fa: f03b
+    fa6: f03b
+    key: outdent
+pager:
+    emo: '&#128223;'
+    cats: []
+    fa: f815
+    fa6: f815
+    img: ../assets/img/emo/pager.png
+    key: pager
+paint_brush:
+    cats: []
+    fa: f1fc
+    ga: EB61
+    key: paint_brush
+paint_roller:
+    cats: []
+    fa: f5aa
+    ga: EB63
+    fa6: f5aa
+    key: paint_roller
+paintbrush:
+    emo: '&#128396;'
+    cats: []
+    fa6: f1fc
+    img: ../assets/img/emo/paintbrush.png
+    key: paintbrush
+palette:
+    cats: []
+    fa: f53f
+    ga: EB97
+    fa6: f53f
+    key: palette
+pallet:
+    cats: []
+    fa: f482
+    fa6: f482
+    key: pallet
+panorama:
+    cats: [action]
+    fa6: e209
+    key: panorama
+paper_plane:
+    cats: []
+    fa: f1d8
+    ga: EC46
+    fa6: f1d8
+    key: paper_plane
+paperclip:
+    emo: '&#128206;'
+    cats: []
+    fa: f0c6
+    fa6: f0c6
+    img: ../assets/img/emo/paperclip.png
+    key: paperclip
+parachute_box:
+    cats: []
+    fa: f4cd
+    fa6: f4cd
+    key: parachute_box
+paragraph:
+    cats: []
+    fa: f1dd
+    fa6: f1dd
+    key: paragraph
+parking:
+    cats: []
+    fa: f540
+    key: parking
+passport:
+    cats: []
+    fa: f5ab
+    ga: ED73
+    fa6: f5ab
+    key: passport
+pastafarianism:
+    cats: []
+    fa: f67b
+    key: pastafarianism
+paste:
+    cats: []
+    fa: f0ea
+    fa6: f0ea
+    key: paste
+pause:
+    cats: []
+    fa: f04c
+    fa6: f04c
+    key: pause
+pause_circle:
+    cats: []
+    fa: f28b
+    key: pause_circle
+paw:
+    cats: []
+    fa: f1b0
+    ga: E3D2
+    fa6: f1b0
+    key: paw
+peace:
+    cats: []
+    fa: f67c
+    fa6: f67c
+    key: peace
+pen:
+    emo: '&#128394;'
+    cats: []
+    fa: f304
+    fa6: f304
+    img: ../assets/img/emo/pen.png
+    key: pen
+pen_alt:
+    cats: []
+    fa: f305
+    key: pen_alt
+pen_clip:
+    cats: []
+    fa6: f305
+    key: pen_clip
+pen_fancy:
+    cats: []
+    fa: f5ac
+    fa6: f5ac
+    key: pen_fancy
+pen_nib:
+    cats: []
+    fa: f5ad
+    fa6: f5ad
+    key: pen_nib
+pen_ruler:
+    cats: []
+    fa6: f5ae
+    key: pen_ruler
+pen_square:
+    cats: []
+    fa: f14b
+    key: pen_square
+pen_to_square:
+    cats: [action]
+    fa6: f044
+    key: pen_to_square
+pencil:
+    friendly: pencil
+    img: ../assets/img/emo/pencil.png
+    ga: EB99
+    emo: '&#9999;'
+    cats: []
+    fa6: f303
+    uni: '&#x270e;'
+    key: pencil
+pencil_alt:
+    cats: []
+    fa: f303
+    key: pencil_alt
+pencil_ruler:
+    cats: []
+    fa: f5ae
+    ga: ED74
+    key: pencil_ruler
+people_arrows:
+    cats: [transport]
+    fa6: e068
+    key: people_arrows
+people_carry:
+    cats: []
+    fa: f4ce
+    key: people_carry
+people_carry_box:
+    cats: []
+    fa6: f4ce
+    key: people_carry_box
+people_group:
+    cats: []
+    fa6: e533
+    key: people_group
+people_line:
+    cats: []
+    fa6: e534
+    key: people_line
+people_pulling:
+    cats: []
+    fa6: e535
+    key: people_pulling
+people_robbery:
+    cats: []
+    fa6: e536
+    key: people_robbery
+people_roof:
+    cats: []
+    fa6: e537
+    key: people_roof
+pepper_hot:
+    cats: [food]
+    fa: f816
+    fa6: f816
+    key: pepper_hot
+percent:
+    cats: []
+    fa: f295
+    fa6: '25'
+    key: percent
+percentage:
+    cats: []
+    fa: f541
+    key: percentage
+person:
+    emo: '&#129489;'
+    cats: []
+    ga: E857
+    fa6: f183
+    img: ../assets/img/emo/person.png
+    key: person
+person_arrow_down_to_line:
+    cats: []
+    fa6: e538
+    key: person_arrow_down_to_line
+person_arrow_up_from_line:
+    cats: []
+    fa6: e539
+    key: person_arrow_up_from_line
+person_biking:
+    cats: [action, sport]
+    fa6: f84a
+    key: person_biking
+person_booth:
+    cats: []
+    fa6: f756
+    key: person_booth
+person_breastfeeding:
+    cats: []
+    fa6: e53a
+    key: person_breastfeeding
+person_burst:
+    cats: []
+    fa6: e53b
+    key: person_burst
+person_cane:
+    cats: []
+    fa6: e53c
+    key: person_cane
+person_chalkboard:
+    cats: []
+    fa6: e53d
+    key: person_chalkboard
+person_circle_check:
+    cats: []
+    fa6: e53e
+    key: person_circle_check
+person_circle_exclamation:
+    cats: [plant]
+    fa6: e53f
+    key: person_circle_exclamation
+person_circle_minus:
+    cats: []
+    fa6: e540
+    key: person_circle_minus
+person_circle_plus:
+    cats: []
+    fa6: e541
+    key: person_circle_plus
+person_circle_question:
+    cats: [action, sport]
+    fa6: e542
+    key: person_circle_question
+person_circle_xmark:
+    cats: []
+    fa6: e543
+    key: person_circle_xmark
+person_digging:
+    cats: []
+    fa6: f85e
+    key: person_digging
+person_dots_from_line:
+    cats: []
+    fa6: f470
+    key: person_dots_from_line
+person_dress:
+    cats: []
+    fa6: f182
+    key: person_dress
+person_dress_burst:
+    cats: [action]
+    fa6: e544
+    key: person_dress_burst
+person_drowning:
+    cats: []
+    fa6: e545
+    key: person_drowning
+person_falling:
+    cats: []
+    fa6: e546
+    key: person_falling
+person_falling_burst:
+    cats: []
+    fa6: e547
+    key: person_falling_burst
+person_half_dress:
+    cats: []
+    fa6: e548
+    key: person_half_dress
+person_harassing:
+    cats: []
+    fa6: e549
+    key: person_harassing
+person_hiking:
+    cats: [action]
+    fa6: f6ec
+    key: person_hiking
+person_military_pointing:
+    cats: [action]
+    fa6: e54a
+    key: person_military_pointing
+person_military_rifle:
+    cats: []
+    fa6: e54b
+    key: person_military_rifle
+person_military_to_person:
+    cats: []
+    fa6: e54c
+    key: person_military_to_person
+person_praying:
+    cats: []
+    fa6: f683
+    key: person_praying
+person_pregnant:
+    cats: []
+    fa6: e31e
+    key: person_pregnant
+person_rays:
+    cats: []
+    fa6: e54d
+    key: person_rays
+person_rifle:
+    cats: [building]
+    fa6: e54e
+    key: person_rifle
+person_running:
+    cats: [action, sport]
+    fa6: f70c
+    key: person_running
+person_shelter:
+    cats: []
+    fa6: e54f
+    key: person_shelter
+person_skating:
+    cats: [action]
+    fa6: f7c5
+    key: person_skating
+person_skiing:
+    cats: [action]
+    fa6: f7c9
+    key: person_skiing
+person_skiing_nordic:
+    cats: [action]
+    fa6: f7ca
+    key: person_skiing_nordic
+person_snowboarding:
+    cats: [action]
+    fa6: f7ce
+    key: person_snowboarding
+person_swimming:
+    cats: []
+    fa6: f5c4
+    key: person_swimming
+person_through_window:
+    cats: []
+    fa6: e5a9
+    key: person_through_window
+person_walking:
+    cats: [action]
+    fa6: f554
+    key: person_walking
+person_walking_arrow_loop_left:
+    cats: []
+    fa6: e551
+    key: person_walking_arrow_loop_left
+person_walking_arrow_right:
+    cats: []
+    fa6: e552
+    key: person_walking_arrow_right
+person_walking_dashed_line_arrow_right:
+    cats: []
+    fa6: e553
+    key: person_walking_dashed_line_arrow_right
+person_walking_luggage:
+    cats: []
+    fa6: e554
+    key: person_walking_luggage
+person_walking_with_cane:
+    cats: []
+    fa6: f29d
+    key: person_walking_with_cane
+peseta_sign:
+    cats: [emotion]
+    fa6: e221
+    key: peseta_sign
+peso_sign:
+    cats: []
+    fa6: e222
+    key: peso_sign
+phone:
+    cats: []
+    fa: f095
+    ga: E58D
+    fa6: f095
+    key: phone
+phone_alt:
+    cats: []
+    fa: f879
+    key: phone_alt
+phone_flip:
+    cats: []
+    fa6: f879
+    key: phone_flip
+phone_slash:
+    cats: []
+    fa: f3dd
+    fa6: f3dd
+    key: phone_slash
+phone_square:
+    cats: []
+    fa: f098
+    key: phone_square
+phone_square_alt:
+    cats: []
+    fa: f87b
+    key: phone_square_alt
+phone_volume:
+    cats: []
+    fa: f2a0
+    fa6: f2a0
+    key: phone_volume
+photo_film:
+    cats: []
+    fa6: f87c
+    key: photo_film
+photo_video:
+    cats: []
+    fa: f87c
+    key: photo_video
+piggy_bank:
+    cats: []
+    fa: f4d3
+    ga: EAE1
+    fa6: f4d3
+    key: piggy_bank
+pills:
+    cats: []
+    fa: f484
+    fa6: f484
+    key: pills
+pizza_slice:
+    cats: [food]
+    fa: f818
+    ga: EBD6
+    fa6: f818
+    key: pizza_slice
+place_of_worship:
+    emo: '&#128720;'
+    cats: [building]
+    fa: f67f
+    fa6: f67f
+    img: ../assets/img/emo/place-of-worship.png
+    key: place_of_worship
+plane:
+    cats: []
+    fa: f072
+    fa6: f072
+    key: plane
+plane_arrival:
+    cats: []
+    fa: f5af
+    fa6: f5af
+    key: plane_arrival
+plane_circle_check:
+    cats: []
+    fa6: e555
+    key: plane_circle_check
+plane_circle_exclamation:
+    cats: []
+    fa6: e556
+    key: plane_circle_exclamation
+plane_circle_xmark:
+    cats: []
+    fa6: e557
+    key: plane_circle_xmark
+plane_departure:
+    cats: []
+    fa: f5b0
+    fa6: f5b0
+    key: plane_departure
+plane_lock:
+    cats: []
+    fa6: e558
+    key: plane_lock
+plane_slash:
+    cats: []
+    fa6: e069
+    key: plane_slash
+plane_up:
+    cats: []
+    fa6: e22d
+    key: plane_up
+plant_wilt:
+    cats: [emotion]
+    fa6: e5aa
+    key: plant_wilt
+plate_wheat:
+    cats: []
+    fa6: e55a
+    key: plate_wheat
+play:
+    cats: []
+    fa: f04b
+    fa6: f04b
+    key: play
+play_circle:
+    cats: []
+    fa: f144
+    key: play_circle
+plug:
+    cats: []
+    fa: f1e6
+    ga: E93C
+    fa6: f1e6
+    key: plug
+plug_circle_bolt:
+    cats: []
+    fa6: e55b
+    key: plug_circle_bolt
+plug_circle_check:
+    cats: []
+    fa6: e55c
+    key: plug_circle_check
+plug_circle_exclamation:
+    cats: []
+    fa6: e55d
+    key: plug_circle_exclamation
+plug_circle_minus:
+    cats: []
+    fa6: e55e
+    key: plug_circle_minus
+plug_circle_plus:
+    cats: []
+    fa6: e55f
+    key: plug_circle_plus
+plug_circle_xmark:
+    cats: []
+    fa6: e560
+    key: plug_circle_xmark
+plus:
+    emo: '&#10133;'
+    cats: []
+    fa: f067
+    fa6: 2b
+    key: plus
+plus_circle:
+    cats: []
+    fa: f055
+    key: plus_circle
+plus_minus:
+    uni: '&#xb1;'
+    cats: [math]
+    fa6: e43c
+    key: plus_minus
+plus_square:
+    cats: []
+    fa: f0fe
+    key: plus_square
+podcast:
+    cats: []
+    fa: f2ce
+    fa6: f2ce
+    key: podcast
+poll:
+    cats: []
+    fa: f681
+    key: poll
+poll_h:
+    cats: []
+    fa: f682
+    key: poll_h
+poo:
+    cats: []
+    fa: f2fe
+    fa6: f2fe
+    key: poo
+poo_storm:
+    cats: []
+    fa: f75a
+    fa6: f75a
+    key: poo_storm
+poop:
+    cats: []
+    fa: f619
+    fa6: f619
+    key: poop
+portrait:
+    cats: []
+    fa: f3e0
+    ga: E76B
+    key: portrait
+pound_sign:
+    cats: []
+    fa: f154
+    key: pound_sign
+power_off:
+    cats: []
+    fa: f011
+    fa6: f011
+    key: power_off
+pray:
+    cats: []
+    fa: f683
+    key: pray
+praying_hands:
+    cats: []
+    fa: f684
+    key: praying_hands
+prescription:
+    cats: []
+    fa: f5b1
+    fa6: f5b1
+    key: prescription
+prescription_bottle:
+    cats: []
+    fa: f485
+    fa6: f485
+    key: prescription_bottle
+prescription_bottle_alt:
+    cats: []
+    fa: f486
+    key: prescription_bottle_alt
+prescription_bottle_medical:
+    cats: []
+    fa6: f486
+    key: prescription_bottle_medical
+print:
+    cats: []
+    fa: f02f
+    fa6: f02f
+    key: print
+procedures:
+    cats: []
+    fa: f487
+    key: procedures
+project_diagram:
+    cats: []
+    fa: f542
+    key: project_diagram
+pump_medical:
+    cats: []
+    fa6: e06a
+    key: pump_medical
+pump_soap:
+    cats: [animal]
+    fa6: e06b
+    key: pump_soap
+puzzle_piece:
+    emo: '&#129513;'
+    cats: [action]
+    fa: f12e
+    fa6: f12e
+    img: ../assets/img/emo/puzzle-piece.png
+    key: puzzle_piece
+qrcode:
+    cats: []
+    fa: f029
+    fa6: f029
+    key: qrcode
+question:
+    cats: []
+    fa: f128
+    fa6: 3f
+    key: question
+question_circle:
+    cats: []
+    fa: f059
+    key: question_circle
+quidditch:
+    cats: [sport]
+    fa: f458
+    key: quidditch
+quote_left:
+    cats: []
+    fa: f10d
+    fa6: f10d
+    key: quote_left
+quote_right:
+    cats: []
+    fa: f10e
+    fa6: f10e
+    key: quote_right
+quran:
+    cats: []
+    fa: f687
+    key: quran
+radiation:
+    cats: []
+    fa: f7b9
+    fa6: f7b9
+    key: radiation
+radiation_alt:
+    cats: []
+    fa: f7ba
+    key: radiation_alt
+radio:
+    emo: '&#128251;'
+    cats: []
+    fa6: f8d7
+    img: ../assets/img/emo/radio.png
+    key: radio
+rainbow:
+    emo: '&#127752;'
+    cats: []
+    fa: f75b
+    fa6: f75b
+    img: ../assets/img/emo/rainbow.png
+    key: rainbow
+random:
+    cats: []
+    fa: f074
+    key: random
+ranking_star:
+    cats: []
+    fa6: e561
+    key: ranking_star
+receipt:
+    emo: '&#129534;'
+    cats: []
+    fa: f543
+    fa6: f543
+    img: ../assets/img/emo/receipt.png
+    key: receipt
+record_vinyl:
+    cats: []
+    fa: f8d9
+    fa6: f8d9
+    key: record_vinyl
+rectangle_ad:
+    cats: []
+    fa6: f641
+    key: rectangle_ad
+rectangle_list:
+    cats: []
+    fa6: f022
+    key: rectangle_list
+rectangle_xmark:
+    cats: []
+    fa6: f410
+    key: rectangle_xmark
+recycle:
+    cats: []
+    fa: f1b8
+    ga: E0E0
+    fa6: f1b8
+    key: recycle
+redo:
+    cats: []
+    fa: f01e
+    key: redo
+redo_alt:
+    cats: []
+    fa: f2f9
+    key: redo_alt
+registered:
+    friendly: registered
+    img: ../assets/img/emo/registered.png
+    fa: f25d
+    emo: '&#174;'
+    cats: []
+    fa6: f25d
+    uni: '&#xae;'
+    key: registered
+remove_format:
+    cats: []
+    fa: f87d
+    key: remove_format
+repeat:
+    cats: []
+    fa6: f363
+    key: repeat
+reply:
+    cats: []
+    fa: f3e5
+    fa6: f3e5
+    key: reply
+reply_all:
+    cats: []
+    fa: f122
+    fa6: f122
+    key: reply_all
+republican:
+    cats: []
+    fa: f75e
+    fa6: f75e
+    key: republican
+restroom:
+    emo: '&#128699;'
+    cats: []
+    fa: f7bd
+    fa6: f7bd
+    img: ../assets/img/emo/restroom.png
+    key: restroom
+retweet:
+    cats: []
+    fa: f079
+    fa6: f079
+    key: retweet
+ribbon:
+    emo: '&#127872;'
+    cats: []
+    fa: f4d6
+    ga: E0E1
+    fa6: f4d6
+    img: ../assets/img/emo/ribbon.png
+    key: ribbon
+right_from_bracket:
+    cats: []
+    fa6: f2f5
+    key: right_from_bracket
+right_left:
+    cats: []
+    fa6: f362
+    key: right_left
+right_long:
+    cats: []
+    fa6: f30b
+    key: right_long
+right_to_bracket:
+    cats: []
+    fa6: f2f6
+    key: right_to_bracket
+ring:
+    emo: '&#128141;'
+    cats: [clothing]
+    fa: f70b
+    ga: E896
+    fa6: f70b
+    img: ../assets/img/emo/ring.png
+    key: ring
+road:
+    cats: []
+    fa: f018
+    ga: E47A
+    fa6: f018
+    key: road
+road_barrier:
+    cats: [animal]
+    fa6: e562
+    key: road_barrier
+road_bridge:
+    cats: []
+    fa6: e563
+    key: road_bridge
+road_circle_check:
+    cats: []
+    fa6: e564
+    key: road_circle_check
+road_circle_exclamation:
+    cats: [animal]
+    fa6: e565
+    key: road_circle_exclamation
+road_circle_xmark:
+    cats: [animal]
+    fa6: e566
+    key: road_circle_xmark
+road_lock:
+    cats: [animal]
+    fa6: e567
+    key: road_lock
+road_spikes:
+    cats: []
+    fa6: e568
+    key: road_spikes
+robot:
+    emo: '&#129302;'
+    cats: [emotion]
+    fa: f544
+    fa6: f544
+    img: ../assets/img/emo/robot.png
+    key: robot
+rocket:
+    emo: '&#128640;'
+    cats: [action, sport, transport]
+    fa: f135
+    ga: E617
+    fa6: f135
+    img: ../assets/img/emo/rocket.png
+    key: rocket
+rotate:
+    cats: []
+    fa6: f2f1
+    key: rotate
+rotate_left:
+    cats: [action]
+    fa6: f2ea
+    key: rotate_left
+rotate_right:
+    cats: []
+    fa6: f2f9
+    key: rotate_right
+route:
+    cats: []
+    fa: f4d7
+    fa6: f4d7
+    key: route
+rss:
+    cats: []
+    fa: f09e
+    ga: E0A1
+    fa6: f09e
+    key: rss
+rss_square:
+    cats: []
+    fa: f143
+    key: rss_square
+ruble_sign:
+    cats: []
+    fa: f158
+    fa6: f158
+    key: ruble_sign
+rug:
+    cats: [animal]
+    fa6: e569
+    key: rug
+ruler:
+    cats: []
+    fa: f545
+    fa6: f545
+    key: ruler
+ruler_combined:
+    cats: []
+    fa: f546
+    fa6: f546
+    key: ruler_combined
+ruler_horizontal:
+    cats: []
+    fa: f547
+    fa6: f547
+    key: ruler_horizontal
+ruler_vertical:
+    cats: []
+    fa: f548
+    fa6: f548
+    key: ruler_vertical
+running:
+    emo: '&#127939;'
+    cats: [action, sport]
+    fa: f70c
+    key: running
+rupee_sign:
+    cats: []
+    fa: f156
+    fa6: f156
+    key: rupee_sign
+rupiah_sign:
+    cats: []
+    fa6: e23d
+    key: rupiah_sign
+sack_dollar:
+    cats: []
+    fa6: f81d
+    key: sack_dollar
+sack_xmark:
+    cats: [animal]
+    fa6: e56a
+    key: sack_xmark
+sad_cry:
+    cats: []
+    fa: f5b3
+    key: sad_cry
+sad_tear:
+    cats: []
+    fa: f5b4
+    key: sad_tear
+sailboat:
+    emo: '&#9973;'
+    cats: [sport, transport]
+    ga: E532
+    fa6: e445
+    img: ../assets/img/emo/sailboat.png
+    key: sailboat
+satellite:
+    emo: '&#128752;'
+    cats: [sport, transport]
+    fa: f7bf
+    fa6: f7bf
+    img: ../assets/img/emo/satellite.png
+    key: satellite
+satellite_dish:
+    cats: []
+    fa: f7c0
+    fa6: f7c0
+    key: satellite_dish
+save:
+    cats: []
+    fa: f0c7
+    ga: EBA1
+    key: save
+scale_balanced:
+    cats: []
+    fa6: f24e
+    key: scale_balanced
+scale_unbalanced:
+    cats: []
+    fa6: f515
+    key: scale_unbalanced
+scale_unbalanced_flip:
+    cats: []
+    fa6: f516
+    key: scale_unbalanced_flip
+school:
+    emo: '&#127979;'
+    cats: [building]
+    fa: f549
+    fa6: f549
+    img: ../assets/img/emo/school.png
+    key: school
+school_circle_check:
+    cats: [animal]
+    fa6: e56b
+    key: school_circle_check
+school_circle_exclamation:
+    cats: []
+    fa6: e56c
+    key: school_circle_exclamation
+school_circle_xmark:
+    cats: []
+    fa6: e56d
+    key: school_circle_xmark
+school_flag:
+    cats: []
+    fa6: e56e
+    key: school_flag
+school_lock:
+    cats: []
+    fa6: e56f
+    key: school_lock
+scissors:
+    emo: '&#9986;'
+    cats: []
+    ga: E961
+    fa6: f0c4
+    img: ../assets/img/emo/scissors.png
+    key: scissors
+screwdriver:
+    emo: '&#129691;'
+    cats: []
+    fa: f54a
+    ga: EB75
+    fa6: f54a
+    img: ../assets/img/emo/screwdriver.png
+    key: screwdriver
+screwdriver_wrench:
+    cats: []
+    fa6: f7d9
+    key: screwdriver_wrench
+scroll:
+    emo: '&#128220;'
+    cats: []
+    fa: f70e
+    fa6: f70e
+    img: ../assets/img/emo/scroll.png
+    key: scroll
+scroll_torah:
+    cats: []
+    fa6: f6a0
+    key: scroll_torah
+sd_card:
+    cats: []
+    fa: f7c2
+    fa6: f7c2
+    key: sd_card
+search:
+    cats: []
+    fa: f002
+    key: search
+search_dollar:
+    cats: []
+    fa: f688
+    key: search_dollar
+search_location:
+    cats: []
+    fa: f689
+    key: search_location
+search_minus:
+    cats: []
+    fa: f010
+    key: search_minus
+search_plus:
+    cats: []
+    fa: f00e
+    key: search_plus
+section:
+    cats: [gesture]
+    fa6: e447
+    key: section
+seedling:
+    emo: '&#127793;'
+    cats: [plant]
+    fa: f4d8
+    ga: EAAF
+    fa6: f4d8
+    img: ../assets/img/emo/seedling.png
+    key: seedling
+server:
+    cats: []
+    fa: f233
+    fa6: f233
+    key: server
+shapes:
+    cats: []
+    fa: f61f
+    fa6: f61f
+    key: shapes
+share:
+    cats: []
+    fa: f064
+    ga: EBA2
+    fa6: f064
+    key: share
+share_alt:
+    cats: []
+    fa: f1e0
+    key: share_alt
+share_alt_square:
+    cats: []
+    fa: f1e1
+    key: share_alt_square
+share_from_square:
+    cats: []
+    fa6: f14d
+    key: share_from_square
+share_nodes:
+    cats: []
+    fa6: f1e0
+    key: share_nodes
+share_square:
+    cats: []
+    fa: f14d
+    key: share_square
+sheet_plastic:
+    cats: []
+    fa6: e571
+    key: sheet_plastic
+shekel_sign:
+    cats: []
+    fa: f20b
+    fa6: f20b
+    key: shekel_sign
+shield:
+    emo: '&#128737;'
+    cats: []
+    ga: E067
+    fa6: f132
+    img: ../assets/img/emo/shield.png
+    key: shield
+shield_alt:
+    cats: []
+    fa: f3ed
+    key: shield_alt
+shield_cat:
+    cats: []
+    fa6: e572
+    key: shield_cat
+shield_dog:
+    cats: []
+    fa6: e573
+    key: shield_dog
+shield_halved:
+    cats: []
+    fa6: f3ed
+    key: shield_halved
+shield_heart:
+    cats: [animal]
+    fa6: e574
+    key: shield_heart
+shield_virus:
+    cats: []
+    fa6: e06c
+    key: shield_virus
+ship:
+    emo: '&#128674;'
+    cats: [sport, transport]
+    fa: f21a
+    fa6: f21a
+    img: ../assets/img/emo/ship.png
+    key: ship
+shipping_fast:
+    cats: []
+    fa: f48b
+    key: shipping_fast
+shirt:
+    cats: [clothing]
+    ga: EC26
+    fa6: f553
+    key: shirt
+shoe_prints:
+    cats: []
+    fa: f54b
+    fa6: f54b
+    key: shoe_prints
+shop:
+    cats: []
+    ga: E7E7
+    fa6: f54f
+    key: shop
+shop_lock:
+    cats: []
+    fa6: e4a5
+    key: shop_lock
+shop_slash:
+    cats: []
+    fa6: e070
+    key: shop_slash
+shopping_bag:
+    cats: []
+    fa: f290
+    ga: EAD9
+    key: shopping_bag
+shopping_basket:
+    cats: []
+    fa: f291
+    key: shopping_basket
+shopping_cart:
+    emo: '&#128722;'
+    cats: []
+    fa: f07a
+    ga: EBA3
+    img: ../assets/img/emo/shopping-cart.png
+    key: shopping_cart
+shower:
+    emo: '&#128703;'
+    cats: []
+    fa: f2cc
+    ga: E9A9
+    fa6: f2cc
+    img: ../assets/img/emo/shower.png
+    key: shower
+shrimp:
+    emo: '&#129424;'
+    cats: [food, animal]
+    ga: E40B
+    fa6: e448
+    img: ../assets/img/emo/shrimp.png
+    key: shrimp
+shuffle:
+    cats: []
+    fa6: f074
+    key: shuffle
+shuttle_space:
+    cats: []
+    fa6: f197
+    key: shuttle_space
+shuttle_van:
+    cats: []
+    fa: f5b6
+    key: shuttle_van
+sign:
+    cats: []
+    fa: f4d9
+    key: sign
+sign_hanging:
+    cats: []
+    fa6: f4d9
+    key: sign_hanging
+sign_in_alt:
+    cats: []
+    fa: f2f6
+    key: sign_in_alt
+sign_language:
+    cats: []
+    fa: f2a7
+    key: sign_language
+sign_out_alt:
+    cats: []
+    fa: f2f5
+    key: sign_out_alt
+signal:
+    cats: []
+    fa: f012
+    fa6: f012
+    key: signal
+signature:
+    cats: []
+    fa: f5b7
+    fa6: f5b7
+    key: signature
+signs_post:
+    cats: []
+    fa6: f277
+    key: signs_post
+sim_card:
+    cats: []
+    fa: f7c4
+    fa6: f7c4
+    key: sim_card
+sink:
+    cats: []
+    fa6: e06d
+    key: sink
+sitemap:
+    cats: []
+    fa: f0e8
+    fa6: f0e8
+    key: sitemap
+skating:
+    cats: [action]
+    fa: f7c5
+    key: skating
+skiing:
+    cats: [action]
+    fa: f7c9
+    key: skiing
+skiing_nordic:
+    cats: [action]
+    fa: f7ca
+    key: skiing_nordic
+skull:
+    emo: '&#128128;'
+    cats: [emotion]
+    fa: f54c
+    fa6: f54c
+    img: ../assets/img/emo/skull.png
+    key: skull
+skull_crossbones:
+    cats: []
+    fa: f714
+    fa6: f714
+    key: skull_crossbones
+slash:
+    cats: []
+    fa: f715
+    fa6: f715
+    key: slash
+sleigh:
+    cats: []
+    fa: f7cc
+    fa6: f7cc
+    key: sleigh
+sliders:
+    cats: []
+    fa6: f1de
+    key: sliders
+sliders_h:
+    cats: []
+    fa: f1de
+    key: sliders_h
+smile:
+    cats: [emotion]
+    fa: f118
+    key: smile
+smile_beam:
+    cats: [emotion]
+    fa: f5b8
+    key: smile_beam
+smile_wink:
+    cats: [emotion]
+    fa: f4da
+    key: smile_wink
+smog:
+    cats: []
+    fa: f75f
+    fa6: f75f
+    key: smog
+smoking:
+    cats: []
+    fa: f48d
+    fa6: f48d
+    key: smoking
+smoking_ban:
+    cats: []
+    fa: f54d
+    key: smoking_ban
+sms:
+    cats: []
+    fa: f7cd
+    key: sms
+snowboarding:
+    cats: [action]
+    fa: f7ce
+    key: snowboarding
+snowflake:
+    emo: '&#10052;'
+    cats: []
+    fa: f2dc
+    fa6: f2dc
+    img: ../assets/img/emo/snowflake.png
+    key: snowflake
+snowman:
+    emo: '&#9731;'
+    cats: []
+    fa: f7d0
+    ga: E840
+    fa6: f7d0
+    img: ../assets/img/emo/snowman.png
+    key: snowman
+snowplow:
+    cats: []
+    fa: f7d2
+    fa6: f7d2
+    key: snowplow
+soap:
+    emo: '&#129532;'
+    cats: []
+    fa6: e06e
+    img: ../assets/img/emo/soap.png
+    key: soap
+socks:
+    emo: '&#129510;'
+    cats: [clothing]
+    fa: f696
+    ga: EB09
+    fa6: f696
+    img: ../assets/img/emo/socks.png
+    key: socks
+solar_panel:
+    cats: []
+    fa: f5ba
+    fa6: f5ba
+    key: solar_panel
+sort:
+    cats: []
+    fa: f0dc
+    fa6: f0dc
+    key: sort
+sort_alpha_down:
+    cats: []
+    fa: f15d
+    key: sort_alpha_down
+sort_alpha_down_alt:
+    cats: []
+    fa: f881
+    key: sort_alpha_down_alt
+sort_alpha_up:
+    cats: []
+    fa: f15e
+    key: sort_alpha_up
+sort_alpha_up_alt:
+    cats: []
+    fa: f882
+    key: sort_alpha_up_alt
+sort_amount_down:
+    cats: []
+    fa: f160
+    key: sort_amount_down
+sort_amount_down_alt:
+    cats: []
+    fa: f884
+    key: sort_amount_down_alt
+sort_amount_up:
+    cats: []
+    fa: f161
+    key: sort_amount_up
+sort_amount_up_alt:
+    cats: []
+    fa: f885
+    key: sort_amount_up_alt
+sort_down:
+    cats: []
+    fa: f0dd
+    fa6: f0dd
+    key: sort_down
+sort_numeric_down:
+    cats: []
+    fa: f162
+    key: sort_numeric_down
+sort_numeric_down_alt:
+    cats: []
+    fa: f886
+    key: sort_numeric_down_alt
+sort_numeric_up:
+    cats: []
+    fa: f163
+    key: sort_numeric_up
+sort_numeric_up_alt:
+    cats: []
+    fa: f887
+    key: sort_numeric_up_alt
+sort_up:
+    cats: []
+    fa: f0de
+    fa6: f0de
+    key: sort_up
+spa:
+    cats: []
+    fa: f5bb
+    fa6: f5bb
+    key: spa
+space_shuttle:
+    cats: []
+    fa: f197
+    ga: E5FE
+    key: space_shuttle
+spaghetti_monster_flying:
+    cats: []
+    fa6: f67b
+    key: spaghetti_monster_flying
+spell_check:
+    cats: []
+    fa: f891
+    fa6: f891
+    key: spell_check
+spider:
+    emo: '&#128375;'
+    cats: [animal]
+    fa: f717
+    fa6: f717
+    img: ../assets/img/emo/spider.png
+    photo: ../assets/img/tierspiel/garden_spider.png
+    key: spider
+spinner:
+    cats: []
+    fa: f110
+    fa6: f110
+    key: spinner
+splotch:
+    cats: []
+    fa: f5bc
+    fa6: f5bc
+    key: splotch
+spoon:
+    emo: '&#129348;'
+    cats: [food]
+    ga: E8D4
+    fa6: f2e5
+    img: ../assets/img/emo/spoon.png
+    key: spoon
+spray_can:
+    cats: []
+    fa: f5bd
+    fa6: f5bd
+    key: spray_can
+spray_can_sparkles:
+    cats: []
+    fa6: f5d0
+    key: spray_can_sparkles
+square:
+    cats: []
+    fa: f0c8
+    ga: EBA4
+    fa6: f0c8
+    key: square
+square_arrow_up_right:
+    cats: []
+    fa6: f14c
+    key: square_arrow_up_right
+square_caret_down:
+    cats: []
+    fa6: f150
+    key: square_caret_down
+square_caret_left:
+    cats: []
+    fa6: f191
+    key: square_caret_left
+square_caret_right:
+    cats: []
+    fa6: f152
+    key: square_caret_right
+square_caret_up:
+    cats: []
+    fa6: f151
+    key: square_caret_up
+square_check:
+    cats: []
+    fa6: f14a
+    key: square_check
+square_envelope:
+    cats: []
+    fa6: f199
+    key: square_envelope
+square_full:
+    cats: []
+    fa: f45c
+    fa6: f45c
+    key: square_full
+square_h:
+    cats: []
+    fa6: f0fd
+    key: square_h
+square_minus:
+    cats: []
+    fa6: f146
+    key: square_minus
+square_nfi:
+    cats: []
+    fa6: e576
+    key: square_nfi
+square_parking:
+    cats: []
+    fa6: f540
+    key: square_parking
+square_pen:
+    cats: []
+    fa6: f14b
+    key: square_pen
+square_person_confined:
+    cats: []
+    fa6: e577
+    key: square_person_confined
+square_phone:
+    cats: []
+    fa6: f098
+    key: square_phone
+square_phone_flip:
+    cats: []
+    fa6: f87b
+    key: square_phone_flip
+square_plus:
+    cats: []
+    fa6: f0fe
+    key: square_plus
+square_poll_horizontal:
+    cats: []
+    fa6: f682
+    key: square_poll_horizontal
+square_poll_vertical:
+    cats: []
+    fa6: f681
+    key: square_poll_vertical
+square_root_alt:
+    cats: []
+    fa: f698
+    key: square_root_alt
+square_root_variable:
+    cats: []
+    fa6: f698
+    key: square_root_variable
+square_rss:
+    cats: []
+    fa6: f143
+    key: square_rss
+square_share_nodes:
+    cats: []
+    fa6: f1e1
+    key: square_share_nodes
+square_up_right:
+    cats: []
+    fa6: f360
+    key: square_up_right
+square_virus:
+    cats: []
+    fa6: e578
+    key: square_virus
+square_xmark:
+    cats: []
+    fa6: f2d3
+    key: square_xmark
+staff_snake:
+    cats: []
+    fa6: e579
+    key: staff_snake
+stairs:
+    cats: []
+    ga: E7E9
+    fa6: e289
+    key: stairs
+stamp:
+    cats: []
+    fa: f5bf
+    fa6: f5bf
+    key: stamp
+stapler:
+    cats: []
+    fa6: e5af
+    key: stapler
+star:
+    emo: '&#11088;'
+    cats: []
+    fa: f005
+    fa6: f005
+    img: ../assets/img/emo/star.png
+    key: star
+star_and_crescent:
+    emo: '&#9770;'
+    cats: []
+    fa: f699
+    fa6: f699
+    img: ../assets/img/emo/star-and-crescent.png
+    key: star_and_crescent
+star_half:
+    cats: []
+    fa: f089
+    fa6: f089
+    key: star_half
+star_half_alt:
+    cats: []
+    fa: f5c0
+    key: star_half_alt
+star_half_stroke:
+    cats: []
+    fa6: f5c0
+    key: star_half_stroke
+star_of_david:
+    emo: '&#10017;'
+    cats: []
+    fa: f69a
+    fa6: f69a
+    img: ../assets/img/emo/star-of-david.png
+    key: star_of_david
+star_of_life:
+    cats: []
+    fa: f621
+    fa6: f621
+    key: star_of_life
+step_backward:
+    cats: []
+    fa: f048
+    key: step_backward
+step_forward:
+    cats: []
+    fa: f051
+    key: step_forward
+sterling_sign:
+    cats: []
+    fa6: f154
+    key: sterling_sign
+stethoscope:
+    emo: '&#129658;'
+    cats: []
+    fa: f0f1
+    ga: E91D
+    fa6: f0f1
+    img: ../assets/img/emo/stethoscope.png
+    key: stethoscope
+sticky_note:
+    cats: []
+    fa: f249
+    key: sticky_note
+stop:
+    cats: []
+    fa: f04d
+    fa6: f04d
+    key: stop
+stop_circle:
+    cats: []
+    fa: f28d
+    key: stop_circle
+stopwatch:
+    emo: '&#9201;'
+    cats: []
+    fa: f2f2
+    ga: E171
+    fa6: f2f2
+    img: ../assets/img/emo/stopwatch.png
+    key: stopwatch
+stopwatch_20:
+    cats: []
+    fa6: e06f
+    key: stopwatch_20
+store:
+    cats: []
+    fa: f54e
+    fa6: f54e
+    key: store
+store_alt:
+    cats: []
+    fa: f54f
+    key: store_alt
+store_slash:
+    cats: []
+    fa6: e071
+    key: store_slash
+stream:
+    cats: []
+    fa: f550
+    key: stream
+street_view:
+    cats: []
+    fa: f21d
+    fa6: f21d
+    key: street_view
+strikethrough:
+    cats: []
+    fa: f0cc
+    fa6: f0cc
+    key: strikethrough
+stroopwafel:
+    cats: [food]
+    fa: f551
+    fa6: f551
+    key: stroopwafel
+subscript:
+    cats: []
+    fa: f12c
+    fa6: f12c
+    key: subscript
+subway:
+    cats: []
+    fa: f239
+    ga: E605
+    key: subway
+suitcase:
+    cats: []
+    fa: f0f2
+    ga: EADA
+    fa6: f0f2
+    key: suitcase
+suitcase_medical:
+    cats: []
+    fa6: f0fa
+    key: suitcase_medical
+suitcase_rolling:
+    cats: []
+    fa: f5c1
+    fa6: f5c1
+    key: suitcase_rolling
+sun:
+    emo: '&#9728;'
+    cats: []
+    fa: f185
+    ga: E6E3
+    fa6: f185
+    img: ../assets/img/emo/sun.png
+    key: sun
+sun_plant_wilt:
+    cats: []
+    fa6: e57a
+    key: sun_plant_wilt
+superscript:
+    cats: []
+    fa: f12b
+    fa6: f12b
+    key: superscript
+surprise:
+    cats: [emotion]
+    fa: f5c2
+    key: surprise
+swatchbook:
+    cats: []
+    fa: f5c3
+    fa6: f5c3
+    key: swatchbook
+swimmer:
+    cats: []
+    fa: f5c4
+    key: swimmer
+swimming_pool:
+    cats: []
+    fa: f5c5
+    key: swimming_pool
+synagogue:
+    emo: '&#128333;'
+    cats: [building]
+    fa: f69b
+    fa6: f69b
+    img: ../assets/img/emo/synagogue.png
+    key: synagogue
+sync:
+    cats: []
+    fa: f021
+    key: sync
+sync_alt:
+    cats: []
+    fa: f2f1
+    key: sync_alt
+syringe:
+    emo: '&#128137;'
+    cats: []
+    fa: f48e
+    ga: E92B
+    fa6: f48e
+    img: ../assets/img/emo/syringe.png
+    key: syringe
+table:
+    cats: []
+    fa: f0ce
+    ga: E729
+    fa6: f0ce
+    key: table
+table_cells:
+    cats: []
+    fa6: f00a
+    key: table_cells
+table_cells_large:
+    cats: []
+    fa6: f009
+    key: table_cells_large
+table_columns:
+    cats: []
+    fa6: f0db
+    key: table_columns
+table_list:
+    cats: []
+    fa6: f00b
+    key: table_list
+table_tennis:
+    cats: [action]
+    fa: f45d
+    key: table_tennis
+table_tennis_paddle_ball:
+    cats: [action]
+    fa6: f45d
+    key: table_tennis_paddle_ball
+tablet:
+    cats: []
+    fa: f10a
+    ga: EBAF
+    fa6: f3fb
+    key: tablet
+tablet_alt:
+    cats: []
+    fa: f3fa
+    key: tablet_alt
+tablet_button:
+    cats: []
+    fa6: f10a
+    key: tablet_button
+tablet_screen_button:
+    cats: []
+    fa6: f3fa
+    key: tablet_screen_button
+tablets:
+    cats: []
+    fa: f490
+    fa6: f490
+    key: tablets
+tachograph_digital:
+    cats: []
+    fa6: f566
+    key: tachograph_digital
+tachometer_alt:
+    cats: []
+    fa: f3fd
+    key: tachometer_alt
+tag:
+    cats: []
+    fa: f02b
+    fa6: f02b
+    key: tag
+tags:
+    cats: []
+    fa: f02c
+    fa6: f02c
+    key: tags
+tape:
+    cats: []
+    fa: f4db
+    fa6: f4db
+    key: tape
+tarp:
+    cats: []
+    fa6: e57b
+    key: tarp
+tarp_droplet:
+    cats: []
+    fa6: e57c
+    key: tarp_droplet
+tasks:
+    cats: []
+    fa: f0ae
+    key: tasks
+taxi:
+    emo: '&#128661;'
+    cats: [sport, transport]
+    fa: f1ba
+    fa6: f1ba
+    img: ../assets/img/emo/taxi.png
+    key: taxi
+teeth:
+    cats: []
+    fa: f62e
+    fa6: f62e
+    key: teeth
+teeth_open:
+    cats: []
+    fa: f62f
+    fa6: f62f
+    key: teeth_open
+temperature_arrow_down:
+    cats: []
+    fa6: e03f
+    key: temperature_arrow_down
+temperature_arrow_up:
+    cats: []
+    fa6: e040
+    key: temperature_arrow_up
+temperature_empty:
+    cats: []
+    fa6: f2cb
+    key: temperature_empty
+temperature_full:
+    cats: []
+    fa6: f2c7
+    key: temperature_full
+temperature_half:
+    cats: []
+    fa6: f2c9
+    key: temperature_half
+temperature_high:
+    cats: []
+    fa: f769
+    fa6: f769
+    key: temperature_high
+temperature_low:
+    cats: []
+    fa: f76b
+    fa6: f76b
+    key: temperature_low
+temperature_quarter:
+    cats: []
+    fa6: f2ca
+    key: temperature_quarter
+temperature_three_quarters:
+    cats: []
+    fa6: f2c8
+    key: temperature_three_quarters
+tenge:
+    cats: []
+    fa: f7d7
+    key: tenge
+tenge_sign:
+    cats: []
+    fa6: f7d7
+    key: tenge_sign
+tent:
+    emo: '&#9978;'
+    cats: []
+    fa6: e57d
+    img: ../assets/img/emo/tent.png
+    key: tent
+tent_arrow_down_to_line:
+    cats: []
+    fa6: e57e
+    key: tent_arrow_down_to_line
+tent_arrow_left_right:
+    cats: []
+    fa6: e57f
+    key: tent_arrow_left_right
+tent_arrow_turn_left:
+    cats: []
+    fa6: e580
+    key: tent_arrow_turn_left
+tent_arrows_down:
+    cats: []
+    fa6: e581
+    key: tent_arrows_down
+tents:
+    cats: []
+    fa6: e582
+    key: tents
+terminal:
+    cats: []
+    fa: f120
+    fa6: f120
+    key: terminal
+text_height:
+    cats: []
+    fa: f034
+    fa6: f034
+    key: text_height
+text_slash:
+    cats: []
+    fa6: f87d
+    key: text_slash
+text_width:
+    cats: []
+    fa: f035
+    fa6: f035
+    key: text_width
+th:
+    cats: []
+    fa: f00a
+    key: th
+th_large:
+    cats: []
+    fa: f009
+    key: th_large
+th_list:
+    cats: []
+    fa: f00b
+    key: th_list
+theater_masks:
+    cats: []
+    fa: f630
+    key: theater_masks
+thermometer:
+    emo: '&#127777;'
+    cats: []
+    fa: f491
+    fa6: f491
+    img: ../assets/img/emo/thermometer.png
+    key: thermometer
+thermometer_empty:
+    cats: []
+    fa: f2cb
+    key: thermometer_empty
+thermometer_full:
+    cats: []
+    fa: f2c7
+    key: thermometer_full
+thermometer_half:
+    cats: []
+    fa: f2c9
+    key: thermometer_half
+thermometer_quarter:
+    cats: []
+    fa: f2ca
+    key: thermometer_quarter
+thermometer_three_quarters:
+    cats: []
+    fa: f2c8
+    key: thermometer_three_quarters
+thumbs_down:
+    emo: '&#128078;'
+    cats: [gesture]
+    fa: f165
+    fa6: f165
+    img: ../assets/img/emo/thumbs-down.png
+    key: thumbs_down
+thumbs_up:
+    emo: '&#128077;'
+    cats: [gesture]
+    fa: f164
+    fa6: f164
+    img: ../assets/img/emo/thumbs-up.png
+    key: thumbs_up
+thumbtack:
+    cats: []
+    fa: f08d
+    fa6: f08d
+    key: thumbtack
+ticket:
+    emo: '&#127915;'
+    cats: [action]
+    ga: EAE3
+    fa6: f145
+    img: ../assets/img/emo/ticket.png
+    key: ticket
+ticket_alt:
+    cats: []
+    fa: f3ff
+    key: ticket_alt
+ticket_simple:
+    cats: []
+    fa6: f3ff
+    key: ticket_simple
+timeline:
+    cats: []
+    fa6: e29c
+    key: timeline
+times:
+    cats: []
+    fa: f00d
+    key: times
+times_circle:
+    cats: []
+    fa: f057
+    key: times_circle
+tint:
+    cats: []
+    fa: f043
+    key: tint
+tint_slash:
+    cats: []
+    fa: f5c7
+    key: tint_slash
+tired:
+    cats: [emotion]
+    fa: f5c8
+    key: tired
+toggle_off:
+    cats: [action]
+    fa: f204
+    fa6: f204
+    key: toggle_off
+toggle_on:
+    cats: [action]
+    fa: f205
+    fa6: f205
+    key: toggle_on
+toilet:
+    emo: '&#128701;'
+    cats: []
+    fa: f7d8
+    fa6: f7d8
+    img: ../assets/img/emo/toilet.png
+    key: toilet
+toilet_paper:
+    cats: []
+    fa: f71e
+    fa6: f71e
+    key: toilet_paper
+toilet_paper_slash:
+    cats: []
+    fa6: e072
+    key: toilet_paper_slash
+toilet_portable:
+    cats: []
+    fa6: e583
+    key: toilet_portable
+toilets_portable:
+    cats: []
+    fa6: e584
+    key: toilets_portable
+toolbox:
+    emo: '&#129520;'
+    cats: []
+    fa: f552
+    ga: E99B
+    fa6: f552
+    img: ../assets/img/emo/toolbox.png
+    key: toolbox
+tools:
+    cats: []
+    fa: f7d9
+    key: tools
+tooth:
+    emo: '&#129463;'
+    cats: []
+    fa: f5c9
+    ga: E789
+    fa6: f5c9
+    img: ../assets/img/emo/tooth.png
+    key: tooth
+torah:
+    cats: []
+    fa: f6a0
+    key: torah
+torii_gate:
+    cats: []
+    fa: f6a1
+    fa6: f6a1
+    key: torii_gate
+tornado:
+    emo: '&#127786;'
+    cats: []
+    ga: EC83
+    fa6: f76f
+    img: ../assets/img/emo/tornado.png
+    key: tornado
+tower_broadcast:
+    cats: []
+    fa6: f519
+    key: tower_broadcast
+tower_cell:
+    cats: []
+    fa6: e585
+    key: tower_cell
+tower_observation:
+    cats: []
+    fa6: e586
+    key: tower_observation
+tractor:
+    emo: '&#128668;'
+    cats: [sport, transport]
+    fa: f722
+    fa6: f722
+    img: ../assets/img/emo/tractor.png
+    key: tractor
+trademark:
+    cats: []
+    fa: f25c
+    fa6: f25c
+    key: trademark
+traffic_light:
+    cats: []
+    fa: f637
+    fa6: f637
+    key: traffic_light
+trailer:
+    cats: []
+    fa6: e041
+    key: trailer
+train:
+    emo: '&#128646;'
+    cats: [sport, transport]
+    fa: f238
+    fa6: f238
+    img: ../assets/img/emo/train.png
+    key: train
+train_subway:
+    cats: []
+    fa6: f239
+    key: train_subway
+train_tram:
+    cats: []
+    fa6: e5b4
+    key: train_tram
+tram:
+    emo: '&#128650;'
+    cats: [sport, transport]
+    fa: f7da
+    img: ../assets/img/emo/tram.png
+    key: tram
+transgender:
+    cats: []
+    fa: f224
+    fa6: f225
+    key: transgender
+transgender_alt:
+    cats: []
+    fa: f225
+    key: transgender_alt
+trash:
+    cats: []
+    fa: f1f8
+    fa6: f1f8
+    key: trash
+trash_alt:
+    cats: []
+    fa: f2ed
+    key: trash_alt
+trash_arrow_up:
+    cats: []
+    fa6: f829
+    key: trash_arrow_up
+trash_can:
+    cats: []
+    ga: EBA6
+    fa6: f2ed
+    key: trash_can
+trash_can_arrow_up:
+    cats: []
+    fa6: f82a
+    key: trash_can_arrow_up
+trash_restore:
+    cats: []
+    fa: f829
+    key: trash_restore
+trash_restore_alt:
+    cats: []
+    fa: f82a
+    key: trash_restore_alt
+tree:
+    cats: []
+    fa: f1bb
+    fa6: f1bb
+    key: tree
+tree_city:
+    cats: []
+    fa6: e587
+    key: tree_city
+triangle_exclamation:
+    cats: []
+    fa6: f071
+    key: triangle_exclamation
+trophy:
+    emo: '&#127942;'
+    cats: []
+    fa: f091
+    ga: E8A8
+    fa6: f091
+    img: ../assets/img/emo/trophy.png
+    key: trophy
+trowel:
+    cats: []
+    ga: EB69
+    fa6: e589
+    key: trowel
+trowel_bricks:
+    cats: []
+    fa6: e58a
+    key: trowel_bricks
+truck:
+    cats: []
+    fa: f0d1
+    ga: E60B
+    fa6: f0d1
+    key: truck
+truck_arrow_right:
+    cats: []
+    fa6: e58b
+    key: truck_arrow_right
+truck_droplet:
+    cats: []
+    fa6: e58c
+    key: truck_droplet
+truck_fast:
+    cats: []
+    fa6: f48b
+    key: truck_fast
+truck_field:
+    cats: []
+    fa6: e58d
+    key: truck_field
+truck_field_un:
+    cats: []
+    fa6: e58e
+    key: truck_field_un
+truck_front:
+    cats: []
+    fa6: e2b7
+    key: truck_front
+truck_loading:
+    cats: []
+    fa: f4de
+    key: truck_loading
+truck_medical:
+    cats: [action, sport, transport]
+    fa6: f0f9
+    key: truck_medical
+truck_monster:
+    cats: []
+    fa: f63b
+    fa6: f63b
+    key: truck_monster
+truck_moving:
+    cats: []
+    fa: f4df
+    fa6: f4df
+    key: truck_moving
+truck_pickup:
+    cats: []
+    fa: f63c
+    fa6: f63c
+    key: truck_pickup
+truck_plane:
+    cats: []
+    fa6: e58f
+    key: truck_plane
+truck_ramp_box:
+    cats: []
+    fa6: f4de
+    key: truck_ramp_box
+tshirt:
+    cats: []
+    fa: f553
+    key: tshirt
+tty:
+    cats: []
+    fa: f1e4
+    fa6: f1e4
+    key: tty
+turkish_lira_sign:
+    cats: [action]
+    fa6: e2bb
+    key: turkish_lira_sign
+turn_down:
+    cats: []
+    fa6: f3be
+    key: turn_down
+turn_up:
+    cats: []
+    fa6: f3bf
+    key: turn_up
+tv:
+    cats: []
+    fa: f26c
+    ga: E943
+    fa6: f26c
+    key: tv
+umbrella:
+    emo: '&#9730;'
+    cats: []
+    fa: f0e9
+    ga: E758
+    fa6: f0e9
+    img: ../assets/img/emo/umbrella.png
+    key: umbrella
+umbrella_beach:
+    cats: []
+    fa: f5ca
+    fa6: f5ca
+    key: umbrella_beach
+underline:
+    cats: [action]
+    fa: f0cd
+    fa6: f0cd
+    key: underline
+undo:
+    cats: [action]
+    fa: f0e2
+    key: undo
+undo_alt:
+    cats: [action]
+    fa: f2ea
+    key: undo_alt
+universal_access:
+    cats: []
+    fa: f29a
+    fa6: f29a
+    key: universal_access
+university:
+    cats: []
+    fa: f19c
+    key: university
+unlink:
+    cats: [action]
+    fa: f127
+    key: unlink
+unlock:
+    cats: [action]
+    fa: f09c
+    fa6: f09c
+    key: unlock
+unlock_alt:
+    cats: [action]
+    fa: f13e
+    key: unlock_alt
+unlock_keyhole:
+    cats: [action]
+    fa6: f13e
+    key: unlock_keyhole
+up_down:
+    cats: []
+    fa6: f338
+    key: up_down
+up_down_left_right:
+    cats: []
+    fa6: f0b2
+    key: up_down_left_right
+up_long:
+    cats: []
+    fa6: f30c
+    key: up_long
+up_right_and_down_left_from_center:
+    cats: []
+    fa6: f424
+    key: up_right_and_down_left_from_center
+up_right_from_square:
+    cats: []
+    fa6: f35d
+    key: up_right_from_square
+upload:
+    cats: [action]
+    fa: f093
+    fa6: f093
+    key: upload
+user:
+    cats: []
+    fa: f007
+    fa6: f007
+    key: user
+user_alt:
+    cats: []
+    fa: f406
+    key: user_alt
+user_alt_slash:
+    cats: []
+    fa: f4fa
+    key: user_alt_slash
+user_astronaut:
+    cats: []
+    fa: f4fb
+    fa6: f4fb
+    key: user_astronaut
+user_check:
+    cats: []
+    fa: f4fc
+    fa6: f4fc
+    key: user_check
+user_circle:
+    cats: []
+    fa: f2bd
+    key: user_circle
+user_clock:
+    cats: []
+    fa: f4fd
+    fa6: f4fd
+    key: user_clock
+user_cog:
+    cats: []
+    fa: f4fe
+    key: user_cog
+user_doctor:
+    cats: []
+    fa6: f0f0
+    key: user_doctor
+user_edit:
+    cats: []
+    fa: f4ff
+    key: user_edit
+user_friends:
+    cats: []
+    fa: f500
+    key: user_friends
+user_gear:
+    cats: []
+    fa6: f4fe
+    key: user_gear
+user_graduate:
+    cats: []
+    fa: f501
+    fa6: f501
+    key: user_graduate
+user_group:
+    cats: []
+    fa6: f500
+    key: user_group
+user_injured:
+    cats: []
+    fa: f728
+    fa6: f728
+    key: user_injured
+user_large:
+    cats: []
+    fa6: f406
+    key: user_large
+user_large_slash:
+    cats: []
+    fa6: f4fa
+    key: user_large_slash
+user_lock:
+    cats: []
+    fa: f502
+    fa6: f502
+    key: user_lock
+user_md:
+    cats: []
+    fa: f0f0
+    key: user_md
+user_minus:
+    cats: []
+    fa: f503
+    fa6: f503
+    key: user_minus
+user_ninja:
+    cats: []
+    fa: f504
+    fa6: f504
+    key: user_ninja
+user_nurse:
+    cats: []
+    fa: f82f
+    fa6: f82f
+    key: user_nurse
+user_pen:
+    cats: []
+    fa6: f4ff
+    key: user_pen
+user_plus:
+    cats: []
+    fa: f234
+    fa6: f234
+    key: user_plus
+user_secret:
+    cats: []
+    fa: f21b
+    fa6: f21b
+    key: user_secret
+user_shield:
+    cats: []
+    fa: f505
+    fa6: f505
+    key: user_shield
+user_slash:
+    cats: []
+    fa: f506
+    fa6: f506
+    key: user_slash
+user_tag:
+    cats: []
+    fa: f507
+    fa6: f507
+    key: user_tag
+user_tie:
+    cats: []
+    fa: f508
+    fa6: f508
+    key: user_tie
+user_times:
+    cats: []
+    fa: f235
+    key: user_times
+user_xmark:
+    cats: []
+    fa6: f235
+    key: user_xmark
+users:
+    cats: []
+    fa: f0c0
+    fa6: f0c0
+    key: users
+users_between_lines:
+    cats: []
+    fa6: e591
+    key: users_between_lines
+users_cog:
+    cats: []
+    fa: f509
+    key: users_cog
+users_gear:
+    cats: []
+    fa6: f509
+    key: users_gear
+users_line:
+    cats: []
+    fa6: e592
+    key: users_line
+users_rays:
+    cats: []
+    fa6: e593
+    key: users_rays
+users_rectangle:
+    cats: []
+    fa6: e594
+    key: users_rectangle
+users_slash:
+    cats: []
+    fa6: e073
+    key: users_slash
+users_viewfinder:
+    cats: []
+    fa6: e595
+    key: users_viewfinder
+utensil_spoon:
+    cats: []
+    fa: f2e5
+    key: utensil_spoon
+utensils:
+    cats: []
+    fa: f2e7
+    fa6: f2e7
+    key: utensils
+van_shuttle:
+    cats: []
+    fa6: f5b6
+    key: van_shuttle
+vault:
+    cats: []
+    fa6: e2c5
+    key: vault
+vector_square:
+    cats: []
+    fa: f5cb
+    fa6: f5cb
+    key: vector_square
+venus:
+    cats: []
+    fa: f221
+    fa6: f221
+    key: venus
+venus_double:
+    cats: []
+    fa: f226
+    fa6: f226
+    key: venus_double
+venus_mars:
+    cats: []
+    fa: f228
+    fa6: f228
+    key: venus_mars
+vest:
+    cats: []
+    fa6: e085
+    key: vest
+vest_patches:
+    cats: []
+    fa6: e086
+    key: vest_patches
+vial:
+    cats: []
+    fa: f492
+    ga: ED66
+    fa6: f492
+    key: vial
+vial_circle_check:
+    cats: []
+    fa6: e596
+    key: vial_circle_check
+vial_virus:
+    cats: []
+    fa6: e597
+    key: vial_virus
+vials:
+    cats: []
+    fa: f493
+    fa6: f493
+    key: vials
+video:
+    cats: []
+    fa: f03d
+    fa6: f03d
+    key: video
+video_slash:
+    cats: []
+    fa: f4e2
+    fa6: f4e2
+    key: video_slash
+vihara:
+    cats: [building]
+    fa: f6a7
+    fa6: f6a7
+    key: vihara
+virus:
+    cats: []
+    ga: E3EE
+    fa6: e074
+    key: virus
+virus_covid:
+    cats: []
+    fa6: e4a8
+    key: virus_covid
+virus_covid_slash:
+    cats: []
+    fa6: e4a9
+    key: virus_covid_slash
+virus_slash:
+    cats: []
+    fa6: e075
+    key: virus_slash
+viruses:
+    cats: []
+    fa6: e076
+    key: viruses
+voicemail:
+    cats: []
+    fa: f897
+    fa6: f897
+    key: voicemail
+volcano:
+    emo: '&#127755;'
+    cats: []
+    ga: E349
+    fa6: f770
+    img: ../assets/img/emo/volcano.png
+    key: volcano
+volleyball:
+    emo: '&#127952;'
+    cats: [action, sport]
+    fa6: f45f
+    img: ../assets/img/emo/volleyball.png
+    key: volleyball
+volleyball_ball:
+    cats: []
+    fa: f45f
+    ga: ED03
+    key: volleyball_ball
+volume_down:
+    cats: []
+    fa: f027
+    key: volume_down
+volume_high:
+    cats: []
+    fa6: f028
+    key: volume_high
+volume_low:
+    cats: []
+    fa6: f027
+    key: volume_low
+volume_mute:
+    cats: []
+    fa: f6a9
+    key: volume_mute
+volume_off:
+    cats: []
+    fa: f026
+    fa6: f026
+    key: volume_off
+volume_up:
+    cats: []
+    fa: f028
+    key: volume_up
+volume_xmark:
+    cats: []
+    fa6: f6a9
+    key: volume_xmark
+vote_yea:
+    cats: []
+    fa: f772
+    key: vote_yea
+vr_cardboard:
+    cats: []
+    fa: f729
+    fa6: f729
+    key: vr_cardboard
+walkie_talkie:
+    cats: []
+    ga: E01F
+    fa6: f8ef
+    key: walkie_talkie
+walking:
+    emo: '&#128694;'
+    cats: [action]
+    fa: f554
+    key: walking
+wallet:
+    cats: []
+    fa: f555
+    ga: EAE4
+    fa6: f555
+    key: wallet
+wand_magic:
+    cats: []
+    fa6: f0d0
+    key: wand_magic
+wand_magic_sparkles:
+    cats: []
+    fa6: e2ca
+    key: wand_magic_sparkles
+wand_sparkles:
+    cats: []
+    fa6: f72b
+    key: wand_sparkles
+warehouse:
+    cats: [building]
+    fa: f494
+    fa6: f494
+    key: warehouse
+water:
+    cats: []
+    fa: f773
+    fa6: f773
+    key: water
+water_ladder:
+    cats: []
+    fa6: f5c5
+    key: water_ladder
+wave_square:
+    cats: []
+    fa: f83e
+    fa6: f83e
+    key: wave_square
+weight:
+    cats: []
+    fa: f496
+    ga: EB6A
+    key: weight
+weight_hanging:
+    cats: []
+    fa: f5cd
+    fa6: f5cd
+    key: weight_hanging
+weight_scale:
+    cats: []
+    fa6: f496
+    key: weight_scale
+wheat_awn:
+    cats: []
+    fa6: e2cd
+    key: wheat_awn
+wheat_awn_circle_exclamation:
+    cats: []
+    fa6: e598
+    key: wheat_awn_circle_exclamation
+wheelchair:
+    cats: []
+    fa: f193
+    fa6: f193
+    key: wheelchair
+wheelchair_move:
+    cats: []
+    fa6: e2ce
+    key: wheelchair_move
+whiskey_glass:
+    cats: []
+    fa6: f7a0
+    key: whiskey_glass
+wifi:
+    cats: []
+    fa: f1eb
+    fa6: f1eb
+    key: wifi
+wind:
+    cats: []
+    fa: f72e
+    fa6: f72e
+    key: wind
+window_close:
+    cats: []
+    fa: f410
+    key: window_close
+window_maximize:
+    cats: []
+    fa: f2d0
+    fa6: f2d0
+    key: window_maximize
+window_minimize:
+    cats: []
+    fa: f2d1
+    fa6: f2d1
+    key: window_minimize
+window_restore:
+    cats: []
+    fa: f2d2
+    fa6: f2d2
+    key: window_restore
+wine_bottle:
+    cats: []
+    fa: f72f
+    ga: EBB3
+    fa6: f72f
+    key: wine_bottle
+wine_glass:
+    emo: '&#127863;'
+    cats: [food]
+    fa: f4e3
+    ga: E90B
+    fa6: f4e3
+    img: ../assets/img/emo/wine-glass.png
+    key: wine_glass
+wine_glass_alt:
+    cats: []
+    fa: f5ce
+    key: wine_glass_alt
+wine_glass_empty:
+    cats: []
+    fa6: f5ce
+    key: wine_glass_empty
+won_sign:
+    cats: []
+    fa: f159
+    fa6: f159
+    key: won_sign
+worm:
+    emo: '&#129713;'
+    cats: [animal]
+    fa6: e599
+    img: ../assets/img/emo/worm.png
+    key: worm
+wrench:
+    emo: '&#128295;'
+    cats: []
+    fa: f0ad
+    ga: EB7D
+    fa6: f0ad
+    img: ../assets/img/emo/wrench.png
+    key: wrench
+x_ray:
+    cats: []
+    fa: f497
+    fa6: f497
+    img: ../assets/img/emo/x-ray.png
+    key: x_ray
+xmark:
+    cats: []
+    fa6: f00d
+    key: xmark
+xmarks_lines:
+    cats: []
+    fa6: e59a
+    key: xmarks_lines
+yen_sign:
+    cats: []
+    fa: f157
+    fa6: f157
+    key: yen_sign
+yin_yang:
+    emo: '&#9775;'
+    cats: []
+    fa: f6ad
+    ga: E0B0
+    fa6: f6ad
+    img: ../assets/img/emo/yin-yang.png
+    key: yin_yang

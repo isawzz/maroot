@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6"
+  },
+  "include": [
+    "simset",
+  ],
+  "exclude": [
+    "_more",
+    "**/codebig.js",
+    "**/eliminated.js",
+    "**/elim.js",
+    "**/fraglich.js",
+    "**/legacy*.js",
+    "**/CODE.js",
+    "**/free*.js",
+    "**/_*.js",
+    "**/_*/*",
+    "**/z_*.js",
+    "**/_*/",
+    "bella/testing",
+    "bella",
+    "ilms",
+    "combu",
+    "vio*",
+    "swl*",
+    "fun0"
+  ]
+}

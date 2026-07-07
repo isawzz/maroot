@@ -1,0 +1,1024 @@
+# echoes Age 1
+
+Dice:
+  age: 1
+  color: blue
+  type: crown
+  resources: [None, 1, crown, crown]
+  dogmas: 
+    - Draw and reveal a [1]. If it has an bonus, draw and meld a card of value equal to its bonus.
+
+Umbrella:
+  age: 1
+  color: green 
+  type: tree
+  resources: [tree, tree, None, echo]
+  dogmas:
+    - Recycle any number of cards from your hand. Score two cards from your hand for every card you returned.
+  echo:
+    - You may meld a card from your hand.
+
+Noodle:
+  age: 1 
+  color: yellow 
+  type: tower
+  resources: [tower, None, tower, 1]
+  dogmas:
+    - If you have more [1] in your hnd than every other player, draw and score a [2].
+    - Draw and reveal a [1]. If it is yellow, score all [1]s from your hand.
+    
+Comb:
+  age: 1
+  color: green 
+  type: tower
+  resources: [tower, tower, tree, None]
+  dogmas:
+    - Choose a color, then draw and reveal four [1]. Add all ards of the chosen color to your hand and return the other cards.
+    
+Chopsticks:
+  age: 1
+  color: yellow
+  type: tree
+  resources: [None, tree, tree, echo]
+  dogmas:
+    - If there is one card or more in Period [1], you can transfer the bottom card from this draw pile to the available achievements.
+  echo: 
+    - Draw a [1].
+    
+Bangle:
+  age: 1
+  color: red 
+  type: tower
+  resources: [None, tower, echo, 1]
+  dogmas:
+    - Draw and foreshadow a [3].
+  echo: 
+    - Tuck a red card from your hand.
+    
+Ice Skates:
+  age: 1
+  color: green 
+  type: crown
+  resources: [tower, crown, None, crown]
+  dogmas:
+    - Recycle up to 3 cards from your hand.For each card you return, either draw and meld a [2] or draw and foreshadow a [3]. Return your highest top card.
+    
+Perfume:
+  age: 1
+  color: blue 
+  type: tower
+  resources: [echo, tower, 1, None]
+  dogmas:
+    - I demand you transfer one of your top cards whose value is different from any of mine to my zone! If you do, draw and meld a card of the same value!
+  echo:
+    - Draw and tuck a [1].
+    
+Soap:
+  age: 1
+  color: yellow 
+  type: tree
+  resources: [tree, 2, None, tree]
+  dogmas:
+    - You may tuck any number of cards of the same color from your hand.If you tuck three or more, you can achieve a card from your hand (if eligible).
+    
+Candles:
+  age: 1
+  color: red
+  type: bulb
+  resources: [echo, 1, None, bulb]
+  dogmas:
+    - I demand you transfer a card with a tower from your hand to mine! If you do, draw a [1].
+  echo:
+    - If each other player has higher score than you, draw a [3].
+    
+Bell:
+  age: 1
+  color: purple
+  type: tower
+  resources: [tower, None, tower, echo]
+  dogmas:
+    - Draw and foreshadow a [2].
+  echo:
+    - You may score one card from your hand.
+    
+Ruler:
+  age: 1
+  color: blue
+  type: bulb
+  resources: [bulb, None, bulb, echo]
+  dogmas:
+    - No effect.
+  echo:
+    - Draw a [2].
+    
+Puppet:
+  age: 1
+  color: purple
+  type: tower
+  resources: [None, tower, 3, tower]
+  dogmas:
+    - No effect
+    
+Flute:
+  age: 1
+  color: purple
+  type: crown
+  resources: [1, None, crown, echo]
+  dogmas:
+    - I demand you return a card with an bonus from you hand.
+    - Draw and reveal a [1]. If it has an bonus, repeat this dogma effect.
+  echo:
+    - You may splay one of your colors left.
+    
+Plumbing:
+  age: 1
+  color: red
+  type: tower
+  resources: [echo, 2, None, tower]
+  dogmas:
+    - No effect.
+  echo:
+    - Score a bottom card from your board.
+    
+# Age 2
+
+Lever:
+  age: 2
+  color: blue
+  type: bulb
+  resources: [bulb, None, echo, bulb]
+  dogmas:
+    - You may return any number of cards from your hand. For every two cards of the same value you returned, draw a card of value one higher.
+  echo:
+    - Draw two [2].
+    
+Glassblowing:
+  age: 2
+  color: green
+  type: crown
+  resources: [None, crown, crown, echo]
+  dogmas:
+    - Draw and foreshadow a card of value three higher than your lowest non-green top card.
+  echo:
+    - Score a card with an bonus from your hand.
+    
+Horseshoe:
+  age: 2
+  color: red
+  type: tower
+  resources: [None, 2, echo, tower]
+  dogmas:
+    - I demand you transfer a top card without a tower or factory from your board to my board! If you do, draw and meld a [2]!
+  echo:
+    - Draw and foreshadow a [2].
+    
+Crossbow:
+  age: 2
+  color: red
+  type: tower
+  resources: [3, None, tower, tower]
+  dogmas:
+    - I demand you transfer a card with a bonus from your hand to my score pile!
+    - Transfer a card from your hand to any other player's board.
+
+Scissors:
+  age: 2
+  color: green
+  type: tower
+  resources: [echo, None, 2, tower]
+  dogmas:
+    - You may choose up to two cards from your hand. For each card chosen either meld it or score it.
+    - If paper is a top card on any player's board, transfer it to your score pile.
+  echo:
+    - Take a bottom card from your board into your hand.
+
+Pagoda:
+  age: 2
+  color: purple
+  type: tower
+  resources: [tower, 2, None, tower]
+  dogmas:
+    - Draw and reveal a [3]. If you have a card of matching color in your hand, tuck the card from your hand and meld the drawn card. Otherwise, foreshadow the drawn card.
+
+Chaturanga:
+  age: 2
+  color: purple
+  type: crown
+  resources: [crown, 3, crown, None]
+  dogmas:
+    - Meld a card with a bonus from your hand. If you do, draw two cards of value equal to that card's bonus. Otherwise, draw and foreshadow a card of value equal to the number of top cards on your board.
+
+Watermill:
+  age: 2
+  color: yellow
+  type: tree
+  resources: [tree, tree, tree, None]
+  dogmas:
+    - Tuck a card with a bonus from your hand. If you do, draw a card of value equal to that card's bonus. If the drawn card also has a bonus, you may return a card from your hand to repeat this dogma effect.
+
+Linguistics:
+  age: 2
+  color: blue
+  type: bulb
+  resources: [bulb, bulb, echo, None]
+  dogmas:
+    - Draw a card of value equal to a bonus on your board if you have any.
+  echo:
+    - Draw a [3] or draw and foreshadow a [4].
+
+Toothbrush:
+  age: 2
+  color: yellow
+  type: tree
+  resources: [2, echo, None, tree]
+  dogmas:
+    - You may splay any color left.
+    - If the [2] deck has at least 1 card, you may transfer its bottom card to the available achievements
+  echo:
+    - tuck all cards of one value present in your hand.
+
+# echoes Age 3
+
+Magnifying Glass:
+  age: 3
+  color: blue
+  type: bulb
+  resources: [bulb, None, 3, echo]
+  dogmas:
+    - You may return three cards of equal value from your hand. If you do, draw a card of value two higher than the cards you returned.
+    - You may splay your yellow or blue cards left.
+  echo:
+    - Draw a [4], then return a card from your hand.
+    
+Homing Pigeons:
+  age: 3
+  color: green
+  type: tree
+  resources: [3, tree, None, tree]
+  dogmas:
+    - I demand you return two cards from your score pile whose values each match at least one card in my hand!
+    - you may splay your red or green cards left.
+    
+Katana:
+  age: 3
+  color: red
+  type: tower
+  resources: [tower, tower, None, tower]
+  dogmas:
+    - I demand you transfer two top cards with a tower from your board to my score pile! If you transferred any, draw a card of value equal to the total number of tower on those cards and transfer it to my forecast.
+    
+Liquid Fire:
+  age: 3
+  color: red
+  type: bulb
+  resources: [None, bulb, bulb, bulb]
+  dogmas:
+    - I demand you draw a card of value equal to the highest bonus on your board! Transfer it to my forecast! If it is red, transfer all cards from your hand to my score pile!
+
+Charitable trust:
+  age: 3
+  color: green
+  type: crown
+  resources: [echo, None, crown, 3]
+  dogmas:
+    - You may meld the card you drew due to Charitable Trust's echo effect. If you do, either return or achieve (if eligible) your top green card.
+  echo:
+    - Draw a [3] or [4].
+
+Sunglasses:
+  age: 3
+  color: purple
+  type: tower
+  resources: [None, 3, echo, tower]
+  dogmas:
+    - You may either splay your purple cards in the direction of one of your colors, or you may splay one of your colors in the direction of your purple cards.
+  echo:
+    - Score a card from your hand of a color you have splayed.
+
+Novel:
+  age: 3
+  color: purple
+  type: crown
+  resources: [None, 3, crown, echo]
+  dogmas:
+    - Draw a [3]. You may splay your purple cards left.
+    - If all your non-purple top cards share a common icon other than crown, claim the Supremacy echievement.
+  echo:
+    - Draw a [3].
+
+Sandpaper:
+  age: 3
+  color: yellow
+  type: crown
+  resources: [crown, crown, None, tree]
+  dogmas:
+    - You may return any number of cards from your hand. Draw that many [3], and then meld a card from your hand.
+
+Almanac:
+  age: 3
+  color: blue
+  type: tree
+  resources: [None, tree, 4, echo]
+  dogmas:
+    - You may return a card from your forecast with a bonus. If you do, draw and score a card of value one higher than that bonus.
+  echo:
+    - Draw and foreshadow a [4].
+
+Deodorant:
+  age: 3
+  color: yellow
+  type: crown
+  resources: [crown, echo, crown, None]
+  dogmas:
+    - If you have a top card with a tower, draw and meld a [3]. Otherwise, draw a [4].
+  echo:
+    - Draw and meld a [3].
+
+# echoes Age 4
+
+Slide Rule:
+  age: 4
+  color: blue
+  type: bulb
+  resources: [bulb, bulb, bulb, None]
+  dogmas:
+    - You may splay your yellow cards right.
+    - Draw a card of value equal to the value of your lowest top card plus the number of colors you have splayed.
+    
+Globe:
+  age: 4
+  color: green
+  type: factory
+  resources: [factory, 4, factory, None]
+  dogmas:
+    - You may return up to three cards from your hand of the same color. If you return one, splay any color left; two, right; three, up. If you returned at least one card, draw and foreshadow a [6].
+
+Telescope:
+  age: 4
+  color: blue
+  type: bulb
+  resources: [None, 4, bulb, echo]
+  dogmas:
+    - you may place a card from your forecast on top of its deck. If you do, achieve a card from your forecast if you meet the requirements to do so.
+  echo:
+    - Draw and foreshadow a [5].
+
+Chintz:
+  age: 4
+  color: green
+  type: crown
+  resources: [crown, None, crown, 4]
+  dogmas:
+    - Draw a [4].
+    - If you have exactly one card in your hand, draw a [4] then draw and score a [4].
+
+Clock:
+  age: 4
+  color: purple
+  type: bulb
+  resources: [echo, 5, None, bulb]
+  dogmas:
+    - I demand you draw and reveal three [10]. Total the number of [clock] on them and the return them! Transfer all cards of that value from your hand and score pile to my score pile.
+  echo:
+    - You may splay your color with the most cards right.
+
+Toilet:
+  age: 4
+  color: purple
+  type: tree
+  resources: [echo, tree, None, tree]
+  dogmas:
+    - I demand you return all cards from your score pile matching the highest bonus on my board.
+    - You may return a card in your hand and draw a card of the same value.
+  echo:
+    - Draw and tuck a [4].
+
+Kobukson:
+  age: 4
+  color: red
+  type: factory
+  resources: [5, factory, None, echo]
+  dogmas:
+    - I demand you return all your top cards with [tower]. Draw and tuck a [4]
+    - For every two cards returned as a result of the demand, draw and tuck a [4]
+  echo:
+    - Splay left one color on any player's board.
+
+Shuriken:
+  age: 4
+  color: red
+  type: crown
+  resources: [crown, crown, None, crown]
+  dogmas:
+    - I demand you transfer a top non-red card with a [tower] or a [bulb] from your board to my board. If you do, draw a [4]
+    - You may splay your purple cards right.
+
+Barometer:
+  age: 4
+  color: yellow
+  type: tree
+  resources: [tree, echo, tree, None]
+  dogmas:
+    - Draw and foreshadow a card of value 2 higher than a bonus on your board.
+    - If you have five or more cards in your forecast, claim the Destiny achievement.
+  echo:
+    - Transfer a [5] from your forecast to your hand.
+
+Pencil:
+  age: 4
+  color: yellow
+  type: bulb
+  resources: [None, echo, bulb, 4]
+  dogmas:
+    - You may return up to three cards from your hand. If you do, draw that many cards of value one higher than the highest card you returned. Foreshadow one of them, and return the rest of the drawn cards.
+  echo:
+    - Draw a [5].
+
+#echoes age 5
+Pressure Cooker:
+  age: 5
+  color: yellow
+  type: bulb
+  resources: [5, None, bulb, bulb]
+  dogmas:
+    - Return all cards from your hand. For each top card on your board with a bonus, draw a card of value equal to that bonus
+    
+Seed Drill:
+  age: 5
+  color: green
+  type: tree
+  resources: [bulb, tree, tree, None]
+  dogmas:
+    - I demand you return a top card from your board of value less than [3]
+    - Choose the [3], [4], or [5] deck. If there is at least one card in that deck, you may transfer its bottom card to the available achievements
+
+Thermometer:
+  age: 5
+  color: blue
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+
+Palampore:
+  age: 5
+  color: green
+  type: factory
+  resources: [factory, None, factory, 5]
+  dogmas:
+    - Draw and score a card of value equal to a bonus that occurs more than once on your board, if you have such a bonusDraw a [4].
+    - You may splay your purple cards right.
+    - If you have six or more bonuses on your board, claim the Wealth achievement
+
+Piano:
+  age: 5
+  color: purple
+  type: bulb
+  resources: [5, echo, None, bulb]
+  dogmas:
+    - If you have five top cards, each with a different value, return five cards from your score pile and then draw and score a card of each of your top card's value in ascending order.
+  echo:
+    - Draw a card of a value present in any player's hand.
+
+Tuning Fork:
+  age: 5
+  color: purple
+  type: bulb
+  resources: [echo, bulb, bulb, None]
+  dogmas:
+    - Return a card from your hand. If you do, draw and reveal a card of the same value, and meld it if it is higher than a top card of the same color on your board. Otherwise, return it. You may repeat this dogma effect.
+  echo:
+    - Look at the top card of any deck, then place it back on top
+
+Octant:
+  age: 5
+  color: red
+  type: crown
+  resources: [crown, crown, None, crown]
+  dogmas:
+    - I demand you transfer a top non-red card with a tree or factory from your board to my board! If you do, draw and foreshadow a [6].
+    - Draw and foreshadow a [6]!
+
+Coke:
+  age: 5
+  color: red
+  type: factory
+  resources: [echo, factory, factory, None]
+  dogmas:
+    - Draw and reveal a [6]. If it has a factory meld it and repeat this dogma effect. Otherwise, foreshadow it.
+  echo:
+    - Draw and tuck a [4]
+
+Stove:
+  age: 5
+  color: yellow
+  type: factory
+  resources: [None, 6, factory, echo]
+  dogmas:
+    - Draw and tuck a [4]. If your top card of the tucked card's color has value less than [4], draw and score a [4]
+    - You may splay your green cards right.
+  echo:
+    - Score a top card from your board without a factory
+
+Lightning Rod:
+  age: 5
+  color: blue
+  type: factory
+  resources: [echo, factory, None, 6]
+  dogmas:
+    - I demand you draw and tuck a [5]! Return your top card of the tucked card's color!
+    - Draw and tuck a [5]. You may return a top card from your board
+  echo:
+    - Draw and tuck a [5].
+
+# Age 6
+
+Bifocals:
+  age: 6
+  color: blue
+  type: crown
+  resources: [echo, None, crown, crown]
+  dogmas:
+    - You  may return a card from your forecast. If you do, draw and foreshadow a card of equal value to the card returned.
+    - You may splay your green cards right
+  echo:
+    - Draw and foreshadow a card of any value
+    
+Hot Air Balloon:
+  age: 6
+  color: green
+  type: bulb
+  resources: [bulb, echo, None, 7]
+  dogmas:
+    - You may achieve (if eligible) a top card from any other player's board if they have an achievement of matching value. If you do, transfer your top green card to that player's board. Otherwise, draw and meld a [7].
+  echo:
+    - Draw and score a [7]
+    
+Loom:
+  age: 6
+  color: red
+  type: factory
+  resources: [factory, 6, None, echo]
+  dogmas:
+    - You may return two cards of different value from your score pile. If you do, draw and tuck three [6].
+    - If you have 5 or more hex visible on your board, claim the Heritage achievement.
+  echo:
+    - Score your lowest top card.
+    
+Shrapnel:
+  age: 6
+  color: red
+  type: factory
+  resources: [factory, factory, factory, None]
+  dogmas:
+    - I demand you draw and tuck a [6]. Transfer the top two cards of its color from your board to my score pile! Transfer the bottom card of its color from my board to your score pile!
+
+Steamboat:
+  age: 6
+  color: green
+  type: crown
+  resources: [None, 6, crown, crown]
+  dogmas:
+    - I demand you draw and reveal a [6]! If it is blue or yellow, transfer it and all cards in your hand to my hand! If it is red or green, keep it and transfer two cards from your score pile to mine! If it is puplr, keep it!
+
+Kaleidoscope:
+  age: 6
+  color: purple
+  type: bulb
+  resources: [6, bulb, None, bulb]
+  dogmas:
+    - Draw and meld a [7]. You may splay your cards of that color right.
+
+Indian Clubs:
+  age: 6
+  color: purple
+  type: tree
+  resources: [None, tree, 6, tree]
+  dogmas:
+    - If demand you return two cards from your score pile.
+    - For evey value of card you have in your score pile, score a card from your hand of that value.
+
+Morphine:
+  age: 6
+  color: yellow
+  type: bulb
+  resources: [bulb, None, 7, echo]
+  dogmas:
+    - I demand you return all odd-valued cards in your hand! Draw a [6].
+    - Draw a card of value one higher than the highest card returned due to the demand, if any were returned.
+    - You may splay your red cards right
+  echo:
+    - Score an odd valued card from your hand.
+
+Stethoscope:
+  age: 6
+  color: blue
+  type: bulb
+  resources: [bulb, echo, bulb, None]
+  dogmas:
+    - Draw a [7]. If you melded a blue card due to Stehtoscope's echo effect, draw an [8].
+    - You may splay your yellow cards right.
+  echo:
+    - Meld a blue or yellow card from your hand
+
+Dentures:
+  age: 6
+  color: yellow
+  type: factory
+  resources: [echo, factory, factory, None]
+  dogmas:
+    - Score the top two non-bottom cards of the color of the last card you tucked due to Dentures. If there are none to score, draw and tuck a [6], then repeat this dogma effect.
+    - You may splay your blue cards right.
+  echo:
+    - Draw and tuck a [6]
+
+# Age 7
+
+Typewriter:
+  age: 7
+  color: blue
+  type: crown
+  resources: [bulb, None, crown, crown]
+  dogmas:
+    - Return all cards from your hand. Draw a [6]. For each color of card returned, draw a card of the next higher value
+    
+Telegraph:
+  age: 7
+  color: green
+  type: clock
+  resources: [None, clock, clock, bulb]
+  dogmas:
+    - You may choose an opponent and a color. Match your splay in that color to theirs
+    - You may splay your blue cards up.
+    
+Rubber:
+  age: 7
+  color: red
+  type: factory
+  resources: [None, echo, factory, 7]
+  dogmas:
+    - Score a top card from your board without a bonus
+    - You  may splay your red cards up
+  echo:
+    - Draw and tuck two [8].
+    
+Machine Gun:
+  age: 7
+  color: red
+  type: factory
+  resources: [factory, factory, echo, None]
+  dogmas:
+    - I demand you transfer all of your top cards with a bonus to my score pile! If you transfered any, draw a [7].
+    - Return all your non-red top cards
+  echo:
+    - If you have five top cards, draw and score a [7].
+
+Jeans:
+  age: 7
+  color: green
+  type: tree
+  resources: [echo, tree, None, 8]
+  dogmas:
+    - Choose two different values less than [7]. Draw and reveal a card of each value. Meld one, and return the other.
+  echo:
+    - Draw two [9]. Return one, foreshadow the other.
+
+Ice Cream:
+  age: 7
+  color: purple
+  type: tree
+  resources: [None, 8, tree, echo]
+  dogmas:
+    - I demand you draw and meld a [1].
+    - Choose the [6], [7], [8], or [9] deck. If there is at least one card in that deck, you may transfer its bottom card to the available achievements.
+  echo:
+    - Score a non-purple top card from your board without a bonus.
+
+Saxophone:
+  age: 7
+  color: purple
+  type: crown
+  resources: [7, crown, None, crown]
+  dogmas:
+    - You may splay your purple cards up.
+    - If the hex for Bell, Flute, Piano, and Saxophone are visible anywhere, you win. Otherwise, draw a [7] for each hex that is visible
+
+Fertilizer:
+  age: 7
+  color: yellow
+  type: tree
+  resources: [tree, None, factory, tree]
+  dogmas:
+    - You may return a card from your hand. If you do, transfer all cards from all score piles to your hand of value equal to the returned card.
+    - Draw and foreshadow a card of any value.
+
+Photography:
+  age: 7
+  color: blue
+  type: bulb
+  resources: [echo, bulb, None, 7]
+  dogmas:
+    - I demand you take the highest top card from your board into your hand!
+    - If you have at least three echo effects visible in one color, claim the History achievement.
+  echo:
+    - Meld a card from your forecast
+
+Elevator:
+  age: 7
+  color: yellow
+  type: clock
+  resources: [7, echo, clock, None]
+  dogmas:
+    - Choose a value present in your score pile. Choose to transfer all cards of the chosen value from either all other players' hands or all their score piles to your score piel
+  echo:
+    - Score your top or bottom green card.
+
+# Age 8
+
+X-Ray:
+  age: 8
+  color: blue
+  type: tree
+  resources: [None, tree, echo, 8]
+  dogmas:
+    - For every three tree on your board draw and foreshadow a card of any value
+    - You may splay your yellow cards up
+  echo:
+    - Draw and tuck an [8]
+    
+Sliced Bread:
+  age: 8
+  color: green
+  type: crown
+  resources: [echo, None, 9, crown]
+  dogmas:
+    - Return a card from your score pile. Draw and score two cards of value one less than the value of the card returned.
+  echo:
+    - Return all cards from your hand and draw two [8]
+    
+Parachute:
+  age: 8
+  color: red
+  type: clock
+  resources: [factory, None, clock, clock]
+  dogmas:
+    - I demand you transfer all cards without a clock from your hand to my hand!
+    
+Bandage:
+  age: 8
+  color: red
+  type: tree
+  resources: [tree, echo, None, tree]
+  dogmas:
+    - I demand you return the highest card in your score pile for which you do not have a card of matching value in your hand! Return a top card from your board with a clock!
+  echo:
+    - Meld a card from your hand with a tree
+
+Nylon:
+  age: 8
+  color: green
+  type: factory
+  resources: [8, factory, factory, None]
+  dogmas:
+    - Draw and tuck an [8] for every three factory on your board. If any of the tucked cards were green, repeat this dogma effect
+    - You may splay your red cards red
+
+Crossword:
+  age: 8
+  color: purple
+  type: crown
+  resources: [crown, 8, None, crown]
+  dogmas:
+    - For each visible bonus on your board, draw a card of that value.
+
+Television:
+  age: 8
+  color: purple
+  type: clock
+  resources: [8, None, clock, echo]
+  dogmas:
+    - Choose a value and an opponent. Transfer a card of that value from their score pile to their board. If they have an achievement of the same value, achieve (if eligible) a card of that value from their score pile
+  echo:
+    - Draw and meld an [8]
+
+Tractor:
+  age: 8
+  color: yellow
+  type: clock
+  resources: [echo, clock, clock, None]
+  dogmas:
+    - Draw and score a [7]. Draw a [7].
+  echo:
+    - Draw a [7].
+
+Radio Telescope:
+  age: 8
+  color: blue
+  type: bulb
+  resources: [None, bulb, bulb, bulb]
+  dogmas:
+    - For every two bulb on your board, draw a [9]. Meld one of the cards drawn and return the rest. If you meld AI due to this dogma effect, you win
+
+Air Conditioner:
+  age: 8
+  color: yellow
+  type: tree
+  resources: [None, echo, 9, tree]
+  dogmas:
+    - I demand you return all cards from your score pile of value matching any of your top cards!
+  echo:
+    - You may score a card from your hand
+
+# Age 9
+
+Calculator:
+  age: 9
+  color: blue
+  type: clock
+  resources: [clock, None, clock, bulb]
+  dogmas:
+    - Score two bottom non-blue cards from your board. If you scored two and they have a total value less than 11, draw a card of that total value and repeat this dogma effect (onve only).
+    - You may splay your blue cards up
+    
+Email:
+  age: 9
+  color: green
+  type: clock
+  resources: [echo, clock, clock, None]
+  dogmas:
+    - Draw and foreshadow a [9]
+    - Execute all non-demand dogma effects on your lowest non-green top card. Do not share them
+  echo:
+    - Draw and foreshadow a [10].
+    
+Helicopter:
+  age: 9
+  color: red
+  type: factory
+  resources: [factory, factory, factory, None]
+  dogmas:
+    - Transfer a top card other than Helicopter from any player's board to its owner's score pile. You may return a card from your hand which shares an icon with the transfererred card. If you do, repeat this dogma effect
+    
+Jet:
+  age: 9
+  color: red
+  type: clock
+  resources: [None, echo, clock, 10]
+  dogmas:
+    - I demand you return your top card of the color I melded due to Jet's echo effect.
+  echo:
+    - Meld a card from your hand.
+
+Credit Card:
+  age: 9
+  color: green
+  type: crown
+  resources: [echo, crown, 9, None]
+  dogmas:
+    - You may take a top non-green card from your board into your hand. If you do, draw and score a card of equal value.
+    - You may splay your green cards up.
+  echo:
+    - Draw and foreshadow a [9].
+
+Karaoke:
+  age: 9
+  color: purple
+  type: tree
+  resources: [None, tree, 9, echo]
+  dogmas:
+    - Execute all of the non-demand dogma effects of the card you melded due to Karaoke's echo effect. Do not share them.
+    - You may take a bottom card from your board into your hand.
+  echo:
+    - Draw and meld a card of value less than [10].
+
+Rock:
+  age: 9
+  color: purple
+  type: tree
+  resources: [tree, 9, None, tree]
+  dogmas:
+    - I demand you transfer your top green card to my hand! If Scissors is your new top green card, I win!
+    - You may score a top card from your board. If paper is your top green card, you win.
+
+Wristwatch:
+  age: 9
+  color: yellow
+  type: factory
+  resources: [None, factory, 10, echo]
+  dogmas:
+    - For each visible bonus on your board, draw and tuck a card of that value, in ascending order.
+  echo:
+    - Take a non-yellow top card from your board and tuck it.
+
+Laser:
+  age: 9
+  color: blue
+  type: bulb
+  resources: [bulb, bulb, None, tree]
+  dogmas:
+    - Return all unclaimed standard achievements. Then, return half (rounded up) of the cards in your score pile. Draw and meld two [10].
+
+ATM:
+  age: 9
+  color: yellow
+  type: crown
+  resources: [crown, None, echo, 9]
+  dogmas:
+    - I demand you transfer the highest top non-yellow card without a crown from your board to my board.
+    - You may splay your purple cards up.
+  echo:
+    - Draw and score a card of any value.
+
+
+# Age 10
+
+Human Genome:
+  age: 10
+  color: blue
+  type: bulb
+  resources: [bulb, bulb, 10, None]
+  dogmas:
+    - You may draw and score a card of any value. Take a bottom card from your board into your hand. If the values of all the cards in your hand match the values of all the cards in your score pile exactly, you win.
+    
+GPS:
+  age: 10
+  color: green
+  type: clock
+  resources: [crown, None, clock, clock]
+  dogmas:
+    - I demand you return all cards in your forecast!
+    - Draw and foreshadow three [10].
+    - You may splay your yellow cards up.
+    
+Social Networking:
+  age: 10
+  color: red
+  type: clock
+  resources: [None, 10, clock, clock]
+  dogmas:
+    - I demand you choose an icon type! Trasfer all top cards without that icon from your board to my score pile!
+    - If you have fewer factory, fewer crown, and fewer tower than each other player, you win.
+    
+Camcorder:
+  age: 10
+  color: red
+  type: clock
+  resources: [None, clock, clock, factory]
+  dogmas:
+    - I demand you transfer all cards in your hand to my hand! Draw a [9]!
+    - Meld all [9] from your hand. Return all other cards from your hand. Draw three [9].
+
+Flash Driva:
+  age: 10
+  color: green
+  type: factory
+  resources: [factory, factory, None, factory]
+  dogmas:
+    - I demand you return four cards from your score pile!
+    - Return a card from your score pile. If you do, you may splay any one color of your cards up.
+
+Puzzle Cube:
+  age: 10
+  color: purple
+  type: bulb
+  resources: [bulb, bulb, None, bulb]
+  dogmas:
+    - You may score the bottom card or two bottom cards of one color from your board. If all the colors on your board contain the same number of visible cards (unsplayed - 1), you win.
+    - Draw and meld a [10].
+
+Sudoku:
+  age: 10
+  color: purple
+  type: bulb
+  resources: [bulb, None, bulb, 11]
+  dogmas:
+    - Draw and meld a card of any value, If you have at least nine different bonus values visible on your board, you win. Execute each of the melded card's non-demand effects. Do not share them.
+
+MP3:
+  age: 10
+  color: yellow
+  type: crown
+  resources: [crown, 10, None, crown]
+  dogmas:
+    - Return any number of cards from your hand. Foreach card returned, claim two standard achievements for which you are eligible.
+    - Draw and score a card of value equal to a bonus on your board.
+
+Artificial Heart:
+  age: 10
+  color: blue
+  type: tree
+  resources: [None, tree, tree, 11]
+  dogmas:
+    - Claim one standard achievement, if eligible. Tour current score is doubled for the purpose of checking eligibility.
+
+Cell Phone:
+  age: 10
+  color: yellow
+  type: clock
+  resources: [clock, None, 10, clock]
+  dogmas:
+    - Draw a [10] for every two clock on your board.
+    - You may splay your green cards up.
+    - You may tuck any number of cards with a clock from your hand, splaying up each color you tucked into.

@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'tangerine';
+	src: url('./tangerine.ttf') format("truetype");
+}
+@font-face {
+  font-family: 'emoNoto';
+	src: url('./NotoColorEmoji.ttf') format("truetype");
+  /* src: url(https://gitcdn.xyz/repo/googlefonts/noto-emoji/master/fonts/NotoColorEmoji.ttf); */
+}
+@font-face {
+	font-family: 'AlgerianRegular';
+	src: url('./AlgerianRegular.ttf') format("truetype");
+}
+
+@font-face{
+	font-family: 'pictoFa';
+	src: url('./pictoFa.otf') format("truetype");
+}
+@font-face {
+	font-family: 'pictoGame';
+	src: url('./pictoGame.ttf') format("truetype");
+}
+@font-face {
+	font-family: 'opensans';
+	src: url('./opensansregular.ttf') format("truetype");
+}
+@font-face {
+	font-family: 'summervibes';
+	src: url('./summervibes.otf') format("truetype");
+}
+@font-face {
+	font-family: 'fredericka';
+	src: url('./fredericka.ttf') format("truetype");
+}
+@font-face {
+	font-family: 'blackops';
+	src: url('./blackops.ttf') format("truetype");
+}
+

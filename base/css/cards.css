@@ -1,0 +1,32 @@
+.card {
+	/* filter: drop-shadow(4px 4px 4px #111); */
+	filter: drop-shadow(4px 5px 2px #111);
+	/* -moz-box-shadow: 4px 5px 2px #111;
+	-webkit-box-shadow: 4px 5px 2px #111;
+	box-shadow: 4px 5px 2px #111; */
+	/* overflow: visible; */
+	/* padding: 10px; */
+	/* margin: -10px; */
+	/* outline: 20px solid transparent;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box; */
+}
+.hoverScale {
+	cursor: pointer;
+}
+.hoverScale:hover {
+	transform-origin: bottom right;
+	transform: scale(1.05);
+}
+.card_selected{
+	transform-origin: bottom right;
+	transform: scale(1.05);
+}
+.hoverPointer {
+	cursor: none;
+}
+.hoverPointer:hover {
+	cursor: pointer;
+}
+/* div{z-index: -0;opacity:.99;} */

@@ -1,0 +1,877 @@
+
+
+# Age 1
+
+Tools:
+  age: 1
+  color: red
+  type: tree
+  resources: [tower, tree, None, tree]
+  dogmas:
+    - I compel you to transfer the highest top card with a [tower] on your board to my hand.
+    - Draw a [2].
+
+Papyrus of Ani:
+  age: 1
+  color: red
+  type: tree
+  resources: [tree, tree, tree, None]
+  dogmas:
+    - Return a purple card from your hand. If you do, draw and reveal a card of any type of value two higher. If the drawn card is purple, meld it and execute each of its non-demand dogma effects. Do not share them.
+
+Pavlovian Tusk:
+  age: 1
+  color: red
+  type: crown
+  resources: [None, crown, tower, crown]
+  dogmas:
+    - Draw three cards of value equal to your top green card. Return one of the drawn cards. Score one of the drawn cards.
+
+Dancing Girl:
+  age: 1
+  color: yellow
+  type: bulb
+  resources: [None, bulb, bulb, bulb]
+  dogmas:
+    - I compel you to transfer Dancing Girl to your board!
+    - If Dancing Girl has been on every board during this action and it started on your board, you win.
+
+Lurgan Canoe:
+  age: 1
+  color: yellow
+  type: crown
+  resources: [None, crown, crown, crown]
+  dogmas:
+    - Meld a card from your hand. Score all other cards of the same color from your board. If you scored at least one card, repeat this effect.
+
+Xianrendong Shards:
+  age: 1
+  color: yellow
+  type: tree
+  resources: [None, tree, tree, tree]
+  dogmas:
+    - Reveal three cards from your hand. Score two, then tuck the other. If the scored cards were the same color, draw three [1]s.
+
+Priest King:
+  age: 1
+  color: green
+  type: tower
+  resources: [tower, None, tower, tower]
+  dogmas:
+    - Score a card from your hand. If you have a top card matching its color, execute each of the top card's non-demand dogma effects. Do not share them.
+    - Claim an achievement, if eligible.
+
+Electrum Stater of Efesos:
+  age: 1
+  color: green
+  type: crown
+  resources: [crown, None, tower, crown]
+  dogmas:
+    - Draw and reveal a [3]. If you do not have a top card of the drawn card's color, meld it and repeat this effect.
+
+Jiskairumoko Necklace:
+  age: 1
+  color: green
+  type: tower
+  resources: [None, crown, tower, tower]
+  dogmas:
+    - I compel you to return a card from your score pile! If you do, transfer an achievement of the same value from your achievements to mine!
+
+Treaty of Kadesh:
+  age: 1
+  color: blue
+  type: tower
+  resources: [crown, tower, None, tower]
+  dogmas:
+    - I compel you to return all top cards from your board with a demand effect!
+    - Score a top, non-blue card from your board with a demand effect.
+
+Sibidu Needle:
+  age: 1
+  color: blue
+  type: tower
+  resources: [tower, tower, tower, None]
+  dogmas:
+    - Draw and reveal a [1]. If you have a top card of matching color and value to the drawn card, score the drawn card and repeat this effect.
+
+Basur Hoyuk Tokens:
+  age: 1
+  color: blue
+  type: tree
+  resources: [crown, None, tree, tree]
+  dogmas:
+    - Draw and reveal a [4]. If you have a top card of the drawn card's color that comes before it in the alphabet, return the drawn card and all cards from your score pile.
+
+Mask of Warka:
+  age: 1
+  color: purple
+  type: tower
+  resources: [tower, tower, None, tower]
+  dogmas:
+    - Choose a color. Each player reveals all cards of that color from their hand. If you are the only player to reveal cards, return them and claim all achievements of value matching those cards, ignoring eligibility.
+
+Ark of the Covenant:
+  age: 1
+  color: purple
+  type: tower
+  resources: [None, tower, tower, tower]
+  dogmas:
+    - Return a card from your hand. Transfer all cards of the same color from the boards of all players with no top Artifacts to your score pile. If Ark of the Covenant is a top card on any board, transfer it to your hand.
+
+Tale of the Shipwrecked Sailor:
+  age: 1
+  color: purple
+  type: bulb
+  resources: [None, tower, bulb, bulb]
+  dogmas:
+    - Choose a color. Draw a [1]. Meld a card of the chosen color from your hand. If you do, splay that color left.
+
+# Age 2
+
+Chronicla of Zuo:
+  age: 2
+  color: red
+  type: bulb
+  resources: [crown, None, bulb, bulb]
+  dogmas:
+    - If you have the least [tower], draw a [2]. If you have the least [crown], draw a [3]. If you have the least [bulb], draw a [4].
+
+Babylonian Chronicles:
+  age: 2
+  color: red
+  type: tower
+  resources: [None, tower, tower, tower]
+  dogmas:
+    - I compel you to transfer a top non-red card with a [tower] from your board to my board.
+    - Draw and score a [3].
+
+Holy Grail:
+  age: 2
+  color: yellow
+  type: tree
+  resources: [tree, None, crown, tree]
+  dogmas:
+    - Return a card from your hand. Claim an achievement of matching value ignoring eligibility.
+
+Terracotta Army:
+  age: 2
+  color: yellow
+  type: crown
+  resources: [crown, crown, crown, None]
+  dogmas:
+    - I compel you to return a top card with no [tower].
+    - Score a card from your hand with no [tower].
+
+Holy Lance:
+  age: 2
+  color: green
+  type: tower
+  resources: [tower, tree, None, tower]
+  dogmas:
+    - I compel you to transfer a top Artifact from your board to my board.
+    - If Holy Grail is a top card on your board, you win.
+
+Baghdad Battery:
+  age: 2
+  color: green
+  type: crown
+  resources: [crown, bulb, None, crown]
+  dogmas:
+    - Meld two cards from your hand. If you melded two of the same color and they are of different type, draw and score five [2]s.
+
+Seikilos Epitaph:
+  age: 2
+  color: blue
+  type: tree
+  resources: [tree, tree, tree, None]
+  dogmas:
+    - Draw and meld a [3]. Meld your bottom card of the drawn card's color. Execute its non-demand dogma effects. Do not share them.
+
+Rosetta Stone:
+  age: 2
+  color: blue
+  type: tower
+  resources: [tower, tower, tower, None]
+  dogmas:
+    - Choose a card type. Draw two [2] of that type. Meld one and transfer the other to an opponent's board.
+
+Dead Sea Scrolls:
+  age: 2
+  color: purple
+  type: tower
+  resources: [None, tower, bulb, tower]
+  dogmas:
+    - Draw an Artifact of value equal to the value of your highest top card.
+
+Cyrus Cylinder:
+  age: 2
+  color: purple
+  type: bulb
+  resources: [None, bulb, bulb, tower]
+  dogmas:
+    - Choose any other top purple card of any player's board. Execute its non-demand dogma effects. Do not share then. Splay left a color on any player's board.
+
+# Age 3
+
+Excalibur:
+  age: 3
+  color: red
+  type: tower
+  resources: [crown, None, tower, tower]
+  dogmas:
+    - I compel you to transfer a top card of higher value than my top card of the same color from your board to my board.
+
+Mjolnir Amulet:
+  age: 3
+  color: red
+  type: tower
+  resources: [None, tower, tower, bulb]
+  dogmas:
+    - I compel you to choose a top card on your board! Transfer all cards of that card's coor from your board to my score pile.
+
+Moylough Belt Shrine:
+  age: 3
+  color: yellow
+  type: tower
+  resources: [tower, tree, None, tower]
+  dogmas:
+    - I compel you to reveal all cards in your hand and transfer the card of my choice to my baord.
+
+Along the River during the Qinming Festival:
+  age: 3
+  color: yellow
+  type: crown
+  resources: [crown, crown, crown, None]
+  dogmas:
+    - Draw and reveal a [4]. If it is yellow, tuck it. If it is purple, score it. Otherwise, repeat this effect.
+
+Philosopher's Stone:
+  age: 3
+  color: green
+  type: crown
+  resources: [crown, crown, crown, None]
+  dogmas:
+    - Return a card from your hand. Score a number of cards from your hand equal to the value of the card returned.
+
+Beauvais Cathedral Clock:
+  age: 3
+  color: green
+  type: crown
+  resources: [crown, crown, None, crown]
+  dogmas:
+    - Draw and reveal a [4]. Splay right the color matching the drawn card.
+
+Dunhuang Star Chart:
+  age: 3
+  color: blue
+  type: bulb
+  resources: [bulb, bulb, None, bulb]
+  dogmas:
+    - Return all cards from your hand. Draw a card of value equal to the number of cards returned.
+
+Charter of Liberties:
+  age: 3
+  color: blue
+  type: bulb
+  resources: [bulb, bulb, None, tower]
+  dogmas:
+    - Tuck a card from your hand. If you do, splay left its color, then choose a splayed color on any player's board. Execute all of that color's top card's non-demand effects, without sharing.
+
+Necronomicon:
+  age: 3
+  color: purple
+  type: tree
+  resources: [None, tree, tree, tree]
+  dogmas:
+    - Draw and reveal a [3]. If it is yellow, return all cards in your hand; if green, unsplay all your stacks; if red, return all cards in your score pile; if blue, draw a [9]. 
+
+Shroud of Turin:
+  age: 3
+  color: purple
+  type: tree
+  resources: [tree, None, tree, tree]
+  dogmas:
+    - Return a card from your hand. If you do,return a top card from your board and a card from your score pile of the returned card's color. If you did all three, claim an achievement ignoring eligibility.
+
+# Age 4
+
+East India Company Charter:
+  age: 4
+  color: red
+  type: factory
+  resources: [crown, factory, factory, None]
+  dogmas:
+    - Choose a value otherr then [5]. Return all cards of that value from all score piles. For each player that returned cards, draw and score a 5.
+
+Tortugas Galleon:
+  age: 4
+  color: red
+  type: factory
+  resources: [factory, factory, crown, None]
+  dogmas:
+    - I compel you to transfer all the highest cards from your score pile to my score pile. If you transfered any, transfer a top card on your board of that value to my board.
+
+Moses:
+  age: 4
+  color: yellow
+  type: tree
+  resources: [tree, tree, None, tree]
+  dogmas:
+    - I compel you to transfer all top cards with a [crown] from your board to my score pile!
+    - Score a top card with a [crown].
+
+Mona Lisa:
+  age: 4
+  color: yellow
+  type: tree
+  resources: [None, crown, tree, tree]
+  dogmas:
+    - Choose a number and a color. Draww five [4], then reveal your hand. If you have exactly that many cards of that color, score them, and splay right your cards of thath color. Otherwise, return all cards from your hand.
+
+Molasses Reef Caravel:
+  age: 4
+  color: green
+  type: bulb
+  resources: [bulb, bulb, bulb, None]
+  dogmas:
+    - Return all cards from your hand. Draw three [4]. Meld a blue card from your hand. Score a card from your hand. Return a card from your score pile.
+
+Hunt-Lenox Globe:
+  age: 4
+  color: green
+  type: bulb
+  resources: [bulb, bulb, None, bulb]
+  dogmas:
+    - If you have fewerthan four cards in your hand, return all non-green top cards from your board. Draw a [5] for each card returned. Meld a card from your hand.
+
+Petition of right:
+  age: 4
+  color: blue
+  type: bulb
+  resources: [bulb, None, crown, bulb]
+  dogmas:
+    - I compel you to transfer a card from your score pile to my score pile for each top card with a [tower] on your board.
+
+Delft Pocket Telescope:
+  age: 4
+  color: blue
+  type: bulb
+  resources: [factory, None, bulb, bulb]
+  dogmas:
+    - Return a card from you score pile. If you do, draw a [5] and a [6], then reveal one of the drawn cards that has a symbol in common with the returned card. If you cannot, return the drawn cards and repeat this effect.
+
+Cross of Coronado:
+  age: 4
+  color: purple
+  type: crown
+  resources: [crown, crown, None, crown]
+  dogmas:
+    - Reveal you hand. If you have exactly five cards and five colors in your hand, you win.
+
+Abell Gallery Harpsichord:
+  age: 4
+  color: purple
+  type: tree
+  resources: [tree, None, crown, tree]
+  dogmas:
+    - For each value of top card on your board appearing exactly once, draw and score a card of that value in ascending order.
+
+
+# Age 5
+
+Bill of Rights:
+  age: 5
+  color: red
+  type: bulb
+  resources: [None, tree, bulb, bulb]
+  dogmas:
+    - I compel you to choose a color where you have more visible cards than I do! Transfer all cards of that color from your board to my board, from the bottom up!
+
+Ship of the Line Sussex:
+  age: 5
+  color: red
+  type: factory
+  resources: [factory, factory, None, factory]
+  dogmas:
+    - If you have no cards in your score pile, choose a color and score all cards of that color from your boards. Otherwise, return all cards from your score pile.
+
+Gujin Tushu Jinsheng:
+  age: 5
+  color: yellow
+  type: bulb
+  resources: [bulb, crown, None, bulb]
+  dogmas:
+    - If Gujin Tushu Jinsheng is on your board, choose any other top card on any other board. Execute the effects on the chosen card as if they were on this card. Do not share them.
+
+The Daily Courant:
+  age: 5
+  color: yellow
+  type: factory
+  resources: [factory, factory, crown, None]
+  dogmas:
+    - Draw a card of any value; then place it on top of the draw pile of its age. Execute the effects of one of your other top cards as if they were on this card, do not share them.
+
+Barque-Longue La Belle:
+  age: 5
+  color: green
+  type: factory
+  resources: [factory, None, factory, crown]
+  dogmas:
+    - Draw and meld a [5]. If the drawn card is not green, repeat the effect.
+
+Hudson's Bay Company Archives:
+  age: 5
+  color: green
+  type: crown
+  resources: [crown, None, factory, crown]
+  dogmas:
+    - Score the bottom card of every color on your board. Meld a card from your score pile. Splay right the color of the melded card.
+
+Boerhavve Silver Microscope:
+  age: 5
+  color: blue
+  type: bulb
+  resources: [bulb, factory, bulb, None]
+  dogmas:
+    - Return the lowest card in your hand and the lowest top card on your board. Draw and score a card of value equal to the sum of the values of the card returned.
+
+Principia:
+  age: 5
+  color: blue
+  type: bulb
+  resources: [bulb, bulb, None, bulb]
+  dogmas:
+    - Return all non-blue top cards from your board. For each card returned, draw and meld a card of value one higher than the value of the returned card, in ascending order.
+
+Sandham Room Cricket Bar:
+  age: 5
+  color: purple
+  type: tree
+  resources: [tree, tree, factory, None]
+  dogmas:
+    - Draw and reveal a [6]. If it is red, claim an achievement, ignoring eligibility.
+
+Newton-Wickins Telescope:
+  age: 5
+  color: purple
+  type: factory
+  resources: [factory, bulb, factory, None]
+  dogmas:
+    - You may return any number of cards from your score pile. If you do, draw and meld a card of value equal to the number of cards returned. If the melded card has a [clock], return it.
+
+# Age 6
+
+Frigate Constitution:
+  age: 6
+  color: red
+  type: factory
+  resources: [None, factory, factory, factory]
+  dogmas:
+    - I compel you to reveal a card in your hand! If you do, and its value is equal to the value of any of my top cards, return it and all cards of its color from your board!
+
+U.S. Declaration of Independence:
+  age: 6
+  color: red
+  type: crown
+  resources: [crown, crown, bulb, None]
+  dogmas:
+    - I compel you to transfer the highest card in you hand to my hand, the highest card in your score pile to my score pile, and the highest top card with a [factory] from your board to my board.
+
+Stam Act:
+  age: 6
+  color: yellow
+  type: bulb
+  resources: [None, crown, bulb, bulb]
+  dogmas:
+    - I compel you to transfer a card of value equal to the top yellow card on your board from your score pile to mine! If you do, return a card from your score pile of value equal to the top green card on your board!
+
+Pride and Prejudice:
+  age: 6
+  color: yellow
+  type: bulb
+  resources: [None, bulb, tree, bulb]
+  dogmas:
+    - Draw and meld a [6]. If the drawn card's color is the color with the fewest (or tied) number of visible cards on your board, score the melded card, and repeat this effect.
+
+The Wealth of Nations:
+  age: 6
+  color: green
+  type: crown
+  resources: [crown, factory, None, crown]
+  dogmas:
+    - Draw and score a [1]. Add up the values of all the cards in your score pile, divide by five, and round up. Draw and score a card of value equal to the result.
+
+Buttonwood Agreement:
+  age: 6
+  color: green
+  type: factory
+  resources: [factory, crown, factory, None]
+  dogmas:
+    - Choose three colors. Draw and reveal a [8]. If the drawn card is one of the chosen colors, score it and splay up that color. Otherwise, return all cards of the drawn card's color from your score pile, and unsplay that color.
+
+Kilogram if the Archives:
+  age: 6
+  color: blue
+  type: factory
+  resources: [factory, None, factory, bulb]
+  dogmas:
+    - Return a card from your hand. Return a top card from your board. If you returned two cards and their values sum to ten, draw and score a [10].
+
+Puffing Billy:
+  age: 6
+  color: blue
+  type: factory
+  resources: [factory, None, factory, factory]
+  dogmas:
+    - Return a card from your hand. Draw a card of value equal to the highest numberr of symbols of the same type visible in that color on your board. Splay right that color.
+
+Moonlight Sonata:
+  age: 6
+  color: purple
+  type: bulb
+  resources: [bulb, bulb, None, bulb]
+  dogmas:
+    - Choose a color on your board having the highest top card. Meld the bottom card on your board of that color. Claim an achievement, ignoring eligibility.
+
+Marcha Real:
+  age: 6
+  color: purple
+  type: tree
+  resources: [tree, tree, None, crown]
+  dogmas:
+    - Reveal and return two cards from you hand. If they have the same value. draw a card of value one higher. If they have the same color, claim an achievement, ignoring eligibility.
+
+
+# Age 7
+
+Submarine H.L.Hunley:
+  age: 7
+  color: red
+  type: factory
+  resources: [factory, factory, factory, None]
+  dogmas:
+    - I compel you to draw and meld a [7]! Reveal the bottom card on your board of the melded card's color! If the revealed card is a [1], return all cards of its color from your board!
+
+Jedlik's Electromagnetic Self-Rotor:
+  age: 7
+  color: red
+  type: bulb
+  resources: [None, clock, bulb, bulb]
+  dogmas:
+    - Draw and score an [8]. Claim an achievement of value [8] if it is available, ifnoring eligibility.
+
+Colt Paterson Revolver:
+  age: 7
+  color: yellow
+  type: factory
+  resources: [factory, None, factory, crown]
+  dogmas:
+    - I compel you to reveal your hand! Draw a [7]! If the color of the drawn card matches the color of any other card in your hand, return all cards in your hand and all cards in your score pile!
+
+Singer Model 27:
+  age: 7
+  color: yellow
+  type: clock
+  resources: [None, factory, clock, clock]
+  dogmas:
+    - Tuck a card from your hand. If you do, splay up its color, and then tuck all cards from your score pile of that color.
+
+International Prototype Metre Bar:
+  age: 7
+  color: green
+  type: crown
+  resources: [crown, None, crown, factory]
+  dogmas:
+    - Choose a value. Draw and meld a card of that value. Splay up the color of the melded card. If the number of cards of that color visible on your board is exactly equal to the card's value, you win. Otherwise, return the melded card.
+
+Hansen Writing Ball:
+  age: 7
+  color: green
+  type: clock
+  resources: [clock, tree, clock, None]
+  dogmas:
+    - I compel you to draw four [7]! Meld a blue card, then transfer all cards in your hand to my hand!
+    - Draw and reveal a [7]. If it has no [clock], tuck it and repeat this effect.
+
+Periodic Table:
+  age: 7
+  color: blue
+  type: bulb
+  resources: [bulb, None, bulb, bulb]
+  dogmas:
+    - Choose two top cards on your board of the same value. If you do, draw a card of value one higher and meld it. If it melded over one of the chosen cards, repeat this effect.
+
+Corvette Challenger:
+  age: 7
+  color: blue
+  type: tree
+  resources: [tree, bulb, None, tree]
+  dogmas:
+    - Draw and tuck an [8]. Splay up the color of the tucked card. Draw and score a card of value equal to the number of cards of that color visible on your board.
+
+Roundhay Garden Scene:
+  age: 7
+  color: purple
+  type: tree
+  resources: [tree, tree, tree, None]
+  dogmas:
+    - Meld the highest card from your score pile. Draw and score two cards of value equal to the melded card. Execute the effects of the melded card as if they were on this card. Do not share them.
+
+The Communist Manifesto:
+  age: 7
+  color: purple
+  type: crown
+  resources: [crown, crown, None, tree]
+  dogmas:
+    - For each player in the game, draw and reveal a [7]. Transfer one of the drawn cards to each player's board. Execute the non-demand effects of your card. Do not share them.
+
+
+# Age 8
+
+Battleship Bismarck:
+  age: 8
+  color: red
+  type: factory
+  resources: [None, factory, factory, factory]
+  dogmas:
+    - I compel you to draw and reveal an [8]! Return all cards of the drawn card's color from your board!
+
+Meiji-Mura Stamp Vending Machine:
+  age: 8
+  color: green
+  type: crown
+  resources: [tree, crown, None, crown]
+  dogmas:
+    - Return a card from your hand. Draw and score three cards of the returned card's value.
+
+Parnell Pitch Drop:
+  age: 8
+  color: blue
+  type: bulb
+  resources: [bulb, bulb, bulb, None]
+  dogmas:
+    - Draw and meld a card of value one higher than the highest top card on your board. If the melded card has three [clock], you win.
+
+Garland's Ruby Slippers:
+  age: 8
+  color: purple
+  type: clock
+  resources: [None, clock, clock, clock]
+  dogmas:
+    - Meld an [8] from your hand. If the melded card has no effects, you win. Otherwise, execute the effects of the melded card as if they were on this card. Do not share them.
+
+Battleship Yamato:
+  age: 8
+  color: red
+  type: null
+  resources: []
+  dogmas: []
+
+Ocean Liner Titanic:
+  age: 8
+  color: green
+  type: crown
+  resources: [crown, factory, crown, None]
+  dogmas:
+    - Score all bottom cards from your board.
+
+Time:
+  age: 8
+  color: yellow
+  type: clock
+  resources: [None, clock, clock, bulb]
+  dogmas:
+    - I compel you to transfer a non-yellow top card with a [clock] from your board to my board! If you do, repeat this effect!
+
+Plush Beweglich Rod Bear:
+  age: 8
+  color: yellow
+  type: tree
+  resources: [tree, tree, tree, None]
+  dogmas:
+    - Choose a value. Splay up each color with a top card of the chosen value. Return all cards of the chosen value from all score piles.
+
+'30 World Cup Final Ball':
+  age: 8
+  color: purple
+  type: tree
+  resources: [tree, tree, clock, None]
+  dogmas:
+    - I compel you to return one of your achievements!
+    - Draw and reveal an [8]. The single player with the highest top card of the drawn card's color achieves it, ignoring eligibility. If that happens, repeat this effect.
+
+Earhart's Lockheed Electra 10E:
+  age: 8
+  color: blue
+  type: clock
+  resources: [clock, None, clock, clock]
+  dogmas:
+    - For each value below nine, return a top card of that value from your board, in descending order. If you return eight cards, you win. Otherwise, claim an achievement, ignoring eligibility.
+
+# Age 9
+
+United Nations Charter:
+  age: 9
+  color: red
+  type: tree
+  resources: [None, tree, clock, tree]
+  dogmas:
+    - I compel you to transfer all top cards on your board with a demand effect to my score pile!
+    - If you have a top card on your board with a demand effect, draw a [10].
+
+Philips Compact Cassette:
+  age: 9
+  color: green
+  type: tree
+  resources: [None, tree, tree, tree]
+  dogmas:
+    - I compel you to unsplay all splayed colors on your board
+    - Splay up two colors on your board.
+
+The Big Bang:
+  age: 9
+  color: purple
+  type: bulb
+  resources: [bulb, None, bulb, bulb]
+  dogmas:
+    - Execute the non-demand effects of your top blue card, without sharing. If this caused any change to occur, draw and remove a [10] from the game, then repeat this effect.
+
+Magnavox Odyssey:
+  age: 9
+  color: yellow
+  type: bulb
+  resources: [bulb, tree, None, bulb]
+  dogmas:
+    - Draw and meld two [10]. If they are the same color, you win.
+
+Luna 3:
+  age: 9
+  color: blue
+  type: factory
+  resources: [factory, None, factory, factory]
+  dogmas:
+    - Return all cards from your score pile. Draw and score a card of value equal to the number of cards returned.
+
+Syncom 3:
+  age: 9
+  color: green
+  type: clock
+  resources: [None, clock, clock, clock]
+  dogmas:
+    - Return all cards from your hand. Draw and reveal five [9]. If you revealed all five colors, you win.
+
+Yeager's Bell X-1A:
+  age: 9
+  color: blue
+  type: clock
+  resources: [clock, clock, factory, None]
+  dogmas:
+    - Draw and meld a [9]. Execute the effects of the melded card as if they were on this card, without sharing. If that card has a [clock], repeat this effect.
+
+Velcro Shoes:
+  age: 9
+  color: red
+  type: factory
+  resources: [factory, factory, clock, None]
+  dogmas:
+    - I compel you to transfer a [9] from your hand to my hand! If you do not, transfer a [9] from your score pile to my score pile! If you do neither, I win!
+
+Rock around the Clock:
+  age: 9
+  color: yellow
+  type: clock
+  resources: [tree, clock, None, clock]
+  dogmas:
+    - For each top card on your board with a [clock], draw and score a [9].
+
+Marilyn Deptych:
+  age: 9
+  color: purple
+  type: crown
+  resources: [crown, crown, crown, None]
+  dogmas:
+    - You may score a card from  your hand. You may transfer any card from your score pile to your hand. If you have exactly 25 points, you win.
+
+# Age 10
+
+Exxon Valdez:
+  age: 10
+  color: red
+  type: factory
+  resources: [factory, None, factory, factory]
+  dogmas:
+    - I compel you to remove all cards from your hand, score pile, board and achievements from the game! You lose! If there is only one player remaining in the game, that player wins!
+
+Maldives:
+  age: 10
+  color: red
+  type: clock
+  resources: [clock, None, clock, clock]
+  dogmas:
+    - I compel you to return all cards in your hand but two! Return all cards in your score pile buy two!
+    - Return all cards in your score pile but four.
+
+Seikan Tunnel:
+  age: 10
+  color: green
+  type: clock
+  resources: [clock, clock, clock, None]
+  dogmas:
+    - If you have the most cards of a color showing on your board out of all colors on all boards, you win.
+
+Maastricht Treaty:
+  age: 10
+  color: green
+  type: crown
+  resources: [crown, crown, None, crown]
+  dogmas:
+    - If you have the most cards in your score pile, you win.
+
+Rover Curiosity:
+  age: 10
+  color: blue
+  type: bulb
+  resources: [None, bulb, bulb, bulb]
+  dogmas:
+    - Draw and meld an Artifact [10]. Execute the effects of the melded card as if they were on this card. Do not share them.
+
+Higgs Boson:
+  age: 10
+  color: blue
+  type: bulb
+  resources: [bulb, bulb, bulb, None]
+  dogmas:
+    - Transfer all cards on your board to your score pile.
+
+Delorean DMC-12:
+  age: 10
+  color: purple
+  type: clock
+  resources: [None, clock, clock, clock]
+  dogmas:
+    - If Delorean DMC-12 is a top card on any boaed, remove all top cards on all boards and all cards in all hands from the game.
+
+Twister:
+  age: 10
+  color: purple
+  type: factory
+  resources: [None, factory, factory, clock]
+  dogmas:
+    - I compel you to reveal your score pile! For each color, meld a card of that color from your score pile.
+
+Dolly the Sheep:
+  age: 10
+  color: yellow
+  type: clock
+  resources: [None, clock, tree, clock]
+  dogmas:
+    - You may score your bottom yellow card. You may draw and tuck a [1]. If your bottom yellow card is Domestication, you win, Otherwise, meld the highest card in your hand, the draw a [10].
+
+Where's Waldo?:
+  age: 10
+  color: yellow
+  type: tree
+  resources: [tree, clock, None, tree]
+  dogmas:
+    - you win.
+

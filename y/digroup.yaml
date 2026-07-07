@@ -1,0 +1,930 @@
+activities:
+    award_medal: [1st_place_medal, 2nd_place_medal, 3rd_place_medal, medal, sports_medal, trophy]
+    event: [admission_tickets, balloon, carp_streamer, christmas_tree, confetti_ball, firecracker, fireworks, jack_o_lantern, japanese_dolls, moon_viewing_ceremony, party_popper, pine_decoration, red_envelope, reminder_ribbon, ribbon, sparkler, sparkles, tanabata_tree, ticket, wind_chime, wrapped_gift]
+    sport: [american_football, badminton, baseball, basketball, bowling, boxing_glove, cricket_game, curling_stone, diving_mask, field_hockey, fishing_pole, flag_in_hole, flying_disc, goal_net, ice_hockey, ice_skate, lacrosse, martial_arts_uniform, ping_pong, rugby_football, running_shirt, skis, sled, soccer_ball, softball, tennis, volleyball]
+    arts_crafts: [artist_palette, framed_picture, knot, performing_arts, sewing_needle, thread, yarn]
+    game: [bullseye, chess_pawn, club_suit, crystal_ball, diamond_suit, flower_playing_cards, game_die, heart_suit, joker, joystick, kite, magic_wand, mahjong_red_dragon, mirror_ball, nesting_dolls, pinata, pistol, pool_8_ball, puzzle_piece, slot_machine, spade_suit, teddy_bear, video_game, water_pistol, yo_yo]
+symbols:
+    alphanum: [a_button_blood_type_, ab_button_blood_type_, b_button_blood_type_, circled_m, cl_button, cool_button, free_button, id_button, information, input_latin_letters, input_latin_lowercase, input_latin_uppercase, input_numbers, input_symbols, japanese_acceptable_button, japanese_application_button, japanese_bargain_button, japanese_congratulations_button, japanese_discount_button, japanese_free_of_charge_button, japanese_here_button, japanese_monthly_amount_button, japanese_no_vacancy_button, japanese_not_free_of_charge_button, japanese_open_for_business_button, japanese_passing_grade_button, japanese_prohibited_button, japanese_reserved_button, japanese_secret_button, japanese_service_charge_button, japanese_vacancy_button, new_button, ng_button, o_button_blood_type_, ok_button, p_button, sos_button, up_button, vs_button]
+    av_symbol: [antenna_bars, bright_button, cinema, dim_button, downwards_button, eject_button, fast_down_button, fast_forward_button, fast_reverse_button, fast_up_button, last_track_button, mobile_phone_off, next_track_button, pause_button, play_button, play_or_pause_button, record_button, repeat_button, repeat_single_button, reverse_button, shuffle_tracks_button, stop_button, upwards_button, vibration_mode, wireless]
+    zodiac: [aquarius, aries, cancer, capricorn, gemini, leo, libra, ophiuchus, pisces, sagittarius, scorpio, taurus, virgo]
+    transport_sign: [atm_sign, baby_symbol, baggage_claim, customs, left_luggage, litter_in_bin_sign, men_s_room, passport_control, potable_water, restroom, water_closet, wheelchair_symbol, women_s_room]
+    religion: [atom_symbol, dotted_six_pointed_star, khanda, latin_cross, menorah, om, orthodox_cross, peace_symbol, place_of_worship, star_and_crescent, star_of_david, wheel_of_dharma, yin_yang]
+    arrow: [back_arrow, clockwise_vertical_arrows, counterclockwise_arrows_button, down_arrow, down_left_arrow, down_right_arrow, end_arrow, left_arrow, left_arrow_curving_right, left_right_arrow, on_arrow, right_arrow, right_arrow_curving_down, right_arrow_curving_left, right_arrow_curving_up, soon_arrow, top_arrow, up_arrow, up_down_arrow, up_left_arrow, up_right_arrow]
+    warning: [biohazard, children_crossing, no_bicycles, no_entry, no_littering, no_mobile_phones, no_one_under_eighteen, no_pedestrians, no_smoking, non_potable_water, prohibited, radioactive, warning]
+    geometric: [black_circle, black_large_square, black_medium_small_square, black_medium_square, black_small_square, black_square_button, blue_circle, blue_square, brown_circle, brown_square, diamond_with_a_dot, green_circle, green_square, large_blue_diamond, large_orange_diamond, orange_circle, orange_square, purple_circle, purple_square, radio_button, red_circle, red_square, red_triangle_pointed_down, red_triangle_pointed_up, small_blue_diamond, small_orange_diamond, white_circle, white_large_square, white_medium_small_square, white_medium_square, white_small_square, white_square_button, yellow_circle, yellow_square]
+    other_symbol: [check_box_with_check, check_mark, check_mark_button, copyright, cross_mark, cross_mark_button, curly_loop, double_curly_loop, eight_pointed_star, eight_spoked_asterisk, fleur_de_lis, hollow_red_circle, japanese_symbol_for_beginner, medical_symbol, name_badge, part_alternation_mark, recycling_symbol, registered, sparkle, splatter, trade_mark, trident_emblem]
+    currency: [currency_exchange, heavy_dollar_sign]
+    math: [divide, heavy_equals_sign, infinity, minus, multiply, plus]
+    punctuation: [double_exclamation_mark, exclamation_question_mark, red_exclamation_mark, red_question_mark, wavy_dash, white_exclamation_mark, white_question_mark]
+    gender: [female_sign, male_sign, transgender_symbol]
+    keycap: [keycap_, keycap_0, keycap_1, keycap_10, keycap_2, keycap_3, keycap_4, keycap_5, keycap_6, keycap_7, keycap_8, keycap_9]
+objects:
+    computer: [abacus, battery, computer_disk, computer_mouse, desktop_computer, dvd, electric_plug, floppy_disk, keyboard, laptop, low_battery, optical_disk, printer, trackball]
+    musical_instrument: [accordion, banjo, drum, flute, guitar, harp, long_drum, maracas, musical_keyboard, saxophone, trombone, trumpet, violin]
+    medical: [adhesive_bandage, crutch, drop_of_blood, pill, stethoscope, syringe, x_ray]
+    science: [alembic, dna, microscope, petri_dish, satellite_antenna, telescope, test_tube]
+    tool: [axe, balance_scale, bomb, boomerang, bow_and_arrow, broken_chain, carpentry_saw, chains, clamp, crossed_swords, dagger, gear, hammer, hammer_and_pick, hammer_and_wrench, hook, ladder, link, magnet, nut_and_bolt, pick, screwdriver, shield, shovel, toolbox, white_cane, wrench]
+    clothing: [backpack, ballet_shoes, bikini, billed_cap, briefs, clutch_bag, coat, crown, dress, flat_shoe, folding_hand_fan, gem_stone, glasses, gloves, goggles, graduation_cap, hair_pick, handbag, high_heeled_shoe, hiking_boot, jeans, kimono, lab_coat, lipstick, man_s_shoe, military_helmet, necktie, one_piece_swimsuit, prayer_beads, purse, rescue_worker_s_helmet, ring, running_shoe, safety_vest, sari, scarf, shopping_bags, shorts, socks, sunglasses, t_shirt, thong_sandal, top_hat, woman_s_boot, woman_s_clothes, woman_s_hat, woman_s_sandal]
+    mail: [ballot_box_with_ballot, closed_mailbox_with_lowered_flag, closed_mailbox_with_raised_flag, e_mail, envelope, envelope_with_arrow, inbox_tray, incoming_envelope, open_mailbox_with_lowered_flag, open_mailbox_with_raised_flag, outbox_tray, package, postbox]
+    office: [bar_chart, briefcase, calendar, card_file_box, card_index, card_index_dividers, chart_decreasing, chart_increasing, clipboard, file_cabinet, file_folder, linked_paperclips, open_file_folder, paperclip, pushpin, round_pushpin, scissors, spiral_calendar, spiral_notepad, straight_ruler, tear_off_calendar, triangular_ruler, wastebasket]
+    household: [basket, bathtub, bed, broom, bubbles, bucket, chair, couch_and_lamp, door, elevator, fire_extinguisher, lotion_bottle, mirror, mouse_trap, plunger, razor, roll_of_paper, safety_pin, shopping_cart, shower, soap, sponge, toilet, toothbrush, window]
+    sound: [bell, bell_with_slash, loudspeaker, megaphone, muted_speaker, postal_horn, speaker_high_volume, speaker_low_volume, speaker_medium_volume]
+    writing: [black_nib, crayon, fountain_pen, memo, paintbrush, pen, pencil]
+    book_paper: [blue_book, bookmark, bookmark_tabs, books, closed_book, green_book, label, ledger, newspaper, notebook, notebook_with_decorative_cover, open_book, orange_book, page_facing_up, page_with_curl, rolled_up_newspaper, scroll]
+    light_video: [camera, camera_with_flash, candle, clapper_board, diya_lamp, film_frames, film_projector, flashlight, light_bulb, magnifying_glass_tilted_left, magnifying_glass_tilted_right, movie_camera, red_paper_lantern, television, video_camera, videocassette]
+    money: [chart_increasing_with_yen, coin, credit_card, dollar_banknote, euro_banknote, money_bag, money_with_wings, pound_banknote, receipt, treasure_chest, yen_banknote]
+    other_object: [award, cigarette, coffin, funeral_urn, hamsa, headstone, identification_card, moai, nazar_amulet, placard]
+    music: [control_knobs, headphone, level_slider, microphone, musical_note, musical_notes, musical_score, radio, studio_microphone]
+    phone: [fax_machine, mobile_phone, mobile_phone_with_arrow, pager, telephone, telephone_receiver]
+    lock: [key, locked, locked_with_key, locked_with_pen, old_key, unlocked]
+travel_places:
+    transport_air: [aerial_tramway, airplane, airplane_arrival, airplane_departure, flying_saucer, helicopter, mountain_cableway, parachute, rocket, satellite, seat, small_airplane, suspension_railway]
+    time: [alarm_clock, eight_o_clock, eight_thirty, eleven_o_clock, eleven_thirty, five_o_clock, five_thirty, four_o_clock, four_thirty, hourglass_done, hourglass_not_done, mantelpiece_clock, nine_o_clock, nine_thirty, one_o_clock, one_thirty, seven_o_clock, seven_thirty, six_o_clock, six_thirty, stopwatch, ten_o_clock, ten_thirty, three_o_clock, three_thirty, timer_clock, twelve_o_clock, twelve_thirty, two_o_clock, two_thirty, watch]
+    transport_ground: [ambulance, articulated_lorry, auto_rickshaw, automobile, bicycle, bullet_train, bus, bus_stop, construction, delivery_truck, fire_engine, fuel_pump, high_speed_train, horizontal_traffic_light, kick_scooter, light_rail, locomotive, manual_wheelchair, metro, minibus, monorail, motor_scooter, motorcycle, motorized_wheelchair, motorway, mountain_railway, oil_drum, oncoming_automobile, oncoming_bus, oncoming_police_car, oncoming_taxi, pickup_truck, police_car, police_car_light, racing_car, railway_car, railway_track, roller_skate, skateboard, sport_utility_vehicle, station, stop_sign, taxi, tractor, train, tram, tram_car, trolleybus, vertical_traffic_light, wheel]
+    transport_water: [anchor, canoe, ferry, motor_boat, passenger_ship, ring_buoy, sailboat, ship, speedboat]
+    place_building: [bank, brick, building_construction, castle, classical_building, convenience_store, department_store, derelict_house, factory, hospital, hotel, house, house_with_garden, houses, hut, japanese_castle, japanese_post_office, love_hotel, office_building, post_office, rock, school, stadium, statue_of_liberty, tokyo_tower, wedding, wood]
+    place_other: [barber_pole, bridge_at_night, carousel_horse, circus_tent, cityscape, cityscape_at_dusk, ferris_wheel, foggy, fountain, hot_springs, night_with_stars, playground_slide, roller_coaster, sunrise, sunrise_over_mountains, sunset, tent]
+    place_geographic: [beach_with_umbrella, camping, desert, desert_island, landslide, mount_fuji, mountain, national_park, snow_capped_mountain, volcano]
+    hotel: [bellhop_bell, luggage]
+    place_religious: [church, hindu_temple, kaaba, mosque, shinto_shrine, synagogue]
+    sky_weather: [closed_umbrella, cloud, cloud_with_lightning, cloud_with_lightning_and_rain, cloud_with_rain, cloud_with_snow, comet, crescent_moon, cyclone, droplet, fire, first_quarter_moon, first_quarter_moon_face, fog, full_moon, full_moon_face, glowing_star, high_voltage, last_quarter_moon, last_quarter_moon_face, milky_way, new_moon, new_moon_face, rainbow, ringed_planet, shooting_star, snowflake, snowman, snowman_without_snow, star, sun, sun_behind_cloud, sun_behind_large_cloud, sun_behind_rain_cloud, sun_behind_small_cloud, sun_with_face, thermometer, tornado, umbrella, umbrella_on_ground, umbrella_with_rain_drops, waning_crescent_moon, waning_gibbous_moon, water_wave, waxing_crescent_moon, waxing_gibbous_moon, wind_face]
+    place_map: [compass, globe_showing_americas, globe_showing_asia_australia, globe_showing_europe_africa, globe_with_meridians, map_of_japan, world_map]
+smileys_emotion:
+    face_costume: [alien, alien_monster, clown_face, ghost, goblin, ogre, pile_of_poo, robot]
+    emotion: [anger_symbol, collision, dashing_away, dizzy, eye_in_speech_bubble, fight_cloud, hole, hundred_points, kiss_mark, left_speech_bubble, right_anger_bubble, speech_balloon, sweat_droplets, thought_balloon, zzz]
+    face_negative: [angry_face, angry_face_with_horns, enraged_face, face_with_steam_from_nose, face_with_symbols_on_mouth, skull, skull_and_crossbones, smiling_face_with_horns]
+    face_concerned: [anguished_face, anxious_face_with_sweat, astonished_face, confounded_face, confused_face, crying_face, disappointed_face, distorted_face, downcast_face_with_sweat, face_holding_back_tears, face_screaming_in_fear, face_with_diagonal_mouth, face_with_open_mouth, fearful_face, flushed_face, frowning_face, frowning_face_with_open_mouth, hushed_face, loudly_crying_face, persevering_face, pleading_face, sad_but_relieved_face, slightly_frowning_face, tired_face, weary_face, worried_face, yawning_face]
+    face_smiling: [beaming_face_with_smiling_eyes, face_with_tears_of_joy, grinning_face, grinning_face_with_big_eyes, grinning_face_with_smiling_eyes, grinning_face_with_sweat, grinning_squinting_face, melting_face, rolling_on_the_floor_laughing, slightly_smiling_face, smiling_face_with_halo, smiling_face_with_smiling_eyes, upside_down_face, winking_face]
+    heart: [beating_heart, black_heart, blue_heart, broken_heart, brown_heart, green_heart, grey_heart, growing_heart, heart_decoration, heart_exclamation, heart_on_fire, heart_with_arrow, heart_with_ribbon, light_blue_heart, love_letter, mending_heart, orange_heart, pink_heart, purple_heart, red_heart, revolving_hearts, sparkling_heart, two_hearts, white_heart, yellow_heart]
+    cat_face: [cat_with_tears_of_joy, cat_with_wry_smile, crying_cat, grinning_cat, grinning_cat_with_smiling_eyes, kissing_cat, pouting_cat, smiling_cat_with_heart_eyes, weary_cat]
+    face_unwell: [cold_face, exploding_head, face_vomiting, face_with_crossed_out_eyes, face_with_head_bandage, face_with_medical_mask, face_with_spiral_eyes, face_with_thermometer, hot_face, nauseated_face, sneezing_face, woozy_face]
+    face_hat: [cowboy_hat_face, disguised_face, partying_face]
+    face_neutral_skeptical: [dotted_line_face, expressionless_face, face_exhaling, face_in_clouds, face_with_raised_eyebrow, face_with_rolling_eyes, face_without_mouth, grimacing_face, head_shaking_horizontally, head_shaking_vertically, lying_face, neutral_face, shaking_face, smirking_face, unamused_face, zipper_mouth_face]
+    face_sleepy: [drooling_face, face_with_bags_under_eyes, pensive_face, relieved_face, sleeping_face, sleepy_face]
+    face_affection: [face_blowing_a_kiss, kissing_face, kissing_face_with_closed_eyes, kissing_face_with_smiling_eyes, smiling_face, smiling_face_with_heart_eyes, smiling_face_with_hearts, smiling_face_with_tear, star_struck]
+    face_tongue: [face_savoring_food, face_with_tongue, money_mouth_face, squinting_face_with_tongue, winking_face_with_tongue, zany_face]
+    face_hand: [face_with_hand_over_mouth, face_with_open_eyes_and_hand_over_mouth, face_with_peeking_eye, saluting_face, shushing_face, smiling_face_with_open_hands, thinking_face]
+    face_glasses: [face_with_monocle, nerd_face, smiling_face_with_sunglasses]
+    monkey_face: [hear_no_evil_monkey, see_no_evil_monkey, speak_no_evil_monkey]
+food_drink:
+    dishware: [amphora, chopsticks, fork_and_knife, fork_and_knife_with_plate, jar, kitchen_knife, spoon]
+    food_vegetable: [avocado, beans, bell_pepper, broccoli, brown_mushroom, carrot, chestnut, cucumber, ear_of_corn, eggplant, garlic, ginger_root, hot_pepper, leafy_green, onion, pea_pod, peanuts, potato, root_vegetable]
+    drink: [baby_bottle, beer_mug, beverage_box, bottle_with_popping_cork, bubble_tea, clinking_beer_mugs, clinking_glasses, cocktail_glass, cup_with_straw, glass_of_milk, hot_beverage, ice, mate, pouring_liquid, sake, teacup_without_handle, teapot, tropical_drink, tumbler_glass, wine_glass]
+    food_prepared: [bacon, bagel, baguette_bread, bowl_with_spoon, bread, burrito, butter, canned_food, cheese_wedge, cooking, croissant, cut_of_meat, egg, falafel, flatbread, fondue, french_fries, green_salad, hamburger, hot_dog, meat_on_bone, pancakes, pizza, popcorn, pot_of_food, poultry_leg, pretzel, salt, sandwich, shallow_pan_of_food, stuffed_flatbread, taco, tamale, waffle]
+    food_fruit: [banana, blueberries, cherries, coconut, grapes, green_apple, kiwi_fruit, lemon, lime, mango, melon, olive, peach, pear, pineapple, red_apple, strawberry, tangerine, tomato, watermelon]
+    food_asian: [bento_box, cooked_rice, curry_rice, dango, dumpling, fish_cake_with_swirl, fortune_cookie, fried_shrimp, moon_cake, oden, rice_ball, rice_cracker, roasted_sweet_potato, spaghetti, steaming_bowl, sushi, takeout_box]
+    food_sweet: [birthday_cake, candy, chocolate_bar, cookie, cupcake, custard, doughnut, honey_pot, ice_cream, lollipop, pie, shaved_ice, shortcake, soft_ice_cream]
+people_body:
+    body_parts: [anatomical_heart, biting_lip, bone, brain, ear, ear_with_hearing_aid, eye, eyes, flexed_biceps, foot, leg, lungs, mechanical_arm, mechanical_leg, mouth, nose, tongue, tooth]
+    person_role: [artist, astronaut, breast_feeding, construction_worker, cook, detective, factory_worker, farmer, firefighter, guard, health_worker, judge, man_artist, man_astronaut, man_construction_worker, man_cook, man_detective, man_factory_worker, man_farmer, man_feeding_baby, man_firefighter, man_guard, man_health_worker, man_in_tuxedo, man_judge, man_mechanic, man_office_worker, man_pilot, man_police_officer, man_scientist, man_singer, man_student, man_teacher, man_technologist, man_wearing_turban, man_with_veil, mechanic, ninja, office_worker, person_feeding_baby, person_in_tuxedo, person_wearing_turban, person_with_crown, person_with_skullcap, person_with_veil, pilot, police_officer, pregnant_man, pregnant_person, pregnant_woman, prince, princess, scientist, singer, student, teacher, technologist, woman_artist, woman_astronaut, woman_construction_worker, woman_cook, woman_detective, woman_factory_worker, woman_farmer, woman_feeding_baby, woman_firefighter, woman_guard, woman_health_worker, woman_in_tuxedo, woman_judge, woman_mechanic, woman_office_worker, woman_pilot, woman_police_officer, woman_scientist, woman_singer, woman_student, woman_teacher, woman_technologist, woman_wearing_turban, woman_with_headscarf, woman_with_veil]
+    person: [baby, boy, child, girl, man, man_bald, man_beard, man_blond_hair, man_curly_hair, man_red_hair, man_white_hair, old_man, old_woman, older_person, person, person_bald, person_beard, person_blond_hair, person_curly_hair, person_red_hair, person_white_hair, woman, woman_bald, woman_beard, woman_blond_hair, woman_curly_hair, woman_red_hair, woman_white_hair]
+    person_fantasy: [baby_angel, elf, fairy, genie, hairy_creature, mage, man_elf, man_fairy, man_genie, man_mage, man_superhero, man_supervillain, man_vampire, man_zombie, mermaid, merman, merperson, mrs_claus, mx_claus, santa_claus, superhero, supervillain, troll, vampire, woman_elf, woman_fairy, woman_genie, woman_mage, woman_superhero, woman_supervillain, woman_vampire, woman_zombie, zombie]
+    hand_single_finger: [backhand_index_pointing_down, backhand_index_pointing_left, backhand_index_pointing_right, backhand_index_pointing_up, index_pointing_at_the_viewer, index_pointing_up, middle_finger]
+    person_activity: [ballet_dancer, man_climbing, man_dancing, man_getting_haircut, man_getting_massage, man_in_manual_wheelchair, man_in_manual_wheelchair_facing_right, man_in_motorized_wheelchair, man_in_motorized_wheelchair_facing_right, man_in_steamy_room, man_kneeling, man_kneeling_facing_right, man_running, man_running_facing_right, man_standing, man_walking, man_walking_facing_right, man_with_white_cane, man_with_white_cane_facing_right, men_with_bunny_ears, people_with_bunny_ears, person_climbing, person_getting_haircut, person_getting_massage, person_in_manual_wheelchair, person_in_manual_wheelchair_facing_right, person_in_motorized_wheelchair, person_in_motorized_wheelchair_facing_right, person_in_steamy_room, person_in_suit_levitating, person_kneeling, person_kneeling_facing_right, person_running, person_running_facing_right, person_standing, person_walking, person_walking_facing_right, person_with_white_cane, person_with_white_cane_facing_right, woman_climbing, woman_dancing, woman_getting_haircut, woman_getting_massage, woman_in_manual_wheelchair, woman_in_manual_wheelchair_facing_right, woman_in_motorized_wheelchair, woman_in_motorized_wheelchair_facing_right, woman_in_steamy_room, woman_kneeling, woman_kneeling_facing_right, woman_running, woman_running_facing_right, woman_standing, woman_walking, woman_walking_facing_right, woman_with_white_cane, woman_with_white_cane_facing_right, women_with_bunny_ears]
+    person_symbol: [bust_in_silhouette, busts_in_silhouette, family, family_adult, fingerprint, footprints, people_hugging, speaking_head]
+    hand_fingers_partial: [call_me_hand, crossed_fingers, hand_with_index_finger_and_thumb_crossed, love_you_gesture, ok_hand, pinched_fingers, pinching_hand, sign_of_the_horns, victory_hand]
+    hands: [clapping_hands, folded_hands, handshake, heart_hands, open_hands, palms_up_together, raising_hands]
+    family: [couple_with_heart, kiss, men_holding_hands, people_holding_hands, woman_and_man_holding_hands, women_holding_hands]
+    person_gesture: [deaf_man, deaf_person, deaf_woman, man_bowing, man_facepalming, man_frowning, man_gesturing_no, man_gesturing_ok, man_pouting, man_raising_hand, man_shrugging, man_tipping_hand, person_bowing, person_facepalming, person_frowning, person_gesturing_no, person_gesturing_ok, person_pouting, person_raising_hand, person_shrugging, person_tipping_hand, woman_bowing, woman_facepalming, woman_frowning, woman_gesturing_no, woman_gesturing_ok, woman_pouting, woman_raising_hand, woman_shrugging, woman_tipping_hand]
+    hand_fingers_open: [hand_with_fingers_splayed, leftwards_hand, leftwards_pushing_hand, palm_down_hand, palm_up_hand, raised_back_of_hand, raised_hand, rightwards_hand, rightwards_pushing_hand, vulcan_salute, waving_hand]
+    person_sport: [horse_racing, man_biking, man_bouncing_ball, man_cartwheeling, man_golfing, man_juggling, man_lifting_weights, man_mountain_biking, man_playing_handball, man_playing_water_polo, man_rowing_boat, man_surfing, man_swimming, men_wrestling, people_wrestling, person_biking, person_bouncing_ball, person_cartwheeling, person_fencing, person_golfing, person_juggling, person_lifting_weights, person_mountain_biking, person_playing_handball, person_playing_water_polo, person_rowing_boat, person_surfing, person_swimming, skier, snowboarder, woman_biking, woman_bouncing_ball, woman_cartwheeling, woman_golfing, woman_juggling, woman_lifting_weights, woman_mountain_biking, woman_playing_handball, woman_playing_water_polo, woman_rowing_boat, woman_surfing, woman_swimming, women_wrestling]
+    hand_fingers_closed: [left_facing_fist, oncoming_fist, raised_fist, right_facing_fist, thumbs_down, thumbs_up]
+    person_resting: [man_in_lotus_position, person_in_bed, person_in_lotus_position, person_taking_bath, woman_in_lotus_position]
+    hand_prop: [nail_polish, selfie, writing_hand]
+animals_nature:
+    animal_bug: [ant, bee, beetle, bug, butterfly, cockroach, cricket, fly, honeybee, ladybug, microbe, mosquito, scorpion, snail, spider, spider_web, worm]
+    animal_bird: [baby_chick, bird, black_bird, chicken, dodo, dove, duck, eagle, feather, flamingo, front_facing_baby_chick, goose, hatching_chick, owl, parrot, peacock, penguin, phoenix, rooster, swan, turkey, wing]
+    animal_mammal: [badger, bat, bear, beaver, bison, black_cat, boar, buffalo, camel, cat, cat_face, chipmunk, cow, cow_face, deer, dog, dog_face, donkey, elephant, ewe, fox, giraffe, goat, gorilla, guide_dog, hamster, hedgehog, hippopotamus, horse, horse_face, kangaroo, koala, leopard, lion, llama, mammoth, monkey, monkey_face, moose, mouse, mouse_face, orangutan, otter, ox, panda, paws, pig, pig_face, pig_nose, polar_bear, poodle, rabbit, rabbit_face, raccoon, ram, rat, rhinoceros, service_dog, sheep, skunk, sloth, tiger, tiger_face, two_hump_camel, unicorn, water_buffalo, wolf, zebra]
+    plant_flower: [blossom, bouquet, cherry_blossom, hibiscus, hyacinth, lotus, rose, rosette, sunflower, tulip, white_flower, wilted_flower]
+    animal_marine: [blowfish, coral, crab, dolphin, fish, jellyfish, lobster, octopus, orca, oyster, seal, shark, shrimp, spiral_shell, spouting_whale, squid, tropical_fish, whale]
+    plant_other: [cactus, deciduous_tree, empty_nest, evergreen_tree, fallen_leaf, four_leaf_clover, herb, leaf_fluttering_in_wind, leafless_tree, maple_leaf, mushroom, nest_with_eggs, palm_tree, potted_plant, seedling, shamrock, sheaf_of_rice]
+    animal_reptile: [crocodile, dragon, dragon_face, frog, lizard, sauropod, snake, t_rex, turtle]
+flags:
+    flag: [black_flag, chequered_flag, crossed_flags, pirate_flag, rainbow_flag, transgender_flag, triangular_flag, white_flag]
+    country_flag: [flag_afghanistan, flag_albania, flag_algeria, flag_american_samoa, flag_andorra, flag_angola, flag_anguilla, flag_antarctica, flag_antigua_barbuda, flag_argentina, flag_armenia, flag_aruba, flag_ascension_island, flag_australia, flag_austria, flag_azerbaijan, flag_bahamas, flag_bahrain, flag_bangladesh, flag_barbados, flag_belarus, flag_belgium, flag_belize, flag_benin, flag_bermuda, flag_bhutan, flag_bolivia, flag_bosnia_herzegovina, flag_botswana, flag_bouvet_island, flag_brazil, flag_british_indian_ocean_territory, flag_british_virgin_islands, flag_brunei, flag_bulgaria, flag_burkina_faso, flag_burundi, flag_c_te_d_ivoire, flag_cambodia, flag_cameroon, flag_canada, flag_canary_islands, flag_cape_verde, flag_caribbean_netherlands, flag_cayman_islands, flag_central_african_republic, flag_ceuta_melilla, flag_chad, flag_chile, flag_china, flag_christmas_island, flag_clipperton_island, flag_cocos_keeling_islands, flag_colombia, flag_comoros, flag_congo_brazzaville, flag_congo_kinshasa, flag_cook_islands, flag_costa_rica, flag_croatia, flag_cuba, flag_cura_ao, flag_cyprus, flag_czechia, flag_denmark, flag_diego_garcia, flag_djibouti, flag_dominica, flag_dominican_republic, flag_ecuador, flag_egypt, flag_el_salvador, flag_equatorial_guinea, flag_eritrea, flag_estonia, flag_eswatini, flag_ethiopia, flag_european_union, flag_falkland_islands, flag_faroe_islands, flag_fiji, flag_finland, flag_france, flag_french_guiana, flag_french_polynesia, flag_french_southern_territories, flag_gabon, flag_gambia, flag_georgia, flag_germany, flag_ghana, flag_gibraltar, flag_greece, flag_greenland, flag_grenada, flag_guadeloupe, flag_guam, flag_guatemala, flag_guernsey, flag_guinea, flag_guinea_bissau, flag_guyana, flag_haiti, flag_heard_mcdonald_islands, flag_honduras, flag_hong_kong_sar_china, flag_hungary, flag_iceland, flag_india, flag_indonesia, flag_iran, flag_iraq, flag_ireland, flag_isle_of_man, flag_israel, flag_italy, flag_jamaica, flag_japan, flag_jersey, flag_jordan, flag_kazakhstan, flag_kenya, flag_kiribati, flag_kosovo, flag_kuwait, flag_kyrgyzstan, flag_land_islands, flag_laos, flag_latvia, flag_lebanon, flag_lesotho, flag_liberia, flag_libya, flag_liechtenstein, flag_lithuania, flag_luxembourg, flag_macao_sar_china, flag_madagascar, flag_malawi, flag_malaysia, flag_maldives, flag_mali, flag_malta, flag_marshall_islands, flag_martinique, flag_mauritania, flag_mauritius, flag_mayotte, flag_mexico, flag_micronesia, flag_moldova, flag_monaco, flag_mongolia, flag_montenegro, flag_montserrat, flag_morocco, flag_mozambique, flag_myanmar_burma_, flag_namibia, flag_nauru, flag_nepal, flag_netherlands, flag_new_caledonia, flag_new_zealand, flag_nicaragua, flag_niger, flag_nigeria, flag_niue, flag_norfolk_island, flag_north_korea, flag_north_macedonia, flag_northern_mariana_islands, flag_norway, flag_oman, flag_pakistan, flag_palau, flag_palestinian_territories, flag_panama, flag_papua_new_guinea, flag_paraguay, flag_peru, flag_philippines, flag_pitcairn_islands, flag_poland, flag_portugal, flag_puerto_rico, flag_qatar, flag_r_union, flag_romania, flag_russia, flag_rwanda, flag_s_o_tom_pr_ncipe, flag_samoa, flag_san_marino, flag_sark, flag_saudi_arabia, flag_senegal, flag_serbia, flag_seychelles, flag_sierra_leone, flag_singapore, flag_sint_maarten, flag_slovakia, flag_slovenia, flag_solomon_islands, flag_somalia, flag_south_africa, flag_south_georgia_south_sandwich_islands, flag_south_korea, flag_south_sudan, flag_spain, flag_sri_lanka, flag_st_barth_lemy, flag_st_helena, flag_st_kitts_nevis, flag_st_lucia, flag_st_martin, flag_st_pierre_miquelon, flag_st_vincent_grenadines, flag_sudan, flag_suriname, flag_svalbard_jan_mayen, flag_sweden, flag_switzerland, flag_syria, flag_t_rkiye, flag_taiwan, flag_tajikistan, flag_tanzania, flag_thailand, flag_timor_leste, flag_togo, flag_tokelau, flag_tonga, flag_trinidad_tobago, flag_tristan_da_cunha, flag_tunisia, flag_turkmenistan, flag_turks_caicos_islands, flag_tuvalu, flag_u_s_outlying_islands, flag_u_s_virgin_islands, flag_uganda, flag_ukraine, flag_united_arab_emirates, flag_united_kingdom, flag_united_nations, flag_united_states, flag_uruguay, flag_uzbekistan, flag_vanuatu, flag_vatican_city, flag_venezuela, flag_vietnam, flag_wallis_futuna, flag_western_sahara, flag_yemen, flag_zambia, flag_zimbabwe]
+    subdivision_flag: [flag_england, flag_scotland, flag_wales]
+special:
+  best100:
+      - abacus
+      - accordion
+      - adhesive_bandage
+      - aerial_tramway
+      - airplane
+      - ambulance
+      - amphora
+      - automobile
+      - avocado
+      - backpack
+      - basket
+      - bathtub
+      - battery
+      - bee
+      - billed_cap
+      - bird
+      - brain
+      - broccoli
+      - broom
+      - butterfly
+      - camera
+      - candle
+      - chair
+      - chipmunk
+      - cloud
+      - coat
+      - coin
+      - crown
+      - deciduous_tree
+      - delivery_truck
+      - desert_island
+      - dog
+      - door
+      - dragon
+      - duck
+      - egg
+      - elephant
+      - eye
+      - feather
+      - file_folder
+      - fire
+      - first_quarter_moon_face
+      - flamingo
+      - flashlight
+      - foot
+      - footprints
+      - fountain
+      - framed_picture
+      - game_die
+      - garlic
+      - gear
+      - glasses
+      - gloves
+      - grapes
+      - green_book
+      - hammer
+      - headphone
+      - heart_suit
+      - hedgehog
+      - helicopter
+      - house
+      - jeans
+      - key
+      - keyboard
+      - ladybug
+      - lemon
+      - man_in_manual_wheelchair
+      - man_s_shoe
+      - microphone
+      - microscope
+      - mobile_phone
+      - monkey
+      - mosquito
+      - mushroom
+      - old_key
+      - onion
+      - open_book
+      - open_file_folder
+      - owl
+      - palm_tree
+      - paperclip
+      - parachute
+      - peanuts
+      - pear
+      - pen
+      - pencil
+      - penguin
+      - pineapple
+      - pushpin
+      - puzzle_piece
+      - rabbit
+      - razor
+      - red_apple
+      - bed
+      - rhinoceros
+      - rocket
+      - roll_of_paper
+      - rooster
+      - safety_pin
+      - salt
+      - sandwich
+      - sauropod
+      - scissors
+      - scorpion
+      - screwdriver
+      - sheaf_of_rice
+      - shield
+      - snail
+      - snake
+      - snowflake
+      - socks
+      - soft_ice_cream
+      - spider
+      - spider_web
+      - spoon
+      - star
+      - stethoscope
+      - stopwatch
+      - straight_ruler
+      - strawberry
+      - sun_with_face
+      - swan
+      - t_shirt
+      - teapot
+      - thread
+      - tiger
+      - toilet
+      - toolbox
+      - tooth
+      - toothbrush
+      - top_hat
+      - umbrella
+      - unlocked
+      - watch
+      - window
+      - wrench
+      - yarn
+  lifeplus:
+      - adhesive_bandage
+      - aerial_tramway
+      - airplane
+      - ambulance
+      - amphora
+      - ant
+      - automobile
+      - avocado
+      - baby_chick
+      - backpack
+      - badger
+      - banana
+      - basket
+      - bat
+      - bathtub
+      - battery
+      - bear
+      - beaver
+      - bee
+      - beetle
+      - bell_pepper
+      - billed_cap
+      - bird
+      - bison
+      - blossom
+      - blowfish
+      - blueberries
+      - bouquet
+      - brain
+      - broccoli
+      - broom
+      - bubble_tea
+      - buffalo
+      - bug
+      - butterfly
+      - cactus
+      - camel
+      - camera
+      - candle
+      - carrot
+      - cat
+      - chair
+      - cherries
+      - cherry_blossom
+      - chestnut
+      - chicken
+      - chipmunk
+      - cloud
+      - coat
+      - cockroach
+      - coconut
+      - cow
+      - cricket
+      - crocodile
+      - crown
+      - cucumber
+      - deciduous_tree
+      - deer
+      - delivery_truck
+      - desert_island
+      - dodo
+      - dog
+      - dolphin
+      - door
+      - dove
+      - dragon
+      - dragon_face
+      - duck
+      - eagle
+      - ear_of_corn
+      - egg
+      - eggplant
+      - elephant
+      - evergreen_tree
+      - eye
+      - file_folder
+      - fire
+      - first_quarter_moon_face
+      - fish
+      - flamingo
+      - flashlight
+      - flatbread
+      - fly
+      - fondue
+      - foot
+      - footprints
+      - fountain
+      - four_leaf_clover
+      - framed_picture
+      - frog
+      - game_die
+      - garlic
+      - gear
+      - giraffe
+      - glasses
+      - gloves
+      - goat
+      - gorilla
+      - grapes
+      - green_apple
+      - green_book
+      - hammer
+      - hamster
+      - hatching_chick
+      - headphone
+      - heart_suit
+      - hedgehog
+      - helicopter
+      - herb
+      - hibiscus
+      - hippopotamus
+      - horse
+      - hot_pepper
+      - house
+      - jeans
+      - kangaroo
+      - key
+      - keyboard
+      - kiwi_fruit
+      - ladybug
+      - leaf_fluttering_in_wind
+      - lemon
+      - leopard
+      - lizard
+      - llama
+      - mammoth
+      - man_in_manual_wheelchair
+      - mango
+      - man_s_shoe
+      - maple_leaf
+      - melon
+      - microbe
+      - microphone
+      - microscope
+      - mobile_phone
+      - monkey
+      - mosquito
+      - mouse
+      - mushroom
+      - octopus
+      - old_key
+      - olive
+      - onion
+      - open_book
+      - open_file_folder
+      - orangutan
+      - otter
+      - owl
+      - ox
+      - palm_tree
+      - panda
+      - paperclip
+      - parachute
+      - parrot
+      - paws
+      - peach
+      - peacock
+      - peanuts
+      - pear
+      - pen
+      - pencil
+      - penguin
+      - pig
+      - pineapple
+      - poodle
+      - potato
+      - pushpin
+      - puzzle_piece
+      - rabbit
+      - ram
+      - rat
+      - razor
+      - red_apple
+      - bed
+      - rhinoceros
+      - rocket
+      - roll_of_paper
+      - rooster
+      - rose
+      - rosette
+      - safety_pin
+      - salt
+      - sandwich
+      - sauropod
+      - scissors
+      - scorpion
+      - seal
+      - seedling
+      - shamrock
+      - shark
+      - sheaf_of_rice
+      - sheep
+      - shield
+      - skunk
+      - sloth
+      - snail
+      - snake
+      - snowflake
+      - socks
+      - soft_ice_cream
+      - spider
+      - spider_web
+      - spiral_shell
+      - spoon
+      - spouting_whale
+      - star
+      - stethoscope
+      - stopwatch
+      - straight_ruler
+      - strawberry
+      - sun_with_face
+      - sunflower
+      - swan
+      - t_shirt
+      - tamale
+      - tangerine
+      - thread
+      - tiger
+      - toilet
+      - tomato
+      - toolbox
+      - tooth
+      - top_hat
+      - tropical_fish
+      - tulip
+      - turkey
+      - turtle
+      - umbrella
+      - unlocked
+      - watch
+      - watermelon
+      - whale
+      - white_flower
+      - wilted_flower
+      - worm
+      - wrench
+      - yarn
+      - t_rex
+      - fallen_leaf
+  objectplus:
+      - abacus
+      - accordion
+      - adhesive_bandage
+      - aerial_tramway
+      - airplane
+      - alarm_clock
+      - ambulance
+      - american_football
+      - amphora
+      - artist_palette
+      - automobile
+      - avocado
+      - axe
+      - backpack
+      - badminton
+      - balance_scale
+      - ballet_shoes
+      - balloon
+      - ballot_box_with_ballot
+      - banjo
+      - bar_chart
+      - baseball
+      - basket
+      - basketball
+      - bathtub
+      - battery
+      - bed
+      - bee
+      - bell
+      - bikini
+      - billed_cap
+      - bird
+      - black_nib
+      - blue_book
+      - bookmark
+      - bookmark_tabs
+      - books
+      - boomerang
+      - bow_and_arrow
+      - bowling
+      - boxing_glove
+      - brain
+      - briefcase
+      - briefs
+      - broccoli
+      - broom
+      - bucket
+      - butterfly
+      - calendar
+      - camera
+      - camera_with_flash
+      - candle
+      - card_file_box
+      - card_index
+      - card_index_dividers
+      - carpentry_saw
+      - chains
+      - chair
+      - chart_decreasing
+      - chart_increasing
+      - chart_increasing_with_yen
+      - chess_pawn
+      - chipmunk
+      - chopsticks
+      - cigarette
+      - clamp
+      - clapper_board
+      - clipboard
+      - closed_book
+      - closed_umbrella
+      - cloud
+      - cloud_with_lightning
+      - cloud_with_lightning_and_rain
+      - cloud_with_rain
+      - cloud_with_snow
+      - club_suit
+      - clutch_bag
+      - coat
+      - coffin
+      - coin
+      - comet
+      - computer_mouse
+      - confetti_ball
+      - couch_and_lamp
+      - crayon
+      - credit_card
+      - crescent_moon
+      - cricket_game
+      - crossed_swords
+      - crown
+      - crystal_ball
+      - curling_stone
+      - dagger
+      - deciduous_tree
+      - delivery_truck
+      - desert_island
+      - desktop_computer
+      - diamond_suit
+      - bullseye
+      - diving_mask
+      - diya_lamp
+      - dna
+      - dog
+      - dollar_banknote
+      - door
+      - dragon
+      - dress
+      - drop_of_blood
+      - droplet
+      - drum
+      - duck
+      - dvd
+      - egg
+      - electric_plug
+      - elephant
+      - elevator
+      - envelope
+      - envelope_with_arrow
+      - euro_banknote
+      - eye
+      - fax_machine
+      - feather
+      - field_hockey
+      - file_cabinet
+      - file_folder
+      - film_frames
+      - film_projector
+      - fire
+      - fire_extinguisher
+      - firecracker
+      - fireworks
+      - first_quarter_moon
+      - first_quarter_moon_face
+      - fishing_pole
+      - flag_in_hole
+      - flamingo
+      - flashlight
+      - flat_shoe
+      - floppy_disk
+      - flying_disc
+      - fog
+      - foot
+      - footprints
+      - fork_and_knife
+      - fork_and_knife_with_plate
+      - fountain
+      - fountain_pen
+      - framed_picture
+      - full_moon
+      - funeral_urn
+      - game_die
+      - garlic
+      - gear
+      - gem_stone
+      - glasses
+      - gloves
+      - glowing_star
+      - goal_net
+      - goggles
+      - graduation_cap
+      - grapes
+      - green_book
+      - guitar
+      - hammer
+      - hammer_and_pick
+      - hammer_and_wrench
+      - handbag
+      - headphone
+      - headstone
+      - heart_suit
+      - hedgehog
+      - helicopter
+      - high_voltage
+      - high_heeled_shoe
+      - hiking_boot
+      - hook
+      - hourglass_done
+      - hourglass_not_done
+      - house
+      - hut
+      - ice_hockey
+      - ice_skate
+      - inbox_tray
+      - incoming_envelope
+      - jack_o_lantern
+      - jeans
+      - joker
+      - joystick
+      - key
+      - keyboard
+      - kimono
+      - kitchen_knife
+      - kite
+      - knot
+      - lab_coat
+      - label
+      - lacrosse
+      - ladder
+      - ladybug
+      - laptop
+      - last_quarter_moon_face
+      - ledger
+      - lemon
+      - level_slider
+      - light_bulb
+      - link
+      - linked_paperclips
+      - lipstick
+      - locked
+      - locked_with_key
+      - locked_with_pen
+      - long_drum
+      - lotion_bottle
+      - loudspeaker
+      - magic_wand
+      - magnet
+      - magnifying_glass_tilted_left
+      - magnifying_glass_tilted_right
+      - mahjong_red_dragon
+      - man_in_manual_wheelchair
+      - mantelpiece_clock
+      - man_s_shoe
+      - martial_arts_uniform
+      - medal
+      - megaphone
+      - memo
+      - microphone
+      - microscope
+      - military_helmet
+      - milky_way
+      - mirror
+      - moai
+      - mobile_phone
+      - money_bag
+      - monkey
+      - mosquito
+      - mouse_trap
+      - movie_camera
+      - mushroom
+      - musical_keyboard
+      - musical_note
+      - musical_notes
+      - musical_score
+      - muted_speaker
+      - necktie
+      - nesting_dolls
+      - newspaper
+      - notebook
+      - notebook_with_decorative_cover
+      - nut_and_bolt
+      - old_key
+      - one_piece_swimsuit
+      - onion
+      - open_book
+      - open_file_folder
+      - optical_disk
+      - orange_book
+      - outbox_tray
+      - owl
+      - package
+      - page_facing_up
+      - page_with_curl
+      - pager
+      - paintbrush
+      - palm_tree
+      - paperclip
+      - parachute
+      - party_popper
+      - peanuts
+      - pear
+      - pen
+      - pencil
+      - penguin
+      - performing_arts
+      - petri_dish
+      - pick
+      - pickup_truck
+      - pill
+      - pinata
+      - pineapple
+      - ping_pong
+      - pistol
+      - placard
+      - plunger
+      - pool_8_ball
+      - postal_horn
+      - postbox
+      - pound_banknote
+      - prayer_beads
+      - printer
+      - purse
+      - pushpin
+      - puzzle_piece
+      - rabbit
+      - radio
+      - rainbow
+      - razor
+      - receipt
+      - red_apple
+      - red_paper_lantern
+      - rescue_worker_s_helmet
+      - bed
+      - rhinoceros
+      - ribbon
+      - ring
+      - ringed_planet
+      - rock
+      - rocket
+      - roll_of_paper
+      - rolled_up_newspaper
+      - roller_skate
+      - rooster
+      - round_pushpin
+      - rugby_football
+      - running_shirt
+      - running_shoe
+      - safety_pin
+      - safety_vest
+      - salt
+      - sandwich
+      - sari
+      - satellite_antenna
+      - sauropod
+      - saxophone
+      - scarf
+      - scissors
+      - scorpion
+      - screwdriver
+      - scroll
+      - sewing_needle
+      - sheaf_of_rice
+      - shield
+      - shooting_star
+      - shopping_bags
+      - shopping_cart
+      - shorts
+      - shower
+      - skis
+      - sled
+      - slot_machine
+      - snail
+      - snake
+      - snowflake
+      - snowman
+      - snowman_without_snow
+      - soap
+      - soccer_ball
+      - socks
+      - soft_ice_cream
+      - softball
+      - spade_suit
+      - sparkler
+      - sparkles
+      - speaker_high_volume
+      - speaker_low_volume
+      - speaker_medium_volume
+      - spider
+      - spider_web
+      - spiral_calendar
+      - spiral_notepad
+      - sponge
+      - spoon
+      - star
+      - stethoscope
+      - stopwatch
+      - straight_ruler
+      - strawberry
+      - studio_microphone
+      - sun
+      - sun_behind_cloud
+      - sun_behind_large_cloud
+      - sun_behind_rain_cloud
+      - sun_behind_small_cloud
+      - sun_with_face
+      - sunglasses
+      - swan
+      - syringe
+      - t_shirt
+      - teapot
+      - tear_off_calendar
+      - teddy_bear
+      - telephone
+      - telephone_receiver
+      - telescope
+      - television
+      - tennis
+      - test_tube
+      - thermometer
+      - thong_sandal
+      - thread
+      - ticket
+      - tiger
+      - timer_clock
+      - toilet
+      - toolbox
+      - tooth
+      - toothbrush
+      - top_hat
+      - tornado
+      - trackball
+      - triangular_ruler
+      - trophy
+      - trumpet
+      - umbrella
+      - umbrella_on_ground
+      - umbrella_with_rain_drops
+      - unlocked
+      - video_camera
+      - video_game
+      - videocassette
+      - violin
+      - volleyball
+      - waning_crescent_moon
+      - waning_gibbous_moon
+      - wastebasket
+      - watch
+      - water_wave
+      - waxing_crescent_moon
+      - waxing_gibbous_moon
+      - white_cane
+      - wind_face
+      - window
+      - woman_s_boot
+      - woman_s_clothes
+      - woman_s_hat
+      - woman_s_sandal
+      - wood
+      - wrapped_gift
+      - wrench
+      - yarn
+      - yen_banknote
+      - yo_yo
+      - 1st_place_medal
+      - 2nd_place_medal
+      - 3rd_place_medal
+      - christmas_tree
+      - alembic
+      - award
+      - bell_with_slash
+      - cyclone
+      - e_mail
+      - flower_playing_cards
+      - last_quarter_moon
+

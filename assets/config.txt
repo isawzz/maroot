@@ -1,0 +1,305 @@
+autosubmit: true
+default:
+  players: felix,mimi
+  color: GREEN
+ui:
+  card:
+    h: 100
+  container:
+    padding: 0
+    h: 130
+  containertitle:
+    left: 16
+    bottom: 1
+  minicard:
+    h: 40
+  minicontainer:
+    padding: 0
+    h: 130
+games:
+  a_game:
+    friendly: Simple
+    logo: bear
+    color: gold
+    options:
+      mode: solo,hotseat,multi
+      handsize: 7,3,10
+  accuse:
+    friendly: J'Accuse
+    logo: backhand_index_pointing_down
+    color: navy
+    defaulthandsorting: none
+    options:
+      mode: hotseat,multi
+      rounds: 1,2,6,4
+      stability: 2,3,4,5
+      handsize: 4,6,7,5
+      cardtype: c52,num
+      consensus: coupdetat,policy
+      colors: 4,3,2
+      empty_vote: add policy
+      defected: remove
+  aristo:
+    friendly: Aristocracy
+    logo: crown
+    color: indigo
+    defaulthandsorting: none
+    options:
+      mode: hotseat,multi
+      church: no,yes
+      journey: no,yes
+      commission: no,yes
+      rumors: no,yes
+    game_type: turn
+    def_startlevel: 4
+    achieve_inc: 0
+    hand_size: 7
+    farm_size: 4
+    estate_size: 5
+    chateau_size: 6
+  bluff:
+    friendly: Bluff
+    logo: beaming_face_with_smiling_eyes
+    color: red
+    defaulthandsorting: rank
+    options:
+      mode: solo,hotseat,multi
+      min_handsize: 1,3,2
+      max_handsize: 4,5,6,7
+      strategy: clairvoyant,random
+  button96:
+    friendly: Dodogame
+    logo: dodo
+    color: darkslateblue
+    game_type: race
+    ploptions:
+      playmode: bot,human
+      handicap: 1,2,3
+    options:
+      numCards: 5,20,100
+      gamemode: solo,multi
+  button97:
+    friendly: YesNo
+    logo: camel
+    color: steelblue
+    game_type: race
+    ploptions:
+      playmode: bot,human
+    options:
+      gamemode: solo,multi
+  button98:
+    friendly: Simple
+    logo: bear
+    color: skyblue
+    game_type: race
+    ploptions:
+      playmode: bot,human
+    options:
+      gamemode: solo,multi
+  button99:
+    friendly: Button
+    logo: frog
+    color: lightskyblue
+    game_type: race
+    ploptions:
+      playmode: bot,human
+    options:
+      gamemode: solo,multi
+  lacuna:
+    friendly: lacuna
+    logo: accordion
+    color: water
+    ploptions:
+      playmode: bot,human
+    options:
+      numPoints: 70,49,28
+      numColors: 10,7,4
+      numMeeples: 9,6,3
+      gamemode: solo,multi
+  fishgame:
+    friendly: tier
+    logo: leopard
+    color: water
+    ploptions:
+      playmode: bot,human
+    options:
+      numCards: 6,9,15,12
+      gamemode: solo,multi
+  fritz:
+    friendly: A L'Honneur!
+    logo: fencing
+    color: midnightblue
+    defaulthandsorting: suit
+    options:
+      mode: solo,hotseat,multi
+      handsize: 9,11,13,10
+      cycles: 3,2,1
+      seconds_per_game: 600,60,180,120
+      seconds_per_move: 10,3,4,5
+      jokers: 3,2,1,0
+      overlapping: yes,no
+      jokers_per_group: 3,2,1
+  feedback:
+    friendly: Feedback
+    logo: dragon
+    color: BLUEGREEN
+    options:
+      mode: solo,hotseat,multi
+      poll: 200,2000,500,1000,3000
+      auto_weiter: no,yes
+  ferro:
+    friendly: Ferrocarril
+    logo: train
+    color: sienna
+    defaulthandsorting: rank
+    options:
+      mode: solo,hotseat,multi
+      handsize: 3,5,11
+      coins: 3,5,10
+      maxrounds: 1,3,5,7
+      phase_order: fixed,anti,choice
+      thinking_time: 3,20,5,10
+      auto_weiter: no,yes
+  huti:
+    friendly: Chapeau
+    logo: top_hat
+    color: orange
+    defaulthandsorting: rank
+    options:
+      mode: solo,hotseat,multi
+      handsize: 3,5,11,1
+  nations:
+    friendly: Nations
+    logo: world_map
+    color: indigo
+    game_type: turn
+    options:
+      mode: solo,multi,hotseat
+      min_handsize: 1,3,2
+      max_handsize: 4,5,6,7
+  setgame:
+    friendly: Set
+    logo: flamingo
+    color: pink
+    game_type: race
+    ploptions:
+      level: 1,2,3,4,5,6,7
+      playmode: bot,human
+    options:
+      use_level: no,yes
+      numCards: 6,9,15,12
+      gamemode: solo,multi
+  sheriff:
+    friendly: Sheriff
+    logo: police_officer
+    color: sienna
+    game_type: turn
+    options:
+      mode: solo,multi,hotseat
+      min_handsize: 1,3,2
+      max_handsize: 4,5,6,7
+  spotit:
+    friendly: Spotit
+    logo: detective
+    color: green
+    game_type: race
+    options:
+      mode: solo,hotseat,multi
+      adaptive: no,yes
+      zen_mode: no,yes
+      winning_score: 5,10,20,25
+      vocab: animals,objectPlus,lifePlus
+      num_cards: 3,2
+      num_symbols: 4,12,17,7
+    rows: 3
+    cols: 2
+    min_scale: 0.75
+    max_scale: 1.25
+    num_cards: 2
+    def_startlevel: 4
+    levels:
+      '0':
+        cols: 1
+        rows: 2
+      '1':
+        rows: 2
+      '2':
+        cols: 1
+      '3':
+        cols: 1
+        rows: 4
+      '4':
+        min_scale: 0.75
+        max_scale: 1.25
+      '5':
+        cols: 1
+        rows: 5
+      '6':
+        rows: 4
+      '7':
+        cols: 3
+        rows: 5
+      '8':
+        rows: 5
+      '9':
+        rows: 6
+      '10':
+        cols: 3
+        rows: 6
+    winnerslist: []
+  wise:
+    friendly: Wise
+    logo: owl
+    color: gold
+    options:
+      mode: solo,hotseat,multi
+      winning_score: 1,5,10,20
+      strategy: clairvoyant,random
+themes:
+  jungle:
+    color: '#2f7532'
+    name: jungle
+    texture: ../assets/textures/marble_greenorange.jpeg
+    blendMode: overlay
+  flow:
+    color: '#006c7f'
+    name: flow
+    texture: ../assets/textures/marble_blue2.jpeg
+    blendMode: normal
+  marble:
+    color: '#e6be8a'
+    name: marble
+    texture: ../assets/textures/marble_beige1.jpeg
+    blendMode: normal
+  ferien:
+    color: '#2a52be'
+    name: ferien
+    texture: ../assets/textures/marble_meer1.jpg
+    blendMode: normal
+  dreamy:
+    color: '#ffe4e1'
+    name: dreamy
+    texture: ../assets/textures/marble_rosa.jpeg
+    blendMode: normal
+  amethyst:
+    color: '#4c2882'
+    name: amethyst
+    texture: ../assets/textures/marble_violet1.jpeg
+    blendMode: luminosity
+  cave:
+    color: '#002e63'
+    name: cave
+    texture: ../assets/textures/marble_blue1.jpeg
+    blendMode: normal
+  water:
+    color: '#2771c9'
+    texture: ../assets/textures/marble_water.jpg
+    blendMode: normal
+    fg: '#ffffff'
+    name: water
+  forest:
+    color: '#046307'
+    texture: ../assets/textures/wall1.jpg
+    blendMode: overlay
+    name: forest
+users: [amanda, annabel, diana, felix, guest, gul,lauren, mac, maya, mimi, mitra, nasi, sarah, sheeba, valerie, wolferl]

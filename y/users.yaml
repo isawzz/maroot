@@ -1,0 +1,310 @@
+amanda:
+  name: amanda
+  imgKey: amanda
+  color: '#046307'
+  texture: ../assets/texrepeat/owls.jpg
+  bgBlend: overlay
+  bgRepeat: repeat
+  bgSize: auto
+  fg: white
+  games:
+    setgame:
+      countdown: 7
+      hint: 0
+    bluff:
+      strategy: random
+    spotit:
+      level: 5
+    aristo:
+      level: 7
+annabel:
+  name: annabel
+  color: '#0892d0'
+  imgKey: annabel
+  fg: white
+  texture: ../assets/texrepeat/subtle-grey_800_750.png
+  bgSize: 800
+  bgRepeat: repeat
+  bg: 'rgb(8, 146, 208)'
+  games:
+    setgame:
+      countdown: 7
+      hint: 0
+    bluff:
+      strategy: random
+    spotit:
+      level: 7
+    aristo:
+      level: 7
+diana:
+  name: diana
+  imgKey: das
+  color: '#4c2882'
+  bg: 'rgb(119, 221, 119)'
+  fg: black
+  texture: ../assets/texwall/marble_violet1.jpeg
+  bgBlend: luminosity
+  bgRepeat: no-repeat
+  bgSize: cover
+  games:
+    setgame:
+      countdown: 1
+      hint: 2
+    bluff:
+      strategy: random
+    spotit:
+      level: 7
+    aristo:
+      level: 7
+felix:
+  name: felix
+  color: '#0e1e76'
+  imgKey: felix
+  texture: ../assets/texwall/meer.jpg
+  bgBlend: normal
+  bgSize: cover
+  bgRepeat: no-repeat
+  fg: white
+  games:
+    setgame:
+      countdown: 7
+      hint: 0
+    bluff:
+      strategy: random
+    spotit:
+      level: 5
+    aristo:
+      level: 7
+guest:
+  name: guest
+  color: '#b17304'
+  imgKey: guest
+  fg: white
+  bg: 'rgb(177, 115, 4)'
+  texture: ../assets/texwall/leaves.jpeg
+  bgSize: cover
+  bgRepeat: no-repeat
+  bgBlend: overlay
+  games:
+    setgame:
+      countdown: 0
+      hint: 1
+    bluff:
+      strategy: random
+    spotit:
+      level: 7
+    aristo:
+      level: 7
+gul:
+  name: gul
+  imgKey: gul
+  color: '#88654e'
+  texture: ../assets/texwall/stone.jpg
+  bgBlend: overlay
+  bgRepeat: no-repeat
+  bgSize: cover
+  fg: white
+  bg: 'rgb(136, 101, 78)'
+  games:
+    setgame:
+      countdown: 0
+      hint: 2
+    bluff:
+      strategy: random
+    spotit:
+      level: 7
+    aristo:
+      level: 7
+lauren:
+  name: lauren
+  color: '#006c7f'
+  imgKey: lauren
+  texture: ../assets/texwall/marble_blue2.jpeg
+  bgBlend: normal
+  bgRepeat: no-repeat
+  bgSize: cover
+  games:
+    setgame:
+      countdown: 7
+      hint: 0
+    bluff:
+      strategy: random
+    spotit:
+      level: 7
+    aristo:
+      level: 7
+mimi:
+  name: mimi
+  color: '#ffe4e1'
+  imgKey: mimi
+  texture: ../assets/texwall/marble_rosa.jpeg
+  bgBlend: normal
+  bgSize: cover
+  bgRepeat: no-repeat
+  fg: black
+  bg: 'rgb(235, 194, 175)'
+  games:
+    setgame:
+      countdown: 2
+      hint: 2
+    bluff:
+      strategy: random
+    spotit:
+      level: 1
+    aristo:
+      level: 7
+mitra:
+  name: mitra
+  color: '#8c5939'
+  imgKey: mitra
+  texture: ../assets/texwall/wheat.jpg
+  bgBlend: multiply
+  bgSize: cover
+  bgRepeat: no-repeat
+  fg: white
+  bg: 'rgb(159, 129, 112)'
+  games:
+    setgame:
+      countdown: 0
+      hint: 0
+    bluff:
+      strategy: random
+    spotit:
+      level: 7
+    aristo:
+      level: 7
+mac:
+  name: mac
+  color: '#353839'
+  imgKey: mac
+  fg: white
+  texture: ../assets/texrepeat/korb.png
+  bgSize: auto
+  bgRepeat: repeat
+  bg: 'rgb(53, 56, 57)'
+  games:
+    setgame:
+      countdown: 0
+      hint: 0
+    bluff:
+      strategy: random
+    spotit:
+      level: 7
+    aristo:
+      level: 7
+nasi:
+  name: nasi
+  color: '#ffdf00'
+  imgKey: nasi
+  fg: black
+  texture: ../assets/texwall/marble_gold.jpeg
+  bgSize: cover
+  bgRepeat: no-repeat
+  bg: 'rgb(255, 223, 0)'
+  bgBlend: multiply
+  games:
+    setgame:
+      countdown: 0
+      hint: 0
+    bluff:
+      strategy: random
+    spotit:
+      level: 7
+    aristo:
+      level: 7
+sarah:
+  name: sarah
+  color: '#f77fbe'
+  imgKey: sarah
+  fg: black
+  texture: ../assets/texwall/marble_gold.jpeg
+  bgSize: cover
+  bgRepeat: no-repeat
+  bgBlend: overlay
+  games:
+    setgame:
+      countdown: 0
+      hint: 0
+    bluff:
+      strategy: random
+    spotit:
+      level: 7
+    aristo:
+      level: 7
+sheeba:
+  name: sheeba
+  color: '#c71585'
+  imgKey: sheeba
+  fg: white
+  texture: ../assets/texrepeat/food1.png
+  bgSize: auto
+  bgRepeat: repeat
+  bgBlend: luminosity
+  games:
+    setgame:
+      countdown: 0
+      hint: 2
+    bluff:
+      strategy: random
+    spotit:
+      level: 7
+    aristo:
+      level: 7
+valerie:
+  name: valerie
+  color: '#fccc1a'
+  imgKey: valerie
+  fg: black
+  texture: ../assets/texrepeat/leaves1.jpg
+  bgSize: auto
+  bgRepeat: repeat
+  bgBlend: multiply
+  games:
+    setgame:
+      countdown: 0
+      hint: 0
+    bluff:
+      strategy: random
+    spotit:
+      level: 7
+    aristo:
+      level: 7
+wangari:
+  name: wangari
+  color: '#ffb94e'
+  imgKey: wangari
+  fg: black
+  bg: 'rgb(255, 185, 78)'
+  texture: ../assets/texwall/marble_gold.jpeg
+  bgSize: cover
+  bgRepeat: no-repeat
+  bgBlend: luminosity
+  games:
+    setgame:
+      countdown: 0
+      hint: 0
+    bluff:
+      strategy: random
+    spotit:
+      level: 7
+    aristo:
+      level: 7
+wolferl:
+  name: wolferl
+  color: '#253d50'
+  imgKey: sebastian
+  texture: ../assets/texrepeat/clean-textile.png
+  bgBlend: luminosity
+  bgSize: auto
+  bgRepeat: repeat
+  fg: white
+  games:
+    setgame:
+      countdown: 0
+      hint: 0
+    bluff:
+      strategy: random
+    spotit:
+      level: 7
+    aristo:
+      level: 7

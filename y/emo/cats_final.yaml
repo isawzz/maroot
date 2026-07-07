@@ -1,0 +1,10776 @@
+1st_place_medal:
+- sport
+- symbol
+2nd_place_medal:
+- sport
+- symbol
+3d_hammer:
+- tool
+3d_meeple:
+- game
+3d_stairs: []
+3rd_place_medal:
+- sport
+- symbol
+VP: []
+a_button_blood_type:
+- symbol
+aardvark:
+- animal
+aaron:
+- user
+ab_button_blood_type:
+- symbol
+abacus:
+- math
+abbot_meeple:
+- game
+abraham_lincoln:
+- card
+abstract_001:
+- symbol
+abstract_002:
+- symbol
+abstract_003:
+- symbol
+abstract_004:
+- symbol
+abstract_005:
+- symbol
+abstract_006:
+- symbol
+abstract_007:
+- symbol
+abstract_008:
+- symbol
+abstract_009:
+- symbol
+abstract_010:
+- symbol
+abstract_011:
+- symbol
+abstract_012:
+- symbol
+abstract_013:
+- symbol
+abstract_014:
+- symbol
+abstract_015:
+- symbol
+abstract_016:
+- symbol
+abstract_017:
+- symbol
+abstract_018:
+- symbol
+abstract_019:
+- symbol
+abstract_020:
+- symbol
+abstract_021:
+- symbol
+abstract_022:
+- symbol
+abstract_023:
+- symbol
+abstract_024:
+- symbol
+abstract_025:
+- symbol
+abstract_026:
+- symbol
+abstract_027:
+- symbol
+abstract_028:
+- symbol
+abstract_029:
+- symbol
+abstract_030:
+- symbol
+abstract_031:
+- symbol
+abstract_032:
+- symbol
+abstract_033:
+- symbol
+abstract_034:
+- symbol
+abstract_035:
+- symbol
+abstract_036:
+- symbol
+abstract_037:
+- symbol
+abstract_038:
+- symbol
+abstract_039:
+- symbol
+abstract_040:
+- symbol
+abstract_041:
+- symbol
+abstract_042:
+- symbol
+abstract_043:
+- symbol
+abstract_044:
+- symbol
+abstract_045:
+- symbol
+abstract_046:
+- symbol
+abstract_047:
+- symbol
+abstract_048:
+- symbol
+abstract_049:
+- symbol
+abstract_050:
+- symbol
+abstract_051:
+- symbol
+abstract_052:
+- symbol
+abstract_053:
+- symbol
+abstract_054:
+- symbol
+abstract_055:
+- symbol
+abstract_056:
+- symbol
+abstract_057:
+- symbol
+abstract_058:
+- symbol
+abstract_059:
+- symbol
+abstract_060:
+- symbol
+abstract_061:
+- symbol
+abstract_062:
+- symbol
+abstract_063:
+- symbol
+abstract_064:
+- symbol
+abstract_065:
+- symbol
+abstract_066:
+- symbol
+abstract_067:
+- symbol
+abstract_068:
+- symbol
+abstract_069:
+- symbol
+abstract_070:
+- symbol
+abstract_071:
+- symbol
+abstract_072:
+- symbol
+abstract_073:
+- symbol
+abstract_074:
+- symbol
+abstract_075:
+- symbol
+abstract_076:
+- symbol
+abstract_077:
+- symbol
+abstract_078:
+- symbol
+abstract_079:
+- symbol
+abstract_080:
+- symbol
+abstract_081:
+- symbol
+abstract_082:
+- symbol
+abstract_083:
+- symbol
+abstract_084:
+- symbol
+abstract_085:
+- symbol
+abstract_086:
+- symbol
+abstract_087:
+- symbol
+abstract_088:
+- symbol
+abstract_089:
+- symbol
+abstract_090:
+- symbol
+abstract_091:
+- symbol
+abstract_092:
+- symbol
+abstract_093:
+- symbol
+abstract_094:
+- symbol
+abstract_095:
+- symbol
+abstract_096:
+- symbol
+abstract_097:
+- symbol
+abstract_098:
+- symbol
+abstract_099:
+- symbol
+abstract_100:
+- symbol
+abstract_101:
+- symbol
+abstract_102:
+- symbol
+abstract_103:
+- symbol
+abstract_104:
+- symbol
+abstract_105:
+- symbol
+abstract_106:
+- symbol
+abstract_107:
+- symbol
+abstract_108:
+- symbol
+abstract_109:
+- symbol
+abstract_110:
+- symbol
+abstract_111:
+- symbol
+abstract_112:
+- symbol
+abstract_113:
+- symbol
+abstract_114:
+- symbol
+abstract_115:
+- symbol
+abstract_116:
+- symbol
+abstract_117:
+- symbol
+abstract_118:
+- symbol
+abstract_119:
+- symbol
+abstract_120:
+- symbol
+abstract_121:
+- symbol
+abu_bakr:
+- card
+accordion:
+- music
+ace:
+- card
+achievement:
+- symbol
+achilles_heel: []
+acid: []
+acid_blob: []
+acid_tube: []
+acorn:
+- plant
+acoustic_megaphone: []
+acrobatic:
+- action
+acute: []
+ad: []
+address_book: []
+address_card:
+- card
+adhesive_bandage: []
+adjust:
+- action
+admission_tickets: []
+advisor:
+- role
+aeneid:
+- card
+aerial_signal: []
+aerial_tramway:
+- sport
+- transport
+aerodynamic_harpoon: []
+aerosol: []
+afia:
+- user
+africa: []
+african_tortoise:
+- animal
+afterburn:
+- action
+agave:
+- plant
+ages: []
+air_balloon:
+- transport
+air_force:
+- transport
+air_freshener: []
+air_zigzag: []
+airplane:
+- transport
+airplane_arrival:
+- sport
+- transport
+airplane_departure:
+- sport
+- transport
+airport1:
+- location
+airport10:
+- location
+airport2:
+- location
+airport3:
+- location
+airport4:
+- location
+airport5:
+- location
+airport6:
+- location
+airport7:
+- location
+airport8:
+- location
+airport9:
+- location
+airtight_hatch: []
+ak47: []
+ak47u: []
+akhet: []
+alarm_clock: []
+alembic: []
+aleph: []
+alfred_nobel:
+- card
+algae:
+- plant
+algeria: []
+alhambra:
+- card
+alhazen:
+- card
+alien:
+- emotion
+alien_bug: []
+alien_egg: []
+alien_fire: []
+alien_monster: []
+alien_skull: []
+alien_stare: []
+align_center: []
+align_justify: []
+align_left: []
+align_right: []
+all_for_one: []
+all_seeing_eye: []
+allergies: []
+allied_star: []
+alligator:
+- animal
+alligator_clip: []
+ally:
+- user
+almond:
+- food
+- plant
+almost_equal_to:
+- math
+alpaca:
+- animal
+alpha: []
+alpha_wavy: []
+amanda:
+- art
+- user
+amanda10_11:
+- art
+amanda10_12:
+- art
+amanda10_13:
+- art
+amanda10_21:
+- art
+amanda10_22:
+- art
+amanda10_23:
+- art
+amanda10_31:
+- art
+amanda10_32:
+- art
+amanda10_33:
+- art
+amanda11_11:
+- art
+amanda11_12:
+- art
+amanda11_13:
+- art
+amanda11_21:
+- art
+amanda11_22:
+- art
+amanda11_23:
+- art
+amanda11_31:
+- art
+amanda11_32:
+- art
+amanda11_33:
+- art
+amanda12_11:
+- art
+amanda12_12:
+- art
+amanda12_13:
+- art
+amanda12_21:
+- art
+amanda12_22:
+- art
+amanda12_23:
+- art
+amanda12_31:
+- art
+amanda12_32:
+- art
+amanda12_33:
+- art
+amanda13_11:
+- art
+amanda13_12:
+- art
+amanda13_13:
+- art
+amanda13_21:
+- art
+amanda13_22:
+- art
+amanda13_23:
+- art
+amanda13_31:
+- art
+amanda13_32:
+- art
+amanda13_33:
+- art
+amanda14_11:
+- art
+amanda14_12:
+- art
+amanda14_13:
+- art
+amanda14_21:
+- art
+amanda14_22:
+- art
+amanda14_23:
+- art
+amanda14_31:
+- art
+amanda14_32:
+- art
+amanda14_33:
+- art
+amanda15_11:
+- art
+amanda15_12:
+- art
+amanda15_13:
+- art
+amanda15_21:
+- art
+amanda15_22:
+- art
+amanda15_23:
+- art
+amanda15_31:
+- art
+amanda15_32:
+- art
+amanda2_11:
+- art
+amanda2_12:
+- art
+amanda2_13:
+- art
+amanda2_21:
+- art
+amanda2_22:
+- art
+amanda2_23:
+- art
+amanda2_31:
+- art
+amanda2_32:
+- art
+amanda2_33:
+- art
+amanda3_11:
+- art
+amanda3_12:
+- art
+amanda3_13:
+- art
+amanda3_21:
+- art
+amanda3_22:
+- art
+amanda3_23:
+- art
+amanda3_31:
+- art
+amanda3_32:
+- art
+amanda3_33:
+- art
+amanda4_11:
+- art
+amanda4_12:
+- art
+amanda4_13:
+- art
+amanda4_21:
+- art
+amanda4_22:
+- art
+amanda4_23:
+- art
+amanda4_41:
+- art
+amanda4_42:
+- art
+amanda4_43:
+- art
+amanda5_11:
+- art
+amanda5_12:
+- art
+amanda5_13:
+- art
+amanda5_21:
+- art
+amanda5_22:
+- art
+amanda5_23:
+- art
+amanda5_31:
+- art
+amanda5_32:
+- art
+amanda5_33:
+- art
+amanda6_11:
+- art
+amanda6_12:
+- art
+amanda6_13:
+- art
+amanda6_21:
+- art
+amanda6_22:
+- art
+amanda6_23:
+- art
+amanda6_31:
+- art
+amanda6_32:
+- art
+amanda6_33:
+- art
+amanda7_11:
+- art
+amanda7_12:
+- art
+amanda7_13:
+- art
+amanda7_21:
+- art
+amanda7_22:
+- art
+amanda7_23:
+- art
+amanda7_31:
+- art
+amanda7_32:
+- art
+amanda7_33:
+- art
+amanda8_11:
+- art
+amanda8_12:
+- art
+amanda8_13:
+- art
+amanda8_21:
+- art
+amanda8_22:
+- art
+amanda8_23:
+- art
+amanda8_31:
+- art
+amanda8_32:
+- art
+amanda8_33:
+- art
+amanda9_11:
+- art
+amanda9_12:
+- art
+amanda9_13:
+- art
+amanda9_21:
+- art
+amanda9_22:
+- art
+amanda9_23:
+- art
+amanda9_31:
+- art
+amanda9_32:
+- art
+amanda9_33:
+- art
+amber_mosquito: []
+ambulance:
+- transport
+american_bobtail:
+- animal
+american_civil_war:
+- card
+american_football:
+- sport
+american_football_ball:
+- sport
+american_football_helmet:
+- sport
+american_shield: []
+american_sign_language_interpreting:
+- symbol
+amethyst: []
+ammo_box: []
+ammonite: []
+ammonite_fossil: []
+amphora: []
+ample_dress:
+- clothing
+amplitude: []
+amputation: []
+anarchy: []
+anatomical_heart: []
+anatomy: []
+anchor: []
+anchor_circle_check: []
+anchor_circle_exclamation: []
+anchor_circle_xmark: []
+anchor_lock: []
+ancient_ruins: []
+ancient_screw: []
+ancient_sword: []
+android_mask: []
+andromeda_chain: []
+angel_outfit:
+- clothing
+angel_wings: []
+anger_symbol: []
+angkor_wat:
+- card
+angle: []
+angle_double_down: []
+angle_double_left: []
+angle_double_right: []
+angle_double_up: []
+angle_down: []
+angle_left: []
+angle_right: []
+angle_up: []
+angler_fish: []
+angles_down: []
+angles_left: []
+angles_right: []
+angles_up: []
+anglo_afghan_war:
+- card
+angola: []
+angry:
+- emotion
+angry_eyes:
+- emotion
+angry_face:
+- emotion
+angry_face_with_horns:
+- emotion
+anguished_face:
+- emotion
+angular_spider: []
+animal_hide: []
+animal_skull: []
+ankh: []
+anna:
+- user
+anna_komnene:
+- card
+annabel:
+- user
+annexation: []
+ant:
+- animal
+antarctica: []
+antenna_bars: []
+anthem: []
+antibody: []
+anticlockwise_circle_arrow: []
+anticlockwise_rotation: []
+anticlockwise_semicircle_arrow: []
+antikythera_mechanism:
+- card
+ants: []
+anubis: []
+anvil: []
+anvil_impact: []
+anxious_face_with_sweat:
+- emotion
+apc:
+- transport
+apex: []
+apex2: []
+apollo_capsule: []
+apothecary: []
+apple_alt:
+- food
+apple_core:
+- food
+apple_maggot: []
+apple_seeds:
+- food
+apple_whole:
+- food
+approximately_but_not_actually_equal_to:
+- math
+approximately_equal_to:
+- math
+approximately_equal_to_or_the_image_of:
+- math
+aquarium: []
+aquarius: []
+aqueduct: []
+arabic_door: []
+arc_triomphe: []
+archer: []
+archery_target:
+- sport
+archimedes:
+- card
+architect: []
+architect_mask: []
+archive: []
+archive_research: []
+archway: []
+arcing_bolt: []
+arctic_fox:
+- animal
+arena: []
+aries: []
+arm: []
+arm_bandage: []
+arm_sling: []
+armadillo:
+- animal
+armadillo_tail: []
+armenia:
+- card
+armor_downgrade: []
+armor_punch: []
+armor_upgrade: []
+armor_vest:
+- clothing
+armored_boomerang: []
+armored_pants:
+- clothing
+armoured_shell: []
+arrest: []
+arrow_alt_circle_down: []
+arrow_alt_circle_left: []
+arrow_alt_circle_right: []
+arrow_alt_circle_up: []
+arrow_circle_down: []
+arrow_circle_left: []
+arrow_circle_right: []
+arrow_circle_up: []
+arrow_cluster: []
+arrow_cursor: []
+arrow_down: []
+arrow_down_1_9: []
+arrow_down_9_1: []
+arrow_down_a_z: []
+arrow_down_long: []
+arrow_down_short_wide: []
+arrow_down_up_across_line: []
+arrow_down_up_lock: []
+arrow_down_wide_short: []
+arrow_down_z_a: []
+arrow_dunk:
+- sport
+arrow_flights:
+- sport
+arrow_left: []
+arrow_left_long: []
+arrow_pointer: []
+arrow_right: []
+arrow_right_arrow_left: []
+arrow_right_from_bracket: []
+arrow_right_long: []
+arrow_right_to_bracket: []
+arrow_right_to_city:
+- location
+arrow_rotate_left:
+- action
+arrow_rotate_right: []
+arrow_scope: []
+arrow_trend_down: []
+arrow_trend_up: []
+arrow_turn_down: []
+arrow_turn_up: []
+arrow_up: []
+arrow_up_1_9: []
+arrow_up_9_1: []
+arrow_up_a_z: []
+arrow_up_from_bracket: []
+arrow_up_from_ground_water: []
+arrow_up_from_water_pump: []
+arrow_up_long: []
+arrow_up_right_dots: []
+arrow_up_right_from_square: []
+arrow_up_short_wide: []
+arrow_up_wide_short: []
+arrow_up_z_a: []
+arrow_wings: []
+arrowed: []
+arrowhead: []
+arrows_alt: []
+arrows_alt_h: []
+arrows_alt_v: []
+arrows_down_to_line: []
+arrows_down_to_people: []
+arrows_left_right: []
+arrows_left_right_to_line:
+- clothing
+arrows_rotate: []
+arrows_shield: []
+arrows_spin: []
+arrows_split_up_and_left: []
+arrows_to_circle: []
+arrows_to_dot: []
+arrows_to_eye: []
+arrows_turn_right: []
+arrows_turn_to_dots: []
+arrows_up_down: []
+arrows_up_down_left_right: []
+arrows_up_to_line: []
+arson: []
+articulated_lorry:
+- transport
+artificial_hive: []
+artificial_intelligence: []
+artillery_shell: []
+artist: []
+artist_palette: []
+ascending_block: []
+asian_lantern: []
+asparagus: []
+aspergillum: []
+assassin:
+- card
+assassin_pocket: []
+assistive_listening_systems: []
+asterisk: []
+asterisk_operator:
+- math
+asteroid: []
+astonished_face:
+- emotion
+astronaut: []
+astronaut_helmet: []
+asymptotically_equal_to:
+- math
+at: []
+at_sea: []
+atlas: []
+atm_sign:
+- symbol
+atom: []
+atom_core: []
+atom_symbol: []
+atomic_slashes: []
+attached_shield: []
+aubergine: []
+audio_cassette: []
+audio_description: []
+augustus:
+- card
+aura: []
+aurora_borealis:
+- card
+austral_sign:
+- symbol
+australia: []
+auto_repair: []
+auto_rickshaw:
+- transport
+autogun: []
+automatic_sas: []
+automobile:
+- sport
+- transport
+avocado:
+- food
+- plant
+avoidance: []
+award:
+- symbol
+awareness: []
+axe:
+- tool
+axe_in_log:
+- tool
+axe_in_stump:
+- tool
+axe_swing:
+- tool
+axe_sword:
+- tool
+aztec_empire:
+- card
+b_button_blood_type:
+- symbol
+baby:
+- person
+baby_angel:
+- person
+baby_bottle:
+- food
+- person
+baby_carriage:
+- person
+baby_chick:
+- animal
+- person
+baby_face:
+- emotion
+- person
+baby_symbol:
+- person
+babyfoot_players:
+- sport
+babylonia:
+- card
+back_arrow: []
+back_forth: []
+back_pain: []
+backbone_shell: []
+backgammon: []
+backhand_index_pointing_down:
+- gesture
+backhand_index_pointing_left:
+- gesture
+backhand_index_pointing_right:
+- gesture
+backhand_index_pointing_up:
+- gesture
+backpack:
+- clothing
+backslash: []
+backspace: []
+backstab: []
+backup: []
+backward: []
+backward_fast: []
+backward_step: []
+backward_time: []
+bacon:
+- food
+bacteria: []
+bacterium: []
+bad_breath: []
+badger:
+- animal
+badminton:
+- sport
+bag_shopping: []
+bagel:
+- food
+baggage_claim: []
+baguette_bread:
+- food
+bahai: []
+baht_sign:
+- symbol
+balaclava:
+- clothing
+balance_scale: []
+balance_scale_left: []
+balance_scale_right: []
+bald: []
+balkan_wars:
+- card
+balkenkreuz: []
+ball_court:
+- card
+ball_glow: []
+ball_heart: []
+ball_pyramid: []
+ballerina_shoes:
+- clothing
+ballet_shoes:
+- clothing
+ballista: []
+balloon: []
+balloon_dog:
+- animal
+balloon_uni: []
+balloons: []
+ballot_box_check: []
+ballot_box_with_ballot: []
+bamboo:
+- plant
+bamboo_fountain: []
+bamboo_weevil:
+- animal
+ban: []
+ban_smoking: []
+banana:
+- food
+banana_bunch: []
+banana_peel: []
+banana_peeled: []
+band_aid: []
+bandage: []
+bandage_roll: []
+bandaged: []
+bandit: []
+banging_gavel: []
+bangladeshi_taka_sign:
+- symbol
+banjo: []
+bank:
+- building
+banknote: []
+bar_chart: []
+barbarian: []
+barbecue:
+- food
+barbed_arrow: []
+barbed_coil: []
+barbed_nails: []
+barbed_spear: []
+barbed_star: []
+barbed_sun:
+- nature
+barbed_wire: []
+barber_pole: []
+barbute: []
+barcode: []
+barefoot:
+- clothing
+barn: []
+barn_owl:
+- animal
+barn_spider:
+- animal
+barracks: []
+barracks_tent:
+- building
+barrel: []
+barricade: []
+barrier:
+- sport
+- transport
+bars: []
+bars_progress: []
+bars_staggered: []
+baseball:
+- sport
+baseball_ball:
+- sport
+baseball_bat:
+- sport
+baseball_bat_ball: []
+baseball_glove:
+- sport
+basket: []
+basket_shopping: []
+basketball:
+- sport
+basketball_ball:
+- sport
+basketball_basket:
+- sport
+basketball_jersey:
+- clothing
+- sport
+bastet: []
+bat:
+- animal
+bat_2: []
+bat_blade: []
+bat_mask: []
+bat_wing: []
+bath:
+- action
+bathtub: []
+baton: []
+battered_axe:
+- tool
+batteries: []
+battery: []
+battery_0: []
+battery_100: []
+battery_25: []
+battery_50: []
+battery_75: []
+battery_empty: []
+battery_full: []
+battery_half: []
+battery_minus: []
+battery_pack: []
+battery_pack_alt: []
+battery_plus: []
+battery_quarter: []
+battery_three_quarters: []
+battle: []
+battle_axe:
+- tool
+battle_gear: []
+battle_mech: []
+battle_of_agincourt:
+- card
+battle_of_ain_jalut:
+- card
+battle_of_austerlitz:
+- card
+battle_of_balaclava:
+- card
+battle_of_borodino:
+- card
+battle_of_cajamarca:
+- card
+battle_of_cannae:
+- card
+battle_of_hastings:
+- card
+battle_of_issus:
+- card
+battle_of_kadesh:
+- card
+battle_of_manzikert:
+- card
+battle_of_noryang:
+- card
+battle_of_poitiers:
+- card
+battle_of_poltava:
+- card
+battle_of_tannenberg:
+- card
+battle_of_thermopylae:
+- card
+battle_of_trafalgar:
+- card
+battle_of_tsushima:
+- card
+battle_of_waterloo:
+- card
+battle_tank: []
+battleship: []
+batwing_emblem: []
+bayonet: []
+beach_ball:
+- sport
+beach_bucket: []
+beach_with_umbrella: []
+beam: []
+beam_satellite: []
+beam_wake: []
+beaming_face_with_smiling_eyes:
+- emotion
+beams_aura: []
+beans: []
+beanstalk:
+- plant
+bear:
+- animal
+bear_face:
+- emotion
+bear_head: []
+beard:
+- clothing
+beast_eye: []
+beating_heart: []
+beaver:
+- animal
+because: []
+bed: []
+bed_lamp: []
+bed_pulse: []
+bee:
+- animal
+beech:
+- plant
+beehive: []
+beer:
+- food
+beer_bottle:
+- food
+beer_mug:
+- food
+beer_mug_empty:
+- food
+beer_stein:
+- food
+beet: []
+beetle:
+- animal
+beetle_shell: []
+behold: []
+belgium: []
+bell: []
+bell_concierge: []
+bell_pepper:
+- food
+bell_shield: []
+bell_slash: []
+bell_with_slash: []
+bellhop_bell: []
+belt:
+- clothing
+belt_armor:
+- clothing
+belt_buckles: []
+bengal_cat:
+- animal
+benjamin_disraeli:
+- card
+bento_box:
+- food
+berries_bowl:
+- food
+berry_bush:
+- plant
+bestial_fangs: []
+beta: []
+beveled_star: []
+beverage_box: []
+bezier_curve: []
+bible: []
+biceps: []
+bicycle:
+- sport
+- transport
+big_ben:
+- card
+big_diamond_ring: []
+big_egg:
+- food
+big_gear: []
+big_wave:
+- gesture
+biking:
+- action
+- sport
+bikini:
+- clothing
+billed_cap:
+- clothing
+billy:
+- user
+bindle: []
+binoculars: []
+biohazard: []
+biplane:
+- transport
+bird:
+- animal
+bird_claw:
+- animal
+bird_house:
+- building
+bird_limb:
+- animal
+bird_mask: []
+bird_twitter: []
+birgit:
+- user
+birthday_cake:
+- event
+- food
+bishop_black: []
+bishop_white: []
+bison:
+- animal
+bitcoin_sign:
+- symbol
+biting_lip:
+- emotion
+black_bar: []
+black_belt:
+- clothing
+black_bird: []
+black_book: []
+black_bridge: []
+black_cat:
+- animal
+black_circle: []
+black_club_suit: []
+black_diamond_suit: []
+black_flag:
+- symbol
+black_four_pointed_star: []
+black_hand_shield:
+- gesture
+black_heart:
+- emotion
+black_heart_suit: []
+black_hole_bolas: []
+black_knight_helm: []
+black_large_square: []
+black_medium_small_square: []
+black_medium_square: []
+black_nib: []
+black_rightwards_arrowhead: []
+black_scissors: []
+black_sea: []
+black_small_square: []
+black_spade_suit: []
+black_square_button:
+- symbol
+black_telephone: []
+black_white_circle: []
+blackball:
+- sport
+blackcurrant: []
+blacksmith: []
+blade:
+- user
+blade_bite: []
+blade_drag: []
+blade_fall: []
+blast:
+- action
+blaster: []
+bleeding_eye: []
+bleeding_heart:
+- emotion
+bleeding_wound: []
+blender: []
+blender_phone:
+- technology
+blind: []
+blindfold:
+- clothing
+block_house:
+- building
+blog: []
+blond_hair: []
+blood: []
+bloody_stash: []
+bloody_sword: []
+blossom:
+- plant
+blowfish:
+- animal
+blue_book: []
+blue_circle: []
+blue_heart:
+- emotion
+blue_poison_dart_frog:
+- animal
+blue_square: []
+blue_tit:
+- animal
+blueberries:
+- food
+blunderbuss: []
+bo: []
+boar:
+- animal
+boar_ensign:
+- animal
+boar_tusks:
+- animal
+boat_engine:
+- transport
+boat_fishing:
+- transport
+boat_horizon: []
+boat_propeller:
+- transport
+bob:
+- user
+body_balance: []
+body_height: []
+body_swapping:
+- action
+boiling_bubbles:
+- action
+bolas: []
+bold: []
+bolivia: []
+bolt: []
+bolt_bomb: []
+bolt_cutter: []
+bolt_eye: []
+bolt_lightning: []
+bolt_saw:
+- tool
+bolt_shield: []
+bolt_spell_cast: []
+bolter_gun: []
+bomb:
+- emotion
+bomber:
+- transport
+bombing_run:
+- action
+bona:
+- user
+bone: []
+bone_gnawer: []
+bone_knife:
+- tool
+bone_knife_2:
+- tool
+bone_mace: []
+bong: []
+bonsai_tree:
+- plant
+book: []
+book_atlas: []
+book_aura: []
+book_bible: []
+book_bookmark: []
+book_cover: []
+book_cover_2: []
+book_dead: []
+book_journal_whills: []
+book_medical: []
+book_open: []
+book_open_reader: []
+book_pile: []
+book_quran: []
+book_reader: []
+book_skull: []
+book_storm:
+- action
+book_tanakh: []
+bookmark: []
+bookmark_tabs: []
+bookmarklet: []
+books: []
+bookshelf: []
+boomerang:
+- sport
+boomerang_cross: []
+boomerang_sun:
+- nature
+boot_kick:
+- action
+boot_prints: []
+boot_stomp:
+- action
+booth: []
+boots:
+- clothing
+booze: []
+border_all: []
+border_none: []
+border_style: []
+border_top_left: []
+bordered_shield: []
+bore_hole: []
+boss_key: []
+bottle_cap:
+- food
+bottle_droplet:
+- food
+bottle_vapors:
+- food
+bottle_water:
+- food
+- plant
+bottle_with_popping_cork:
+- food
+bottled_bolt: []
+bottled_shadow: []
+bottom_right_3d_arrow: []
+boudica:
+- card
+boulder_dash:
+- action
+bouncing_ball:
+- action
+- sport
+bouncing_spring: []
+bouncing_sword: []
+bouquet:
+- plant
+bow_and_arrow:
+- sport
+bow_arrow: []
+bow_tie:
+- accessory
+- clothing
+bow_tie_ribbon:
+- accessory
+bowels: []
+bowen_knot: []
+bowie_knife:
+- tool
+bowie_knife_2:
+- tool
+bowing: []
+bowl_food: []
+bowl_rice: []
+bowl_spiral: []
+bowl_with_spoon:
+- food
+bowling:
+- action
+- sport
+bowling_ball:
+- sport
+bowling_pin:
+- sport
+bowling_propulsion:
+- sport
+bowling_strike:
+- sport
+bowman: []
+box: []
+box_archive: []
+box_cutter: []
+box_open: []
+box_tissue: []
+box_trap: []
+boxers:
+- card
+boxes: []
+boxes_packing: []
+boxes_stacked: []
+boxing_glove:
+- sport
+boxing_glove_surprise: []
+boxing_ring:
+- sport
+boy:
+- person
+bracer:
+- clothing
+bracers:
+- clothing
+braille: []
+brain: []
+brain_freeze:
+- emotion
+brain_leak: []
+brain_stem: []
+brain_tentacle: []
+brainstorm: []
+branch_arrow: []
+brandenburg_gate:
+- card
+brandy_bottle:
+- food
+brasero: []
+brass_eye: []
+brass_knuckles: []
+brazil: []
+brazil_flag:
+- symbol
+brazilian_real_sign:
+- symbol
+bread:
+- food
+bread_slice:
+- food
+breaking_chain:
+- action
+breast_feeding:
+- action
+breastplate:
+- clothing
+brewery:
+- card
+brick: []
+brick_pile: []
+brick_wall: []
+bridge: []
+bridge_at_night:
+- transport
+bridge_circle_check: []
+bridge_circle_exclamation: []
+bridge_circle_xmark: []
+bridge_lock: []
+bridge_water: []
+briefcase: []
+briefcase_medical: []
+briefs:
+- clothing
+bright_button:
+- symbol
+bright_explosion: []
+british_museum:
+- card
+british_shorthair:
+- animal
+broad_dagger: []
+broadcast_tower:
+- building
+broadhead_arrow: []
+broadsword: []
+broccoli:
+- food
+- plant
+brodie_helmet:
+- clothing
+broken_arrow: []
+broken_axe:
+- tool
+broken_bone: []
+broken_bottle:
+- food
+broken_heart:
+- emotion
+broken_heart_zone: []
+broken_pottery: []
+broken_ribbon: []
+broken_shield: []
+broken_skull: []
+broken_tablet: []
+broken_wall: []
+broom: []
+broom_ball:
+- sport
+brown_circle: []
+brown_heart:
+- emotion
+brown_square: []
+brush: []
+brutal_helm:
+- clothing
+brute: []
+bubble_field: []
+bubble_tea:
+- food
+bubbles: []
+bubbling_beam: []
+bubbling_bowl: []
+bubbling_flask: []
+bucket: []
+bud:
+- plant
+buddha:
+- card
+buddy:
+- user
+buffalo:
+- animal
+buffalo_head:
+- animal
+bug:
+- animal
+bug_slash: []
+bugle_call: []
+bugs: []
+building:
+- building
+building_circle_arrow_right:
+- building
+building_circle_check:
+- building
+building_circle_exclamation:
+- building
+building_circle_xmark:
+- building
+building_columns:
+- building
+building_construction:
+- building
+building_flag:
+- building
+- symbol
+building_lock:
+- building
+building_ngo:
+- building
+building_shield:
+- building
+building_un:
+- building
+building_user:
+- building
+building_wheat:
+- building
+bulb: []
+bull:
+- animal
+bull_horns: []
+bulldozer:
+- transport
+bullet: []
+bullet_impacts: []
+bullet_train:
+- transport
+bullets: []
+bullhorn: []
+bullseye: []
+bully_minion: []
+bumblebee:
+- animal
+bundle_grenade: []
+bunker: []
+bunker_assault:
+- action
+bunny_ears:
+- clothing
+buoy: []
+burger:
+- food
+burn:
+- action
+burning_blobs: []
+burning_book: []
+burning_dot: []
+burning_embers: []
+burning_eye: []
+burning_forest: []
+burning_meteor: []
+burning_passion: []
+burning_round_shot: []
+burning_skull: []
+burning_tree:
+- plant
+burrito:
+- food
+burst: []
+burst_blob: []
+bus:
+- sport
+- transport
+bus_alt:
+- transport
+bus_simple:
+- transport
+bus_stop:
+- sport
+- transport
+business_time: []
+bust_in_silhouette: []
+busts_in_silhouette: []
+butter:
+- food
+butterfly:
+- animal
+butterfly_knife:
+- tool
+butterfly_knife_2:
+- tool
+butterfly_warning: []
+button_finger:
+- symbol
+buy_card:
+- card
+byzantin_temple:
+- building
+byzantine_arab_war:
+- card
+c96: []
+cable_car:
+- sport
+- transport
+cable_stayed_bridge: []
+cactus:
+- plant
+cactus_pot:
+- plant
+cadillac_helm:
+- clothing
+caduceus: []
+caesar: []
+cage: []
+caged_ball: []
+cake_candles:
+- food
+cake_slice:
+- food
+calavera: []
+calculator: []
+caldera: []
+calendar: []
+calendar_alt: []
+calendar_check: []
+calendar_day: []
+calendar_days: []
+calendar_minus: []
+calendar_plus: []
+calendar_times: []
+calendar_week: []
+calendar_xmark: []
+call_me_hand:
+- gesture
+caltrops: []
+camargue_cross: []
+cambodia: []
+camel:
+- animal
+camel_archer:
+- animal
+- card
+camel_head:
+- animal
+camera:
+- technology
+camera_retro:
+- technology
+camera_rotate:
+- technology
+camera_with_flash:
+- technology
+camp_cooking_pot: []
+campfire: []
+campground: []
+camping:
+- action
+camping_tent:
+- building
+cancel: []
+cancer: []
+candle: []
+candle_flame: []
+candle_holder: []
+candle_light: []
+candle_skull: []
+candlebright: []
+candles: []
+candlestick_phone:
+- technology
+candy:
+- food
+candy_cane:
+- food
+candy_canes:
+- food
+cannabis:
+- plant
+canned_food:
+- food
+cannister: []
+cannon: []
+cannon_ball: []
+cannon_shot: []
+canoe:
+- sport
+- transport
+cape:
+- clothing
+cape_of_good_hope:
+- card
+- clothing
+capitol: []
+capricorn: []
+capsules: []
+captain_hat_profile:
+- accessory
+- clothing
+capybara:
+- animal
+car:
+- transport
+car_alt:
+- transport
+car_battery: []
+car_burst: []
+car_crash: []
+car_door: []
+car_key: []
+car_on: []
+car_rear:
+- transport
+car_seat: []
+car_side: []
+car_tunnel: []
+car_wheel: []
+carambola: []
+caravan:
+- transport
+caravel:
+- transport
+card_10_clubs:
+- card
+card_10_diamonds:
+- card
+card_10_hearts:
+- card
+card_10_spades:
+- card
+card_2_clubs:
+- card
+card_2_diamonds:
+- card
+card_2_hearts:
+- card
+card_2_spades:
+- card
+card_3_clubs:
+- card
+card_3_diamonds:
+- card
+card_3_hearts:
+- card
+card_3_spades:
+- card
+card_4_clubs:
+- card
+card_4_diamonds:
+- card
+card_4_hearts:
+- card
+card_4_spades:
+- card
+card_5_clubs:
+- card
+card_5_diamonds:
+- card
+card_5_hearts:
+- card
+card_5_spades:
+- card
+card_6_clubs:
+- card
+card_6_diamonds:
+- card
+card_6_hearts:
+- card
+card_6_spades:
+- card
+card_7_clubs:
+- card
+card_7_diamonds:
+- card
+card_7_hearts:
+- card
+card_7_spades:
+- card
+card_8_clubs:
+- card
+card_8_diamonds:
+- card
+card_8_hearts:
+- card
+card_8_spades:
+- card
+card_9_clubs:
+- card
+card_9_diamonds:
+- card
+card_9_hearts:
+- card
+card_9_spades:
+- card
+card_ace_clubs:
+- card
+card_ace_diamonds:
+- card
+card_ace_hearts:
+- card
+card_ace_spades:
+- card
+card_burn:
+- card
+card_discard:
+- card
+card_draw:
+- card
+card_exchange:
+- card
+card_file_box:
+- card
+card_index:
+- card
+card_index_dividers:
+- card
+card_jack_clubs:
+- card
+card_jack_diamonds:
+- card
+card_jack_hearts:
+- card
+card_jack_spades:
+- card
+card_joker:
+- card
+card_king_clubs:
+- card
+- role
+card_king_diamonds:
+- card
+- role
+card_king_hearts:
+- card
+- role
+card_king_spades:
+- card
+- role
+card_pick:
+- card
+card_pickup:
+- card
+card_play:
+- card
+card_queen_clubs:
+- card
+- role
+card_queen_diamonds:
+- card
+- role
+card_queen_hearts:
+- card
+- role
+card_queen_spades:
+- card
+- role
+card_random:
+- card
+cardboard_box: []
+caret_down: []
+caret_left: []
+caret_right: []
+caret_square_down: []
+caret_square_left: []
+caret_square_right: []
+caret_square_up: []
+caret_up: []
+cargo_crane: []
+cargo_crate: []
+cargo_ship:
+- transport
+carillon: []
+carmen:
+- user
+carnival_mask:
+- clothing
+carnivore_mouth:
+- animal
+carnivorous_plant:
+- plant
+carnyx: []
+carolus_linneaus:
+- card
+carousel: []
+carousel_horse:
+- animal
+carp_streamer: []
+carpentry_saw:
+- tool
+carpet_bombing:
+- action
+carrier: []
+carrion: []
+carrot:
+- food
+- plant
+cart_arrow_down: []
+cart_flatbed: []
+cart_flatbed_suitcase: []
+cart_plus: []
+cart_shopping: []
+cartwheel:
+- sport
+cartwheeling:
+- action
+- sport
+cash: []
+cash_register: []
+cassandra:
+- user
+cassowary_head:
+- animal
+castle:
+- building
+castle_2:
+- building
+castle_ruins:
+- building
+cat:
+- animal
+cat31:
+- animal
+cat32:
+- animal
+cat_face:
+- animal
+- emotion
+cat_with_tears_of_joy:
+- animal
+- emotion
+cat_with_wry_smile:
+- animal
+- emotion
+cataphract:
+- card
+catapult: []
+catch:
+- action
+caterpillar:
+- animal
+cathedral:
+- card
+cattle_egret:
+- animal
+cauldron: []
+cauldron_2: []
+cavalry: []
+cave_entrance: []
+caveman: []
+cctv_camera:
+- technology
+cedi_sign:
+- symbol
+ceiling: []
+ceiling_barnacle: []
+ceiling_light: []
+celebration_fire: []
+cement_shoes:
+- clothing
+cent_sign:
+- symbol
+centaur: []
+centipede: []
+ceremonial_mask:
+- clothing
+certificate: []
+chain_lightning:
+- action
+chain_mail:
+- clothing
+chained_arrow_heads:
+- action
+chained_heart:
+- emotion
+chaingun: []
+chains: []
+chainsaw: []
+chair: []
+chalice_drops: []
+chalk_outline_murder: []
+chalkboard: []
+chalkboard_teacher: []
+chalkboard_user: []
+chameleon:
+- animal
+chameleon_glyph:
+- animal
+champagne_glasses:
+- accessory
+champions: []
+chanterelles:
+- food
+charged_arrow:
+- action
+charging:
+- action
+charging_bull:
+- animal
+charging_station: []
+chariot:
+- transport
+charlene:
+- user
+charm: []
+chart: []
+chart_area: []
+chart_bar: []
+chart_column: []
+chart_decreasing: []
+chart_gantt: []
+chart_increasing: []
+chart_increasing_with_yen: []
+chart_line: []
+chart_pie: []
+chart_simple: []
+chat_bubble: []
+chateau:
+- card
+check: []
+check_box_with_check: []
+check_circle: []
+check_double: []
+check_mark:
+- symbol
+check_mark_button:
+- symbol
+check_mark_uni:
+- symbol
+check_square: []
+check_to_slot: []
+checkbox_tree:
+- plant
+checked_shield: []
+checkered_diamond: []
+checkered_flag:
+- symbol
+checklist: []
+cheerful:
+- emotion
+cheese:
+- food
+cheese_wedge:
+- food
+cheetah:
+- animal
+chef_toque:
+- clothing
+chelsea_boot:
+- clothing
+chemical_arrow: []
+chemical_bolt: []
+chemical_drop: []
+chemical_tank: []
+chequered_flag:
+- sport
+- symbol
+cherish:
+- emotion
+cherries:
+- food
+cherry: []
+cherry_blossom:
+- plant
+chess:
+- game
+chess_bishop:
+- game
+chess_board:
+- game
+chess_king:
+- game
+- role
+chess_knight:
+- game
+chess_pawn:
+- action
+- game
+- sport
+chess_queen:
+- game
+- role
+chess_rook:
+- game
+chest: []
+chest_armor:
+- clothing
+chestnut:
+- food
+chestnut_leaf:
+- plant
+chevron_circle_down: []
+chevron_circle_left: []
+chevron_circle_right: []
+chevron_circle_up: []
+chevron_down: []
+chevron_left: []
+chevron_right: []
+chevron_up: []
+chewed_heart:
+- emotion
+chewed_skull:
+- emotion
+chichen_itza:
+- card
+chicken:
+- animal
+chicken_leg:
+- animal
+- food
+chicken_oven:
+- animal
+- food
+child:
+- person
+child_combatant:
+- person
+child_dress:
+- clothing
+- person
+child_reaching:
+- person
+children: []
+children_crossing: []
+chili_pepper: []
+chimney: []
+chimpanzee:
+- animal
+chinese_cap: []
+chipmunk:
+- animal
+chips_bag:
+- food
+chisel: []
+cho_ko_nu:
+- card
+chocolate_bar:
+- food
+choice: []
+chopped_skull:
+- emotion
+chopsticks:
+- food
+christmas_tree:
+- plant
+church:
+- building
+cigale: []
+cigar: []
+cigarette: []
+cinema: []
+circle: []
+circle_arrow_down: []
+circle_arrow_left: []
+circle_arrow_right: []
+circle_arrow_up: []
+circle_cage: []
+circle_check: []
+circle_chevron_down: []
+circle_chevron_left: []
+circle_chevron_right: []
+circle_chevron_up: []
+circle_claws: []
+circle_dollar_to_slot:
+- action
+circle_dot: []
+circle_down: []
+circle_exclamation: []
+circle_h: []
+circle_half_stroke:
+- action
+circle_info: []
+circle_left: []
+circle_minus: []
+circle_nodes: []
+circle_notch: []
+circle_pause: []
+circle_play: []
+circle_plus: []
+circle_question: []
+circle_radiation: []
+circle_right: []
+circle_sparks: []
+circle_stop: []
+circle_up: []
+circle_user: []
+circle_xmark: []
+circled_m: []
+circuitry: []
+circular_saw:
+- tool
+circular_sawblade: []
+circumscribed_multiplication:
+- math
+circumscribed_plus:
+- math
+circus_tent:
+- building
+city:
+- location
+city_car:
+- location
+- transport
+city_wall:
+- card
+- location
+cityscape: []
+cityscape_at_dusk: []
+cl_button:
+- symbol
+clamp: []
+clapper_board:
+- game
+clapperboard: []
+clapping_hands:
+- gesture
+classical_building:
+- building
+claw: []
+claw_hammer:
+- tool
+claw_slashes:
+- action
+claw_string: []
+claws:
+- animal
+clay_brick: []
+claymore_explosive: []
+cleaver: []
+click:
+- action
+climbing:
+- action
+clinic_medical: []
+clinking_beer_mugs:
+- food
+clinking_glasses:
+- accessory
+- food
+clipboard: []
+clipboard_check: []
+clipboard_list: []
+clipboard_question: []
+clipboard_user: []
+cloak:
+- clothing
+cloak_dagger:
+- clothing
+clock: []
+clock_rotate_left:
+- action
+clocks:
+- card
+clockwise_circle_arrow: []
+clockwise_open_circle_arrow: []
+clockwise_rotation: []
+clockwise_vertical_arrows: []
+clockwork: []
+clone: []
+closed_barbute:
+- clothing
+closed_book: []
+closed_captioning: []
+closed_doors: []
+closed_mailbox_with_lowered_flag:
+- symbol
+closed_mailbox_with_raised_flag:
+- symbol
+closed_umbrella: []
+cloth_jar: []
+clothes:
+- clothing
+clothespin: []
+cloud:
+- nature
+cloud_arrow_down:
+- nature
+cloud_arrow_up:
+- nature
+cloud_bolt:
+- nature
+cloud_download:
+- nature
+cloud_download_alt:
+- nature
+cloud_meatball:
+- nature
+cloud_moon:
+- nature
+cloud_moon_rain:
+- nature
+cloud_rain:
+- nature
+cloud_ring:
+- nature
+cloud_showers_heavy:
+- nature
+cloud_showers_water:
+- nature
+cloud_sun:
+- nature
+cloud_sun_rain:
+- nature
+cloud_uni:
+- nature
+cloud_upload:
+- nature
+cloud_upload_alt:
+- nature
+cloud_with_lightning:
+- nature
+cloud_with_lightning_and_rain:
+- nature
+cloud_with_rain:
+- nature
+cloud_with_snow:
+- nature
+cloudy_fork: []
+clout:
+- action
+clover:
+- plant
+clover_2:
+- plant
+clover_spiked:
+- plant
+clown: []
+clown_face:
+- emotion
+clownfish: []
+club_suit: []
+clubs:
+- card
+cluster_bomb: []
+clutch_bag:
+- clothing
+coal_mine:
+- card
+coal_wagon:
+- transport
+coat:
+- clothing
+cobra: []
+cobra_2: []
+cobweb: []
+cockroach:
+- animal
+cocktail: []
+cocktail_glass:
+- food
+coconut:
+- food
+coconuts: []
+code: []
+code_branch: []
+code_commit: []
+code_compare: []
+code_fork: []
+code_merge: []
+code_pull_request: []
+coffee: []
+coffee_beans:
+- food
+coffee_cup: []
+coffee_house:
+- building
+- card
+coffee_mug: []
+coffee_pot: []
+coffin: []
+cog: []
+cog_lock: []
+cogs: []
+cogsplosion: []
+coiling_curl: []
+coin: []
+coinage:
+- card
+coins: []
+coins_pile: []
+cold_face:
+- emotion
+cold_heart:
+- emotion
+colibri:
+- animal
+coliseum: []
+collision:
+- emotion
+colombia: []
+colombian_statue: []
+colon_sign:
+- symbol
+colonial_trading:
+- card
+colony: []
+colosseum:
+- card
+colt_m1911: []
+columns: []
+coma: []
+comb: []
+combination_lock: []
+comet: []
+comet_spark: []
+comment: []
+comment_alt: []
+comment_dollar: []
+comment_dots: []
+comment_medical: []
+comment_slash: []
+comment_sms: []
+comments: []
+comments_dollar: []
+compact_disc: []
+companion_cube: []
+compass: []
+compass_drafting: []
+complement:
+- math
+complementary:
+- math
+compress:
+- action
+compress_arrows_alt:
+- action
+computer:
+- technology
+computer_disk:
+- technology
+computer_fan:
+- technology
+computer_mouse:
+- animal
+- technology
+computing: []
+concentration_orb: []
+concentric_crescents: []
+concierge_bell: []
+concrete_bag: []
+condor_emblem:
+- animal
+condylura_skull:
+- animal
+confetti_ball:
+- action
+confirmed: []
+confounded_face:
+- emotion
+confrontation: []
+confucian_academy:
+- card
+confused_face:
+- emotion
+congo:
+- card
+congress: []
+conqueror: []
+conquistador:
+- card
+conscript:
+- card
+console_controller: []
+construction:
+- action
+construction_site: []
+construction_worker:
+- action
+- person
+contains_as_member:
+- math
+contortionist: []
+contour_integral:
+- math
+contract: []
+control_knobs: []
+control_tower:
+- building
+convenience_store:
+- building
+convergence_target: []
+conversation: []
+converse_shoe:
+- clothing
+convict: []
+convince:
+- action
+conway_life_glider: []
+cook: []
+cooked_rice:
+- food
+cookie:
+- food
+cookie_bite:
+- food
+cooking:
+- action
+- food
+cooking_glove:
+- clothing
+cooking_pot: []
+cool_button:
+- symbol
+cool_spices:
+- food
+copperband_butterflyfish:
+- animal
+copy:
+- action
+copyright: []
+copyright_uni: []
+coral: []
+corked_tube: []
+corkscrew: []
+corn:
+- food
+corner_explosion: []
+corner_flag:
+- sport
+- symbol
+cornucopia: []
+coronation: []
+corporal: []
+corset:
+- clothing
+corsica: []
+cortes_expedition:
+- card
+cossack:
+- card
+cotton_flower:
+- plant
+couch: []
+couch_and_lamp: []
+counterclockwise_arrows_button:
+- symbol
+couple_with_heart: []
+couple_with_heart_man_man:
+- person
+couple_with_heart_woman_man:
+- person
+couple_with_heart_woman_woman:
+- person
+courthouse:
+- card
+covered_jar: []
+cow:
+- animal
+cow_face:
+- animal
+- emotion
+cowboy_boot:
+- clothing
+cowboy_hat_face:
+- accessory
+- emotion
+cowboy_holster:
+- clothing
+cowled:
+- clothing
+cpu: []
+cpu_shot: []
+crab:
+- animal
+- food
+crab_claw:
+- animal
+cracked_alien_skull:
+- emotion
+cracked_ball_dunk:
+- sport
+cracked_disc: []
+cracked_glass: []
+cracked_helm:
+- clothing
+cracked_mask:
+- clothing
+cracked_saber: []
+cracked_shield: []
+crafting: []
+crags: []
+crane: []
+crayon: []
+credit_card:
+- card
+credits_currency: []
+crenel_crown: []
+crenulated_shield: []
+crescent_blade: []
+crescent_blade_2: []
+crescent_moon:
+- nature
+crested_helmet:
+- clothing
+cricket:
+- animal
+- sport
+cricket_bat:
+- sport
+cricket_game:
+- action
+- game
+- sport
+crime_scene_tape: []
+crimean_war:
+- card
+croc_jaws:
+- animal
+croc_sword: []
+crocodile:
+- animal
+croissant:
+- food
+croissants_pupil:
+- food
+crook_flail: []
+crop:
+- plant
+crop_alt:
+- plant
+crop_simple:
+- plant
+cross: []
+cross_flare: []
+cross_mark:
+- symbol
+cross_mark_button:
+- symbol
+cross_mark_red:
+- symbol
+cross_mark_uni:
+- symbol
+cross_product:
+- math
+cross_shield: []
+crossbow: []
+crosscut_saw:
+- tool
+crossed_air_flows: []
+crossed_axes: []
+crossed_bones: []
+crossed_chains: []
+crossed_claws: []
+crossed_fingers:
+- gesture
+crossed_pistols: []
+crossed_sabres: []
+crossed_slashes: []
+crossed_swords: []
+crosshair: []
+crosshair_arrow: []
+crosshairs: []
+crossing_the_alps:
+- card
+crow:
+- animal
+crow_dive:
+- animal
+crow_nest:
+- animal
+crowbar: []
+crown: []
+crown_coin: []
+crown_of_thorns: []
+crown_uni: []
+crowned_explosion: []
+crowned_heart: []
+crowned_skull: []
+crucifix: []
+cruiser: []
+crumbling_ball: []
+crusader_states:
+- card
+crush:
+- action
+crutch: []
+cruzeiro_sign:
+- symbol
+crying_cat:
+- animal
+- emotion
+crying_face:
+- emotion
+cryo_chamber: []
+crystal_ball:
+- action
+crystal_bars: []
+crystal_cluster: []
+crystal_earrings: []
+crystal_eye: []
+crystal_growth: []
+crystal_shine: []
+crystal_shrine: []
+crystal_wand: []
+crystalize: []
+cuauhtli:
+- animal
+cube: []
+cubeforce: []
+cubes: []
+cubes_stacked: []
+cucumber:
+- food
+cultist: []
+cultist_2: []
+cup_with_straw:
+- food
+cupcake:
+- food
+cupidon_arrow: []
+curled_leaf:
+- plant
+curled_tentacle:
+- animal
+curling_stone:
+- action
+- sport
+curling_vines:
+- plant
+curly_hair: []
+curly_loop: []
+curly_mask: []
+curly_wing: []
+currency: []
+currency_exchange: []
+curry_rice:
+- food
+cursed_star: []
+cursor: []
+curvy_knife:
+- tool
+custard:
+- food
+custodian_helmet:
+- clothing
+customs: []
+cut:
+- action
+cut_diamond: []
+cut_lemon:
+- food
+cut_of_meat:
+- food
+cut_palm:
+- plant
+cyber_eye: []
+cyborg_face:
+- emotion
+cycle: []
+cycling:
+- sport
+cyclone: []
+cyclops: []
+cyrus_the_great:
+- card
+cz_skorpion: []
+d10: []
+d12: []
+d4: []
+daemon_pull: []
+daemon_skull: []
+dagger: []
+dagger_rose: []
+daggers: []
+daisy:
+- plant
+dam: []
+damaged_house:
+- building
+dancing:
+- action
+dandelion_flower:
+- plant
+dango:
+- food
+dark_squad: []
+dart:
+- sport
+darwins_voyage:
+- card
+das:
+- user
+dashed_rightwards_arrow: []
+dashing_away:
+- action
+database: []
+david:
+- user
+dead_eye: []
+dead_head: []
+dead_wood: []
+deadly_strike:
+- action
+deaf: []
+deaf_man:
+- person
+deaf_person:
+- person
+deaf_woman:
+- person
+death_juice: []
+death_note: []
+death_skull: []
+death_zone: []
+deathcab: []
+decapitation:
+- action
+deciduous_tree:
+- plant
+deer:
+- animal
+defense_satellite: []
+defensive_wall: []
+defibrillate: []
+degree: []
+delete_left: []
+delighted:
+- emotion
+delivery_drone: []
+delivery_truck:
+- action
+- sport
+- transport
+delta:
+- math
+democrat: []
+demolish:
+- action
+department_store:
+- building
+derelict_house:
+- building
+dervish_swords: []
+desert: []
+desert_eagle:
+- animal
+desert_island:
+- action
+- location
+desert_skull: []
+deshret_red_crown: []
+desk: []
+desk_lamp: []
+desktop: []
+desktop_computer:
+- technology
+despair:
+- emotion
+detective:
+- action
+detour:
+- action
+devil_mask: []
+dew: []
+dharmachakra: []
+diablo_skull: []
+diagnoses: []
+diagram: []
+diagram_next: []
+diagram_predecessor: []
+diagram_project: []
+diagram_successor: []
+diamond: []
+diamond_hard: []
+diamond_hilt: []
+diamond_operator:
+- math
+diamond_ring: []
+diamond_suit: []
+diamond_turn_right: []
+diamond_with_a_dot: []
+diamonds:
+- card
+diamonds_black:
+- card
+diamonds_smile:
+- card
+- emotion
+diamonds_white:
+- card
+dice:
+- game
+dice_d20:
+- game
+dice_d6:
+- game
+dice_eight_faces_eight:
+- game
+dice_fire:
+- game
+dice_five:
+- game
+dice_four:
+- game
+dice_one:
+- game
+dice_shield:
+- game
+dice_six:
+- game
+dice_six_faces_five:
+- game
+dice_six_faces_four:
+- game
+dice_six_faces_one:
+- game
+dice_six_faces_six:
+- game
+dice_six_faces_three:
+- game
+dice_six_faces_two:
+- game
+dice_target:
+- game
+dice_three:
+- game
+dice_twenty_faces_one:
+- game
+dice_twenty_faces_twenty:
+- game
+dice_two:
+- game
+dig_dug: []
+dig_hole:
+- action
+digit_eight:
+- math
+digit_five:
+- math
+digit_four:
+- math
+digit_nine:
+- math
+digit_one:
+- math
+digit_seven:
+- math
+digit_six:
+- math
+digit_three:
+- math
+digit_two:
+- math
+digit_zero:
+- math
+digital_tachograph: []
+digital_trace: []
+dike:
+- card
+dim_button:
+- symbol
+dimetrodon:
+- animal
+dinosaur_bones:
+- animal
+dinosaur_egg:
+- animal
+dinosaur_rex:
+- animal
+diplodocus:
+- animal
+diploma: []
+direct_hit:
+- action
+- sport
+direction: []
+direction_sign:
+- symbol
+direction_signs: []
+directions: []
+director_chair: []
+direwolf:
+- animal
+disappointed_face:
+- emotion
+disc: []
+disc_golf_bag:
+- sport
+disc_golf_basket:
+- sport
+discussion:
+- action
+disease: []
+disguised_face:
+- emotion
+disintegrate:
+- action
+display: []
+distraction:
+- action
+distraction_2:
+- action
+distress_signal: []
+divergence:
+- action
+divert:
+- action
+divide:
+- action
+divided_spiral: []
+divided_square: []
+divina_commedia:
+- card
+diving_dagger: []
+diving_helmet: []
+diving_mask:
+- action
+- sport
+division_sign:
+- symbol
+diya_lamp: []
+dizzy:
+- emotion
+dizzy_face:
+- emotion
+djinn: []
+dna: []
+dna1: []
+dna2: []
+doctor_face:
+- emotion
+dodge:
+- action
+dodging:
+- action
+dodo:
+- animal
+does_not_contain_as_member: []
+dog:
+- animal
+dog_bowl:
+- animal
+dog_face:
+- animal
+- emotion
+dog_house:
+- animal
+- building
+dollar_banknote: []
+dollar_sign:
+- symbol
+dolly: []
+dolly_flatbed: []
+dolmen: []
+dolphin:
+- animal
+domino_mask:
+- game
+domino_tiles:
+- game
+don_quixote:
+- card
+donald:
+- user
+donate:
+- action
+dong_sign:
+- symbol
+donkey:
+- animal
+donut:
+- food
+door: []
+door_closed: []
+door_handle: []
+door_open: []
+door_ring_handle: []
+doorway: []
+dorsal_scales: []
+dot_circle: []
+dotted_line_face:
+- emotion
+dotted_six_pointed_star: []
+double_curly_loop: []
+double_diaphragm: []
+double_dragon: []
+double_exclamation_mark:
+- symbol
+double_face_mask:
+- emotion
+double_quaver: []
+double_ringed_orb: []
+double_shot: []
+doubled:
+- action
+dough_roller: []
+doughnut:
+- food
+dove:
+- animal
+down_arrow: []
+down_left_90deg_arrow: []
+down_left_and_up_right_to_center: []
+down_left_arrow: []
+down_long: []
+down_right_90deg_arrow: []
+down_right_arrow: []
+downcast_face_with_sweat:
+- emotion
+download:
+- action
+downwards_arrow: []
+downwards_button:
+- symbol
+downwards_zigzag_arrow: []
+dozen: []
+drafting_compass: []
+dragon:
+- animal
+dragon_balls: []
+dragon_breath: []
+dragon_face:
+- animal
+- emotion
+dragon_head: []
+dragon_head_2: []
+dragon_orb: []
+dragon_spiral: []
+dragonfly:
+- animal
+drakkar: []
+drakkar_dragon: []
+drama_masks: []
+draw_polygon:
+- action
+drawbridge: []
+dread:
+- emotion
+dread_skull: []
+dreadnought: []
+dream_catcher: []
+dress:
+- clothing
+drill:
+- tool
+drill_2:
+- tool
+drink_me:
+- food
+drinking:
+- action
+dripping_blade: []
+dripping_goo: []
+dripping_honey: []
+dripping_knife:
+- tool
+dripping_star: []
+dripping_stone: []
+dripping_sword: []
+dripping_tube: []
+drooling_face:
+- emotion
+drop:
+- action
+drop_earrings: []
+drop_of_blood: []
+drop_weapon: []
+droplet: []
+droplet_slash: []
+droplet_splash: []
+droplets: []
+drowning:
+- action
+drum:
+- music
+drum_steelpan:
+- music
+drumstick_bite:
+- food
+duality: []
+duality_mask: []
+duck:
+- animal
+duck_palm:
+- animal
+- plant
+duel:
+- action
+duffel_bag: []
+dumbbell: []
+dumpling:
+- food
+dumpster: []
+dumpster_fire: []
+dunce_cap:
+- clothing
+dung_beetle:
+- animal
+dungeon: []
+dungeon_gate: []
+dungeon_light: []
+duration: []
+dust_cloud:
+- nature
+dutch_bike: []
+dutch_liberation_war:
+- card
+dvd: []
+dwarf_face:
+- emotion
+dwarf_helmet: []
+dwarf_king:
+- role
+dwennimmen: []
+dynamite: []
+e_mail: []
+eagle:
+- animal
+eagle_emblem:
+- animal
+eagle_head:
+- animal
+ear: []
+ear_deaf: []
+ear_listen: []
+ear_of_corn:
+- food
+ear_with_hearing_aid: []
+earrings:
+- clothing
+earth_africa:
+- nature
+earth_africa_europe:
+- nature
+earth_america:
+- nature
+earth_americas:
+- nature
+earth_asia:
+- nature
+earth_asia_oceania:
+- nature
+earth_crack:
+- nature
+earth_europe:
+- nature
+earth_oceania:
+- nature
+earth_spit:
+- nature
+earth_worm:
+- animal
+- nature
+earwig: []
+easter_egg:
+- food
+eastern_rosella:
+- animal
+eating:
+- action
+eating_pelican:
+- action
+- animal
+echo_ripples: []
+eclipse: []
+eclipse_flare: []
+eclipse_saw:
+- tool
+ecology: []
+edge_crack: []
+edged_shield: []
+edit:
+- action
+eel:
+- animal
+egg:
+- food
+egg_clutch: []
+egg_defense:
+- action
+egg_pod: []
+eggplant:
+- food
+egypt: []
+egyptian_bird:
+- animal
+egyptian_profile: []
+egyptian_pyramids: []
+egyptian_sphinx: []
+egyptian_temple:
+- building
+egyptian_urns: []
+egyptian_walk:
+- action
+eight_ball: []
+eight_note: []
+eight_oclock: []
+eight_pointed_star: []
+eight_spoked_asterisk: []
+eight_thirty: []
+eject:
+- action
+eject_button:
+- symbol
+elbow_pad:
+- clothing
+elderberry:
+- plant
+eleanor_of_aquitaine:
+- card
+electric: []
+electric_plug: []
+electric_whip: []
+electrical_crescent: []
+electrical_resistance: []
+electrical_socket: []
+element_of:
+- math
+elephant:
+- animal
+elephant_head:
+- animal
+elevator: []
+eleven_o'clock: []
+eleven_oclock: []
+eleven_thirty: []
+elf: []
+elf_ear: []
+elf_face:
+- emotion
+elf_helmet:
+- clothing
+elizabeth:
+- card
+- user
+ellipsis: []
+ellipsis_h: []
+ellipsis_v: []
+ellipsis_vertical: []
+elven_castle:
+- building
+ember_shot:
+- action
+embrassed_energy: []
+embryo: []
+emerald: []
+emerald_necklace:
+- accessory
+empty_chessboard: []
+empty_hourglass: []
+empty_metal_bucket: []
+empty_metal_bucket_handle: []
+empty_nest:
+- animal
+empty_wood_bucket: []
+empty_wood_bucket_handle: []
+encirclement:
+- action
+end_arrow: []
+energise:
+- action
+energy_arrow: []
+energy_breath:
+- action
+energy_shield: []
+energy_sword: []
+energy_tank: []
+engagement_ring: []
+engineering_school:
+- card
+england:
+- card
+enlightenment: []
+enrage:
+- action
+ent_mouth: []
+entangled_typhoon: []
+entry_door: []
+envelope: []
+envelope_circle_check: []
+envelope_open: []
+envelope_open_text: []
+envelope_square: []
+envelope_uni: []
+envelope_with_arrow: []
+envelopes_bulk: []
+epsilon: []
+epsilon_alt: []
+equals: []
+equivalent_to:
+- math
+eraser: []
+erlenmeyer: []
+ermine:
+- animal
+eruption: []
+escalator: []
+eskimo: []
+estimated: []
+eternal_love: []
+ethernet: []
+euro_banknote: []
+euro_sign:
+- symbol
+european_flag:
+- symbol
+evasion:
+- action
+event:
+- event
+evergreen_tree:
+- plant
+evil_bat: []
+evil_book: []
+evil_bud:
+- plant
+evil_comet: []
+evil_eyes: []
+evil_fork: []
+evil_hand:
+- gesture
+evil_minion: []
+evil_moon:
+- nature
+evil_tower:
+- building
+evil_tree:
+- plant
+evil_wings: []
+ewe: []
+excess:
+- math
+exchange_alt: []
+exclamation: []
+exclamation_circle: []
+exclamation_mark:
+- symbol
+exclamation_question_mark:
+- symbol
+exclamation_triangle: []
+executioner_hood:
+- clothing
+exit_door: []
+expand:
+- action
+expand_arrows_alt: []
+expanded_rays:
+- action
+expander: []
+expense: []
+exploding_head:
+- action
+- emotion
+exploding_planet: []
+explosion: []
+explosion_rays: []
+explosive_materials: []
+explosive_meeting: []
+expressionless_face:
+- emotion
+external_link_alt: []
+external_link_square_alt: []
+extra_lucid: []
+extra_time: []
+extraction_orb: []
+eye:
+- action
+eye_dropper: []
+eye_in_speech_bubble: []
+eye_low_vision: []
+eye_of_horus: []
+eye_shield: []
+eye_slash: []
+eye_target: []
+eyeball: []
+eyedropper: []
+eyelashes: []
+eyepatch:
+- clothing
+eyes: []
+eyestalk: []
+f1_car: []
+f_clef: []
+face_angry:
+- emotion
+face_blowing_a_kiss:
+- emotion
+- gesture
+face_dizzy:
+- emotion
+face_exhaling:
+- emotion
+face_flushed:
+- emotion
+face_frown:
+- emotion
+face_frown_open:
+- emotion
+face_grimace:
+- emotion
+face_grin:
+- emotion
+face_grin_beam:
+- emotion
+face_grin_beam_sweat:
+- emotion
+face_grin_hearts:
+- card
+- emotion
+face_grin_squint:
+- emotion
+face_grin_squint_tears:
+- emotion
+face_grin_stars:
+- emotion
+face_grin_tears:
+- emotion
+face_grin_tongue:
+- emotion
+face_grin_tongue_squint:
+- emotion
+face_grin_tongue_wink:
+- emotion
+face_grin_wide:
+- emotion
+face_grin_wink:
+- emotion
+face_holding_back_tears:
+- emotion
+face_in_clouds:
+- emotion
+face_kiss:
+- emotion
+- gesture
+face_kiss_beam:
+- emotion
+face_kiss_wink_heart:
+- emotion
+face_laugh:
+- emotion
+face_laugh_beam:
+- emotion
+face_laugh_squint:
+- emotion
+face_laugh_wink:
+- emotion
+face_meh:
+- emotion
+face_meh_blank:
+- emotion
+face_rolling_eyes:
+- emotion
+face_sad_cry:
+- emotion
+face_sad_tear:
+- emotion
+face_savoring_food:
+- emotion
+face_screaming_in_fear:
+- emotion
+face_smile:
+- emotion
+face_smile_beam:
+- emotion
+face_smile_wink:
+- emotion
+face_surprise:
+- emotion
+face_tired:
+- emotion
+face_to_face:
+- action
+- emotion
+face_vomiting:
+- emotion
+face_with_diagonal_mouth:
+- emotion
+face_with_hand_over_mouth:
+- emotion
+- gesture
+face_with_head_bandage:
+- emotion
+face_with_medical_mask:
+- emotion
+face_with_monocle:
+- emotion
+face_with_open_eyes_and_hand_over_mouth:
+- emotion
+- gesture
+face_with_open_mouth:
+- emotion
+face_with_peeking_eye:
+- emotion
+face_with_raised_eyebrow:
+- emotion
+face_with_rolling_eyes:
+- emotion
+face_with_spiral_eyes:
+- emotion
+face_with_steam_from_nose:
+- emotion
+face_with_symbols_on_mouth:
+- emotion
+face_with_tears_of_joy:
+- emotion
+face_with_thermometer:
+- emotion
+face_with_tongue:
+- emotion
+face_without_mouth:
+- emotion
+facepalming: []
+factory:
+- building
+factory_arm: []
+factory_worker:
+- person
+fairy: []
+fairy_2: []
+fairy_wand: []
+fairy_wings: []
+falafel:
+- food
+falcon_moon:
+- animal
+- nature
+fall_down:
+- action
+fall_of_constantinople:
+- card
+fall_of_louisburg:
+- card
+fallen_leaf:
+- plant
+falling:
+- action
+falling_blob: []
+falling_bomb: []
+falling_boulder: []
+falling_eye: []
+falling_leaf:
+- plant
+falling_ovoid: []
+falling_rocks: []
+falling_star: []
+fallout_shelter: []
+famas: []
+family: []
+family_house:
+- building
+family_man_boy:
+- person
+family_man_boy_boy:
+- person
+family_man_girl:
+- person
+family_man_girl_boy:
+- person
+family_man_girl_girl:
+- person
+family_man_man_boy:
+- person
+family_man_man_boy_boy:
+- person
+family_man_man_girl:
+- person
+family_man_man_girl_boy:
+- person
+family_man_man_girl_girl:
+- person
+family_man_woman_boy:
+- person
+family_man_woman_boy_boy:
+- person
+family_man_woman_girl:
+- person
+family_man_woman_girl_boy:
+- person
+family_man_woman_girl_girl:
+- person
+family_of_4: []
+family_tree:
+- plant
+family_woman_boy:
+- person
+family_woman_boy_boy:
+- person
+family_woman_girl:
+- person
+family_woman_girl_boy:
+- person
+family_woman_girl_girl:
+- person
+family_woman_woman_boy:
+- person
+family_woman_woman_boy_boy:
+- person
+family_woman_woman_girl:
+- person
+family_woman_woman_girl_boy:
+- person
+family_woman_woman_girl_girl:
+- person
+fan: []
+fanged_skull: []
+fangs: []
+fangs_circle: []
+farm_tractor: []
+farmer: []
+fashoda_incident:
+- card
+fast_arrow: []
+fast_backward: []
+fast_backward_button:
+- symbol
+fast_down_button:
+- symbol
+fast_forward: []
+fast_forward_button:
+- symbol
+fast_reverse_button:
+- symbol
+fast_up_button:
+- symbol
+fat: []
+faucet: []
+faucet_drip: []
+fax: []
+fax_machine: []
+fearful_face:
+- emotion
+feather:
+- animal
+feather_alt: []
+feather_necklace:
+- accessory
+feather_pointed: []
+feather_wound: []
+feathered_wing: []
+fedora:
+- clothing
+feeding_baby:
+- person
+feline:
+- animal
+felix:
+- user
+female: []
+female_legs: []
+female_sign:
+- symbol
+female_vampire: []
+fencer: []
+fencing:
+- action
+- sport
+fern:
+- plant
+ferris_wheel: []
+ferry:
+- sport
+- transport
+fertilizer_bag: []
+fetus: []
+fez:
+- clothing
+field: []
+field_gun: []
+field_hockey:
+- action
+- sport
+fighter_jet: []
+figurehead: []
+file: []
+file_alt: []
+file_archive: []
+file_arrow_down: []
+file_arrow_up: []
+file_audio: []
+file_cabinet: []
+file_circle_check: []
+file_circle_exclamation: []
+file_circle_minus: []
+file_circle_plus: []
+file_circle_question: []
+file_circle_xmark: []
+file_code: []
+file_contract: []
+file_csv: []
+file_download: []
+file_excel: []
+file_export: []
+file_folder: []
+file_image: []
+file_import: []
+file_invoice: []
+file_invoice_dollar: []
+file_lines: []
+file_medical: []
+file_medical_alt: []
+file_pdf: []
+file_pen: []
+file_powerpoint: []
+file_prescription: []
+file_shield:
+- emotion
+file_signature: []
+file_upload: []
+file_video: []
+file_waveform: []
+file_word: []
+file_zipper: []
+files: []
+fill:
+- action
+fill_drip:
+- action
+film: []
+film_frames: []
+film_projector: []
+film_spool: []
+film_strip: []
+filter: []
+filter_circle_dollar: []
+filter_circle_xmark: []
+finch:
+- animal
+finger_print: []
+fingernail: []
+fingerprint: []
+fingers_crossed:
+- gesture
+finish_line: []
+fire:
+- action
+fire_ace:
+- card
+fire_alt: []
+fire_axe:
+- tool
+fire_bomb: []
+fire_bottle:
+- food
+fire_bowl: []
+fire_breath:
+- action
+fire_burner: []
+fire_dash:
+- action
+fire_engine:
+- sport
+- transport
+fire_extinguisher: []
+fire_flame_curved: []
+fire_flame_simple:
+- action
+fire_flower:
+- plant
+fire_punch:
+- action
+fire_ray:
+- action
+fire_ring:
+- action
+fire_shield: []
+fire_shrine: []
+fire_silhouette:
+- action
+fire_spell_cast:
+- action
+fire_tail:
+- action
+fire_wave:
+- action
+- gesture
+fire_zone: []
+fireball:
+- action
+firecracker:
+- action
+firefighter: []
+fireflake: []
+fireplace: []
+firework_rocket: []
+fireworks:
+- action
+first_aid: []
+first_aid_kit: []
+first_crusade:
+- card
+first_quarter_moon:
+- nature
+first_quarter_moon_face:
+- emotion
+- nature
+fish:
+- animal
+fish_bucket: []
+fish_cake_with_swirl:
+- food
+fish_cooked: []
+fish_corpse: []
+fish_eggs: []
+fish_escape: []
+fish_fins: []
+fish_monster: []
+fish_scales: []
+fish_smoking: []
+fishbone: []
+fishhook_fork: []
+fishing:
+- action
+fishing_boat: []
+fishing_hook: []
+fishing_jig: []
+fishing_lure: []
+fishing_net: []
+fishing_pole:
+- action
+- sport
+fishing_spoon: []
+fission: []
+fist:
+- gesture
+fist_2:
+- gesture
+fist_raised:
+- gesture
+five_eights: []
+five_o'clock: []
+five_oclock: []
+five_thirty: []
+fizzing_flask: []
+flag:
+- symbol
+flag_checkered:
+- symbol
+flag_in_hole:
+- action
+- sport
+- symbol
+flag_objective:
+- symbol
+flag_usa:
+- symbol
+flail: []
+flake: []
+flame:
+- action
+flame_claws:
+- action
+flame_spin:
+- action
+flame_tunnel:
+- action
+flamed_leaf:
+- plant
+flamer: []
+flamethrower: []
+flamethrower_soldier:
+- person
+flaming_arrow:
+- action
+flaming_claw:
+- action
+flaming_sheet:
+- action
+flaming_trident: []
+flamingo:
+- animal
+flanged_mace: []
+flash_grenade: []
+flashlight: []
+flask: []
+flask_vial: []
+flat_hammer:
+- tool
+flat_platform: []
+flat_shoe:
+- clothing
+flat_star: []
+flat_tire: []
+flatbed: []
+flatbed_covered: []
+flatbread:
+- food
+flax:
+- plant
+fleshy_mass: []
+fleur_de_lis: []
+fleur_de_lys: []
+flexed_biceps:
+- gesture
+flexible_star: []
+flint_spark: []
+flip_flops:
+- clothing
+floating_crystal: []
+floating_ghost: []
+floating_platforms: []
+floating_tentacles: []
+flood: []
+floor:
+- math
+floor_hatch: []
+floor_polisher: []
+floppy_disk: []
+florence_nightingale:
+- card
+florin_sign:
+- symbol
+flower_emblem:
+- plant
+flower_hat:
+- accessory
+- clothing
+- plant
+flower_playing_cards:
+- plant
+flower_pot:
+- plant
+flower_star:
+- plant
+flower_twirl:
+- plant
+flowers:
+- plant
+fluffy_cloud:
+- nature
+fluffy_flame: []
+fluffy_swirl: []
+fluffy_trefoil: []
+fluffy_wing: []
+flushed:
+- emotion
+flushed_face:
+- emotion
+flute:
+- music
+fly:
+- animal
+flying_beetle: []
+flying_dagger: []
+flying_disc:
+- action
+- sport
+flying_flag:
+- symbol
+flying_fox:
+- animal
+flying_saucer:
+- sport
+- transport
+flying_shuriken: []
+flying_target: []
+flying_trout: []
+fn_fal: []
+foam: []
+foamy_disc: []
+focused_lightning:
+- action
+fog: []
+foggy: []
+folded_hands:
+- gesture
+folded_paper: []
+folder: []
+folder_closed:
+- clothing
+folder_minus: []
+folder_open: []
+folder_plus: []
+folder_tree:
+- plant
+folding_hand_fan:
+- gesture
+fomorian: []
+fondue:
+- food
+font: []
+font_awesome_logo_full: []
+food: []
+food_chain: []
+food_truck: []
+foot: []
+foot_plaster: []
+foot_trip:
+- action
+football:
+- sport
+football_ball:
+- sport
+footprint: []
+footprints: []
+footsteps:
+- action
+footy_field:
+- sport
+for_all:
+- math
+forbidden_palace:
+- card
+ford_motor_company:
+- card
+forearm: []
+forest: []
+forest_camp: []
+forge:
+- card
+fork_and_knife:
+- food
+- tool
+fork_and_knife_with_plate:
+- food
+- tool
+forklift: []
+fortune_cookie:
+- food
+forum:
+- card
+forward:
+- action
+forward_fast: []
+forward_field: []
+forward_step: []
+forward_sun:
+- nature
+fossil: []
+foundry_bucket: []
+fountain: []
+fountain_pen: []
+four_balloon_spoked_asterisk: []
+four_leaf_clover:
+- plant
+four_o'clock: []
+four_oclock: []
+four_thirty: []
+fox:
+- animal
+fox_head:
+- animal
+fox_tail:
+- animal
+fragmented_meteor: []
+fragmented_sword: []
+fragrance: []
+framed_picture: []
+franc_sign:
+- symbol
+france: []
+franco_prussian_war:
+- card
+frankenstein_creature: []
+frayed_arrow: []
+frederic_chopin:
+- card
+frederick_the_great:
+- card
+free_button:
+- symbol
+freedom_dove: []
+freemasonry: []
+french_fries:
+- food
+fried_eggs:
+- food
+fried_fish:
+- food
+fried_shrimp:
+- food
+frigate:
+- card
+frisbee:
+- sport
+frog:
+- animal
+frog_prince:
+- animal
+front_facing_baby_chick:
+- animal
+- person
+front_teeth: []
+frontal_lobe: []
+frostfire:
+- action
+frown:
+- emotion
+frown_open:
+- emotion
+frowning: []
+frowning_face:
+- emotion
+frowning_face_with_open_mouth:
+- emotion
+frozen_arrow: []
+frozen_block: []
+frozen_body: []
+frozen_orb: []
+frozen_ring: []
+fruit_bowl:
+- food
+fruit_tree:
+- food
+- plant
+fruiting:
+- action
+fuel_pump:
+- sport
+- transport
+fuel_tank: []
+fuji: []
+fulguro_punch:
+- action
+full_folder: []
+full_metal_bucket: []
+full_metal_bucket_handle: []
+full_moon:
+- nature
+full_moon_face:
+- emotion
+- nature
+full_motorcycle_helmet:
+- clothing
+full_wood_bucket: []
+full_wood_bucket_handle: []
+funeral_urn: []
+funnel: []
+funnel_dollar: []
+fur_boot:
+- clothing
+fur_shirt:
+- clothing
+furnace: []
+futbol:
+- sport
+g_clef: []
+galea: []
+galileo_galilei:
+- card
+galleon: []
+galley: []
+game_console:
+- game
+game_die:
+- game
+gamepad: []
+gamepad_cross: []
+gamma: []
+gargoyle: []
+garlic:
+- food
+- plant
+gas_mask: []
+gas_mask_2: []
+gas_pump: []
+gate: []
+gauge: []
+gauge_high: []
+gauge_simple: []
+gauge_simple_high: []
+gaul:
+- card
+gauls_helm: []
+gauntlet:
+- clothing
+gavel: []
+gaze:
+- action
+gear: []
+gear_hammer:
+- tool
+gears: []
+gecko: []
+gem: []
+gem_chain: []
+gem_necklace:
+- accessory
+gem_pendant: []
+gem_stone:
+- clothing
+gemini: []
+gems: []
+genderless: []
+genghis_khan:
+- card
+genie: []
+geographical_proportion:
+- math
+geometric_proportion:
+- math
+gesturing_no:
+- gesture
+gesturing_ok:
+- gesture
+getting_haircut: []
+getting_massage: []
+ghost:
+- emotion
+ghost_ally: []
+giant: []
+giant_squid:
+- animal
+gibbet: []
+gift: []
+gift_of_knowledge: []
+gift_trap: []
+gifts: []
+gilbert:
+- user
+ginger_root: []
+gingerbread_man:
+- food
+- person
+ginkgo_leaf:
+- plant
+giraffe:
+- animal
+girl:
+- person
+gladius: []
+glaive: []
+glass_ball: []
+glass_celebration: []
+glass_cheers: []
+glass_heart: []
+glass_martini: []
+glass_martini_alt: []
+glass_of_milk:
+- food
+glass_shot: []
+glass_water: []
+glass_water_droplet: []
+glass_whiskey: []
+glasses:
+- accessory
+- clothing
+glider: []
+globe: []
+globe_africa: []
+globe_americas: []
+globe_asia: []
+globe_europe: []
+globe_ring: []
+globe_showing_americas: []
+globe_showing_asia_australia: []
+globe_showing_europe_africa: []
+globe_with_meridians: []
+glock: []
+gloop: []
+gloves:
+- clothing
+glowing_hands:
+- action
+glowing_star: []
+gluttonous_smile:
+- emotion
+gluttony: []
+gnome: []
+goal_net:
+- action
+- sport
+goat:
+- animal
+goblin: []
+goblin_camp: []
+goblin_head: []
+goggles:
+- clothing
+gold: []
+gold_bar: []
+gold_mine: []
+gold_nuggets: []
+gold_scarab: []
+gold_shell: []
+gold_stack: []
+goldenage: []
+golem_head: []
+golf_ball:
+- sport
+golf_ball_tee:
+- sport
+golf_flag:
+- sport
+- symbol
+golf_tee:
+- sport
+golfing:
+- action
+- sport
+gong: []
+goo_explosion:
+- action
+goo_skull: []
+goo_spurt:
+- action
+gooey_daemon: []
+gooey_eyed_sun:
+- nature
+gooey_impact:
+- action
+gooey_molecule: []
+gooey_sword: []
+goose:
+- animal
+gopuram: []
+gorilla:
+- animal
+gothic_cross: []
+gps: []
+grab:
+- action
+graduate_cap:
+- clothing
+graduation_cap:
+- clothing
+grain:
+- food
+grain_bundle:
+- food
+granary: []
+grand_banks:
+- card
+grand_canyon:
+- card
+grand_duchy_of_finland:
+- card
+grapes:
+- food
+grapple:
+- action
+grasping_claws:
+- action
+grasping_slug: []
+grass:
+- plant
+grasshopper:
+- animal
+grave_flowers:
+- plant
+graveyard: []
+grease_trap: []
+great_barrier_reef:
+- card
+great_library:
+- card
+great_lighthouse:
+- card
+great_northern_war:
+- card
+great_plains:
+- card
+great_pyramid: []
+great_wall:
+- card
+great_war_tank: []
+greater_than: []
+greater_than_equal: []
+greater_than_or_equal_to:
+- math
+greater_than_or_equal_to2:
+- math
+greater_than_or_equivalent_to:
+- math
+greater_than_or_less_than:
+- math
+greaves:
+- clothing
+greek_fire_galley:
+- card
+greek_sphinx: []
+greek_temple:
+- building
+green_apple:
+- food
+green_book: []
+green_circle: []
+green_heart:
+- emotion
+green_power: []
+green_salad:
+- food
+green_square: []
+greenhouse: []
+greenland:
+- card
+grenade: []
+grenade_2: []
+grey_heart:
+- emotion
+griffin_shield: []
+griffin_symbol: []
+grim_reaper: []
+grimace:
+- emotion
+grimacing_face:
+- emotion
+grin: []
+grin_alt: []
+grin_beam: []
+grin_beam_sweat: []
+grin_hearts:
+- card
+grin_squint: []
+grin_squint_tears: []
+grin_stars: []
+grin_tears: []
+grin_tongue: []
+grin_tongue_squint: []
+grin_tongue_wink: []
+grin_wink: []
+grinning_cat:
+- animal
+- emotion
+grinning_cat_with_smiling_eyes:
+- animal
+- emotion
+grinning_face:
+- emotion
+grinning_face_with_big_eyes:
+- emotion
+grinning_face_with_smiling_eyes:
+- emotion
+grinning_face_with_sweat:
+- emotion
+grinning_squinting_face:
+- emotion
+grip: []
+grip_horizontal: []
+grip_lines: []
+grip_lines_vertical: []
+grip_vertical: []
+grizzly_bear:
+- animal
+ground_sprout:
+- plant
+groundbreaker: []
+group_arrows_rotate: []
+grouped_drops: []
+growing_heart: []
+growth: []
+guarani_sign:
+- symbol
+guard: []
+guarded_tower:
+- building
+guards: []
+guest:
+- user
+guide_dog:
+- animal
+guild_hall:
+- card
+guillotine: []
+guitar:
+- music
+gul:
+- user
+gun:
+- action
+gun_rose: []
+gun_stock: []
+gunpowder:
+- card
+gunshot: []
+gutenberg_bible:
+- card
+gym_bag:
+- clothing
+h2o: []
+h_square: []
+habitat_dome: []
+hagia_sophia:
+- card
+hair_pick: []
+hair_strands: []
+haircut:
+- action
+hakkapeliitta:
+- card
+halberd: []
+halberd_shuriken: []
+half_body_crawling: []
+half_dead: []
+half_heart: []
+half_log: []
+half_tornado: []
+hallo:
+- user
+halt:
+- action
+ham_shank:
+- food
+hamburger:
+- food
+hamburger_menu: []
+hammam:
+- card
+hammer:
+- tool
+hammer_and_pick:
+- tool
+hammer_and_wrench:
+- tool
+hammer_break:
+- tool
+hammer_drop:
+- tool
+hammer_nails:
+- tool
+hammer_sickle:
+- tool
+hamsa: []
+hamster:
+- animal
+hand:
+- gesture
+hand_2:
+- gesture
+hand_back_fist:
+- action
+- gesture
+hand_bag:
+- gesture
+hand_bandage:
+- gesture
+hand_dots:
+- gesture
+hand_fist:
+- gesture
+hand_grip:
+- gesture
+hand_holding:
+- action
+- gesture
+hand_holding_dollar:
+- gesture
+hand_holding_droplet:
+- gesture
+hand_holding_hand:
+- gesture
+hand_holding_heart:
+- gesture
+hand_holding_medical:
+- gesture
+hand_holding_usd:
+- gesture
+hand_lizard:
+- gesture
+hand_middle_finger:
+- action
+- gesture
+hand_of_god:
+- gesture
+hand_ok:
+- action
+- gesture
+hand_paper:
+- action
+- gesture
+hand_peace:
+- action
+- gesture
+hand_point_down:
+- action
+- gesture
+hand_point_left:
+- action
+- gesture
+hand_point_right:
+- action
+- gesture
+hand_point_up:
+- action
+- gesture
+hand_pointer:
+- action
+- gesture
+hand_rock:
+- action
+- gesture
+hand_saw:
+- gesture
+- tool
+hand_scissors:
+- gesture
+hand_sparkles:
+- gesture
+hand_spock:
+- action
+- gesture
+hand_with_fingers_splayed:
+- gesture
+hand_with_index_finger_and_thumb_crossed:
+- gesture
+handbag:
+- clothing
+handball:
+- action
+- sport
+handcuffed:
+- action
+handcuffs: []
+handheld_fan: []
+hands: []
+hands_asl_interpreting: []
+hands_bound: []
+hands_bubbles: []
+hands_clapping:
+- clothing
+hands_helping:
+- action
+hands_holding: []
+hands_holding_child:
+- person
+hands_holding_circle: []
+hands_praying: []
+handshake:
+- gesture
+handshake_angle:
+- action
+handshake_simple: []
+handshake_simple_slash: []
+handshake_slash: []
+hang_glider: []
+hang_glider_2: []
+hanger: []
+hanging_gardens:
+- card
+hanging_sign:
+- symbol
+hanging_spider: []
+hanna:
+- user
+hannibal:
+- card
+hansa:
+- card
+hanukiah: []
+happy_skull:
+- emotion
+harald_hardrada:
+- card
+harbor_dock: []
+hard_drive: []
+hard_hat:
+- accessory
+- clothing
+hare:
+- animal
+harpoon_chain: []
+harpoon_trident: []
+harpy: []
+harry_potter_skull: []
+hashtag: []
+hasty_grave: []
+hat_cowboy:
+- accessory
+- clothing
+hat_cowboy_side:
+- accessory
+- clothing
+hat_wizard:
+- accessory
+- clothing
+hatchet: []
+hatchets: []
+hatching_chick:
+- animal
+hatshepsut:
+- card
+haunting:
+- action
+hawaii:
+- card
+hawk_emblem:
+- animal
+haykal: []
+hazard_sign:
+- symbol
+hazmat_suit:
+- clothing
+hdd: []
+head_shot:
+- action
+head_side_cough: []
+head_side_cough_slash: []
+head_side_mask: []
+head_side_virus: []
+headband_knot:
+- clothing
+heading:
+- action
+headphone: []
+headphones: []
+headphones_alt: []
+headphones_simple: []
+headscarf: []
+headset: []
+headshot:
+- action
+headshot_2:
+- action
+headstone: []
+healing:
+- action
+health_capsule: []
+health_decrease:
+- action
+health_increase:
+- action
+health_normal:
+- action
+health_potion: []
+health_worker:
+- person
+hear_no_evil_monkey:
+- animal
+hearing_disabled: []
+heart: []
+heart_armor: []
+heart_battery: []
+heart_beats: []
+heart_bottle:
+- food
+heart_broken: []
+heart_circle_bolt: []
+heart_circle_check:
+- plant
+heart_circle_exclamation: []
+heart_circle_minus: []
+heart_circle_plus: []
+heart_circle_xmark: []
+heart_crack: []
+heart_decoration: []
+heart_drop: []
+heart_earrings: []
+heart_exclamation: []
+heart_hands:
+- gesture
+heart_inside: []
+heart_minus: []
+heart_necklace:
+- accessory
+heart_on_fire:
+- emotion
+heart_organ: []
+heart_plus: []
+heart_pulse: []
+heart_stake: []
+heart_suit: []
+heart_tower:
+- building
+heart_wings: []
+heart_with_arrow:
+- emotion
+heart_with_ribbon:
+- emotion
+heartbeat: []
+heartburn: []
+hearts:
+- card
+hearts_black:
+- card
+hearts_white:
+- card
+heat_haze: []
+heavy_arrow: []
+heavy_bullets: []
+heavy_dollar_sign:
+- symbol
+heavy_equals_sign:
+- symbol
+heavy_fall: []
+heavy_fighter: []
+heavy_helm: []
+heavy_lightning: []
+heavy_multiplication_x: []
+heavy_north_east_arrow: []
+heavy_plough:
+- card
+heavy_rain:
+- nature
+heavy_rightwards_arrow: []
+heavy_south_east_arrow: []
+heavy_thorny_triskelion: []
+heavy_timer: []
+hedgehog:
+- animal
+hedjet_white_crown: []
+helicoprion: []
+helicopter:
+- sport
+- transport
+helicopter_symbol: []
+helicopter_tail: []
+hell_crosses: []
+helmet:
+- clothing
+helmet_head_shot: []
+helmet_safety:
+- clothing
+helmet_un:
+- emotion
+help:
+- action
+hemp:
+- plant
+heptagram: []
+herb:
+- plant
+herbs_bundle:
+- plant
+hexagonal_nut: []
+hexes: []
+hibiscus:
+- animal
+- plant
+hidden: []
+hieroglyph_y: []
+high_five:
+- action
+high_grass:
+- plant
+high_heel:
+- clothing
+high_heeled_shoe:
+- clothing
+high_kick:
+- action
+high_shot:
+- action
+high_speed_train:
+- sport
+- transport
+high_tide: []
+high_voltage: []
+highlighter: []
+hiking:
+- action
+hiking_boot:
+- clothing
+hill_avalanche:
+- action
+hill_conquest: []
+hill_fort: []
+hill_rockslide: []
+hills: []
+himeji_castle:
+- building
+- card
+hindu_kush:
+- card
+hindu_temple:
+- building
+hippodrome:
+- card
+hippopotamus:
+- animal
+hispania:
+- card
+histogram: []
+history:
+- action
+hive: []
+hive_mind: []
+hobbit_door: []
+hobbit_dwelling: []
+hockey:
+- sport
+hockey_puck:
+- sport
+holding_hands: []
+hole:
+- emotion
+hole_ladder: []
+hollow_cat:
+- animal
+hollow_red_circle: []
+holly_berry:
+- plant
+holosphere: []
+holy_grail: []
+holy_hand_grenade:
+- gesture
+holy_oak: []
+holy_symbol: []
+holy_water: []
+home: []
+home_garage: []
+homothetic:
+- math
+honey_jar: []
+honey_pot:
+- food
+honeybee: []
+honeycomb: []
+honeypot: []
+hong_kong:
+- card
+hood:
+- clothing
+hooded_assassin: []
+hooded_figure: []
+hoodie:
+- clothing
+hoof: []
+hook: []
+hoplia: []
+hoplite:
+- card
+hops:
+- plant
+horizontal_flip:
+- action
+horizontal_traffic_light: []
+horn_internal: []
+horned_helm:
+- clothing
+horned_reptile: []
+horned_skull: []
+horse:
+- animal
+horse1:
+- animal
+horse_archer:
+- animal
+- card
+horse_face:
+- animal
+- emotion
+horse_head:
+- animal
+horse_head_2:
+- animal
+horse_racing:
+- action
+- animal
+- sport
+horseshoe: []
+horus: []
+hospital:
+- building
+hospital_alt:
+- building
+hospital_cross:
+- building
+hospital_symbol:
+- building
+hospital_user:
+- building
+hot_beverage:
+- food
+hot_dog:
+- animal
+- food
+hot_face:
+- emotion
+hot_meal:
+- food
+hot_pepper:
+- food
+hot_spices:
+- food
+hot_springs: []
+hot_surface: []
+hot_tub: []
+hot_tub_person:
+- person
+hotdog:
+- food
+hotel:
+- building
+hound:
+- animal
+hourglass: []
+hourglass_done: []
+hourglass_end: []
+hourglass_half: []
+hourglass_not_done: []
+hourglass_start: []
+house:
+- building
+house_chimney:
+- building
+house_chimney_crack:
+- building
+house_chimney_medical:
+- building
+house_chimney_user:
+- building
+house_chimney_window:
+- action
+- building
+house_circle_check:
+- building
+house_circle_exclamation:
+- building
+house_circle_xmark:
+- building
+house_crack:
+- building
+house_damage:
+- building
+house_fire:
+- building
+house_flag:
+- building
+- symbol
+house_flood_water:
+- building
+house_flood_water_circle_arrow_right:
+- building
+house_keys:
+- building
+house_laptop:
+- building
+house_lock:
+- building
+house_medical:
+- building
+house_medical_circle_check:
+- building
+house_medical_circle_exclamation:
+- building
+house_medical_circle_xmark:
+- building
+house_medical_flag:
+- building
+- symbol
+house_signal:
+- building
+house_tsunami:
+- building
+house_user:
+- building
+house_with_garden:
+- building
+houses:
+- building
+hryvnia: []
+hryvnia_sign:
+- symbol
+hugging_face:
+- emotion
+- gesture
+human_cannonball:
+- action
+human_ear: []
+human_pyramid:
+- action
+human_target:
+- action
+hummingbird:
+- animal
+hundred_points: []
+hundred_years_war:
+- card
+hungary: []
+hunnic_invasions:
+- card
+hunting_bolas: []
+hunting_horn: []
+hurricane: []
+hushed_face:
+- emotion
+hussar:
+- card
+hut:
+- building
+huts_village: []
+hyacinth:
+- plant
+hydra: []
+hydra_shot: []
+hydro_plant:
+- card
+- plant
+hyksos_invasion:
+- card
+hypatia:
+- card
+hypersonic_bolt: []
+hypersonic_melon:
+- food
+hypodermic_test: []
+i: []
+i_cursor: []
+i_dotless: []
+ibex:
+- animal
+icarus: []
+ice:
+- food
+ice_bolt: []
+ice_bomb: []
+ice_cream:
+- food
+ice_cream_cone:
+- food
+ice_cube: []
+ice_cubes: []
+ice_golem: []
+ice_hockey:
+- action
+- sport
+ice_pop:
+- food
+ice_shield: []
+ice_skate:
+- action
+- sport
+ice_spear: []
+ice_spell_cast: []
+iceberg: []
+icebergs: []
+iceland: []
+icicles: []
+icicles_aura: []
+icicles_fence: []
+icons: []
+id_badge: []
+id_button:
+- symbol
+id_card:
+- card
+id_card_alt:
+- card
+id_card_clip:
+- card
+idea: []
+identical_to:
+- math
+identification_card:
+- card
+ifrit: []
+igloo: []
+image: []
+image0: []
+image1: []
+image2: []
+image3: []
+image4: []
+image5: []
+image6: []
+image_of:
+- math
+image_portrait: []
+images: []
+imbricated_arrows: []
+imjin_war:
+- card
+immortal:
+- card
+imp: []
+imp_laugh:
+- emotion
+impact_point: []
+imperial_crown: []
+implosion: []
+imprisoned: []
+in_bed: []
+in_tuxedo: []
+inbox: []
+inbox_tray: []
+incan_empire:
+- card
+incense: []
+incisors: []
+incoming_envelope: []
+incoming_rocket: []
+incubator: []
+indent: []
+index_pointing_at_the_viewer:
+- gesture
+index_pointing_up:
+- gesture
+india:
+- card
+indian_palace: []
+indian_rupee_sign:
+- symbol
+industry: []
+infested_mass: []
+infinity: []
+infinity_uni: []
+info: []
+info_circle: []
+information: []
+injustice: []
+ink_swirl: []
+inner_self: []
+input_latin_letters: []
+input_latin_lowercase: []
+input_latin_uppercase: []
+input_numbers: []
+input_symbols: []
+insect_jaws: []
+inspiration: []
+integral:
+- math
+integral_average:
+- math
+intellagama_lesueurii:
+- animal
+interceptor_ship: []
+interdiction: []
+interlaced_tentacles: []
+interleaved_arrows: []
+interleaved_claws: []
+internal_injury: []
+internal_organ: []
+intersection:
+- math
+interstellar_path: []
+intricate_necklace:
+- accessory
+inverted_dice_1:
+- game
+inverted_dice_2:
+- game
+inverted_dice_3:
+- game
+inverted_dice_4:
+- game
+inverted_dice_5:
+- game
+inverted_dice_6:
+- game
+invisible: []
+invisible_face:
+- emotion
+ion_cannon_blast: []
+ionic_column: []
+iron_cross: []
+iron_hulled_warship: []
+iron_mask: []
+iron_working:
+- card
+is_congruent_to:
+- math
+is_definied_as:
+- math
+is_definied_as2:
+- math
+is_definied_as3:
+- math
+is_definied_as4:
+- math
+is_equal_to_by_definition:
+- math
+is_equal_to_by_definition2:
+- math
+is_equal_to_by_definition3:
+- math
+is_equal_to_by_definition4:
+- math
+is_greater_than:
+- math
+is_greater_than_or_equivalent_to:
+- math
+is_less_than:
+- math
+is_less_than_or_equal_to:
+- math
+is_less_than_or_equivalent_to:
+- math
+is_much_greater_than:
+- math
+is_much_less_than:
+- math
+is_similar_to:
+- math
+is_similar_to2:
+- math
+isabella:
+- card
+island:
+- location
+israel:
+- card
+italia: []
+italic: []
+ivory_tusks: []
+j_brick: []
+jack_o_lantern: []
+jack_plug: []
+jaguar_warrior:
+- animal
+- card
+james_bond_aperture: []
+japan: []
+japanese_acceptable_button:
+- symbol
+japanese_application_button:
+- symbol
+japanese_bargain_button:
+- symbol
+japanese_bridge: []
+japanese_castle:
+- building
+japanese_congratulations_button:
+- symbol
+japanese_discount_button:
+- symbol
+japanese_dolls: []
+japanese_free_of_charge_button:
+- symbol
+japanese_here_button:
+- symbol
+japanese_monthly_amount_button:
+- symbol
+japanese_no_vacancy_button:
+- symbol
+japanese_not_free_of_charge_button:
+- symbol
+japanese_open_for_business_button:
+- symbol
+japanese_passing_grade_button:
+- symbol
+japanese_post_office:
+- building
+japanese_prohibited_button:
+- symbol
+japanese_reserved_button:
+- symbol
+japanese_secret_button:
+- symbol
+japanese_service_charge_button:
+- symbol
+japanese_symbol_for_beginner: []
+japanese_vacancy_button:
+- symbol
+jar: []
+jar_wheat: []
+jasmine:
+- plant
+jason_mask: []
+jawbone: []
+jawless_cyclop: []
+jeans:
+- clothing
+jedi: []
+jeep: []
+jeep_2: []
+jellyfish: []
+jerrycan: []
+jerusalem_cross: []
+jester_hat:
+- accessory
+jet_fighter: []
+jet_fighter_up: []
+jet_pack: []
+jetpack: []
+jewel_bug:
+- animal
+jewel_crown: []
+jeweled_chalice: []
+jigsaw_box: []
+jigsaw_piece: []
+john:
+- user
+join: []
+joint: []
+joker:
+- card
+journal_whills: []
+journey: []
+joystick:
+- action
+judge: []
+jug: []
+jug_detergent: []
+juggler: []
+juggling:
+- action
+- sport
+juggling_clubs:
+- card
+juggling_seal:
+- animal
+jump_across:
+- action
+jumping_dog:
+- animal
+jumping_rope:
+- action
+jungle: []
+jupiter: []
+justice_star: []
+kaaba:
+- building
+kaleidoscope_pearls: []
+kangaroo:
+- animal
+kappa: []
+katana: []
+katydid:
+- animal
+kebab_spit: []
+kenku_head: []
+kenya: []
+kevlar: []
+kevlar_vest: []
+key:
+- action
+- object
+key_2: []
+key_card:
+- card
+key_lock: []
+keyboard: []
+keycap: []
+keycap_#: []
+keycap_*: []
+keycap_0: []
+keycap_1: []
+keycap_10: []
+keycap_2: []
+keycap_3: []
+keycap_4: []
+keycap_5: []
+keycap_6: []
+keycap_7: []
+keycap_8: []
+keycap_9: []
+keyring: []
+khanda: []
+khao_manee_cat:
+- animal
+kick_scooter:
+- sport
+- transport
+kidneys: []
+kimono:
+- clothing
+kindle: []
+king:
+- role
+king_black:
+- role
+king_ju_mask:
+- role
+king_white:
+- role
+kip_sign:
+- symbol
+kiss:
+- gesture
+kiss_beam: []
+kiss_man_man:
+- gesture
+- person
+kiss_mark:
+- emotion
+- symbol
+kiss_wink_heart: []
+kiss_woman_man:
+- gesture
+- person
+kiss_woman_woman:
+- gesture
+- person
+kissing_cat:
+- animal
+- emotion
+kissing_face:
+- emotion
+kissing_face_with_closed_eyes:
+- emotion
+kissing_face_with_smiling_eyes:
+- emotion
+kit_medical: []
+kitchen_knife:
+- food
+- tool
+kitchen_knives: []
+kitchen_scale: []
+kitchen_set: []
+kite:
+- action
+- sport
+kiwi_bird:
+- animal
+kiwi_fruit:
+- food
+klingon: []
+knapsack: []
+knee_cap: []
+knee_pad: []
+kneeling:
+- action
+knife_fork:
+- tool
+knife_thrust:
+- action
+- tool
+knight:
+- card
+knight_banner: []
+knight_black: []
+knight_white: []
+knights_templar:
+- card
+knockout:
+- action
+knot: []
+koala:
+- animal
+krak_des_chevaliers:
+- card
+kraken_tentacle: []
+kremlin:
+- card
+kusarigama: []
+l_brick: []
+la_noche_triste:
+- card
+lab_coat:
+- clothing
+label: []
+lacrosse:
+- action
+- sport
+ladder: []
+ladle: []
+lady_beetle: []
+ladybug:
+- animal
+lambda: []
+lamellar: []
+lamprey_mouth: []
+land_mine: []
+land_mine_on: []
+landmark: []
+landmark_dome: []
+landmark_flag:
+- symbol
+language: []
+lantern: []
+lantern_flame: []
+laptop: []
+laptop_code: []
+laptop_computer:
+- technology
+laptop_file:
+- transport
+laptop_medical: []
+large_blue_diamond: []
+large_dress:
+- clothing
+large_orange_diamond: []
+large_paint_brush: []
+large_wound: []
+lari_sign:
+- symbol
+laser_blast: []
+laser_burst: []
+laser_gun: []
+laser_precision: []
+laser_sparks: []
+laser_turret: []
+laser_warning: []
+laserburn: []
+lasso: []
+last_quarter_moon:
+- nature
+last_quarter_moon_face:
+- emotion
+- nature
+last_track_button:
+- symbol
+latin_cross: []
+latvia: []
+laugh:
+- emotion
+laugh_beam:
+- emotion
+laugh_squint:
+- emotion
+laugh_wink:
+- emotion
+laurel_crown: []
+laurels: []
+laurels_trophy:
+- symbol
+lauren:
+- user
+lava: []
+law_star: []
+layer_group: []
+layered_armor: []
+lead_pipe: []
+leaf:
+- plant
+leaf_fluttering_in_wind:
+- nature
+- plant
+leaf_skeleton:
+- plant
+leaf_swirl:
+- plant
+leafy_green: []
+leak: []
+leaky_skull: []
+leather_armor: []
+leather_boot: []
+leather_vest: []
+led: []
+ledger: []
+lee_enfield: []
+leeching_worm: []
+leek:
+- plant
+left_angle_quotation_mark:
+- symbol
+left_arrow: []
+left_arrow_curving_right: []
+left_black_pointer: []
+left_facing_fist:
+- gesture
+left_long: []
+left_luggage: []
+left_right: []
+left_right_arrow: []
+left_right_arrow_uni: []
+left_speech_bubble:
+- emotion
+left_white_pointer: []
+leftwards_arrow: []
+leftwards_arrow_to_bar: []
+leftwards_hand:
+- gesture
+leftwards_pushing_hand:
+- gesture
+leftwards_white_arrow: []
+leg: []
+leg_armor: []
+legionary:
+- card
+lemon:
+- food
+leo: []
+leopard:
+- animal
+less_than: []
+less_than_equal: []
+less_than_or_equal_to:
+- math
+less_than_or_equal_to2:
+- math
+less_than_or_equivalent_to:
+- math
+less_than_or_greater_than:
+- math
+letter_bomb: []
+level_crossing: []
+level_down_alt: []
+level_four: []
+level_four_advanced: []
+level_slider: []
+level_three: []
+level_three_advanced: []
+level_two: []
+level_two_advanced: []
+level_up_alt: []
+lever: []
+levitating:
+- action
+liar: []
+liberty_wing: []
+libra: []
+library:
+- card
+libya: []
+life_bar: []
+life_buoy: []
+life_in_the_balance: []
+life_jacket: []
+life_ring: []
+life_support: []
+life_tap: []
+lift: []
+lifting_weights:
+- action
+- sport
+light_backpack: []
+light_blue_heart:
+- emotion
+light_bulb: []
+light_fighter: []
+light_helm: []
+light_projector: []
+light_rail:
+- sport
+- transport
+light_sabers: []
+light_thorny_triskelion: []
+lightbulb: []
+lighter: []
+lighthouse: []
+lightning_arc: []
+lightning_bow: []
+lightning_branches: []
+lightning_dissipation: []
+lightning_dome: []
+lightning_electron: []
+lightning_frequency: []
+lightning_helix: []
+lightning_mask: []
+lightning_saber: []
+lightning_shadow: []
+lightning_shield: []
+lightning_shout: []
+lightning_slashes: []
+lightning_spanner: []
+lightning_storm: []
+lightning_tear: []
+lightning_tree:
+- plant
+lightning_trio: []
+lili:
+- user
+lily_pads:
+- plant
+lin_zexu:
+- card
+linden_leaf:
+- plant
+lines_leaning:
+- transport
+link: []
+link_slash:
+- action
+linked_paperclips: []
+linked_rings: []
+lion:
+- animal
+lips: []
+lipstick:
+- clothing
+lira: []
+lira_sign:
+- symbol
+list: []
+list_alt: []
+list_check: []
+list_ol: []
+list_ul: []
+lit_candelabra: []
+litecoin_sign:
+- symbol
+litter_in_bin_sign:
+- symbol
+liver: []
+lizard:
+- animal
+lizard_tongue: []
+lizardman: []
+llama:
+- animal
+load: []
+lob_arrow: []
+lobster:
+- animal
+- food
+location_arrow:
+- location
+location_crosshairs:
+- location
+location_dot:
+- location
+location_pin:
+- location
+location_pin_lock:
+- location
+lock: []
+lock_open: []
+lock_picking:
+- action
+lock_spy: []
+locked: []
+locked_box: []
+locked_chest: []
+locked_door: []
+locked_fortress: []
+locked_heart: []
+locked_with_key: []
+locked_with_pen: []
+lockpicks: []
+locomotive:
+- sport
+- transport
+locust:
+- transport
+log: []
+logging:
+- action
+logic_gate_and: []
+logic_gate_nand: []
+logic_gate_nor: []
+logic_gate_not: []
+logic_gate_nxor: []
+logic_gate_or: []
+logic_gate_xor: []
+logical_and:
+- math
+logical_and2:
+- math
+logical_or:
+- math
+loincloth:
+- clothing
+lollipop:
+- food
+lombardy:
+- card
+long_antennae_bug: []
+long_arrow_alt_down: []
+long_arrow_alt_left: []
+long_arrow_alt_right: []
+long_arrow_alt_up: []
+long_drum:
+- music
+long_legged_spider: []
+longboats:
+- card
+longbowman:
+- card
+look_at:
+- action
+lorgnette: []
+lost_limb: []
+lotion_bottle:
+- food
+lotus:
+- plant
+lotus_flower:
+- plant
+lotus_position:
+- action
+loudly_crying_face:
+- emotion
+loudspeaker: []
+louvre_pyramid:
+- building
+love_hotel:
+- building
+love_howl: []
+love_injection: []
+love_letter:
+- emotion
+love_mystery: []
+love_song: []
+love_you_gesture:
+- gesture
+lovers: []
+low_battery: []
+low_tide: []
+low_vision: []
+luchador: []
+lucifer_cannon: []
+lucky_fisherman: []
+luger: []
+luggage: []
+luggage_cart: []
+luis:
+- user
+lunar_module: []
+lunar_wand: []
+lungs: []
+lungs_virus:
+- action
+lyceum:
+- card
+lying_face:
+- emotion
+lynx_head:
+- animal
+lyre: []
+m3_grease_gun: []
+mac:
+- user
+mac_10: []
+macaw:
+- animal
+mace_head: []
+macedonia:
+- card
+machete: []
+machine_gun: []
+machine_gun_magazine: []
+machine_gunner:
+- card
+machu_picchu:
+- card
+mad_scientist:
+- role
+madrasa:
+- card
+mage: []
+maggot: []
+magic: []
+magic_gate: []
+magic_hat:
+- accessory
+magic_lamp: []
+magic_palm: []
+magic_portal: []
+magic_potion: []
+magic_shield: []
+magic_swirl: []
+magic_trident: []
+magic_wand:
+- action
+magick_trick:
+- action
+magna_carta:
+- card
+magnet: []
+magnet_blast: []
+magnifying_glass: []
+magnifying_glass_arrow_right:
+- sport
+- transport
+magnifying_glass_chart:
+- transport
+magnifying_glass_dollar: []
+magnifying_glass_location:
+- location
+magnifying_glass_minus: []
+magnifying_glass_plus: []
+magnifying_glass_tilted_left: []
+magnifying_glass_tilted_right: []
+mahabharata:
+- card
+mahjong_red_dragon:
+- action
+mail_bulk: []
+mail_shirt:
+- clothing
+mailbox: []
+mailed_fist:
+- gesture
+maine_coon_cat:
+- animal
+male: []
+male_sign:
+- symbol
+malta:
+- user
+mammoth:
+- animal
+man:
+- person
+manacles: []
+manat_sign:
+- symbol
+mandrill:
+- animal
+mandrill_head: []
+mango:
+- food
+mans_shoe:
+- clothing
+mansa_musa:
+- card
+manta_ray: []
+mantelpiece_clock: []
+mantis:
+- animal
+mantrap: []
+manual_juicer: []
+manual_meat_grinder:
+- food
+manual_wheelchair:
+- sport
+- transport
+map: []
+map_location:
+- location
+map_location_dot:
+- location
+map_making:
+- card
+map_marked: []
+map_marked_alt: []
+map_marker: []
+map_marker_alt: []
+map_of_japan: []
+map_pin: []
+map_signs: []
+maple_leaf:
+- plant
+maracas: []
+marbles: []
+marco_polo:
+- card
+maria:
+- user
+marie_antoinette:
+- card
+marie_curie:
+- card
+marker: []
+market:
+- card
+markus:
+- user
+marrow_drain:
+- action
+mars: []
+mars_and_venus: []
+mars_and_venus_burst:
+- transport
+mars_curiosity: []
+mars_double: []
+mars_pathfinder: []
+mars_stroke: []
+mars_stroke_h: []
+mars_stroke_right: []
+mars_stroke_up: []
+mars_stroke_v: []
+marshmallows:
+- food
+martial_arts_uniform:
+- action
+- sport
+martin_luther:
+- card
+martini: []
+martini_glass: []
+martini_glass_citrus: []
+martini_glass_empty: []
+mask:
+- clothing
+mask_face:
+- emotion
+mask_ventilator:
+- animal
+masked_spider: []
+masks_theater: []
+mass_driver: []
+massage:
+- action
+master_of_arms: []
+match_head: []
+match_tip: []
+matchbox: []
+mate: []
+materials_science: []
+matryoshka_dolls: []
+matter_states: []
+mattress_pillow: []
+maurita:
+- user
+max:
+- user
+maximize: []
+mayan_pyramid:
+- building
+maze: []
+maze_cornea: []
+maze_saw:
+- tool
+meal:
+- food
+measured_angle: []
+meat:
+- food
+meat_cleaver:
+- food
+meat_hook:
+- food
+meat_on_bone:
+- food
+mecha_head: []
+mecha_mask: []
+mechanic: []
+mechanic_garage:
+- building
+mechanical_arm: []
+mechanical_leg: []
+meckele:
+- user
+medal:
+- sport
+- symbol
+medal_skull:
+- sport
+- symbol
+medallist:
+- sport
+- symbol
+medical_pack: []
+medical_pack_alt: []
+medical_symbol: []
+medical_thermometer: []
+medicine_pills: []
+medicines: []
+medieval_gate:
+- building
+medieval_pavilion:
+- building
+meditation:
+- action
+medkit: []
+medusa_head: []
+meeple:
+- game
+meeple_group:
+- game
+meeple_king:
+- game
+- role
+meerkat:
+- animal
+megabot: []
+megaphone: []
+meh: []
+meh_blank: []
+meh_rolling_eyes: []
+melon:
+- food
+melting_face:
+- emotion
+melting_ice_cube: []
+melting_metal: []
+memo: []
+memory: []
+men_holding_hands: []
+men_with_bunny_ears: []
+men_wrestling:
+- sport
+mending_heart:
+- emotion
+menhir: []
+menorah: []
+mens_room: []
+mercenary:
+- card
+mercury: []
+mermaid: []
+merman: []
+merperson: []
+mesh_ball: []
+mesh_network: []
+message: []
+metal_bar: []
+metal_disc: []
+metal_hand:
+- gesture
+metal_plate: []
+metal_scales: []
+metal_skirt:
+- clothing
+meteor: []
+meteor_impact: []
+metro:
+- sport
+- transport
+metroid: []
+metronome: []
+mexico: []
+microbe:
+- animal
+microchip: []
+microphone:
+- action
+microphone_alt: []
+microphone_alt_slash: []
+microphone_lines: []
+microphone_lines_slash: []
+microphone_slash: []
+microscope:
+- action
+microscope_lens: []
+middle_arrow: []
+middle_dot: []
+middle_finger:
+- gesture
+midnight_claw: []
+mighty_boosh: []
+mighty_force: []
+mighty_spanner: []
+mike:
+- user
+milda:
+- user
+military: []
+militaryCard: []
+military_ambulance: []
+military_fort:
+- building
+military_helmet:
+- clothing
+military_medal:
+- sport
+- symbol
+milk_carton: []
+milky_way: []
+mill_sign:
+- symbol
+millenium_key: []
+milvian_bridge:
+- card
+mimi:
+- user
+mimic_chest: []
+mine:
+- card
+mine_explosion: []
+mine_truck: []
+mine_wagon: []
+minefield: []
+miner: []
+mineral_heart: []
+minerals: []
+mini_submarine: []
+minibus:
+- sport
+- transport
+minigun: []
+minimize:
+- action
+mining:
+- action
+mining_helmet: []
+minions: []
+minna:
+- user
+minnow:
+- user
+minotaur: []
+mint:
+- card
+minus: []
+minus_circle: []
+minus_sign:
+- math
+- symbol
+minus_square: []
+miracle_medecine: []
+mirror: []
+mirror_ball: []
+mirror_mirror: []
+missile_launcher: []
+missile_mech: []
+missile_pod: []
+missile_swarm: []
+mit:
+- card
+mite: []
+mite_alt: []
+mitra:
+- user
+mitten:
+- clothing
+moai: []
+moai_statues:
+- card
+mobile: []
+mobile_alt: []
+mobile_button:
+- symbol
+mobile_phone:
+- technology
+mobile_phone_off:
+- technology
+mobile_phone_with_arrow:
+- technology
+mobile_retro: []
+mobile_screen:
+- technology
+mobile_screen_button:
+- symbol
+- technology
+modern_city:
+- building
+- location
+moebius_star: []
+moebius_trefoil: []
+moebius_triangle: []
+moka_pot: []
+moldova: []
+molecule: []
+molecule_2: []
+molotov: []
+mona_lisa: []
+monastery:
+- card
+moncler_jacket:
+- clothing
+money_bag: []
+money_bill: []
+money_bill_1: []
+money_bill_1_wave:
+- gesture
+money_bill_alt: []
+money_bill_transfer: []
+money_bill_trend_up: []
+money_bill_wave:
+- gesture
+money_bill_wave_alt:
+- gesture
+money_bill_wheat: []
+money_bills: []
+money_check: []
+money_check_alt: []
+money_check_dollar: []
+money_mouth_face:
+- emotion
+money_stack: []
+money_with_wings: []
+mongol_invasions:
+- card
+monk_face:
+- emotion
+monkey:
+- animal
+monkey_face:
+- animal
+- emotion
+monkey_wrench:
+- animal
+- tool
+mono_wheel_robot:
+- technology
+monorail:
+- sport
+- transport
+monster_grasp: []
+monstera_leaf:
+- plant
+montezuma:
+- card
+monument: []
+monument_valley: []
+moon:
+- nature
+moon_bats:
+- nature
+moon_cake:
+- food
+- nature
+moon_claws:
+- nature
+moon_orbit:
+- nature
+moon_viewing_ceremony:
+- action
+- event
+- nature
+mooring_bollard: []
+moose:
+- animal
+morbid_humour: []
+morgue_feet: []
+morph_ball: []
+mortar: []
+mortar_pestle: []
+mosque:
+- building
+mosquito:
+- animal
+mosquito_net: []
+moth:
+- animal
+motor_boat:
+- sport
+- transport
+motor_scooter:
+- sport
+- transport
+motorcycle:
+- sport
+- transport
+motorized_wheelchair: []
+motorway:
+- sport
+- transport
+mound: []
+mount_ararat:
+- card
+mount_fuji: []
+mount_kailash:
+- card
+mountain: []
+mountain_biking:
+- action
+- sport
+mountain_cableway:
+- sport
+- transport
+mountain_cave: []
+mountain_city:
+- location
+mountain_railway:
+- transport
+mountain_sun:
+- nature
+mountains: []
+mountaintop: []
+mounted_knight: []
+mouse:
+- animal
+mouse_2:
+- animal
+mouse_face:
+- animal
+- emotion
+mouse_pointer:
+- animal
+mouse_trap:
+- animal
+mouth: []
+mouth_watering: []
+move: []
+movement_sensor: []
+movie_camera:
+- technology
+mp5: []
+mp5_2: []
+mp5k: []
+mp_40: []
+mrs_claus: []
+mu: []
+much_greater_than:
+- math
+much_less_than:
+- math
+mucous_pillar: []
+mug_hot: []
+mug_saucer: []
+mug_shot: []
+mughal_invasion:
+- card
+mule:
+- animal
+multiple_targets: []
+multiplication_sign:
+- symbol
+multiplication_x:
+- math
+multiply: []
+mummy_head: []
+muscle:
+- action
+muscle_fat: []
+muscular_torso: []
+mushroom:
+- food
+- plant
+mushroom_cloud:
+- nature
+- plant
+mushroom_gills:
+- plant
+mushroom_house:
+- building
+- plant
+mushrooms:
+- plant
+mushrooms_cluster:
+- plant
+music:
+- music
+music_spell:
+- music
+musical_keyboard: []
+musical_note: []
+musical_notes: []
+musical_score: []
+musket: []
+mustache: []
+mute: []
+muted_speaker: []
+mx_claus: []
+n_ary_coproduct:
+- math
+n_ary_product:
+- math
+n_ary_summation:
+- math
+nachos:
+- food
+nail_polish: []
+nailed_foot: []
+nailed_head: []
+nails: []
+naira_sign:
+- symbol
+namaste: []
+name_badge: []
+napoleonic_war:
+- card
+nasi:
+- user
+national_park: []
+nations_algeria:
+- card
+nations_aqueduct:
+- card
+nations_archer:
+- card
+nations_australia:
+- card
+nations_bank:
+- card
+nations_book: []
+nations_brazil:
+- card
+nations_building:
+- building
+nations_castle:
+- building
+- card
+nations_cavalry:
+- card
+nations_chariot:
+- card
+nations_compass:
+- card
+nations_department_store:
+- card
+nations_dreadnought:
+- card
+nations_elephant:
+- animal
+- card
+nations_factory:
+- card
+nations_granary:
+- card
+nations_hospital:
+- building
+- card
+nations_libya:
+- card
+nations_lighthouse:
+- card
+nations_microscope:
+- card
+nations_mosque:
+- card
+nations_national_park:
+- card
+nations_observatory:
+- card
+nations_pagoda:
+- card
+nations_radio:
+- card
+nations_south_africa:
+- card
+nations_spectacles:
+- card
+nations_statue_of_liberty:
+- card
+nations_submarine:
+- card
+nations_synagogue:
+- card
+nations_telescope:
+- card
+nations_thermometer:
+- card
+nations_trireme:
+- card
+nations_uluru:
+- card
+nations_university:
+- card
+nations_windmill:
+- card
+nations_zeppelin:
+- card
+nauseated_face:
+- emotion
+nautilus_shell: []
+nazar_amulet: []
+neck_bite: []
+necklace:
+- accessory
+- clothing
+necklace_display:
+- accessory
+necktie:
+- clothing
+needle_drill:
+- tool
+needle_jaws: []
+nefertiti: []
+negro: []
+neither_greater_than_nor_equal_to: []
+neither_greater_than_nor_equal_to2: []
+neither_greater_than_nor_less_than: []
+neither_less_than_nor_equal_to: []
+neither_less_than_nor_equal_to2: []
+neither_less_than_nor_greater_than: []
+nerd_face:
+- emotion
+nest_birds: []
+nest_eggs: []
+nest_with_eggs:
+- animal
+nested_eclipses: []
+nested_hearts:
+- card
+nested_hexagons: []
+nesting_dolls: []
+network_bars: []
+network_wired: []
+neuter: []
+neutral_face:
+- emotion
+new_born: []
+new_button:
+- symbol
+new_moon:
+- nature
+new_moon_face:
+- emotion
+- nature
+new_shoot:
+- plant
+newspaper: []
+next_button:
+- symbol
+next_track_button:
+- symbol
+ng_button:
+- symbol
+niccolo_machiavelli:
+- card
+nigeria:
+- card
+night_sky:
+- nature
+night_sleep:
+- action
+night_vision: []
+night_with_stars: []
+nil:
+- user
+nimble:
+- user
+nine_o'clock: []
+nine_oclock: []
+nine_thirty: []
+ninja: []
+ninja_armor:
+- clothing
+ninja_head: []
+ninja_heroic_stance: []
+ninja_mask: []
+ninja_star: []
+ninja_velociraptor: []
+no_bicycles: []
+no_entry: []
+no_littering: []
+no_mobile_phones: []
+no_one_under_eighteen: []
+no_pedestrians: []
+no_smoking: []
+nodular: []
+non_potable_water: []
+nonna:
+- user
+noodle_ball:
+- food
+noodles:
+- food
+north_star_shuriken: []
+northwest_passage:
+- card
+norwegian_forest_cat:
+- animal
+nose: []
+nose_front: []
+nose_side: []
+not_almost_equal_to:
+- math
+not_an_element_of:
+- math
+not_an_element_of2:
+- math
+not_approximately_equal_to:
+- math
+not_asymptotically_equal_to:
+- math
+not_equal: []
+not_equal_to:
+- math
+not_greater_than:
+- math
+not_identical_to:
+- math
+not_less_than:
+- math
+notdef:
+- action
+note_sticky: []
+notebook: []
+notebook_with_decorative_cover: []
+notes_medical: []
+nothing_to_say: []
+notre_dame:
+- card
+nubia:
+- card
+nuclear: []
+nuclear_bomb: []
+nuclear_plant:
+- building
+- plant
+numero: []
+nun_face:
+- emotion
+nunchaku: []
+nurse_female: []
+nurse_male: []
+nut_and_bolt: []
+o_brick: []
+o_button_blood_type:
+- symbol
+oak:
+- plant
+oak_leaf:
+- plant
+oasis: []
+oat:
+- food
+obelisk: []
+object_group: []
+object_ungroup: []
+observatory:
+- building
+ocarina: []
+occupy: []
+ocean_fishing:
+- card
+- nature
+octogonal_eye: []
+octoman: []
+octopus:
+- animal
+oden:
+- food
+office_building:
+- building
+office_chair: []
+office_worker:
+- person
+offshore_platform:
+- building
+ogre:
+- emotion
+oil_can: []
+oil_drum:
+- music
+- sport
+- transport
+oil_pump: []
+oil_rig:
+- building
+oil_well:
+- sport
+- transport
+oily_spiral: []
+ojos_azules_cat:
+- animal
+ok_button:
+- symbol
+ok_hand:
+- gesture
+old_key:
+- action
+old_king:
+- role
+old_lantern: []
+old_man:
+- person
+old_microphone: []
+old_wagon: []
+old_woman:
+- person
+older_person:
+- person
+olive:
+- food
+om: []
+omega: []
+on!_arrow: []
+on_arrow: []
+on_sight: []
+on_target: []
+oncoming_automobile:
+- sport
+- transport
+oncoming_bus:
+- transport
+oncoming_fist:
+- gesture
+oncoming_police_car:
+- transport
+oncoming_taxi:
+- transport
+one_eight: []
+one_eyed: []
+one_half: []
+one_o'clock: []
+one_oclock: []
+one_piece_swimsuit:
+- clothing
+one_quarter: []
+one_third: []
+one_thirty: []
+oni: []
+onion:
+- food
+open_book:
+- action
+open_chest: []
+open_file_folder: []
+open_folder: []
+open_gate: []
+open_hands:
+- gesture
+open_mailbox_with_lowered_flag:
+- symbol
+open_mailbox_with_raised_flag:
+- symbol
+open_palm: []
+open_treasure_chest: []
+open_wound: []
+opened_food_can: []
+opening_shell: []
+ophiuchus: []
+opium_war:
+- card
+oppidum:
+- building
+opposite_hearts:
+- card
+oppression: []
+optical_disk: []
+orange: []
+orange_book: []
+orange_circle: []
+orange_heart:
+- emotion
+orange_slice:
+- food
+orange_square: []
+orangutan:
+- animal
+orb_direction: []
+orb_wand: []
+orbit: []
+orbital: []
+orbital_rays: []
+orc_head: []
+ore: []
+oresund_dues:
+- card
+organigram: []
+origin_of_species:
+- card
+orthodox_cross: []
+ostafrika:
+- card
+ostrich:
+- animal
+otter:
+- animal
+ouroboros: []
+outback_hat:
+- accessory
+- clothing
+outbox_tray: []
+outdent: []
+over_infinity: []
+overdose: []
+overdrive: []
+overhead: []
+overkill: []
+overlord_helm:
+- clothing
+overmind: []
+owl:
+- animal
+owl111: []
+ox:
+- animal
+oyster:
+- food
+oyster_pearl: []
+p90: []
+p_button:
+- symbol
+package: []
+packed_planks: []
+paddles: []
+padlock: []
+padlock_open: []
+page_facing_up: []
+page_with_curl: []
+pager: []
+pagoda:
+- building
+paint_brush: []
+paint_bucket: []
+paint_roller: []
+paintbrush: []
+painted_pottery: []
+palette: []
+palisade: []
+pallas_cat:
+- animal
+pallet: []
+palm:
+- plant
+palm_down_hand:
+- gesture
+palm_tree:
+- plant
+palm_up_hand:
+- gesture
+palms_up_together:
+- gesture
+pan_flute:
+- music
+pancakes:
+- food
+panda:
+- animal
+panorama:
+- action
+panther:
+- animal
+panzerfaust: []
+paper: []
+paper_arrow: []
+paper_boat: []
+paper_bomb: []
+paper_clip: []
+paper_lantern: []
+paper_plane: []
+paper_tray: []
+paper_windmill: []
+paperclip: []
+papers: []
+papyrus: []
+parachute:
+- action
+- sport
+- transport
+parachute_box: []
+paragraph: []
+paraguay: []
+parallel_to:
+- math
+paranoia: []
+parasaurolophus: []
+park_bench: []
+parking: []
+parliament:
+- card
+parmecia: []
+parrot:
+- animal
+parrot_head:
+- animal
+part_alternation_mark:
+- symbol
+parthian_wars:
+- card
+party_flags:
+- event
+party_hat:
+- accessory
+- clothing
+- event
+party_popper:
+- action
+- event
+partying_face:
+- emotion
+passenger_ship:
+- sport
+- transport
+passport: []
+passport_control: []
+pastafarianism: []
+paste: []
+path_distance: []
+path_tile: []
+pauldrons:
+- clothing
+pause: []
+pause_button:
+- symbol
+pause_circle: []
+paw: []
+paw_front: []
+paw_heart: []
+paw_print: []
+paw_prints:
+- animal
+pawn: []
+pawprint: []
+paws:
+- animal
+pay_money: []
+pc: []
+pea_pod: []
+peace: []
+peace_dove: []
+peace_symbol: []
+peach:
+- food
+peacock:
+- animal
+peaks: []
+peanut:
+- food
+peanuts:
+- food
+pear:
+- food
+pearl_earring: []
+pearl_necklace:
+- accessory
+peas:
+- food
+pegasus: []
+pelopponesian_war:
+- card
+pelvis_bone: []
+pen: []
+pen_alt: []
+pen_clip: []
+pen_fancy: []
+pen_nib: []
+pen_ruler: []
+pen_square: []
+pen_to_square:
+- action
+penal_colony:
+- card
+pencil: []
+pencil_alt: []
+pencil_brush: []
+pencil_ruler: []
+pencil_uni: []
+pendulum_swing: []
+penguin:
+- animal
+pensive_face:
+- emotion
+pentacle: []
+pentagram_rose: []
+pentarrows_tornado: []
+people_arrows:
+- transport
+people_carry: []
+people_carry_box: []
+people_group: []
+people_holding_hands: []
+people_hugging: []
+people_line: []
+people_pulling: []
+people_robbery: []
+people_roof: []
+people_with_bunny_ears: []
+people_wrestling:
+- sport
+pepper_hot:
+- food
+percent: []
+percentage: []
+performing_arts:
+- action
+perfume_bottle:
+- food
+periscope: []
+perpendicular:
+- math
+perpendicular_rings: []
+persevering_face:
+- emotion
+persian_cat:
+- animal
+person:
+- person
+person_arrow_down_to_line:
+- person
+person_arrow_up_from_line:
+- person
+person_biking:
+- action
+- person
+- sport
+person_booth:
+- person
+person_breastfeeding:
+- person
+person_burst:
+- person
+person_cane:
+- person
+person_chalkboard:
+- person
+person_circle_check:
+- person
+person_circle_exclamation:
+- person
+- plant
+person_circle_minus:
+- person
+person_circle_plus:
+- person
+person_circle_question:
+- action
+- person
+- sport
+person_circle_xmark:
+- person
+person_digging:
+- person
+person_dots_from_line:
+- person
+person_dress:
+- clothing
+- person
+person_dress_burst:
+- action
+- clothing
+- person
+person_drowning:
+- person
+person_falling:
+- person
+person_falling_burst:
+- person
+person_half_dress:
+- clothing
+- person
+person_harassing:
+- person
+person_hiking:
+- action
+- person
+person_military_pointing:
+- action
+- gesture
+- person
+person_military_rifle:
+- person
+person_military_to_person:
+- person
+person_praying:
+- person
+person_pregnant:
+- person
+person_rays:
+- person
+person_rifle:
+- building
+- person
+person_running:
+- action
+- person
+- sport
+person_shelter:
+- person
+person_skating:
+- action
+- person
+person_skiing:
+- action
+- person
+person_skiing_nordic:
+- action
+- person
+person_snowboarding:
+- action
+- person
+person_swimming:
+- person
+person_through_window:
+- person
+person_walking:
+- action
+- person
+person_walking_arrow_loop_left:
+- person
+person_walking_arrow_right:
+- person
+person_walking_dashed_line_arrow_right:
+- person
+person_walking_luggage:
+- person
+person_walking_with_cane:
+- person
+perspective_dice_five:
+- game
+perspective_dice_four:
+- game
+perspective_dice_one:
+- game
+perspective_dice_six:
+- game
+perspective_dice_six_faces_five:
+- game
+perspective_dice_six_faces_four:
+- game
+perspective_dice_six_faces_one:
+- game
+perspective_dice_six_faces_random:
+- game
+perspective_dice_six_faces_six:
+- game
+perspective_dice_six_faces_three:
+- game
+perspective_dice_six_faces_two:
+- game
+perspective_dice_three:
+- game
+perspective_dice_two:
+- game
+peru: []
+peseta_sign:
+- emotion
+- symbol
+peso_sign:
+- symbol
+pestle_mortar: []
+peter:
+- user
+peter_the_great:
+- card
+petra:
+- card
+petri_dish: []
+phalanx:
+- card
+pharoah: []
+phi: []
+philippines:
+- card
+phone:
+- technology
+phone_alt:
+- technology
+phone_flip:
+- technology
+phone_slash:
+- technology
+phone_square:
+- technology
+phone_square_alt:
+- technology
+phone_volume:
+- technology
+photo_camera:
+- technology
+photo_film: []
+photo_video: []
+phrygian_cap:
+- clothing
+piano_keys:
+- music
+piazza_san_marco:
+- card
+pick: []
+pick_of_destiny: []
+pickelhaube:
+- clothing
+pickup_truck:
+- sport
+- transport
+pie: []
+pie_chart: []
+pie_slice: []
+pie_uni: []
+piece_skull: []
+pierced_body: []
+pierced_heart: []
+piercing_sword: []
+pig:
+- animal
+pig_face:
+- animal
+- emotion
+pig_nose:
+- animal
+piggy_bank: []
+pikeman: []
+pile_of_poo:
+- emotion
+pilgrim_hat:
+- accessory
+- clothing
+pill: []
+pill_drop: []
+pillow: []
+pills: []
+pilot: []
+pimiento:
+- food
+pin: []
+pinata:
+- action
+pinball_flipper: []
+pincers: []
+pinched_fingers:
+- gesture
+pinching_hand:
+- gesture
+pine_decoration:
+- plant
+pine_tree:
+- plant
+pineapple:
+- food
+ping_pong:
+- action
+- sport
+ping_pong_bat: []
+pink_heart:
+- emotion
+pipes: []
+piranha: []
+pirate_cannon: []
+pirate_captain: []
+pirate_coat:
+- clothing
+pirate_flag:
+- symbol
+pirate_grave: []
+pirate_hat:
+- accessory
+- clothing
+pirate_hook: []
+pirate_skull: []
+pisa_tower:
+- building
+pisces: []
+pistol: []
+pistol_gun: []
+pitchfork: []
+pizza:
+- food
+pizza_cutter:
+- food
+pizza_slice:
+- food
+placard: []
+place_of_worship:
+- building
+plague_doctor_profile: []
+plain_arrow: []
+plain_circle: []
+plain_dagger: []
+plain_square: []
+plane: []
+plane_arrival: []
+plane_circle_check: []
+plane_circle_exclamation: []
+plane_circle_xmark: []
+plane_departure: []
+plane_lock: []
+plane_slash: []
+plane_up: []
+plane_wing: []
+planet_conquest: []
+planet_core: []
+planks: []
+plant_roots:
+- plant
+plant_wilt:
+- emotion
+- plant
+plants_and_animals: []
+plasma_bolt: []
+plastic_duck:
+- animal
+plastron:
+- clothing
+plate_claw: []
+plate_wheat: []
+platform: []
+play: []
+play_button:
+- symbol
+play_circle: []
+play_or_pause_button:
+- symbol
+player_base: []
+player_next: []
+player_previous: []
+player_time: []
+playground_slide:
+- sport
+playing_handball:
+- sport
+pleading_face:
+- emotion
+plesiosaurus: []
+plow: []
+plug: []
+plug_circle_bolt: []
+plug_circle_check: []
+plug_circle_exclamation: []
+plug_circle_minus: []
+plug_circle_plus: []
+plug_circle_xmark: []
+plunger: []
+plus: []
+plus_circle: []
+plus_minus:
+- math
+plus_sign:
+- symbol
+plus_square: []
+pocahontas:
+- card
+pocket_bow: []
+pocket_radio: []
+pocket_watch:
+- accessory
+podcast: []
+podium: []
+podium_second: []
+podium_third: []
+podium_winner: []
+pointer_down_white: []
+pointer_left_black: []
+pointer_left_white: []
+pointer_right_black: []
+pointer_right_white: []
+pointer_up_white: []
+pointing:
+- gesture
+pointy_hat:
+- accessory
+- clothing
+pointy_sword: []
+poison: []
+poison_bottle:
+- food
+poison_cloud:
+- nature
+poison_gas: []
+pokecog: []
+poker_hand:
+- gesture
+polar_bear: []
+police_badge: []
+police_car:
+- sport
+- transport
+police_car_light: []
+police_officer: []
+police_officer_head: []
+police_target: []
+poll: []
+poll_h: []
+pollen_dust: []
+polo_shirt:
+- clothing
+poncho:
+- clothing
+poo: []
+poo_storm: []
+poodle:
+- animal
+pool_8_ball:
+- action
+pool_dive: []
+poop: []
+popcorn:
+- food
+pope_crown:
+- clothing
+poppa:
+- user
+poppy:
+- plant
+porcelain_tower:
+- building
+- card
+porcelain_vase: []
+porcupine:
+- animal
+portal: []
+portculis: []
+portrait: []
+position_marker: []
+post_office:
+- building
+post_stamp: []
+postal_horn: []
+postbox: []
+pot_of_food:
+- food
+potable_water: []
+potala_palace:
+- card
+potato:
+- food
+potion_ball: []
+potion_of_madness: []
+potosi:
+- card
+potted_plant:
+- plant
+poultry_leg:
+- food
+pounce: []
+pound: []
+pound_banknote: []
+pound_sign:
+- symbol
+pound_symbol: []
+pouring_chalice: []
+pouring_liquid: []
+pouting: []
+pouting_cat:
+- animal
+- emotion
+pouting_face:
+- emotion
+powder: []
+powder_bag: []
+power_button:
+- symbol
+power_generator: []
+power_lightning: []
+power_off: []
+power_ring: []
+praetorian_guard:
+- card
+pray: []
+prayer: []
+prayer_beads:
+- clothing
+praying_hands: []
+praying_mantis: []
+pregnant_man:
+- person
+pregnant_person:
+- person
+pregnant_woman:
+- person
+prescription: []
+prescription_bottle:
+- food
+prescription_bottle_alt:
+- food
+prescription_bottle_medical:
+- food
+present: []
+pretty_fangs: []
+pretzel:
+- food
+previous_button:
+- symbol
+price_tag: []
+primitive_necklace:
+- accessory
+primitive_torch: []
+prince: []
+princess: []
+principia:
+- card
+print: []
+printer: []
+printing_press:
+- card
+prisoner: []
+private: []
+private_first_class: []
+privateer:
+- card
+probing_cane: []
+procedures: []
+processor: []
+profit: []
+prohibited: []
+project_diagram: []
+propeller_beanie: []
+proportion:
+- math
+proportional_to:
+- math
+protection_glasses:
+- accessory
+prussia:
+- card
+pschent_double_crown:
+- clothing
+psi: []
+psychic_waves: []
+pterodactylus: []
+pteruges:
+- clothing
+public_speaker: []
+pull: []
+pulley_hook: []
+pulse: []
+pummeled: []
+pump_medical: []
+pump_soap:
+- animal
+pumpkin: []
+pumpkin_lantern: []
+pumpkin_mask: []
+punch: []
+punch_blast: []
+punching_bag: []
+punic_wars:
+- card
+puppet: []
+purple_circle: []
+purple_heart:
+- emotion
+purple_square: []
+purple_tentacle: []
+purse:
+- clothing
+push: []
+pushpin: []
+puzzle: []
+puzzle_piece:
+- action
+pylon: []
+pyramids:
+- card
+pyre: []
+pyromaniac: []
+qin_shi_huang:
+- card
+qrcode: []
+quake_stomp: []
+quebec:
+- card
+queen_crown:
+- clothing
+- role
+question: []
+question_circle: []
+question_mark:
+- symbol
+quick_slash: []
+quicksand: []
+quidditch:
+- sport
+quill: []
+quill_ink: []
+quiver: []
+quote_left: []
+quote_right: []
+quran: []
+rabbit:
+- animal
+rabbit_face:
+- animal
+- emotion
+rabbit_head:
+- animal
+raccoon:
+- animal
+raccoon_head:
+- animal
+race_car: []
+racing_car:
+- sport
+- transport
+radar_cross_section: []
+radar_dish: []
+radar_sweep: []
+radial_balance: []
+radiation: []
+radiation_alt: []
+radiations: []
+radio: []
+radio_button:
+- symbol
+radio_tower:
+- building
+radioactive: []
+raft: []
+ragged_wound: []
+raid: []
+railroad:
+- card
+railway: []
+railway_car:
+- sport
+- transport
+railway_track:
+- sport
+- transport
+rainbow: []
+rainbow_star: []
+raining: []
+raise_skeleton: []
+raise_zombie: []
+raised_back_of_hand:
+- gesture
+raised_fist:
+- gesture
+raised_hand:
+- gesture
+raising_hand:
+- gesture
+raising_hands:
+- gesture
+rake: []
+rally_the_troops: []
+ram:
+- animal
+ram_2:
+- animal
+ram_profile:
+- animal
+ranch_gate: []
+random: []
+ranger:
+- card
+rank_1: []
+rank_2: []
+rank_3: []
+ranking_star: []
+rapidshare_arrow: []
+raspberry:
+- food
+rat:
+- animal
+ratio:
+- math
+rattlesnake: []
+raven:
+- animal
+raw_egg:
+- food
+ray_gun: []
+razor:
+- action
+razor_blade: []
+reactor: []
+read: []
+reaper_scythe: []
+rear_aura: []
+receipt: []
+receive_money: []
+reconquista:
+- card
+record_button:
+- symbol
+record_vinyl: []
+rectangle_ad: []
+rectangle_list: []
+rectangle_xmark: []
+recycle: []
+recycling_symbol: []
+red beetle: []
+red_apple:
+- food
+red_circle: []
+red_envelope: []
+red_fort:
+- card
+red_hair: []
+red_heart:
+- emotion
+red_panda:
+- animal
+red_paper_lantern: []
+red_square: []
+red_triangle_pointed_down: []
+red_triangle_pointed_up: []
+redcoat:
+- card
+redo: []
+redo_alt: []
+reed:
+- plant
+refinery: []
+regeneration: []
+registered: []
+registered_uni: []
+relationship_bounds: []
+relic_blade: []
+relieved_face:
+- emotion
+reload_gun_barrel: []
+remedy: []
+reminder_ribbon: []
+remove_format: []
+rempart: []
+repeat: []
+repeat_button:
+- symbol
+repeat_single_button:
+- symbol
+reply: []
+reply_all: []
+reptile_tail: []
+republican: []
+rescue_workers_helmet: []
+rescue_worker’s_helmet:
+- clothing
+resize: []
+resonance: []
+resting:
+- action
+resting_vampire: []
+restroom: []
+reticule: []
+retro_controller: []
+return_arrow: []
+retweet: []
+reverse_button:
+- symbol
+revolt: []
+revolt_2: []
+revolver: []
+revolver_2: []
+revolving_hearts:
+- card
+- emotion
+rhi:
+- user
+rhino: []
+rhino_beetle:
+- animal
+rhinoceros:
+- animal
+rhinoceros_beetle:
+- animal
+rhinoceros_horn:
+- animal
+rialto_bridge: []
+ribbon: []
+ribbon_medal:
+- sport
+- symbol
+ribbon_shield: []
+ribcage: []
+rice_ball:
+- food
+rice_cracker:
+- food
+rickshaw:
+- sport
+- transport
+rifle: []
+rifleman:
+- card
+right_anger_bubble:
+- emotion
+right_angle_quotation_mark:
+- symbol
+right_arrow: []
+right_arrow_curving_down: []
+right_arrow_curving_left: []
+right_arrow_curving_up: []
+right_black_pointer: []
+right_facing_fist:
+- gesture
+right_from_bracket: []
+right_left: []
+right_long: []
+right_to_bracket: []
+right_white_pointer: []
+rightwards_arrow: []
+rightwards_hand:
+- gesture
+rightwards_pushing_hand:
+- gesture
+rightwards_white_arrow: []
+ring:
+- clothing
+ring_buoy: []
+ring_mould: []
+ringed_beam: []
+ringed_planet: []
+ringing_alarm: []
+ringing_bell: []
+ringmaster: []
+riot_shield: []
+river: []
+road: []
+road_barrier:
+- animal
+road_bridge: []
+road_circle_check: []
+road_circle_exclamation:
+- animal
+road_circle_xmark:
+- animal
+road_lock:
+- animal
+road_spikes: []
+roast_chicken:
+- animal
+- food
+roasted_sweet_potato:
+- food
+robber: []
+robber_hand:
+- gesture
+robber_mask: []
+robe:
+- clothing
+robert:
+- user
+robin_hood_hat:
+- accessory
+- clothing
+robot:
+- emotion
+- technology
+robot_antennas:
+- technology
+robot_golem:
+- technology
+robot_helmet:
+- technology
+robot_leg:
+- technology
+rock: []
+rock_2: []
+rock_golem: []
+rocket:
+- action
+- sport
+- transport
+rocket_flight: []
+rocket_thruster: []
+rocking_chair: []
+rod_of_asclepius: []
+rogue: []
+roll_of_paper: []
+rolled_cloth: []
+rolled_up_newspaper: []
+roller_coaster:
+- sport
+roller_skate:
+- sport
+- transport
+rolling_bomb: []
+rolling_dice_cup:
+- game
+rolling_dices: []
+rolling_energy: []
+rolling_on_the_floor_laughing:
+- emotion
+roman_shield: []
+roman_toga:
+- clothing
+romeo_and_juliet:
+- card
+rook_black: []
+rook_white: []
+rooster:
+- animal
+root_tip:
+- plant
+rope_bridge: []
+rope_coil: []
+rope_dart: []
+ropeway: []
+rosa_shield: []
+rose:
+- plant
+rosette:
+- plant
+rotate: []
+rotate_left:
+- action
+rotate_right: []
+rough_wound: []
+round_bottom_flask: []
+round_knob: []
+round_pushpin: []
+round_shield: []
+round_silo: []
+round_star: []
+round_straw_bale: []
+round_struck: []
+round_table: []
+route: []
+rowing_boat:
+- action
+- sport
+royal_love: []
+royal_society:
+- card
+rss: []
+rss_2: []
+rss_square: []
+rubber_boot:
+- clothing
+ruble_sign:
+- symbol
+rug:
+- animal
+rugby_conversion:
+- sport
+rugby_football:
+- action
+- sport
+rule_book: []
+ruler: []
+ruler_combined: []
+ruler_horizontal: []
+ruler_vertical: []
+run: []
+rune_stone: []
+rune_sword: []
+running:
+- action
+- sport
+running_ninja: []
+running_shirt:
+- clothing
+- sport
+running_shoe:
+- clothing
+rupee: []
+rupee_sign:
+- symbol
+rupiah_sign:
+- symbol
+rusty_sword: []
+s_brick: []
+saber_and_pistol: []
+saber_slash: []
+saber_tooth: []
+saber_toothed_cat_head:
+- animal
+sabers_choc: []
+sack_dollar: []
+sack_xmark:
+- animal
+sacrificial_altar:
+- card
+sacrificial_dagger: []
+sad_but_relieved_face:
+- emotion
+sad_crab:
+- animal
+- emotion
+sad_cry:
+- emotion
+sad_tear:
+- emotion
+saddle: []
+safety_pin: []
+safety_vest:
+- clothing
+sagittarius: []
+sahara:
+- card
+saharan_trade:
+- card
+sai: []
+sail: []
+sailboat:
+- sport
+- transport
+saint_augustine:
+- card
+saint_basil_cathedral: []
+saiyan_suit:
+- clothing
+sake: []
+salamander:
+- animal
+salmon: []
+saloon: []
+saloon_doors: []
+salt:
+- food
+salt_shaker: []
+saluting_face:
+- emotion
+- gesture
+samurai:
+- card
+samurai_helmet:
+- clothing
+samus_helmet:
+- clothing
+sand_castle:
+- building
+sand_snake:
+- animal
+sands_of_time: []
+sandstorm: []
+sandwich:
+- food
+sankore_university:
+- card
+santa_claus: []
+saphir: []
+sarah:
+- user
+sarcophagus: []
+sari:
+- clothing
+sasquatch: []
+satellite:
+- sport
+- transport
+satellite_antenna: []
+satellite_communication: []
+satellite_dish: []
+sattelite: []
+sauropod:
+- animal
+sauropod_head: []
+sausage:
+- food
+sausages_ribbon:
+- food
+save: []
+save_arrow: []
+saw_claw:
+- tool
+sawed_off_shotgun: []
+sawmill:
+- card
+saxophone: []
+scabbard: []
+scale_balanced: []
+scale_mail:
+- clothing
+scale_unbalanced: []
+scale_unbalanced_flip: []
+scales: []
+scallop: []
+scalpel: []
+scalpel_strike: []
+scar_wound: []
+scarab_beetle: []
+scarecrow: []
+scarf:
+- clothing
+scarlet_tanager:
+- animal
+school:
+- building
+school_bag: []
+school_circle_check:
+- animal
+school_circle_exclamation: []
+school_circle_xmark: []
+school_flag:
+- symbol
+school_lock: []
+school_of_fish: []
+scientist:
+- role
+scissors: []
+scissors_2: []
+scooter: []
+scorpio: []
+scorpion:
+- animal
+scorpion_tail: []
+scout_ship: []
+screaming:
+- emotion
+screen_impact:
+- technology
+screw: []
+screw_2: []
+screwdriver:
+- tool
+screwdriver_wrench:
+- tool
+scroll: []
+scroll_torah: []
+scroll_unfurled: []
+scuba_mask: []
+scuba_tanks: []
+scythe: []
+sd_card:
+- card
+sea_creature: []
+sea_dragon: []
+sea_serpent: []
+sea_star: []
+seagull: []
+seahorse: []
+seal:
+- animal
+search: []
+search_dollar: []
+search_location:
+- location
+search_minus: []
+search_plus: []
+seat:
+- sport
+- transport
+seated_mouse:
+- animal
+sebastian:
+- user
+second_boer_war:
+- card
+secret_book: []
+secret_door: []
+section:
+- gesture
+security_gate: []
+see_no_evil_monkey:
+- animal
+- emotion
+seedling:
+- plant
+sejong_the_great:
+- card
+select: []
+self_love:
+- emotion
+selfie:
+- action
+sell_card:
+- card
+semi_closed_eye:
+- emotion
+sensuousness:
+- emotion
+sentry_gun: []
+sergeant: []
+serrated_slash: []
+server: []
+service_dog:
+- animal
+sesame:
+- food
+settings_knobs: []
+settlement: []
+seven_o'clock: []
+seven_oclock: []
+seven_pointed_star: []
+seven_thirty: []
+severed_hand:
+- gesture
+sewed_shell: []
+sewer_system:
+- card
+sewing_needle:
+- action
+sewing_string: []
+sextant: []
+shadow_follower: []
+shadow_grasp: []
+shaka_zulu:
+- card
+shaking_face:
+- emotion
+shaking_hands:
+- gesture
+shallow_pan_of_food:
+- food
+shambling_mound: []
+shambling_zombie: []
+shamrock:
+- plant
+shantytown:
+- card
+shapes: []
+shard_sword: []
+share: []
+share_alt: []
+share_alt_square: []
+share_from_square: []
+share_nodes: []
+share_square: []
+shark:
+- animal
+shark_bite:
+- animal
+shark_fin:
+- animal
+shark_jaws:
+- animal
+sharp_axe:
+- tool
+sharp_crown: []
+sharp_halberd: []
+sharp_lips: []
+sharp_shuriken: []
+sharp_smile:
+- emotion
+sharped_teeth_skull: []
+shatter: []
+shattered_glass: []
+shattered_heart: []
+shattered_sword: []
+shaved_ice:
+- food
+sheaf_of_rice:
+- food
+- plant
+sheeba:
+- user
+sheep:
+- animal
+sheet_plastic: []
+sheikah_eye: []
+shekel_sign:
+- symbol
+shepherds_crook: []
+sherlock_holmes: []
+shield: []
+shield_alt: []
+shield_bash: []
+shield_bounces: []
+shield_cat:
+- animal
+shield_disabled: []
+shield_dog:
+- animal
+shield_echoes: []
+shield_halved: []
+shield_heart:
+- animal
+shield_reflect: []
+shield_virus: []
+shieldcomb: []
+shining_claw: []
+shining_heart: []
+shining_sword: []
+shinto_shrine:
+- building
+shinto_shrine_mirror: []
+shiny_apple:
+- food
+shiny_entrance: []
+shiny_iris: []
+shiny_omega: []
+shiny_purse: []
+ship:
+- sport
+- transport
+ship_bow: []
+ship_wheel: []
+ship_wreck: []
+shipping_fast: []
+shipyard:
+- card
+shirt:
+- clothing
+shoe_prints: []
+shooting_star: []
+shop: []
+shop_lock: []
+shop_slash: []
+shopping_bag: []
+shopping_bags:
+- clothing
+shopping_basket: []
+shopping_cart: []
+shortcake:
+- food
+shorts:
+- clothing
+shotgun: []
+shotgun_rounds: []
+shoulder_armor:
+- clothing
+shoulder_bag: []
+shoulder_scales: []
+shouting:
+- gesture
+shower: []
+shrimp:
+- animal
+- food
+shrug:
+- gesture
+shrugging: []
+shuffle: []
+shuffle_tracks_button:
+- symbol
+shuriken: []
+shuriken_2: []
+shuriken_aperture: []
+shushing_face:
+- emotion
+- gesture
+shut_rose: []
+shuttle_space: []
+shuttle_van: []
+shuttlecock: []
+shwedagon_pagoda:
+- card
+siberia:
+- card
+siberian_cat:
+- animal
+sicily:
+- card
+sickle: []
+sideswipe: []
+siege_of_alesia:
+- card
+siege_of_constantinople:
+- card
+siege_of_rhodes:
+- card
+siege_of_troy:
+- card
+siege_of_vienna:
+- card
+siege_ram:
+- animal
+siege_tower:
+- building
+sight_disabled: []
+sign:
+- symbol
+sign_hanging:
+- symbol
+sign_in_alt:
+- symbol
+sign_language:
+- symbol
+sign_of_the_horns:
+- gesture
+- symbol
+sign_out_alt:
+- symbol
+signal: []
+signature: []
+signs_post: []
+silence:
+- emotion
+silenced: []
+silex: []
+silk:
+- card
+silk_road:
+- card
+silver_bullet: []
+sim_card:
+- card
+simon_bolivar:
+- card
+sinagot: []
+sing: []
+singer: []
+sink: []
+sinking_ship: []
+sinking_trap: []
+sinusoidal_beam: []
+siren: []
+sistine_chapel:
+- card
+sitemap: []
+sitting_dog:
+- animal
+siwa_oasis:
+- card
+six_eyes: []
+six_o'clock: []
+six_oclock: []
+six_thirty: []
+skateboard:
+- sport
+- transport
+skating:
+- action
+skeletal_hand:
+- gesture
+skeleton: []
+skeleton_inside: []
+skeleton_key: []
+ski_boot: []
+skid_mark:
+- symbol
+skier:
+- action
+- sport
+skiing:
+- action
+skiing_nordic:
+- action
+skills: []
+skirt:
+- clothing
+skis:
+- action
+- sport
+skull:
+- emotion
+skull_and_crossbones:
+- emotion
+skull_bolt: []
+skull_crack: []
+skull_crossbones: []
+skull_crossed_bones: []
+skull_in_jar: []
+skull_mask: []
+skull_ring: []
+skull_sabertooth: []
+skull_shield: []
+skull_signet: []
+skull_slices: []
+skull_staff: []
+skull_with_syringe: []
+skullcap:
+- action
+skunk:
+- animal
+slalom:
+- action
+slap:
+- gesture
+slash: []
+slashed_shield: []
+slavery_whip: []
+sled:
+- action
+- sport
+sleeping_face:
+- emotion
+sleepy:
+- emotion
+sleepy_face:
+- emotion
+sleeveless_jacket:
+- clothing
+sleeveless_top:
+- clothing
+sleigh: []
+sliced_bread:
+- food
+sliced_mushroom:
+- food
+- plant
+sliced_sausage:
+- food
+slicing_arrow: []
+sliders: []
+sliders_h: []
+slightly_frowning_face:
+- emotion
+slightly_smiling_face:
+- emotion
+slime: []
+sling: []
+slingshot: []
+slot_machine:
+- action
+sloth:
+- animal
+slow_blob: []
+slumbering_sanctuary: []
+sly:
+- emotion
+small_airplane:
+- sport
+- transport
+small_blue_diamond: []
+small_fire: []
+small_orange_diamond: []
+smart:
+- emotion
+smartphone: []
+smartphone_2: []
+smash_arrows: []
+smile:
+- emotion
+smile_beam:
+- emotion
+smile_wink:
+- emotion
+smiling_cat_with_heart_eyes:
+- animal
+- emotion
+smiling_face:
+- emotion
+smiling_face_with_halo:
+- emotion
+smiling_face_with_heart_eyes:
+- emotion
+smiling_face_with_hearts:
+- card
+- emotion
+smiling_face_with_horns:
+- emotion
+smiling_face_with_smiling_eyes:
+- emotion
+smiling_face_with_sunglasses:
+- emotion
+smiling_face_with_tear:
+- emotion
+smirking_face:
+- emotion
+smitten:
+- emotion
+smog: []
+smoke_bomb: []
+smoking: []
+smoking_ban: []
+smoking_finger: []
+smoking_orb: []
+smoking_pipe: []
+smoking_volcano: []
+sms: []
+snail:
+- animal
+snail_eyes:
+- animal
+snake:
+- animal
+snake_bite:
+- animal
+snake_egg:
+- animal
+snake_spiral:
+- animal
+snake_tongue:
+- animal
+snake_totem:
+- animal
+snatch: []
+sneezing_face:
+- emotion
+sniffing_dog:
+- animal
+snitch_quidditch_ball: []
+snorkel: []
+snout: []
+snow_bottle:
+- food
+snow_capped_mountain: []
+snowboarder:
+- action
+- sport
+snowboarding:
+- action
+snowflake: []
+snowflake_1: []
+snowflake_2: []
+snowing: []
+snowman: []
+snowman_without_snow: []
+snowplow: []
+soap: []
+soap_experiment: []
+soccer_ball:
+- action
+- sport
+soccer_field:
+- sport
+socks:
+- clothing
+soda_can: []
+sofa: []
+soft_ice_cream:
+- food
+softball:
+- action
+- sport
+solar_panel: []
+solar_power: []
+solar_system: []
+solar_time: []
+solid_leaf:
+- plant
+solomons_temple:
+- building
+- card
+sombrero: []
+sonic_boom: []
+sonic_lightning: []
+sonic_screech: []
+sonic_shoes:
+- clothing
+sonic_shout: []
+soon_arrow: []
+sort: []
+sort_alpha_down: []
+sort_alpha_down_alt: []
+sort_alpha_up: []
+sort_alpha_up_alt: []
+sort_amount_down: []
+sort_amount_down_alt: []
+sort_amount_up: []
+sort_amount_up_alt: []
+sort_down: []
+sort_numeric_down: []
+sort_numeric_down_alt: []
+sort_numeric_up: []
+sort_numeric_up_alt: []
+sort_up: []
+sos_button:
+- symbol
+sound_off: []
+sound_on: []
+sound_waves: []
+south_africa: []
+south_africa_flag:
+- symbol
+south_america: []
+south_korea: []
+south_pole_expedition:
+- card
+spa: []
+space_shuttle: []
+space_suit:
+- clothing
+spaceship: []
+spade: []
+spade_skull: []
+spade_suit: []
+spades:
+- card
+spaghetti:
+- food
+spaghetti_monster_flying: []
+spain: []
+spanner: []
+spark_spirit: []
+sparkle: []
+sparkler:
+- action
+sparkles:
+- action
+sparkling_heart:
+- emotion
+sparkling_sabre: []
+sparky_bomb: []
+sparrow:
+- animal
+spartan: []
+spartan_helmet: []
+spatter: []
+spawn_node: []
+speak_no_evil_monkey:
+- animal
+- emotion
+speaker: []
+speaker_high_volume: []
+speaker_low_volume: []
+speaker_medium_volume: []
+speaker_off: []
+speaking_head: []
+spear_feather: []
+spear_hook: []
+spearfishing:
+- action
+spears: []
+spectacle_lenses:
+- clothing
+spectacles:
+- clothing
+spectre: []
+spectre_m4: []
+speech_balloon:
+- emotion
+speed_boat: []
+speedboat:
+- sport
+- transport
+speedometer: []
+spell_book: []
+spell_check: []
+sperm_whale:
+- animal
+spherical_angle:
+- math
+sphinx:
+- card
+sphynx_cat:
+- animal
+spice_islands:
+- card
+spider:
+- animal
+spider_alt: []
+spider_bot: []
+spider_eye: []
+spider_face:
+- emotion
+spider_mask: []
+spider_web:
+- animal
+spikeball: []
+spiked_armor: []
+spiked_ball: []
+spiked_bat: []
+spiked_collar: []
+spiked_dragon_head: []
+spiked_fence: []
+spiked_halo: []
+spiked_mace: []
+spiked_shell: []
+spiked_shoulder_armor: []
+spiked_snail:
+- animal
+spiked_tail: []
+spiked_tentacle: []
+spiked_trunk: []
+spikes: []
+spikes_full: []
+spikes_half: []
+spikes_init: []
+spiky_eclipse: []
+spiky_explosion: []
+spiky_field: []
+spiky_pit: []
+spiky_wing: []
+spill: []
+spinal_coil: []
+spine_arrow: []
+spinner: []
+spinning_blades: []
+spinning_jenny:
+- card
+spinning_ribbons: []
+spinning_sword: []
+spinning_top: []
+spiral_arrow: []
+spiral_bloom: []
+spiral_bottle:
+- food
+spiral_calendar: []
+spiral_hilt: []
+spiral_lollipop: []
+spiral_notepad: []
+spiral_shell:
+- animal
+spiral_tentacle: []
+spiral_thrust: []
+splash: []
+splash_2: []
+splashy_stream: []
+split_arrows: []
+split_body: []
+split_cross: []
+splotch: []
+splurt: []
+sponge: []
+spooky_house:
+- building
+spoon:
+- food
+sport_medal:
+- sport
+- symbol
+sport_utility_vehicle:
+- transport
+sports_medal:
+- sport
+- symbol
+spoted_flower:
+- plant
+spotted_arrowhead: []
+spotted_bug: []
+spotted_mushroom:
+- plant
+spotted_wound: []
+spouting_whale:
+- animal
+spoutnik: []
+spray: []
+spray_can: []
+spray_can_sparkles: []
+spring: []
+sprint:
+- action
+sprout: []
+sprout_disc: []
+spy: []
+spyglass: []
+square: []
+square_arrow_up_right: []
+square_bottle:
+- food
+square_caret_down: []
+square_caret_left: []
+square_caret_right: []
+square_caret_up: []
+square_check: []
+square_envelope: []
+square_full: []
+square_h: []
+square_minus: []
+square_nfi: []
+square_parking: []
+square_pen: []
+square_person_confined:
+- person
+square_phone:
+- technology
+square_phone_flip:
+- technology
+square_plus: []
+square_poll_horizontal: []
+square_poll_vertical: []
+square_root:
+- math
+square_root_alt: []
+square_root_variable: []
+square_rss: []
+square_share_nodes: []
+square_up_right: []
+square_virus: []
+square_xmark: []
+squib: []
+squid:
+- animal
+- food
+squid_head:
+- animal
+squinting_face_with_tongue:
+- emotion
+squirrel:
+- animal
+sri_lanka: []
+stabbed_note: []
+stability: []
+stack: []
+stadium:
+- building
+staff_snake:
+- animal
+stag_beetle:
+- animal
+stag_head: []
+stahlhelm: []
+stairs: []
+stairs_cake:
+- food
+stairs_goal: []
+stake_hammer:
+- tool
+stakes_fence: []
+stalactites: []
+stalagtite: []
+stamp: []
+stamper: []
+standing:
+- action
+standing_potion: []
+stapler: []
+star: []
+star_altar: []
+star_and_crescent: []
+star_cycle: []
+star_flag:
+- symbol
+star_formation: []
+star_gate: []
+star_half: []
+star_half_alt: []
+star_half_stroke: []
+star_of_david: []
+star_of_life: []
+star_prominences: []
+star_pupil: []
+star_sattelites: []
+star_shuriken: []
+star_skull: []
+star_struck:
+- emotion
+star_swirl: []
+starfighter: []
+starfish:
+- animal
+stars_stack: []
+staryu: []
+static: []
+static_guard: []
+static_waves: []
+station:
+- building
+- sport
+- transport
+statue_of_liberty: []
+steak:
+- food
+stealth_bomber: []
+steam: []
+steam_blast: []
+steam_locomotive: []
+steaming_bowl:
+- food
+steampunk_goggles:
+- clothing
+steamy_room:
+- action
+steel_claws: []
+steel_claws_2: []
+steel_door: []
+steeltoe_boots:
+- clothing
+steelwing_emblem: []
+steering_wheel: []
+stegosaurus_scales: []
+stellers_jay:
+- animal
+step_backward: []
+step_forward: []
+sterling_sign:
+- symbol
+stethoscope: []
+steyr_aug: []
+stick_frame: []
+stick_grenade: []
+stick_splitting: []
+sticking_plaster: []
+sticky_boot:
+- clothing
+sticky_note: []
+stigmata: []
+stiletto: []
+stiletto_2: []
+stitch:
+- user
+stitched_wound: []
+stock_exchange:
+- card
+stockpiles: []
+stomach: []
+stomp:
+- action
+stomp_tornado:
+- action
+stone: []
+stone_axe:
+- tool
+stone_block: []
+stone_bridge: []
+stone_bust: []
+stone_crafting: []
+stone_path: []
+stone_pile: []
+stone_spear: []
+stone_sphere: []
+stone_stack: []
+stone_tablet: []
+stone_throne: []
+stone_tower:
+- building
+stone_wall: []
+stone_wheel: []
+stoned_skull: []
+stonehenge:
+- card
+stop: []
+stop_button:
+- symbol
+stop_circle: []
+stop_sign:
+- sport
+- symbol
+- transport
+stopwatch: []
+stopwatch_2: []
+stopwatch_20: []
+store: []
+store_alt: []
+store_slash: []
+stork_delivery:
+- animal
+strafe:
+- action
+straight_pipe: []
+straight_ruler: []
+strawberry:
+- food
+stream: []
+street_light: []
+street_view: []
+strikethrough: []
+striking_arrows: []
+striking_balls: []
+striking_clamps: []
+striking_diamonds:
+- card
+striking_splinter: []
+striped_sun:
+- nature
+striped_sword: []
+strong: []
+strong_man:
+- person
+stroopwafel:
+- food
+student: []
+studio_microphone: []
+stuffed_flatbread:
+- food
+stump_regrowth: []
+stun_grenade: []
+submarine: []
+submarine_missile: []
+subscript: []
+subway: []
+suckered_tentacle: []
+suez_canal:
+- card
+sugar_cane:
+- plant
+suicide:
+- action
+suit_levitating: []
+suitcase: []
+suitcase_medical: []
+suitcase_rolling: []
+suits: []
+suleiman:
+- card
+summits: []
+sun:
+- nature
+sun_behind_cloud:
+- nature
+sun_behind_large_cloud:
+- nature
+sun_behind_rain_cloud:
+- nature
+sun_behind_small_cloud:
+- nature
+sun_cloud:
+- nature
+sun_plant_wilt:
+- nature
+- plant
+sun_radiations:
+- nature
+sun_spear:
+- nature
+sun_tzu:
+- card
+- nature
+sun_with_face:
+- emotion
+- nature
+sunbeams: []
+sundial: []
+sunflower:
+- plant
+sunglasses:
+- clothing
+sunken_eye: []
+sunrise: []
+sunrise_2: []
+sunrise_over_mountains: []
+sunset: []
+super_mushroom:
+- plant
+superhero: []
+superscript: []
+supersonic_arrow: []
+supersonic_bullet: []
+supervillain: []
+surface_integral:
+- math
+surfing:
+- action
+- sport
+surprise:
+- emotion
+surprised:
+- emotion
+surprised_skull: []
+surrender_at_yorktown:
+- card
+surrounded_eye: []
+surrounded_shield: []
+sushi:
+- food
+sushis:
+- food
+suspension_bridge: []
+suspension_railway:
+- sport
+- transport
+suspicious:
+- emotion
+sverd_i_fjell: []
+swallow: []
+swallow_2: []
+swallower: []
+swamp: []
+swamp_bat: []
+swan:
+- animal
+swan_breeze:
+- animal
+swap_bag: []
+swatchbook: []
+sweat_droplets:
+- emotion
+sweetie:
+- animal
+swimfins: []
+swimmer: []
+swimming:
+- action
+- sport
+swimming_pool: []
+swirl_ring: []
+swirl_string: []
+swirled_shell: []
+swiss_army_knife:
+- tool
+switch_weapon: []
+switchblade: []
+switzerland: []
+sword_altar: []
+sword_array: []
+sword_brandish: []
+sword_break: []
+sword_clash: []
+sword_hilt: []
+sword_in_stone: []
+sword_mold: []
+sword_slice: []
+sword_smithing: []
+sword_spade: []
+sword_spin: []
+sword_tie:
+- accessory
+sword_wound: []
+swordman: []
+swords_emblem: []
+swords_power: []
+swordwoman: []
+synagogue:
+- building
+sync: []
+sync_alt: []
+syringe: []
+syringe_2: []
+t_brick: []
+t_rex: []
+t_shirt:
+- clothing
+tabby_cat:
+- animal
+tabi_boot:
+- clothing
+table: []
+table_cells: []
+table_cells_large: []
+table_columns: []
+table_list: []
+table_tennis:
+- action
+- sport
+table_tennis_paddle_ball:
+- action
+- sport
+tablet: []
+tablet_alt: []
+tablet_button:
+- symbol
+tablet_screen_button:
+- symbol
+- technology
+tabletop_players: []
+tablets: []
+tachograph_digital: []
+tachometer_alt: []
+taco:
+- food
+tacos:
+- food
+tadpole: []
+tag: []
+tags: []
+taj_mahal:
+- card
+take_my_money: []
+takeout_box:
+- food
+taking_bath:
+- action
+talk:
+- action
+tall_bridge: []
+tamale:
+- food
+tanabata_tree:
+- plant
+tangerine:
+- food
+tank: []
+tank_tread: []
+tap: []
+tape: []
+tapir:
+- animal
+target_arrows: []
+target_dummy: []
+target_laser: []
+target_shot: []
+targeted: []
+targeting: []
+tarp: []
+tarp_droplet: []
+tasks: []
+tattered_banner: []
+taurus: []
+taxi:
+- sport
+- transport
+teacher: []
+teacup_without_handle:
+- food
+team_downgrade: []
+team_idea: []
+team_upgrade: []
+teapot:
+- food
+teapot_leaves: []
+tear_off_calendar: []
+tear_tracks: []
+tearing:
+- action
+tec_9: []
+techno_heart: []
+technologist: []
+teddy_bear: []
+tee_pipe: []
+teeth: []
+teeth_open: []
+telefrag:
+- action
+telepathy: []
+telephone: []
+telephone_receiver: []
+teleport:
+- action
+telescope: []
+telescopic_baton: []
+television: []
+teller_mine: []
+temperature_arrow_down: []
+temperature_arrow_up: []
+temperature_empty: []
+temperature_full: []
+temperature_half: []
+temperature_high: []
+temperature_low: []
+temperature_quarter: []
+temperature_three_quarters: []
+templar_eye: []
+templar_heart: []
+templar_shield: []
+temple_door:
+- building
+temporary_shield: []
+temptation:
+- emotion
+ten_o'clock: []
+ten_oclock: []
+ten_thirty: []
+tenge: []
+tenge_sign:
+- symbol
+tennis:
+- action
+- sport
+tennis_ball:
+- sport
+tennis_court:
+- sport
+tennis_racket:
+- sport
+tension_snowflake: []
+tent:
+- building
+tent_arrow_down_to_line:
+- building
+tent_arrow_left_right:
+- building
+tent_arrow_turn_left:
+- building
+tent_arrows_down:
+- building
+tentacle_heart: []
+tentacle_strike:
+- action
+tentacles_skull: []
+tentacurl: []
+tents: []
+terminal: []
+terrace_farming:
+- card
+terracotta_army:
+- card
+terror:
+- emotion
+tesla: []
+tesla_coil: []
+tesla_turret: []
+test_tube: []
+test_tubes: []
+texas: []
+text_height: []
+text_slash: []
+text_width: []
+th: []
+th_large: []
+th_list: []
+the_bible:
+- card
+the_caribbean:
+- card
+the_horns_of_hattin:
+- card
+the_odyssey:
+- card
+the_oracle:
+- card
+the_pillar_of_hercules:
+- card
+the_quoran:
+- card
+theater_curtains: []
+theater_masks: []
+theatre:
+- card
+there_does_not_exist:
+- math
+there_exists:
+- math
+therefore:
+- math
+thermometer: []
+thermometer_cold: []
+thermometer_empty: []
+thermometer_full: []
+thermometer_half: []
+thermometer_hot: []
+thermometer_quarter: []
+thermometer_scale: []
+thermometer_three_quarters: []
+think:
+- action
+thinking_face:
+- emotion
+third_eye: []
+thirty_years_war:
+- card
+thompson_m1: []
+thompson_m1928: []
+thong_sandal:
+- clothing
+thor_fist:
+- gesture
+thor_hammer:
+- tool
+thorn_helix: []
+thorned_arrow: []
+thorny_tentacle: []
+thorny_vine:
+- plant
+thought_balloon:
+- emotion
+thread: []
+three_burning_balls: []
+three_friends: []
+three_keys: []
+three_kingdoms:
+- card
+three_leaves:
+- plant
+three_o'clock: []
+three_oclock: []
+three_pointed_shuriken: []
+three_thirty: []
+throne_king:
+- role
+throwing_ball: []
+thrown_charcoal: []
+thrown_daggers: []
+thrown_knife:
+- tool
+thrown_spear: []
+thrust:
+- action
+thrust_bend:
+- action
+thumb_down:
+- gesture
+thumb_up:
+- gesture
+thumbs_down:
+- gesture
+thumbs_up:
+- gesture
+thumbtack: []
+thunder_blade: []
+thunder_skull: []
+thunder_struck: []
+thunderball: []
+thwomp: []
+tiara:
+- clothing
+tibet:
+- card
+tic_tac_toe:
+- action
+tick: []
+ticket:
+- action
+ticket_alt: []
+ticket_simple: []
+tie:
+- accessory
+- clothing
+tied_scroll: []
+tiger:
+- animal
+tiger_face:
+- animal
+- emotion
+tiger_head:
+- animal
+tightrope: []
+tilde_operator:
+- math
+time_bomb: []
+time_trap: []
+timeline: []
+timer_clock: []
+times: []
+times_circle: []
+tinker: []
+tint: []
+tint_slash: []
+tipi: []
+tipping_hand:
+- gesture
+tire_tracks: []
+tired:
+- emotion
+tired_face:
+- emotion
+titanic:
+- card
+titusville:
+- card
+toad_teeth:
+- animal
+toaster: []
+toggle_off:
+- action
+toggle_on:
+- action
+toggles: []
+toilet: []
+toilet_paper: []
+toilet_paper_slash: []
+toilet_portable: []
+toilets_portable: []
+token: []
+tokugawa:
+- card
+tokyo_tower:
+- building
+tom:
+- user
+tomahawk: []
+tomato:
+- food
+tombstone: []
+tombstone_2: []
+tongue: []
+toolbox: []
+tools: []
+tooth: []
+toothbrush: []
+top_arrow: []
+top_hat:
+- accessory
+- clothing
+top_paw: []
+topaz: []
+torah: []
+torc: []
+torch: []
+torii_gate: []
+tornado: []
+tornado_discs: []
+torpedo: []
+tortoise: []
+totem: []
+totem_head: []
+totem_mask: []
+toucan:
+- animal
+tower_bridge:
+- building
+tower_broadcast:
+- building
+tower_cell:
+- building
+tower_fall:
+- building
+tower_flag:
+- building
+- symbol
+tower_observation:
+- building
+toy_mallet: []
+trackball: []
+tracked_robot:
+- technology
+tractor:
+- sport
+- transport
+trade:
+- action
+trade_mark:
+- symbol
+trademark: []
+traffic_cone: []
+traffic_light: []
+traffic_lights_green: []
+traffic_lights_orange: []
+traffic_lights_ready_to_go: []
+traffic_lights_red: []
+trail: []
+trailer: []
+train:
+- sport
+- transport
+train_subway: []
+train_tram: []
+tram:
+- sport
+- transport
+tram_car:
+- sport
+- transport
+trample:
+- action
+transform:
+- action
+transfuse:
+- action
+transgender: []
+transgender_alt: []
+transgender_symbol: []
+transparent_slime: []
+transparent_tubes: []
+transportation_rings: []
+trap_mask: []
+trash: []
+trash_alt: []
+trash_arrow_up: []
+trash_can: []
+trash_can_arrow_up: []
+trash_restore: []
+trash_restore_alt: []
+tread: []
+treasure_map: []
+trebuchet: []
+tree:
+- plant
+tree_beehive:
+- plant
+tree_branch:
+- plant
+tree_city:
+- location
+- plant
+tree_face:
+- emotion
+- plant
+tree_growth:
+- plant
+tree_roots:
+- plant
+tree_swing:
+- plant
+trefoil_lily:
+- plant
+trefoil_shuriken: []
+trench_assault:
+- action
+trench_body_armor: []
+trench_knife:
+- tool
+trench_spade: []
+triangle_exclamation: []
+triangle_target: []
+triangular_flag:
+- symbol
+triangular_ruler: []
+tribal_mask: []
+tribal_pendant: []
+triceratops_head: []
+trident: []
+trident_emblem: []
+trident_shield: []
+triforce: []
+trigger_hurt:
+- action
+trilobite: []
+triorb: []
+triple_beak: []
+triple_claws: []
+triple_corn: []
+triple_gate: []
+triple_integral:
+- math
+triple_lock: []
+triple_needle: []
+triple_plier: []
+triple_scratches: []
+triple_shells: []
+triple_skulls: []
+triple_yin: []
+tripwire: []
+triquetra: []
+trireme: []
+triton_head: []
+troglodyte: []
+trojan_horse:
+- animal
+troll: []
+trolleybus:
+- sport
+- transport
+tron_arrow: []
+trophy:
+- symbol
+trophy_cup:
+- symbol
+tropical_drink:
+- food
+tropical_fish:
+- animal
+trousers: []
+trousers_2: []
+trowel: []
+trowel_bricks: []
+truck: []
+truck_arrow_right: []
+truck_droplet: []
+truck_fast: []
+truck_field: []
+truck_field_un: []
+truck_front: []
+truck_loading: []
+truck_medical:
+- action
+- sport
+- transport
+truck_monster: []
+truck_moving: []
+truck_pickup: []
+truck_plane: []
+truck_ramp_box: []
+trumpet: []
+trumpet_flag:
+- symbol
+trunk_mushroom:
+- plant
+tshirt: []
+tty: []
+tulip:
+- plant
+tumbler_glass: []
+tumbleweed:
+- plant
+tumor: []
+tumulus: []
+tune_pitch:
+- action
+turban: []
+turbine: []
+turd: []
+turkey:
+- animal
+turkish_lira_sign:
+- action
+- symbol
+turn_down: []
+turn_up: []
+turret: []
+turtle:
+- animal
+turtle_shell:
+- animal
+tusks_flag:
+- symbol
+tv: []
+tv_remote: []
+tv_tower:
+- building
+twelve_o'clock: []
+twelve_oclock: []
+twelve_thirty: []
+twin_shell: []
+twirl_center:
+- action
+twirly_flower:
+- plant
+twister: []
+two_coins: []
+two_feathers: []
+two_handed_sword: []
+two_hearts:
+- card
+- emotion
+two_hump_camel:
+- animal
+two_o'clock: []
+two_oclock: []
+two_shadows: []
+two_thirty: []
+tyre: []
+ubisoft_sun:
+- nature
+udder: []
+ufo: []
+ultrasound: []
+uluru: []
+umbrella: []
+umbrella_bayonet: []
+umbrella_beach: []
+umbrella_on_ground: []
+umbrella_with_rain_drops:
+- nature
+unamused_face:
+- emotion
+unbalanced: []
+uncertainty: []
+uncle_toms_cabin:
+- card
+underhand:
+- action
+underline:
+- action
+underwear: []
+underwear_shorts: []
+undo:
+- action
+undo_alt:
+- action
+unfriendly_fire: []
+unicorn: []
+unicycle: []
+union:
+- math
+union_jack: []
+universal_access: []
+university: []
+unknown_user:
+- user
+unlink:
+- action
+unlit_bomb: []
+unlit_candelabra: []
+unlock:
+- action
+unlock_alt:
+- action
+unlock_keyhole:
+- action
+unlocked:
+- action
+unlocking:
+- action
+unplugged:
+- action
+unstable_orb: []
+unstable_projectile: []
+up!_button:
+- symbol
+up_arrow: []
+up_button:
+- symbol
+up_card:
+- card
+up_down: []
+up_down_arrow: []
+up_down_left_right: []
+up_left_arrow: []
+up_long: []
+up_right_and_down_left_from_center: []
+up_right_arrow: []
+up_right_from_square: []
+upgrade:
+- action
+upload:
+- action
+uprising:
+- action
+upside_down_face:
+- emotion
+upwards_arrow: []
+upwards_button:
+- symbol
+uraniborg:
+- card
+urban_center:
+- card
+ursa_major: []
+uruguay: []
+usa_flag:
+- symbol
+usable: []
+usb_key: []
+user: []
+user_alt: []
+user_alt_slash: []
+user_astronaut: []
+user_check: []
+user_circle: []
+user_clock: []
+user_cog: []
+user_doctor: []
+user_edit: []
+user_friends: []
+user_gear: []
+user_graduate: []
+user_group: []
+user_injured: []
+user_large: []
+user_large_slash: []
+user_lock: []
+user_md: []
+user_minus: []
+user_ninja: []
+user_nurse: []
+user_pen: []
+user_plus: []
+user_secret: []
+user_shield: []
+user_slash: []
+user_tag: []
+user_tie:
+- accessory
+user_times: []
+user_xmark: []
+users: []
+users_between_lines: []
+users_cog: []
+users_gear: []
+users_leo:
+- user
+users_line: []
+users_rays: []
+users_rectangle: []
+users_slash: []
+users_viewfinder: []
+users_viola:
+- user
+users_wolf:
+- animal
+- user
+utensil_spoon: []
+utensils: []
+uzi: []
+vaccine:
+- card
+vacuum_cleaner: []
+valerie:
+- user
+valley: []
+valve: []
+vampire: []
+vampire_cape:
+- clothing
+vampire_dracula: []
+van_damme_split:
+- action
+van_shuttle: []
+vandalic_war:
+- card
+vanilla_flower:
+- plant
+vatican:
+- card
+vault: []
+vector_square: []
+veil: []
+velocipede: []
+velociraptor: []
+velociraptor_tracks: []
+vending_machine: []
+venezuela: []
+venus: []
+venus_double: []
+venus_mars: []
+venus_of_willendorf: []
+versailles:
+- card
+vertical_banner: []
+vertical_flip:
+- action
+vertical_traffic_light:
+- sport
+- transport
+vest: []
+vest_patches: []
+vesuvius:
+- card
+vial: []
+vial_circle_check: []
+vial_virus: []
+vials: []
+vibrating_ball: []
+vibrating_shield: []
+vibrating_smartphone: []
+vibration_mode:
+- action
+victoria_falls:
+- card
+victory_hand:
+- gesture
+video: []
+video_camera:
+- technology
+video_conference: []
+video_game:
+- action
+- game
+video_slash: []
+videocassette: []
+vihara:
+- building
+viking_church:
+- building
+viking_head: []
+viking_helmet: []
+viking_longhouse:
+- building
+viking_raids:
+- card
+viking_shield: []
+vile_fluid: []
+village:
+- building
+vine_flower:
+- plant
+vine_leaf:
+- plant
+vine_whip: []
+vintage_robot:
+- technology
+viola: []
+violin:
+- music
+virginia:
+- card
+virgo: []
+virtual_marker: []
+virus: []
+virus_covid: []
+virus_covid_slash: []
+virus_slash: []
+viruses: []
+visored_helm: []
+vitruvian_man:
+- person
+vladimir:
+- user
+voicemail: []
+volcano: []
+volleyball:
+- action
+- sport
+volleyball_ball: []
+volume_down: []
+volume_high: []
+volume_integral:
+- math
+volume_low: []
+volume_mute: []
+volume_off: []
+volume_up: []
+volume_xmark: []
+vomiting:
+- action
+voodoo_doll: []
+voortrekker:
+- card
+vortex: []
+vote: []
+vote_yea: []
+vr_cardboard: []
+vr_headset: []
+vs_button:
+- symbol
+vulcan_salute:
+- gesture
+vulture:
+- animal
+vuvuzelas: []
+waffle:
+- food
+wala:
+- user
+walk:
+- action
+walkie_talkie: []
+walking:
+- action
+walking_boot: []
+walking_scout: []
+walking_turret: []
+wall_light: []
+wallet: []
+wallum_sedge_frog:
+- animal
+walrus:
+- animal
+walrus_head:
+- animal
+walther_ppk: []
+wand_magic: []
+wand_magic_sparkles: []
+wand_sparkles: []
+waning_crescent_moon:
+- nature
+waning_gibbous_moon:
+- nature
+wanted_reward: []
+war: []
+war_axe:
+- tool
+war_bonnet: []
+war_of_cyprus:
+- card
+war_of_jenkins_ear:
+- card
+war_of_the_roses:
+- card
+war_pick: []
+wardenclyffe_tower:
+- building
+- card
+warehouse:
+- building
+warlock_eye: []
+warlock_hood: []
+warning: []
+warp_pipe: []
+warring_states:
+- card
+wars_of_alexander:
+- card
+warthog:
+- animal
+wasp:
+- animal
+wasp_sting:
+- animal
+wastebasket: []
+watch:
+- accessory
+watchtower:
+- building
+water: []
+water_bolt: []
+water_bottle:
+- food
+water_buffalo:
+- animal
+water_closet: []
+water_diviner_stick: []
+water_drop: []
+water_flask: []
+water_fountain: []
+water_gallon: []
+water_gun: []
+water_ladder: []
+water_polo:
+- action
+- sport
+water_splash: []
+water_tank: []
+water_wave:
+- gesture
+waterball: []
+waterfall: []
+watering_can: []
+watermelon:
+- food
+watermill:
+- card
+wave_crest:
+- gesture
+wave_square:
+- gesture
+wave_strike:
+- gesture
+wave_surfer:
+- gesture
+waves: []
+waving_hand:
+- gesture
+wavy_chains: []
+wavy_dash: []
+wavy_itinerary: []
+wax_seal:
+- animal
+wax_tablet: []
+waxing_crescent_moon:
+- nature
+waxing_gibbous_moon:
+- nature
+wearing_turban: []
+weary_cat:
+- animal
+- emotion
+weary_face:
+- emotion
+web_spit: []
+wedding: []
+weight: []
+weight_crush:
+- action
+weight_hanging: []
+weight_lifting_down:
+- action
+weight_lifting_up:
+- action
+weight_scale: []
+well: []
+werewolf: []
+western_hat:
+- accessory
+whale:
+- animal
+whale_tail:
+- animal
+wheat:
+- plant
+wheat_awn: []
+wheat_awn_circle_exclamation: []
+wheel: []
+wheel_of_dharma: []
+wheelbarrow: []
+wheelchair: []
+wheelchair_move: []
+wheelchair_symbol: []
+whip: []
+whiplash:
+- action
+whirlpool_shuriken: []
+whirlwind: []
+whisk: []
+whiskey_glass: []
+whistle: []
+white_book: []
+white_cane: []
+white_circle: []
+white_club_suit: []
+white_diamond_suit: []
+white_exclamation_mark:
+- symbol
+white_flower:
+- plant
+white_hair: []
+white_heart:
+- emotion
+white_heart_suit: []
+white_large_square: []
+white_medium_small_square: []
+white_medium_square: []
+white_peacock_butterfly:
+- animal
+white_question_mark:
+- symbol
+white_small_square: []
+white_square: []
+white_square_button:
+- symbol
+white_tower:
+- building
+wide_arrow_dunk: []
+wifi: []
+wildfires: []
+william_tell:
+- action
+william_tell_skull: []
+wilted_flower:
+- plant
+winchester_rifle: []
+wind:
+- nature
+wind_chime:
+- nature
+wind_face:
+- emotion
+- nature
+wind_hole:
+- nature
+wind_slap:
+- nature
+wind_turbine:
+- nature
+windmill: []
+window: []
+window_bars: []
+window_close: []
+window_maximize: []
+window_minimize: []
+window_restore: []
+windpump: []
+windsock: []
+windy_stripes: []
+wine_bottle:
+- food
+wine_glass:
+- food
+wine_glass_alt:
+- food
+wine_glass_empty:
+- food
+wing:
+- animal
+wing_cloak: []
+winged_arrow: []
+winged_emblem: []
+winged_leg: []
+winged_scepter: []
+winged_shield: []
+winged_sword: []
+wingfoot: []
+winking_face:
+- emotion
+winking_face_with_tongue:
+- emotion
+winter_gloves: []
+winter_hat:
+- accessory
+wire_coil: []
+wireframe_globe: []
+wireless: []
+wisdom: []
+witch_face:
+- emotion
+witch_flight:
+- action
+with: []
+wizard: []
+wizard_face:
+- emotion
+wizard_staff: []
+wolf:
+- animal
+wolf_head:
+- animal
+wolf_howl:
+- action
+- animal
+wolf_trap:
+- animal
+wolfgang:
+- user
+wolverine_claws:
+- animal
+woman:
+- person
+womans_boot:
+- clothing
+womans_clothes:
+- clothing
+womans_hat:
+- accessory
+- clothing
+womans_sandal:
+- clothing
+women_holding_hands: []
+women_with_bunny_ears: []
+women_wrestling:
+- sport
+womens_room: []
+won_sign:
+- symbol
+wonder: []
+wood:
+- plant
+wood_axe:
+- tool
+wood_beam: []
+wood_cabin: []
+wood_canoe: []
+wood_club: []
+wood_pile: []
+wood_stick: []
+wooden_chair: []
+wooden_clogs: []
+wooden_crate: []
+wooden_door: []
+wooden_fence: []
+wooden_helmet: []
+wooden_pegleg: []
+wooden_pier: []
+wooden_sign:
+- symbol
+wool: []
+woozy_face:
+- emotion
+worker:
+- person
+world: []
+world_map: []
+worm:
+- animal
+worm_mouth: []
+worms: []
+worried_eyes: []
+worried_face:
+- emotion
+wrapped_gift: []
+wrapped_heart: []
+wrapped_sweet: []
+wrapping_star: []
+wrecking_ball: []
+wrench:
+- tool
+wrestling:
+- action
+- sport
+writing_hand:
+- gesture
+wyvern: []
+x_ray: []
+xmark: []
+xmarks_lines: []
+xylophone: []
+yarn: []
+yawning_face:
+- emotion
+yellow_circle: []
+yellow_heart:
+- emotion
+yellow_square: []
+yellow_tang: []
+yen_banknote: []
+yen_sign:
+- symbol
+yin_yang: []
+yo_yo: []
+yummy: []
+z_brick: []
+zany_face:
+- emotion
+zat_gun: []
+zebra:
+- animal
+zebra_shield:
+- animal
+zeppelin: []
+zeus_sword: []
+zhu_xi:
+- card
+zig_arrow: []
+ziggurat:
+- card
+zigzag_cage: []
+zigzag_hieroglyph: []
+zigzag_leaf:
+- plant
+zigzag_tune: []
+zipper: []
+zipper_mouth_face:
+- emotion
+zombie: []
+zzz:
+- emotion

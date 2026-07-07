@@ -1,0 +1,329 @@
+#age 1
+Grave Robbers:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Gobleki Tepe:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Mask of Tutankhamun:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Hanging Gardens of Babylon:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Stonehenge:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Sphinx Valley:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Vedas:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Ziggurat:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Ziggurat:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Mohenjo-daro:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+
+#age 2
+Terracotta Army:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Apollo:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Saturnalia:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Druids:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Illiad:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+#age 3
+Angkor Wat:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Notre-Dame de Paris:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+The Tale of Genji:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Beowulf:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+The Great Inquisitor:
+  age: 3
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Hieronymus Bosch:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+#age 7
+Dostoevsky Crime and Punishment:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+#age 8
+Pablo Picasso Blue Period:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Salvador Dali:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Pablo Picasso:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+Albert Camus The Stranger:
+  age: 1
+  color: green
+  type: bulb
+  resources: [None, echo, 5, bulb]
+  dogmas:
+    - Draw and meld a card of value one higher than the value of your top yellow card. If the melded card is yellow repeat this dogma effect
+  echo:
+    - Meld your bottom green card. Maintain its splay
+  inspire:
+    - Meld your bottom green card. Maintain its splay
+
+
+
+
+
+
+
+
+
+
+
+

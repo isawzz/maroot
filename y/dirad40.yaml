@@ -1,0 +1,9420 @@
+1st_place_medal:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 49
+2nd_place_medal:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 49
+3rd_place_medal:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 49
+a_button_blood_type_:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+ab_button_blood_type_:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+abacus:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 57
+accordion:
+    max: 26
+    min: 24
+    rad: 63
+    cov: 58
+adhesive_bandage:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 49
+admission_tickets:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 68
+aerial_tramway:
+    max: 27
+    min: 25
+    rad: 67
+    cov: 30
+airplane:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 41
+airplane_arrival:
+    max: 29
+    min: 28
+    rad: 71
+    cov: 40
+airplane_departure:
+    max: 28
+    min: 28
+    rad: 69
+    cov: 38
+alarm_clock:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 58
+alembic:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 40
+alien:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 94
+alien_monster:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 56
+ambulance:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 55
+american_football:
+    max: 26
+    min: 26
+    rad: 63
+    cov: 61
+amphora:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 51
+anatomical_heart:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 63
+anchor:
+    max: 23
+    min: 20
+    rad: 56
+    cov: 47
+anger_symbol:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 44
+angry_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+angry_face_with_horns:
+    max: 26
+    min: 23
+    rad: 64
+    cov: 70
+anguished_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+ant:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 29
+antenna_bars:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+anxious_face_with_sweat:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 83
+aquarius:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+aries:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+articulated_lorry:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 61
+artist:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 47
+artist_palette:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 76
+astonished_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+astronaut:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 51
+atm_sign:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+atom_symbol:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+auto_rickshaw:
+    max: 25
+    min: 22
+    rad: 61
+    cov: 47
+automobile:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 58
+avocado:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 71
+award:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 48
+axe:
+    max: 25
+    min: 22
+    rad: 61
+    cov: 23
+b_button_blood_type_:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+baby:
+    max: 22
+    min: 20
+    rad: 53
+    cov: 85
+baby_angel:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 62
+baby_bottle:
+    max: 27
+    min: 24
+    rad: 68
+    cov: 44
+baby_chick:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 62
+baby_symbol:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+back_arrow:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 35
+backhand_index_pointing_down:
+    max: 23
+    min: 23
+    rad: 56
+    cov: 57
+backhand_index_pointing_left:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 62
+backhand_index_pointing_right:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 62
+backhand_index_pointing_up:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 61
+backpack:
+    max: 25
+    min: 23
+    rad: 62
+    cov: 64
+bacon:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 61
+badger:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 50
+badminton:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 27
+bagel:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 67
+baggage_claim:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+baguette_bread:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 52
+balance_scale:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 44
+ballet_dancer:
+    max: 49
+    min: 48
+    rad: 121
+    cov: 34
+ballet_shoes:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 63
+balloon:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 34
+ballot_box_with_ballot:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 63
+banana:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 43
+banjo:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 32
+bank:
+    max: 28
+    min: 25
+    rad: 69
+    cov: 54
+bar_chart:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+barber_pole:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 41
+baseball:
+    max: 21
+    min: 21
+    rad: 51
+    cov: 100
+basket:
+    max: 23
+    min: 23
+    rad: 56
+    cov: 63
+basketball:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 98
+bat:
+    max: 28
+    min: 25
+    rad: 68
+    cov: 36
+bathtub:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 51
+battery:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 58
+beach_with_umbrella:
+    max: 25
+    min: 23
+    rad: 63
+    cov: 58
+beaming_face_with_smiling_eyes:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+beans:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 50
+bear:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 76
+beating_heart:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 50
+beaver:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 64
+bed:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 46
+bee:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 64
+beer_mug:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 59
+beetle:
+    max: 26
+    min: 24
+    rad: 63
+    cov: 49
+bell:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 49
+bell_pepper:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 67
+bell_with_slash:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 45
+bellhop_bell:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 45
+bento_box:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 64
+beverage_box:
+    max: 23
+    min: 21
+    rad: 56
+    cov: 61
+bicycle:
+    max: 23
+    min: 21
+    rad: 56
+    cov: 38
+bikini:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 43
+billed_cap:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 46
+biohazard:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+bird:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 55
+birthday_cake:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 59
+bison:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 56
+biting_lip:
+    max: 20
+    min: 20
+    rad: 49
+    cov: 61
+black_bird:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 43
+black_cat:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 52
+black_circle:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 96
+black_flag:
+    max: 25
+    min: 25
+    rad: 61
+    cov: 34
+black_heart:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 63
+black_large_square:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+black_medium_small_square:
+    max: 16
+    min: 15
+    rad: 39
+    cov: 74
+black_medium_square:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 75
+black_nib:
+    max: 27
+    min: 25
+    rad: 68
+    cov: 36
+black_small_square:
+    max: 10
+    min: 10
+    rad: 24
+    cov: 72
+black_square_button:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 70
+blossom:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 64
+blowfish:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 69
+blue_book:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 68
+blue_circle:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 96
+blue_heart:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 66
+blue_square:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+blueberries:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 54
+boar:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 44
+bomb:
+    max: 25
+    min: 22
+    rad: 61
+    cov: 55
+bone:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 35
+bookmark:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 40
+bookmark_tabs:
+    max: 26
+    min: 26
+    rad: 65
+    cov: 64
+books:
+    max: 27
+    min: 27
+    rad: 67
+    cov: 54
+boomerang:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 31
+bottle_with_popping_cork:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 32
+bouquet:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 46
+bow_and_arrow:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 31
+bowl_with_spoon:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 71
+bowling:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 60
+boxing_glove:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 62
+boy:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 76
+brain:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 80
+bread:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 78
+breast_feeding:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 49
+brick:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 69
+bridge_at_night:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 76
+briefcase:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 60
+briefs:
+    max: 24
+    min: 21
+    rad: 58
+    cov: 53
+bright_button:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 48
+broccoli:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 60
+broken_chain:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 36
+broken_heart:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 60
+broom:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 16
+brown_circle:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 96
+brown_heart:
+    max: 23
+    min: 23
+    rad: 56
+    cov: 65
+brown_mushroom:
+    max: 19
+    min: 17
+    rad: 46
+    cov: 84
+brown_square:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+bubble_tea:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 53
+bubbles:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 50
+bucket:
+    max: 26
+    min: 23
+    rad: 63
+    cov: 59
+buffalo:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 48
+bug:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 29
+building_construction:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 34
+bullet_train:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 55
+bullseye:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 72
+burrito:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 56
+bus:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 63
+bus_stop:
+    max: 27
+    min: 26
+    rad: 67
+    cov: 54
+bust_in_silhouette:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 40
+busts_in_silhouette:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 53
+butter:
+    max: 21
+    min: 21
+    rad: 51
+    cov: 49
+butterfly:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 59
+cactus:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 59
+calendar:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 79
+call_me_hand:
+    max: 26
+    min: 26
+    rad: 64
+    cov: 50
+camel:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 47
+camera:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 63
+camera_with_flash:
+    max: 25
+    min: 23
+    rad: 62
+    cov: 58
+camping:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 57
+cancer:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+candle:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 37
+candy:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 54
+canned_food:
+    max: 25
+    min: 25
+    rad: 61
+    cov: 58
+canoe:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 39
+capricorn:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+card_file_box:
+    max: 26
+    min: 26
+    rad: 65
+    cov: 69
+card_index:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 70
+card_index_dividers:
+    max: 26
+    min: 26
+    rad: 65
+    cov: 69
+carousel_horse:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 49
+carp_streamer:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 36
+carpentry_saw:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 36
+carrot:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 43
+castle:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 46
+cat:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 52
+cat_face:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 61
+cat_with_tears_of_joy:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 63
+cat_with_wry_smile:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 62
+chains:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 44
+chair:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 38
+chart_decreasing:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+chart_increasing:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+chart_increasing_with_yen:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+check_box_with_check:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+check_mark:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 29
+check_mark_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+cheese_wedge:
+    max: 27
+    min: 24
+    rad: 66
+    cov: 51
+chequered_flag:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 63
+cherries:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 48
+cherry_blossom:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 73
+chess_pawn:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 35
+chestnut:
+    max: 24
+    min: 22
+    rad: 59
+    cov: 72
+chicken:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 54
+child:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 74
+children_crossing:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 76
+chipmunk:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 55
+chocolate_bar:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 67
+chopsticks:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 19
+christmas_tree:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 44
+church:
+    max: 29
+    min: 28
+    rad: 73
+    cov: 37
+cigarette:
+    max: 28
+    min: 27
+    rad: 70
+    cov: 27
+cinema:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+circled_m:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 95
+circus_tent:
+    max: 28
+    min: 27
+    rad: 70
+    cov: 44
+cityscape:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 76
+cityscape_at_dusk:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 76
+cl_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+clamp:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 36
+clapper_board:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 54
+clapping_hands:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 61
+classical_building:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 50
+clinking_beer_mugs:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 57
+clinking_glasses:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 33
+clipboard:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 63
+clockwise_vertical_arrows:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+closed_book:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 68
+closed_mailbox_with_lowered_flag:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 59
+closed_mailbox_with_raised_flag:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 58
+closed_umbrella:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 30
+cloud:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 62
+cloud_with_lightning:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 61
+cloud_with_lightning_and_rain:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 59
+cloud_with_rain:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 55
+cloud_with_snow:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 60
+clown_face:
+    max: 28
+    min: 25
+    rad: 68
+    cov: 66
+club_suit:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 69
+clutch_bag:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 56
+coat:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 71
+cockroach:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 51
+cocktail_glass:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 39
+coconut:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 96
+coffin:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 51
+coin:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 95
+cold_face:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 78
+collision:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 36
+comet:
+    max: 25
+    min: 23
+    rad: 62
+    cov: 34
+compass:
+    max: 27
+    min: 24
+    rad: 66
+    cov: 57
+computer_disk:
+    max: 27
+    min: 27
+    rad: 67
+    cov: 70
+computer_mouse:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 70
+confetti_ball:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 52
+confounded_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+confused_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+construction:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 51
+construction_worker:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 42
+control_knobs:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+convenience_store:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 57
+cook:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 48
+cooked_rice:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 91
+cookie:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+cooking:
+    max: 27
+    min: 24
+    rad: 66
+    cov: 48
+cool_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+copyright:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 56
+coral:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 44
+couch_and_lamp:
+    max: 29
+    min: 28
+    rad: 71
+    cov: 32
+counterclockwise_arrows_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+couple_with_heart:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 58
+cow:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 48
+cow_face:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 49
+cowboy_hat_face:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 61
+crab:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 64
+crayon:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 26
+credit_card:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 64
+crescent_moon:
+    max: 23
+    min: 21
+    rad: 57
+    cov: 40
+cricket:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 44
+cricket_game:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 30
+crocodile:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 47
+croissant:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 70
+cross_mark:
+    max: 27
+    min: 27
+    rad: 66
+    cov: 40
+cross_mark_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+crossed_fingers:
+    max: 24
+    min: 22
+    rad: 59
+    cov: 55
+crossed_flags:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 53
+crossed_swords:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 35
+crown:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 60
+crutch:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 16
+crying_cat:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 62
+crying_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+crystal_ball:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 68
+cucumber:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 47
+cup_with_straw:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 51
+cupcake:
+    max: 26
+    min: 24
+    rad: 63
+    cov: 61
+curling_stone:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 60
+curly_loop:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 25
+currency_exchange:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 41
+curry_rice:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 74
+custard:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 45
+customs:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+cut_of_meat:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 79
+cyclone:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 68
+dagger:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 26
+dango:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 31
+dashing_away:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 48
+deaf_man:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 46
+deaf_person:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 46
+deaf_woman:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 50
+deciduous_tree:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 70
+deer:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 34
+delivery_truck:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 58
+department_store:
+    max: 28
+    min: 28
+    rad: 69
+    cov: 60
+derelict_house:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 60
+desert:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+desert_island:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 38
+desktop_computer:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 57
+detective:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 48
+diamond_suit:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 67
+diamond_with_a_dot:
+    max: 15
+    min: 15
+    rad: 38
+    cov: 78
+dim_button:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 45
+disappointed_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+disguised_face:
+    max: 25
+    min: 23
+    rad: 62
+    cov: 72
+distorted_face:
+    max: 17
+    min: 16
+    rad: 41
+    cov: 14
+divide:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 48
+diving_mask:
+    max: 27
+    min: 24
+    rad: 66
+    cov: 36
+diya_lamp:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 61
+dizzy:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 26
+dna:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 37
+dodo:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 46
+dog:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 45
+dog_face:
+    max: 25
+    min: 23
+    rad: 62
+    cov: 65
+dollar_banknote:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 71
+dolphin:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 40
+donkey:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 39
+door:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 58
+dotted_line_face:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 93
+dotted_six_pointed_star:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+double_curly_loop:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 28
+double_exclamation_mark:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 42
+doughnut:
+    max: 21
+    min: 21
+    rad: 51
+    cov: 86
+dove:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 55
+down_arrow:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+down_left_arrow:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+down_right_arrow:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+downcast_face_with_sweat:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 66
+downwards_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+dragon:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 40
+dragon_face:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 58
+dress:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 42
+drooling_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+drop_of_blood:
+    max: 23
+    min: 20
+    rad: 56
+    cov: 65
+droplet:
+    max: 22
+    min: 20
+    rad: 55
+    cov: 64
+drum:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 42
+duck:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 59
+dumpling:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 65
+dvd:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 93
+e_mail:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 66
+eagle:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 36
+ear:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 63
+ear_of_corn:
+    max: 26
+    min: 25
+    rad: 63
+    cov: 50
+ear_with_hearing_aid:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 65
+egg:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 76
+eggplant:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 52
+eight_o_clock:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+eight_pointed_star:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+eight_spoked_asterisk:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+eight_thirty:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+eject_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+electric_plug:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 32
+elephant:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 57
+elevator:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+eleven_o_clock:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+eleven_thirty:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+elf:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 51
+empty_nest:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 64
+end_arrow:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 43
+enraged_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+envelope:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 66
+envelope_with_arrow:
+    max: 27
+    min: 25
+    rad: 67
+    cov: 55
+euro_banknote:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 71
+evergreen_tree:
+    max: 19
+    min: 18
+    rad: 47
+    cov: 57
+ewe:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 40
+exclamation_question_mark:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 38
+exploding_head:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 75
+expressionless_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+eye:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 78
+eye_in_speech_bubble:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 69
+eyes:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 79
+face_blowing_a_kiss:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 82
+face_exhaling:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 94
+face_holding_back_tears:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+face_in_clouds:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 76
+face_savoring_food:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+face_screaming_in_fear:
+    max: 26
+    min: 24
+    rad: 65
+    cov: 72
+face_vomiting:
+    max: 27
+    min: 25
+    rad: 68
+    cov: 61
+face_with_bags_under_eyes:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+face_with_crossed_out_eyes:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+face_with_diagonal_mouth:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+face_with_hand_over_mouth:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 89
+face_with_head_bandage:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+face_with_medical_mask:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+face_with_monocle:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 86
+face_with_open_eyes_and_hand_over_mouth:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 89
+face_with_open_mouth:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+face_with_peeking_eye:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 85
+face_with_raised_eyebrow:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+face_with_rolling_eyes:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+face_with_spiral_eyes:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+face_with_steam_from_nose:
+    max: 25
+    min: 23
+    rad: 62
+    cov: 75
+face_with_symbols_on_mouth:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 90
+face_with_tears_of_joy:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 87
+face_with_thermometer:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 94
+face_with_tongue:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+face_without_mouth:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+factory:
+    max: 28
+    min: 28
+    rad: 69
+    cov: 44
+factory_worker:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 48
+fairy:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 35
+falafel:
+    max: 23
+    min: 23
+    rad: 56
+    cov: 64
+fallen_leaf:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 44
+family:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 56
+family_adult:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 0
+farmer:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 52
+fast_down_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+fast_forward_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+fast_reverse_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+fast_up_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+fax_machine:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 64
+fearful_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+feather:
+    max: 28
+    min: 28
+    rad: 70
+    cov: 30
+female_sign:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+ferris_wheel:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 38
+ferry:
+    max: 27
+    min: 27
+    rad: 67
+    cov: 52
+field_hockey:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 25
+fight_cloud:
+    max: 17
+    min: 16
+    rad: 41
+    cov: 14
+file_cabinet:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 64
+file_folder:
+    max: 26
+    min: 26
+    rad: 65
+    cov: 64
+film_frames:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 65
+film_projector:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 50
+fingerprint:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 72
+fire:
+    max: 23
+    min: 21
+    rad: 56
+    cov: 69
+fire_engine:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 64
+fire_extinguisher:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 51
+firecracker:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 30
+firefighter:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 48
+fireworks:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+first_quarter_moon:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 92
+first_quarter_moon_face:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 41
+fish:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 52
+fish_cake_with_swirl:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 92
+fishing_pole:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 32
+five_o_clock:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+five_thirty:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+flag_afghanistan:
+    max: 20
+    min: 19
+    rad: 50
+    cov: 27
+flag_albania:
+    max: 20
+    min: 18
+    rad: 49
+    cov: 26
+flag_algeria:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 28
+flag_american_samoa:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 29
+flag_andorra:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 27
+flag_angola:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 26
+flag_anguilla:
+    max: 19
+    min: 18
+    rad: 47
+    cov: 32
+flag_antarctica:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 24
+flag_antigua_barbuda:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 29
+flag_argentina:
+    max: 21
+    min: 20
+    rad: 53
+    cov: 29
+flag_armenia:
+    max: 26
+    min: 24
+    rad: 63
+    cov: 27
+flag_aruba:
+    max: 26
+    min: 26
+    rad: 65
+    cov: 23
+flag_ascension_island:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 26
+flag_australia:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 26
+flag_austria:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 26
+flag_azerbaijan:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 27
+flag_bahamas:
+    max: 19
+    min: 19
+    rad: 47
+    cov: 36
+flag_bahrain:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 32
+flag_bangladesh:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 32
+flag_barbados:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 37
+flag_belarus:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 32
+flag_belgium:
+    max: 19
+    min: 19
+    rad: 47
+    cov: 35
+flag_belize:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 31
+flag_benin:
+    max: 17
+    min: 17
+    rad: 42
+    cov: 38
+flag_bermuda:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 31
+flag_bhutan:
+    max: 20
+    min: 19
+    rad: 50
+    cov: 30
+flag_bolivia:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 32
+flag_bosnia_herzegovina:
+    max: 22
+    min: 20
+    rad: 53
+    cov: 33
+flag_botswana:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 28
+flag_bouvet_island:
+    max: 22
+    min: 20
+    rad: 54
+    cov: 31
+flag_brazil:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 36
+flag_british_indian_ocean_territory:
+    max: 20
+    min: 20
+    rad: 49
+    cov: 31
+flag_british_virgin_islands:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 26
+flag_brunei:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 34
+flag_bulgaria:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 34
+flag_burkina_faso:
+    max: 20
+    min: 19
+    rad: 49
+    cov: 34
+flag_burundi:
+    max: 18
+    min: 17
+    rad: 44
+    cov: 38
+flag_c_te_d_ivoire:
+    max: 18
+    min: 17
+    rad: 44
+    cov: 30
+flag_cambodia:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 30
+flag_cameroon:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 27
+flag_canada:
+    max: 20
+    min: 19
+    rad: 50
+    cov: 27
+flag_canary_islands:
+    max: 18
+    min: 17
+    rad: 44
+    cov: 29
+flag_cape_verde:
+    max: 21
+    min: 19
+    rad: 52
+    cov: 25
+flag_caribbean_netherlands:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 29
+flag_cayman_islands:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 29
+flag_central_african_republic:
+    max: 19
+    min: 17
+    rad: 46
+    cov: 27
+flag_ceuta_melilla:
+    max: 20
+    min: 19
+    rad: 50
+    cov: 31
+flag_chad:
+    max: 21
+    min: 20
+    rad: 53
+    cov: 24
+flag_chile:
+    max: 19
+    min: 18
+    rad: 47
+    cov: 25
+flag_china:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 28
+flag_christmas_island:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 27
+flag_clipperton_island:
+    max: 19
+    min: 18
+    rad: 47
+    cov: 31
+flag_cocos_keeling_islands:
+    max: 20
+    min: 19
+    rad: 49
+    cov: 26
+flag_colombia:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 31
+flag_comoros:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 29
+flag_congo_brazzaville:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 29
+flag_congo_kinshasa:
+    max: 20
+    min: 19
+    rad: 48
+    cov: 32
+flag_cook_islands:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 26
+flag_costa_rica:
+    max: 20
+    min: 19
+    rad: 50
+    cov: 29
+flag_croatia:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 29
+flag_cuba:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 27
+flag_cura_ao:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 24
+flag_cyprus:
+    max: 20
+    min: 19
+    rad: 48
+    cov: 26
+flag_czechia:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 27
+flag_denmark:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 27
+flag_diego_garcia:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 29
+flag_djibouti:
+    max: 18
+    min: 18
+    rad: 45
+    cov: 34
+flag_dominica:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 28
+flag_dominican_republic:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 27
+flag_ecuador:
+    max: 19
+    min: 18
+    rad: 47
+    cov: 30
+flag_egypt:
+    max: 20
+    min: 19
+    rad: 49
+    cov: 33
+flag_el_salvador:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 28
+flag_england:
+    max: 25
+    min: 25
+    rad: 61
+    cov: 34
+flag_equatorial_guinea:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 25
+flag_eritrea:
+    max: 19
+    min: 19
+    rad: 48
+    cov: 34
+flag_estonia:
+    max: 18
+    min: 17
+    rad: 44
+    cov: 35
+flag_eswatini:
+    max: 20
+    min: 19
+    rad: 49
+    cov: 30
+flag_ethiopia:
+    max: 19
+    min: 18
+    rad: 47
+    cov: 30
+flag_european_union:
+    max: 20
+    min: 19
+    rad: 49
+    cov: 30
+flag_falkland_islands:
+    max: 20
+    min: 20
+    rad: 49
+    cov: 31
+flag_faroe_islands:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 28
+flag_fiji:
+    max: 16
+    min: 16
+    rad: 39
+    cov: 34
+flag_finland:
+    max: 17
+    min: 16
+    rad: 41
+    cov: 34
+flag_france:
+    max: 19
+    min: 19
+    rad: 48
+    cov: 31
+flag_french_guiana:
+    max: 20
+    min: 19
+    rad: 49
+    cov: 29
+flag_french_polynesia:
+    max: 19
+    min: 18
+    rad: 47
+    cov: 29
+flag_french_southern_territories:
+    max: 19
+    min: 17
+    rad: 46
+    cov: 27
+flag_gabon:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 28
+flag_gambia:
+    max: 26
+    min: 24
+    rad: 63
+    cov: 27
+flag_georgia:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 30
+flag_germany:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 33
+flag_ghana:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 26
+flag_gibraltar:
+    max: 19
+    min: 19
+    rad: 47
+    cov: 32
+flag_greece:
+    max: 22
+    min: 20
+    rad: 54
+    cov: 31
+flag_greenland:
+    max: 20
+    min: 18
+    rad: 50
+    cov: 26
+flag_grenada:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 33
+flag_guadeloupe:
+    max: 20
+    min: 19
+    rad: 50
+    cov: 34
+flag_guam:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 28
+flag_guatemala:
+    max: 21
+    min: 19
+    rad: 51
+    cov: 26
+flag_guernsey:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 30
+flag_guinea:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 30
+flag_guinea_bissau:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 24
+flag_guyana:
+    max: 21
+    min: 20
+    rad: 53
+    cov: 27
+flag_haiti:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 26
+flag_heard_mcdonald_islands:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 26
+flag_honduras:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 28
+flag_hong_kong_sar_china:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 27
+flag_hungary:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 26
+flag_iceland:
+    max: 18
+    min: 16
+    rad: 43
+    cov: 35
+flag_in_hole:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 41
+flag_india:
+    max: 20
+    min: 19
+    rad: 48
+    cov: 36
+flag_indonesia:
+    max: 19
+    min: 19
+    rad: 47
+    cov: 30
+flag_iran:
+    max: 19
+    min: 18
+    rad: 46
+    cov: 33
+flag_iraq:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 28
+flag_ireland:
+    max: 17
+    min: 17
+    rad: 42
+    cov: 34
+flag_isle_of_man:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 31
+flag_israel:
+    max: 18
+    min: 17
+    rad: 44
+    cov: 31
+flag_italy:
+    max: 18
+    min: 17
+    rad: 44
+    cov: 28
+flag_jamaica:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 29
+flag_japan:
+    max: 18
+    min: 17
+    rad: 44
+    cov: 33
+flag_jersey:
+    max: 17
+    min: 17
+    rad: 42
+    cov: 34
+flag_jordan:
+    max: 20
+    min: 19
+    rad: 49
+    cov: 28
+flag_kazakhstan:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 29
+flag_kenya:
+    max: 19
+    min: 19
+    rad: 48
+    cov: 33
+flag_kiribati:
+    max: 18
+    min: 17
+    rad: 44
+    cov: 36
+flag_kosovo:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 26
+flag_kuwait:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 26
+flag_kyrgyzstan:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 31
+flag_land_islands:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 27
+flag_laos:
+    max: 20
+    min: 19
+    rad: 49
+    cov: 29
+flag_latvia:
+    max: 20
+    min: 19
+    rad: 49
+    cov: 27
+flag_lebanon:
+    max: 18
+    min: 18
+    rad: 45
+    cov: 33
+flag_lesotho:
+    max: 18
+    min: 17
+    rad: 43
+    cov: 32
+flag_liberia:
+    max: 19
+    min: 18
+    rad: 46
+    cov: 32
+flag_libya:
+    max: 19
+    min: 18
+    rad: 46
+    cov: 27
+flag_liechtenstein:
+    max: 16
+    min: 16
+    rad: 40
+    cov: 32
+flag_lithuania:
+    max: 18
+    min: 18
+    rad: 44
+    cov: 24
+flag_luxembourg:
+    max: 19
+    min: 19
+    rad: 47
+    cov: 30
+flag_macao_sar_china:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 26
+flag_madagascar:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 28
+flag_malawi:
+    max: 30
+    min: 29
+    rad: 74
+    cov: 23
+flag_malaysia:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 25
+flag_maldives:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 25
+flag_mali:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 26
+flag_malta:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 25
+flag_marshall_islands:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 26
+flag_martinique:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 24
+flag_mauritania:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 28
+flag_mauritius:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 27
+flag_mayotte:
+    max: 20
+    min: 18
+    rad: 48
+    cov: 23
+flag_mexico:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 26
+flag_micronesia:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 29
+flag_moldova:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 26
+flag_monaco:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 26
+flag_mongolia:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 28
+flag_montenegro:
+    max: 23
+    min: 23
+    rad: 56
+    cov: 30
+flag_montserrat:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 29
+flag_morocco:
+    max: 26
+    min: 24
+    rad: 63
+    cov: 26
+flag_mozambique:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 27
+flag_myanmar_burma_:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 26
+flag_namibia:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 29
+flag_nauru:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 30
+flag_nepal:
+    max: 23
+    min: 21
+    rad: 57
+    cov: 29
+flag_netherlands:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 26
+flag_new_caledonia:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 29
+flag_new_zealand:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 27
+flag_nicaragua:
+    max: 19
+    min: 19
+    rad: 48
+    cov: 34
+flag_niger:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 32
+flag_nigeria:
+    max: 23
+    min: 23
+    rad: 56
+    cov: 30
+flag_niue:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 28
+flag_norfolk_island:
+    max: 21
+    min: 20
+    rad: 53
+    cov: 31
+flag_north_korea:
+    max: 21
+    min: 20
+    rad: 53
+    cov: 31
+flag_north_macedonia:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 25
+flag_northern_mariana_islands:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 28
+flag_norway:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 27
+flag_oman:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 26
+flag_pakistan:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 29
+flag_palau:
+    max: 26
+    min: 24
+    rad: 63
+    cov: 25
+flag_palestinian_territories:
+    max: 19
+    min: 18
+    rad: 46
+    cov: 32
+flag_panama:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 29
+flag_papua_new_guinea:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 31
+flag_paraguay:
+    max: 20
+    min: 19
+    rad: 49
+    cov: 28
+flag_peru:
+    max: 19
+    min: 18
+    rad: 46
+    cov: 32
+flag_philippines:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 29
+flag_pitcairn_islands:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 30
+flag_poland:
+    max: 20
+    min: 19
+    rad: 48
+    cov: 28
+flag_portugal:
+    max: 20
+    min: 19
+    rad: 49
+    cov: 26
+flag_puerto_rico:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 32
+flag_qatar:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 31
+flag_r_union:
+    max: 18
+    min: 18
+    rad: 45
+    cov: 37
+flag_romania:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 32
+flag_russia:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 32
+flag_rwanda:
+    max: 26
+    min: 24
+    rad: 63
+    cov: 27
+flag_s_o_tom_pr_ncipe:
+    max: 19
+    min: 19
+    rad: 47
+    cov: 29
+flag_samoa:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 25
+flag_san_marino:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 29
+flag_sark:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 24
+flag_saudi_arabia:
+    max: 20
+    min: 20
+    rad: 49
+    cov: 30
+flag_scotland:
+    max: 25
+    min: 25
+    rad: 61
+    cov: 34
+flag_senegal:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 33
+flag_serbia:
+    max: 19
+    min: 18
+    rad: 46
+    cov: 37
+flag_seychelles:
+    max: 20
+    min: 19
+    rad: 48
+    cov: 29
+flag_sierra_leone:
+    max: 19
+    min: 18
+    rad: 46
+    cov: 30
+flag_singapore:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 32
+flag_sint_maarten:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 30
+flag_slovakia:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 31
+flag_slovenia:
+    max: 17
+    min: 17
+    rad: 42
+    cov: 35
+flag_solomon_islands:
+    max: 20
+    min: 18
+    rad: 48
+    cov: 35
+flag_somalia:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 29
+flag_south_africa:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 26
+flag_south_georgia_south_sandwich_islands:
+    max: 20
+    min: 20
+    rad: 49
+    cov: 34
+flag_south_korea:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 33
+flag_south_sudan:
+    max: 18
+    min: 18
+    rad: 45
+    cov: 35
+flag_spain:
+    max: 18
+    min: 17
+    rad: 44
+    cov: 35
+flag_sri_lanka:
+    max: 20
+    min: 19
+    rad: 48
+    cov: 28
+flag_st_barth_lemy:
+    max: 20
+    min: 19
+    rad: 49
+    cov: 32
+flag_st_helena:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 28
+flag_st_kitts_nevis:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 30
+flag_st_lucia:
+    max: 18
+    min: 18
+    rad: 45
+    cov: 27
+flag_st_martin:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 28
+flag_st_pierre_miquelon:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 30
+flag_st_vincent_grenadines:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 24
+flag_sudan:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 30
+flag_suriname:
+    max: 20
+    min: 19
+    rad: 48
+    cov: 33
+flag_svalbard_jan_mayen:
+    max: 16
+    min: 16
+    rad: 40
+    cov: 36
+flag_sweden:
+    max: 19
+    min: 18
+    rad: 46
+    cov: 33
+flag_switzerland:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 27
+flag_syria:
+    max: 19
+    min: 19
+    rad: 48
+    cov: 29
+flag_t_rkiye:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 27
+flag_taiwan:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 23
+flag_tajikistan:
+    max: 17
+    min: 16
+    rad: 41
+    cov: 26
+flag_tanzania:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 24
+flag_thailand:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 26
+flag_timor_leste:
+    max: 19
+    min: 19
+    rad: 47
+    cov: 23
+flag_togo:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 27
+flag_tokelau:
+    max: 22
+    min: 20
+    rad: 53
+    cov: 24
+flag_tonga:
+    max: 22
+    min: 20
+    rad: 54
+    cov: 24
+flag_trinidad_tobago:
+    max: 20
+    min: 18
+    rad: 48
+    cov: 22
+flag_tristan_da_cunha:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 25
+flag_tunisia:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 26
+flag_turkmenistan:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 26
+flag_turks_caicos_islands:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 24
+flag_tuvalu:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 23
+flag_u_s_outlying_islands:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 26
+flag_u_s_virgin_islands:
+    max: 19
+    min: 18
+    rad: 47
+    cov: 28
+flag_uganda:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 28
+flag_ukraine:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 27
+flag_united_arab_emirates:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 29
+flag_united_kingdom:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 34
+flag_united_nations:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 28
+flag_united_states:
+    max: 20
+    min: 19
+    rad: 49
+    cov: 29
+flag_uruguay:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 26
+flag_uzbekistan:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 25
+flag_vanuatu:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 26
+flag_vatican_city:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 25
+flag_venezuela:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 27
+flag_vietnam:
+    max: 24
+    min: 22
+    rad: 58
+    cov: 28
+flag_wales:
+    max: 25
+    min: 25
+    rad: 61
+    cov: 34
+flag_wallis_futuna:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 24
+flag_western_sahara:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 31
+flag_yemen:
+    max: 20
+    min: 19
+    rad: 48
+    cov: 28
+flag_zambia:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 27
+flag_zimbabwe:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 24
+flamingo:
+    max: 24
+    min: 22
+    rad: 58
+    cov: 36
+flashlight:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 29
+flat_shoe:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 28
+flatbread:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 97
+fleur_de_lis:
+    max: 21
+    min: 20
+    rad: 53
+    cov: 58
+flexed_biceps:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 57
+floppy_disk:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 72
+flower_playing_cards:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 71
+flushed_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+flute:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 24
+fly:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 55
+flying_disc:
+    max: 27
+    min: 24
+    rad: 68
+    cov: 46
+flying_saucer:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 50
+fog:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+foggy:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 76
+folded_hands:
+    max: 28
+    min: 28
+    rad: 69
+    cov: 36
+folding_hand_fan:
+    max: 25
+    min: 22
+    rad: 62
+    cov: 36
+fondue:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 47
+foot:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 42
+footprints:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 44
+frog:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 81
+fork_and_knife:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 29
+fork_and_knife_with_plate:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 53
+fortune_cookie:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 55
+fountain:
+    max: 24
+    min: 22
+    rad: 59
+    cov: 43
+fountain_pen:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 22
+four_leaf_clover:
+    max: 23
+    min: 21
+    rad: 57
+    cov: 60
+four_o_clock:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+four_thirty:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+fox:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 72
+framed_picture:
+    max: 28
+    min: 28
+    rad: 69
+    cov: 66
+free_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+french_fries:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 76
+fried_shrimp:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 67
+front_facing_baby_chick:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 64
+frowning_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+frowning_face_with_open_mouth:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+fuel_pump:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 55
+full_moon:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+full_moon_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 95
+funeral_urn:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 79
+game_die:
+    max: 23
+    min: 23
+    rad: 56
+    cov: 80
+garlic:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 62
+gear:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 74
+gem_stone:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 61
+gemini:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+genie:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 45
+ghost:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 60
+ginger_root:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 71
+giraffe:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 33
+girl:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 64
+glass_of_milk:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 57
+glasses:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 37
+globe_showing_americas:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+globe_showing_asia_australia:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+globe_showing_europe_africa:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+globe_with_meridians:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 77
+gloves:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 72
+glowing_star:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 55
+goal_net:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 35
+goat:
+    max: 27
+    min: 25
+    rad: 68
+    cov: 36
+goblin:
+    max: 27
+    min: 24
+    rad: 67
+    cov: 58
+goggles:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 54
+goose:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 43
+gorilla:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 41
+graduation_cap:
+    max: 24
+    min: 22
+    rad: 58
+    cov: 53
+grapes:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 43
+green_apple:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 61
+green_book:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 68
+green_circle:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 93
+green_heart:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 66
+green_salad:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 86
+green_square:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+grey_heart:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 65
+grimacing_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+grinning_cat:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 62
+grinning_cat_with_smiling_eyes:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 62
+grinning_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+grinning_face_with_big_eyes:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+grinning_face_with_smiling_eyes:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+grinning_face_with_sweat:
+    max: 27
+    min: 24
+    rad: 66
+    cov: 66
+grinning_squinting_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+growing_heart:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 64
+guard:
+    max: 25
+    min: 25
+    rad: 61
+    cov: 44
+guide_dog:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 45
+guitar:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 29
+hair_pick:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 39
+hairy_creature:
+    max: 17
+    min: 16
+    rad: 41
+    cov: 14
+hamburger:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 78
+hammer:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 26
+hammer_and_pick:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 49
+hammer_and_wrench:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 40
+hamsa:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 75
+hamster:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 64
+hand_with_fingers_splayed:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 72
+hand_with_index_finger_and_thumb_crossed:
+    max: 21
+    min: 20
+    rad: 53
+    cov: 59
+handbag:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 50
+handshake:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 68
+harp:
+    max: 26
+    min: 25
+    rad: 63
+    cov: 35
+hatching_chick:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 83
+head_shaking_horizontally:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 89
+head_shaking_vertically:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 70
+headphone:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 36
+headstone:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 41
+health_worker:
+    max: 26
+    min: 25
+    rad: 63
+    cov: 45
+hear_no_evil_monkey:
+    max: 27
+    min: 25
+    rad: 67
+    cov: 60
+heart_decoration:
+    max: 26
+    min: 26
+    rad: 64
+    cov: 73
+heart_exclamation:
+    max: 24
+    min: 22
+    rad: 59
+    cov: 48
+heart_hands:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 51
+heart_on_fire:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 81
+heart_suit:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 65
+heart_with_arrow:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 43
+heart_with_ribbon:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 67
+heavy_dollar_sign:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 37
+heavy_equals_sign:
+    max: 23
+    min: 23
+    rad: 56
+    cov: 45
+hedgehog:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 57
+helicopter:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 39
+herb:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 32
+hibiscus:
+    max: 25
+    min: 23
+    rad: 63
+    cov: 54
+high_heeled_shoe:
+    max: 29
+    min: 27
+    rad: 71
+    cov: 39
+high_speed_train:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 50
+high_voltage:
+    max: 20
+    min: 19
+    rad: 50
+    cov: 32
+hiking_boot:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 52
+hindu_temple:
+    max: 29
+    min: 27
+    rad: 72
+    cov: 41
+hippopotamus:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 62
+hole:
+    max: 20
+    min: 19
+    rad: 49
+    cov: 63
+hollow_red_circle:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 67
+honey_pot:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 65
+honeybee:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 63
+hook:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 26
+horizontal_traffic_light:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 52
+horse:
+    max: 25
+    min: 25
+    rad: 61
+    cov: 46
+horse_face:
+    max: 26
+    min: 24
+    rad: 65
+    cov: 49
+horse_racing:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 51
+hospital:
+    max: 26
+    min: 26
+    rad: 65
+    cov: 58
+hot_beverage:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 82
+hot_dog:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 64
+hot_face:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 70
+hot_pepper:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 36
+hot_springs:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 50
+hotel:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 62
+hourglass_done:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 49
+hourglass_not_done:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 49
+house:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 49
+house_with_garden:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 47
+houses:
+    max: 26
+    min: 26
+    rad: 65
+    cov: 61
+hundred_points:
+    max: 24
+    min: 22
+    rad: 60
+    cov: 42
+hushed_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+hut:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 58
+hyacinth:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 45
+ice:
+    max: 24
+    min: 24
+    rad: 58
+    cov: 79
+ice_cream:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 59
+ice_hockey:
+    max: 28
+    min: 27
+    rad: 70
+    cov: 25
+ice_skate:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 42
+id_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+identification_card:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 64
+inbox_tray:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 58
+incoming_envelope:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 46
+index_pointing_at_the_viewer:
+    max: 26
+    min: 25
+    rad: 63
+    cov: 63
+index_pointing_up:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 46
+infinity:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 37
+information:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+input_latin_letters:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+input_latin_lowercase:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+input_latin_uppercase:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+input_numbers:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+input_symbols:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+jack_o_lantern:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 75
+japanese_acceptable_button:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 95
+japanese_application_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+japanese_bargain_button:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 95
+japanese_castle:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 55
+japanese_congratulations_button:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 95
+japanese_discount_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+japanese_dolls:
+    max: 26
+    min: 23
+    rad: 64
+    cov: 46
+japanese_free_of_charge_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+japanese_here_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+japanese_monthly_amount_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+japanese_no_vacancy_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+japanese_not_free_of_charge_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+japanese_open_for_business_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+japanese_passing_grade_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+japanese_post_office:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 60
+japanese_prohibited_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+japanese_reserved_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+japanese_secret_button:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 95
+japanese_service_charge_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+japanese_symbol_for_beginner:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 53
+japanese_vacancy_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+jar:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 68
+jeans:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 48
+jellyfish:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 51
+joker:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 65
+joystick:
+    max: 23
+    min: 21
+    rad: 57
+    cov: 62
+judge:
+    max: 26
+    min: 26
+    rad: 64
+    cov: 45
+kaaba:
+    max: 24
+    min: 24
+    rad: 58
+    cov: 76
+kangaroo:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 47
+key:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 30
+keyboard:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 66
+keycap_:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+keycap_0:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+keycap_1:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+keycap_10:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+keycap_2:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+keycap_3:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+keycap_4:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+keycap_5:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+keycap_6:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+keycap_7:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+keycap_8:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+keycap_9:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+khanda:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+kick_scooter:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 23
+kimono:
+    max: 24
+    min: 22
+    rad: 58
+    cov: 65
+kiss:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 67
+kiss_mark:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 58
+kissing_cat:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 61
+kissing_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+kissing_face_with_closed_eyes:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+kissing_face_with_smiling_eyes:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+kitchen_knife:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 26
+kite:
+    max: 26
+    min: 26
+    rad: 65
+    cov: 32
+kiwi_fruit:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 89
+knot:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 24
+koala:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 72
+lab_coat:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 75
+label:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 43
+lacrosse:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 23
+ladder:
+    max: 28
+    min: 28
+    rad: 69
+    cov: 40
+ladybug:
+    max: 26
+    min: 24
+    rad: 63
+    cov: 51
+landslide:
+    max: 17
+    min: 16
+    rad: 41
+    cov: 14
+laptop:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 59
+large_blue_diamond:
+    max: 20
+    min: 19
+    rad: 50
+    cov: 76
+large_orange_diamond:
+    max: 20
+    min: 19
+    rad: 50
+    cov: 76
+last_quarter_moon:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+last_quarter_moon_face:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 41
+last_track_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+latin_cross:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+leaf_fluttering_in_wind:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 40
+leafless_tree:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 37
+leafy_green:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 59
+ledger:
+    max: 27
+    min: 25
+    rad: 67
+    cov: 63
+left_arrow:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+left_arrow_curving_right:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+left_facing_fist:
+    max: 24
+    min: 22
+    rad: 60
+    cov: 56
+left_luggage:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+left_right_arrow:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+left_speech_bubble:
+    max: 22
+    min: 20
+    rad: 54
+    cov: 70
+leftwards_hand:
+    max: 22
+    min: 20
+    rad: 53
+    cov: 66
+leftwards_pushing_hand:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 38
+leg:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 26
+lemon:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 51
+leo:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+leopard:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 46
+level_slider:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 68
+libra:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+light_blue_heart:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 66
+light_bulb:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 52
+light_rail:
+    max: 28
+    min: 26
+    rad: 68
+    cov: 48
+lime:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 61
+link:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 41
+linked_paperclips:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 35
+lion:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 76
+lipstick:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 44
+litter_in_bin_sign:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+lizard:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 39
+llama:
+    max: 27
+    min: 26
+    rad: 67
+    cov: 31
+lobster:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 45
+locked:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 54
+locked_with_key:
+    max: 26
+    min: 23
+    rad: 65
+    cov: 54
+locked_with_pen:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 52
+locomotive:
+    max: 27
+    min: 25
+    rad: 68
+    cov: 52
+lollipop:
+    max: 27
+    min: 25
+    rad: 68
+    cov: 34
+long_drum:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 49
+lotion_bottle:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 59
+lotus:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 89
+loudly_crying_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+loudspeaker:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 54
+love_hotel:
+    max: 27
+    min: 25
+    rad: 68
+    cov: 59
+love_letter:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 63
+love_you_gesture:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 64
+low_battery:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 58
+luggage:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 67
+lungs:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 47
+lying_face:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 88
+mage:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 52
+magic_wand:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 16
+magnet:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 46
+magnifying_glass_tilted_left:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 46
+magnifying_glass_tilted_right:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 46
+mahjong_red_dragon:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 65
+male_sign:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+mammoth:
+    max: 27
+    min: 25
+    rad: 67
+    cov: 52
+man:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 84
+man_artist:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 45
+man_astronaut:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 51
+man_bald:
+    max: 20
+    min: 19
+    rad: 48
+    cov: 86
+man_beard:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 84
+man_biking:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 33
+man_blond_hair:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 84
+man_bouncing_ball:
+    max: 24
+    min: 22
+    rad: 58
+    cov: 36
+man_bowing:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 46
+man_cartwheeling:
+    max: 29
+    min: 27
+    rad: 71
+    cov: 18
+man_climbing:
+    max: 27
+    min: 25
+    rad: 67
+    cov: 45
+man_construction_worker:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 42
+man_cook:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 48
+man_curly_hair:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 80
+man_dancing:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 33
+man_detective:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 48
+man_elf:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 51
+man_facepalming:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 48
+man_factory_worker:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 47
+man_fairy:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 35
+man_farmer:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 52
+man_feeding_baby:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 40
+man_firefighter:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 48
+man_frowning:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 48
+man_genie:
+    max: 25
+    min: 25
+    rad: 61
+    cov: 45
+man_gesturing_no:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 60
+man_gesturing_ok:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 74
+man_getting_haircut:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 39
+man_getting_massage:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 44
+man_golfing:
+    max: 24
+    min: 22
+    rad: 58
+    cov: 27
+man_guard:
+    max: 25
+    min: 25
+    rad: 61
+    cov: 44
+man_health_worker:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 45
+man_in_lotus_position:
+    max: 24
+    min: 22
+    rad: 59
+    cov: 49
+man_in_manual_wheelchair:
+    max: 24
+    min: 22
+    rad: 58
+    cov: 43
+man_in_manual_wheelchair_facing_right:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 40
+man_in_motorized_wheelchair:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 37
+man_in_motorized_wheelchair_facing_right:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 37
+man_in_steamy_room:
+    max: 28
+    min: 28
+    rad: 70
+    cov: 47
+man_in_tuxedo:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 45
+man_judge:
+    max: 26
+    min: 26
+    rad: 65
+    cov: 44
+man_juggling:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 51
+man_kneeling:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 26
+man_kneeling_facing_right:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 26
+man_lifting_weights:
+    max: 26
+    min: 25
+    rad: 63
+    cov: 36
+man_mage:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 51
+man_mechanic:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 46
+man_mountain_biking:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 52
+man_office_worker:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 44
+man_pilot:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 45
+man_playing_handball:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 30
+man_playing_water_polo:
+    max: 28
+    min: 28
+    rad: 70
+    cov: 47
+man_police_officer:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 43
+man_pouting:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 49
+man_raising_hand:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 50
+man_red_hair:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 84
+man_rowing_boat:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 42
+man_running:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 27
+man_running_facing_right:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 27
+man_s_shoe:
+    max: 24
+    min: 22
+    rad: 58
+    cov: 44
+man_scientist:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 45
+man_shrugging:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 68
+man_singer:
+    max: 26
+    min: 25
+    rad: 63
+    cov: 47
+man_standing:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 31
+man_student:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 49
+man_superhero:
+    max: 28
+    min: 28
+    rad: 70
+    cov: 41
+man_supervillain:
+    max: 28
+    min: 28
+    rad: 69
+    cov: 44
+man_surfing:
+    max: 28
+    min: 25
+    rad: 69
+    cov: 32
+man_swimming:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 54
+man_teacher:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 72
+man_technologist:
+    max: 28
+    min: 28
+    rad: 69
+    cov: 41
+man_tipping_hand:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 45
+man_vampire:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 53
+man_walking:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 30
+man_walking_facing_right:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 30
+man_wearing_turban:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 71
+man_white_hair:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 84
+man_with_veil:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 58
+man_with_white_cane:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 23
+man_with_white_cane_facing_right:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 23
+man_zombie:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 49
+mango:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 51
+mantelpiece_clock:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 55
+manual_wheelchair:
+    max: 28
+    min: 27
+    rad: 68
+    cov: 36
+map_of_japan:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 19
+maple_leaf:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 64
+maracas:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 38
+martial_arts_uniform:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 73
+mate:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 61
+meat_on_bone:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 52
+mechanic:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 46
+mechanical_arm:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 58
+mechanical_leg:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 35
+medal:
+    max: 23
+    min: 23
+    rad: 56
+    cov: 68
+medical_symbol:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 43
+megaphone:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 57
+melon:
+    max: 27
+    min: 24
+    rad: 66
+    cov: 48
+melting_face:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 67
+memo:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 57
+men_holding_hands:
+    max: 24
+    min: 24
+    rad: 58
+    cov: 47
+men_s_room:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+men_with_bunny_ears:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 33
+men_wrestling:
+    max: 27
+    min: 24
+    rad: 66
+    cov: 42
+mending_heart:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 64
+menorah:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+mermaid:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 55
+merman:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 38
+merperson:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 47
+metro:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 99
+microbe:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 53
+microphone:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 32
+microscope:
+    max: 28
+    min: 27
+    rad: 70
+    cov: 32
+middle_finger:
+    max: 22
+    min: 20
+    rad: 54
+    cov: 56
+military_helmet:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 60
+milky_way:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+minibus:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 54
+minus:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 25
+mirror:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 72
+mirror_ball:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 77
+moai:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 67
+mobile_phone:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 66
+mobile_phone_off:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+mobile_phone_with_arrow:
+    max: 27
+    min: 26
+    rad: 67
+    cov: 55
+money_bag:
+    max: 24
+    min: 21
+    rad: 58
+    cov: 67
+money_mouth_face:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 94
+money_with_wings:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 54
+monkey:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 48
+monkey_face:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 74
+monorail:
+    max: 28
+    min: 25
+    rad: 69
+    cov: 48
+moon_cake:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 88
+moon_viewing_ceremony:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+moose:
+    max: 28
+    min: 28
+    rad: 70
+    cov: 49
+mosque:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 57
+mosquito:
+    max: 29
+    min: 28
+    rad: 71
+    cov: 29
+motor_boat:
+    max: 25
+    min: 23
+    rad: 62
+    cov: 49
+motor_scooter:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 44
+motorcycle:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 46
+motorized_wheelchair:
+    max: 27
+    min: 26
+    rad: 67
+    cov: 33
+motorway:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+mount_fuji:
+    max: 24
+    min: 21
+    rad: 58
+    cov: 48
+mountain:
+    max: 27
+    min: 27
+    rad: 67
+    cov: 54
+mountain_cableway:
+    max: 27
+    min: 27
+    rad: 66
+    cov: 56
+mountain_railway:
+    max: 29
+    min: 28
+    rad: 72
+    cov: 52
+mouse:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 60
+mouse_face:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 62
+mouse_trap:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 69
+mouth:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 71
+movie_camera:
+    max: 26
+    min: 23
+    rad: 64
+    cov: 50
+mrs_claus:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 77
+multiply:
+    max: 27
+    min: 27
+    rad: 66
+    cov: 40
+mushroom:
+    max: 19
+    min: 18
+    rad: 46
+    cov: 82
+musical_keyboard:
+    max: 28
+    min: 28
+    rad: 69
+    cov: 66
+musical_note:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 38
+musical_notes:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 38
+musical_score:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 61
+muted_speaker:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 45
+mx_claus:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 62
+nail_polish:
+    max: 28
+    min: 28
+    rad: 70
+    cov: 35
+name_badge:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 75
+national_park:
+    max: 27
+    min: 27
+    rad: 66
+    cov: 73
+nauseated_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+nazar_amulet:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+necktie:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 74
+nerd_face:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 89
+nest_with_eggs:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 64
+nesting_dolls:
+    max: 23
+    min: 21
+    rad: 56
+    cov: 66
+neutral_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+new_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+new_moon:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+new_moon_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+newspaper:
+    max: 26
+    min: 26
+    rad: 64
+    cov: 66
+next_track_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+ng_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+night_with_stars:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 76
+nine_o_clock:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+nine_thirty:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+ninja:
+    max: 27
+    min: 24
+    rad: 66
+    cov: 45
+no_bicycles:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+no_entry:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 98
+no_littering:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+no_mobile_phones:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+no_one_under_eighteen:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+no_pedestrians:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+no_smoking:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+non_potable_water:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+nose:
+    max: 20
+    min: 18
+    rad: 48
+    cov: 58
+notebook:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 68
+notebook_with_decorative_cover:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 65
+nut_and_bolt:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 38
+o_button_blood_type_:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+octopus:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 68
+oden:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 33
+office_building:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 63
+office_worker:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 45
+ogre:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 69
+oil_drum:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 55
+ok_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+ok_hand:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 57
+old_key:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 30
+old_man:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 84
+old_woman:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 79
+older_person:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 84
+olive:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 88
+om:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+on_arrow:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 44
+oncoming_automobile:
+    max: 20
+    min: 19
+    rad: 50
+    cov: 55
+oncoming_bus:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 65
+oncoming_fist:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 69
+oncoming_police_car:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 59
+oncoming_taxi:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 55
+one_o_clock:
+    max: 21
+    min: 21
+    rad: 51
+    cov: 99
+one_piece_swimsuit:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 46
+one_thirty:
+    max: 21
+    min: 21
+    rad: 51
+    cov: 99
+onion:
+    max: 20
+    min: 19
+    rad: 49
+    cov: 73
+open_book:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 66
+open_file_folder:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 58
+open_hands:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 57
+open_mailbox_with_lowered_flag:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 59
+open_mailbox_with_raised_flag:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 54
+ophiuchus:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+optical_disk:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 93
+orange_book:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 65
+orange_circle:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 95
+orange_heart:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 66
+orange_square:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+orangutan:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 59
+orca:
+    max: 17
+    min: 16
+    rad: 41
+    cov: 14
+orthodox_cross:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+otter:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 66
+outbox_tray:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 60
+owl:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 57
+ox:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 48
+oyster:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 67
+p_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+package:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 88
+page_facing_up:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 62
+page_with_curl:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 59
+pager:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 67
+paintbrush:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 22
+palm_down_hand:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 54
+palm_tree:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 44
+palm_up_hand:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 54
+palms_up_together:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 66
+pancakes:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 77
+panda:
+    max: 24
+    min: 22
+    rad: 58
+    cov: 73
+paperclip:
+    max: 21
+    min: 21
+    rad: 51
+    cov: 36
+parachute:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 45
+parrot:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 49
+part_alternation_mark:
+    max: 26
+    min: 23
+    rad: 65
+    cov: 19
+party_popper:
+    max: 27
+    min: 24
+    rad: 66
+    cov: 35
+partying_face:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 63
+passenger_ship:
+    max: 28
+    min: 27
+    rad: 70
+    cov: 50
+passport_control:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+pause_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+paws:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 31
+pea_pod:
+    max: 27
+    min: 27
+    rad: 66
+    cov: 44
+peace_symbol:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+peach:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 61
+peacock:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 74
+peanuts:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 52
+pear:
+    max: 25
+    min: 23
+    rad: 62
+    cov: 45
+pen:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 25
+pencil:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 26
+penguin:
+    max: 21
+    min: 21
+    rad: 51
+    cov: 64
+pensive_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+people_holding_hands:
+    max: 24
+    min: 24
+    rad: 58
+    cov: 48
+people_hugging:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 56
+people_with_bunny_ears:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 33
+people_wrestling:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 41
+performing_arts:
+    max: 27
+    min: 25
+    rad: 68
+    cov: 38
+persevering_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+person:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 82
+person_bald:
+    max: 20
+    min: 20
+    rad: 49
+    cov: 80
+person_beard:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 84
+person_biking:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 32
+person_blond_hair:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 84
+person_bouncing_ball:
+    max: 24
+    min: 22
+    rad: 58
+    cov: 36
+person_bowing:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 47
+person_cartwheeling:
+    max: 29
+    min: 27
+    rad: 71
+    cov: 18
+person_climbing:
+    max: 27
+    min: 26
+    rad: 67
+    cov: 46
+person_curly_hair:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 73
+person_facepalming:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 48
+person_feeding_baby:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 42
+person_fencing:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 21
+person_frowning:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 48
+person_gesturing_no:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 59
+person_gesturing_ok:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 75
+person_getting_haircut:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 40
+person_getting_massage:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 44
+person_golfing:
+    max: 24
+    min: 22
+    rad: 58
+    cov: 27
+person_in_bed:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 56
+person_in_lotus_position:
+    max: 24
+    min: 22
+    rad: 59
+    cov: 49
+person_in_manual_wheelchair:
+    max: 24
+    min: 22
+    rad: 58
+    cov: 43
+person_in_manual_wheelchair_facing_right:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 40
+person_in_motorized_wheelchair:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 37
+person_in_motorized_wheelchair_facing_right:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 37
+person_in_steamy_room:
+    max: 28
+    min: 28
+    rad: 70
+    cov: 47
+person_in_suit_levitating:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 26
+person_in_tuxedo:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 45
+person_juggling:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 51
+person_kneeling:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 26
+person_kneeling_facing_right:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 26
+person_lifting_weights:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 37
+person_mountain_biking:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 52
+person_playing_handball:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 29
+person_playing_water_polo:
+    max: 28
+    min: 28
+    rad: 69
+    cov: 48
+person_pouting:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 51
+person_raising_hand:
+    max: 27
+    min: 26
+    rad: 67
+    cov: 48
+person_red_hair:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 84
+person_rowing_boat:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 41
+person_running:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 27
+person_running_facing_right:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 27
+person_shrugging:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 66
+person_standing:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 31
+person_surfing:
+    max: 28
+    min: 25
+    rad: 69
+    cov: 33
+person_swimming:
+    max: 27
+    min: 26
+    rad: 67
+    cov: 54
+person_taking_bath:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 57
+person_tipping_hand:
+    max: 28
+    min: 25
+    rad: 69
+    cov: 44
+person_walking:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 29
+person_walking_facing_right:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 30
+person_wearing_turban:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 70
+person_white_hair:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 84
+person_with_crown:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 40
+person_with_skullcap:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 41
+person_with_veil:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 58
+person_with_white_cane:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 23
+person_with_white_cane_facing_right:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 23
+petri_dish:
+    max: 21
+    min: 21
+    rad: 51
+    cov: 93
+phoenix:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 58
+pick:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 22
+pickup_truck:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 50
+pie:
+    max: 21
+    min: 21
+    rad: 51
+    cov: 86
+pig:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 57
+pig_face:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 76
+pig_nose:
+    max: 21
+    min: 20
+    rad: 53
+    cov: 73
+pile_of_poo:
+    max: 27
+    min: 25
+    rad: 67
+    cov: 57
+pill:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 54
+pilot:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 45
+pinata:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 47
+pinched_fingers:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 39
+pinching_hand:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 60
+pine_decoration:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 50
+pineapple:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 49
+ping_pong:
+    max: 24
+    min: 21
+    rad: 59
+    cov: 46
+pink_heart:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 66
+pirate_flag:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 63
+pisces:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+pistol:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 64
+pizza:
+    max: 26
+    min: 26
+    rad: 64
+    cov: 46
+placard:
+    max: 24
+    min: 21
+    rad: 59
+    cov: 58
+place_of_worship:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+play_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+play_or_pause_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+playground_slide:
+    max: 29
+    min: 27
+    rad: 71
+    cov: 39
+pleading_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+plunger:
+    max: 28
+    min: 25
+    rad: 69
+    cov: 21
+plus:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 54
+polar_bear:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 73
+police_car:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 53
+police_car_light:
+    max: 25
+    min: 23
+    rad: 63
+    cov: 40
+police_officer:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 44
+poodle:
+    max: 26
+    min: 24
+    rad: 65
+    cov: 41
+pool_8_ball:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 98
+popcorn:
+    max: 24
+    min: 22
+    rad: 60
+    cov: 59
+post_office:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 60
+postal_horn:
+    max: 25
+    min: 23
+    rad: 63
+    cov: 25
+postbox:
+    max: 24
+    min: 24
+    rad: 58
+    cov: 58
+pot_of_food:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 73
+potable_water:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+potato:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 76
+potted_plant:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 47
+poultry_leg:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 42
+pound_banknote:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 71
+pouring_liquid:
+    max: 26
+    min: 26
+    rad: 65
+    cov: 31
+pouting_cat:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 62
+prayer_beads:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 41
+pregnant_man:
+    max: 24
+    min: 22
+    rad: 59
+    cov: 44
+pregnant_person:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 43
+pregnant_woman:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 44
+pretzel:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 59
+prince:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 40
+princess:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 42
+printer:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 77
+prohibited:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+purple_circle:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 96
+purple_heart:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 66
+purple_square:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+purse:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 76
+pushpin:
+    max: 27
+    min: 25
+    rad: 68
+    cov: 28
+puzzle_piece:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 65
+rabbit:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 59
+rabbit_face:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 58
+raccoon:
+    max: 23
+    min: 21
+    rad: 56
+    cov: 66
+racing_car:
+    max: 23
+    min: 21
+    rad: 58
+    cov: 29
+radio:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 65
+radio_button:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+radioactive:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+railway_car:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 64
+railway_track:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+rainbow:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 49
+rainbow_flag:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 63
+raised_back_of_hand:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 71
+raised_fist:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 71
+raised_hand:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 70
+raising_hands:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 52
+ram:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 40
+rat:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 54
+razor:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 28
+receipt:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 60
+record_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+recycling_symbol:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 54
+red_apple:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 61
+red_circle:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 95
+red_envelope:
+    max: 28
+    min: 28
+    rad: 69
+    cov: 66
+red_exclamation_mark:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 20
+red_heart:
+    max: 23
+    min: 23
+    rad: 56
+    cov: 65
+red_paper_lantern:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 65
+red_question_mark:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 36
+red_square:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+red_triangle_pointed_down:
+    max: 14
+    min: 13
+    rad: 33
+    cov: 41
+red_triangle_pointed_up:
+    max: 14
+    min: 13
+    rad: 33
+    cov: 47
+registered:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 58
+relieved_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+reminder_ribbon:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 50
+repeat_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+repeat_single_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+rescue_worker_s_helmet:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 65
+restroom:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+reverse_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+revolving_hearts:
+    max: 27
+    min: 25
+    rad: 67
+    cov: 41
+rhinoceros:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 48
+ribbon:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 57
+rice_ball:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 74
+rice_cracker:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 94
+right_anger_bubble:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 68
+right_arrow:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+right_arrow_curving_down:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+right_arrow_curving_left:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+right_arrow_curving_up:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+right_facing_fist:
+    max: 24
+    min: 22
+    rad: 60
+    cov: 56
+rightwards_hand:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 66
+rightwards_pushing_hand:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 38
+ring:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 46
+ring_buoy:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 65
+ringed_planet:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 43
+roasted_sweet_potato:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 51
+robot:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 60
+rock:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 67
+rocket:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 36
+roll_of_paper:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 61
+rolled_up_newspaper:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 43
+roller_coaster:
+    max: 29
+    min: 27
+    rad: 71
+    cov: 31
+roller_skate:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 51
+rolling_on_the_floor_laughing:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 89
+rooster:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 52
+root_vegetable:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 41
+rose:
+    max: 22
+    min: 22
+    rad: 53
+    cov: 42
+rosette:
+    max: 21
+    min: 21
+    rad: 51
+    cov: 92
+round_pushpin:
+    max: 22
+    min: 20
+    rad: 54
+    cov: 39
+rugby_football:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 67
+running_shirt:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 55
+running_shoe:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 36
+sad_but_relieved_face:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 73
+safety_pin:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 42
+safety_vest:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 68
+sagittarius:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+sailboat:
+    max: 30
+    min: 28
+    rad: 74
+    cov: 34
+sake:
+    max: 29
+    min: 28
+    rad: 71
+    cov: 44
+salt:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 54
+saluting_face:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 75
+sandwich:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 85
+santa_claus:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 75
+sari:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 54
+satellite:
+    max: 23
+    min: 21
+    rad: 56
+    cov: 57
+satellite_antenna:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 29
+sauropod:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 37
+saxophone:
+    max: 27
+    min: 24
+    rad: 67
+    cov: 27
+scarf:
+    max: 27
+    min: 25
+    rad: 68
+    cov: 44
+school:
+    max: 28
+    min: 28
+    rad: 70
+    cov: 49
+scientist:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 45
+scissors:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 47
+scorpio:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+scorpion:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 48
+screwdriver:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 23
+scroll:
+    max: 27
+    min: 27
+    rad: 67
+    cov: 54
+seal:
+    max: 25
+    min: 25
+    rad: 61
+    cov: 48
+seat:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 34
+see_no_evil_monkey:
+    max: 27
+    min: 24
+    rad: 67
+    cov: 59
+seedling:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 29
+selfie:
+    max: 26
+    min: 26
+    rad: 65
+    cov: 32
+service_dog:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 42
+seven_o_clock:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+seven_thirty:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+sewing_needle:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 18
+shaking_face:
+    max: 24
+    min: 24
+    rad: 58
+    cov: 92
+shallow_pan_of_food:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 68
+shamrock:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 61
+shark:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 53
+shaved_ice:
+    max: 23
+    min: 21
+    rad: 58
+    cov: 61
+sheaf_of_rice:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 36
+sheep:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 40
+shield:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 73
+shinto_shrine:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 30
+ship:
+    max: 27
+    min: 27
+    rad: 67
+    cov: 48
+shooting_star:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+shopping_bags:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 51
+shopping_cart:
+    max: 27
+    min: 26
+    rad: 67
+    cov: 37
+shortcake:
+    max: 29
+    min: 26
+    rad: 71
+    cov: 51
+shorts:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 64
+shovel:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 26
+shower:
+    max: 27
+    min: 25
+    rad: 68
+    cov: 36
+shrimp:
+    max: 27
+    min: 25
+    rad: 68
+    cov: 46
+shuffle_tracks_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+shushing_face:
+    max: 24
+    min: 22
+    rad: 58
+    cov: 88
+sign_of_the_horns:
+    max: 23
+    min: 21
+    rad: 56
+    cov: 51
+singer:
+    max: 26
+    min: 25
+    rad: 63
+    cov: 47
+six_o_clock:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 98
+six_thirty:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+skateboard:
+    max: 26
+    min: 26
+    rad: 65
+    cov: 39
+skier:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 27
+skis:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 35
+skull:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 83
+skull_and_crossbones:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 53
+skunk:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 50
+sled:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 47
+sleeping_face:
+    max: 27
+    min: 24
+    rad: 67
+    cov: 61
+sleepy_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+slightly_frowning_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+slightly_smiling_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+slot_machine:
+    max: 26
+    min: 26
+    rad: 64
+    cov: 61
+sloth:
+    max: 27
+    min: 25
+    rad: 67
+    cov: 49
+small_airplane:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 47
+small_blue_diamond:
+    max: 10
+    min: 10
+    rad: 25
+    cov: 87
+small_orange_diamond:
+    max: 10
+    min: 10
+    rad: 25
+    cov: 87
+smiling_cat_with_heart_eyes:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 62
+smiling_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+smiling_face_with_halo:
+    max: 26
+    min: 24
+    rad: 63
+    cov: 71
+smiling_face_with_heart_eyes:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 71
+smiling_face_with_hearts:
+    max: 28
+    min: 27
+    rad: 70
+    cov: 60
+smiling_face_with_horns:
+    max: 26
+    min: 23
+    rad: 64
+    cov: 70
+smiling_face_with_open_hands:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 73
+smiling_face_with_smiling_eyes:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+smiling_face_with_sunglasses:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 75
+smiling_face_with_tear:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+smirking_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+snail:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 60
+snake:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 45
+sneezing_face:
+    max: 25
+    min: 23
+    rad: 62
+    cov: 69
+snow_capped_mountain:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 48
+snowboarder:
+    max: 28
+    min: 28
+    rad: 69
+    cov: 49
+snowflake:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 57
+snowman:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 61
+snowman_without_snow:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 64
+soap:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 70
+soccer_ball:
+    max: 20
+    min: 20
+    rad: 48
+    cov: 98
+socks:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 64
+soft_ice_cream:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 56
+softball:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+soon_arrow:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 38
+sos_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+spade_suit:
+    max: 24
+    min: 22
+    rad: 59
+    cov: 69
+spaghetti:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 52
+sparkle:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+sparkler:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+sparkles:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 41
+sparkling_heart:
+    max: 23
+    min: 23
+    rad: 56
+    cov: 68
+speak_no_evil_monkey:
+    max: 26
+    min: 23
+    rad: 63
+    cov: 65
+speaker_high_volume:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 57
+speaker_low_volume:
+    max: 18
+    min: 18
+    rad: 45
+    cov: 65
+speaker_medium_volume:
+    max: 19
+    min: 19
+    rad: 47
+    cov: 64
+speaking_head:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 50
+speech_balloon:
+    max: 21
+    min: 20
+    rad: 53
+    cov: 68
+speedboat:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 50
+spider:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 37
+spider_web:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 42
+spiral_calendar:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 74
+spiral_notepad:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 61
+spiral_shell:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 53
+splatter:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 42
+sponge:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 71
+spoon:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 21
+sport_utility_vehicle:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 60
+sports_medal:
+    max: 26
+    min: 26
+    rad: 64
+    cov: 50
+spouting_whale:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 56
+squid:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 52
+squinting_face_with_tongue:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+stadium:
+    max: 27
+    min: 26
+    rad: 67
+    cov: 51
+star:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 60
+star_and_crescent:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+star_of_david:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+star_struck:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 80
+station:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 52
+statue_of_liberty:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 38
+steaming_bowl:
+    max: 27
+    min: 25
+    rad: 67
+    cov: 39
+stethoscope:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 23
+stop_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+stop_sign:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 93
+stopwatch:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 73
+straight_ruler:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 43
+strawberry:
+    max: 22
+    min: 20
+    rad: 54
+    cov: 67
+student:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 51
+studio_microphone:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 51
+stuffed_flatbread:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 95
+sun:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 88
+sun_behind_cloud:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 68
+sun_behind_large_cloud:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 67
+sun_behind_rain_cloud:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 55
+sun_behind_small_cloud:
+    max: 24
+    min: 22
+    rad: 60
+    cov: 66
+sun_with_face:
+    max: 21
+    min: 21
+    rad: 51
+    cov: 90
+sunflower:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 64
+sunglasses:
+    max: 21
+    min: 20
+    rad: 51
+    cov: 42
+sunrise:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 76
+sunrise_over_mountains:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 76
+sunset:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 76
+superhero:
+    max: 28
+    min: 28
+    rad: 70
+    cov: 41
+supervillain:
+    max: 28
+    min: 28
+    rad: 70
+    cov: 45
+sushi:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 65
+suspension_railway:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 58
+swan:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 46
+sweat_droplets:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 45
+synagogue:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 54
+syringe:
+    max: 27
+    min: 25
+    rad: 67
+    cov: 24
+t_rex:
+    max: 26
+    min: 23
+    rad: 64
+    cov: 39
+t_shirt:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 56
+taco:
+    max: 23
+    min: 21
+    rad: 56
+    cov: 63
+takeout_box:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 70
+tamale:
+    max: 23
+    min: 23
+    rad: 56
+    cov: 61
+tanabata_tree:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 36
+tangerine:
+    max: 24
+    min: 22
+    rad: 59
+    cov: 55
+taurus:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+taxi:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 57
+teacher:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 72
+teacup_without_handle:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 44
+teapot:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 62
+tear_off_calendar:
+    max: 26
+    min: 25
+    rad: 63
+    cov: 73
+technologist:
+    max: 28
+    min: 28
+    rad: 70
+    cov: 41
+teddy_bear:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 65
+telephone:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 64
+telephone_receiver:
+    max: 27
+    min: 26
+    rad: 67
+    cov: 30
+telescope:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 27
+television:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 59
+ten_o_clock:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+ten_thirty:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+tennis:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 33
+tent:
+    max: 26
+    min: 26
+    rad: 65
+    cov: 41
+test_tube:
+    max: 25
+    min: 23
+    rad: 62
+    cov: 35
+thermometer:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 32
+thinking_face:
+    max: 25
+    min: 23
+    rad: 62
+    cov: 72
+thong_sandal:
+    max: 21
+    min: 21
+    rad: 51
+    cov: 60
+thought_balloon:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 50
+thread:
+    max: 26
+    min: 26
+    rad: 65
+    cov: 46
+three_o_clock:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+three_thirty:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+thumbs_down:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 55
+thumbs_up:
+    max: 24
+    min: 22
+    rad: 60
+    cov: 58
+ticket:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 58
+tiger:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 46
+tiger_face:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 75
+timer_clock:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 67
+tired_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+toilet:
+    max: 27
+    min: 25
+    rad: 67
+    cov: 40
+tokyo_tower:
+    max: 27
+    min: 24
+    rad: 66
+    cov: 25
+tomato:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 75
+tongue:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 46
+toolbox:
+    max: 26
+    min: 23
+    rad: 64
+    cov: 64
+tooth:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 62
+toothbrush:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 26
+top_arrow:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 38
+top_hat:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 65
+tornado:
+    max: 28
+    min: 26
+    rad: 70
+    cov: 41
+trackball:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 70
+tractor:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 58
+trade_mark:
+    max: 18
+    min: 17
+    rad: 44
+    cov: 30
+train:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 54
+tram:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 61
+tram_car:
+    max: 28
+    min: 28
+    rad: 69
+    cov: 61
+transgender_flag:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 63
+transgender_symbol:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+treasure_chest:
+    max: 17
+    min: 16
+    rad: 41
+    cov: 14
+triangular_flag:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 30
+triangular_ruler:
+    max: 30
+    min: 27
+    rad: 74
+    cov: 40
+trident_emblem:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 51
+troll:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 50
+trolleybus:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 63
+trombone:
+    max: 17
+    min: 16
+    rad: 41
+    cov: 14
+trophy:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 48
+tropical_drink:
+    max: 23
+    min: 23
+    rad: 57
+    cov: 44
+tropical_fish:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 79
+trumpet:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 37
+tulip:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 54
+tumbler_glass:
+    max: 27
+    min: 27
+    rad: 67
+    cov: 66
+turkey:
+    max: 28
+    min: 25
+    rad: 69
+    cov: 53
+turtle:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 51
+twelve_o_clock:
+    max: 21
+    min: 21
+    rad: 51
+    cov: 100
+twelve_thirty:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+two_hearts:
+    max: 26
+    min: 24
+    rad: 65
+    cov: 36
+two_hump_camel:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 42
+two_o_clock:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 99
+two_thirty:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+umbrella:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 55
+umbrella_on_ground:
+    max: 25
+    min: 23
+    rad: 63
+    cov: 57
+umbrella_with_rain_drops:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 38
+unamused_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+unicorn:
+    max: 27
+    min: 26
+    rad: 67
+    cov: 47
+unlocked:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 45
+up_arrow:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+up_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+up_down_arrow:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+up_left_arrow:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+up_right_arrow:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+upside_down_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+upwards_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+vampire:
+    max: 26
+    min: 25
+    rad: 63
+    cov: 52
+vertical_traffic_light:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 53
+vibration_mode:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+victory_hand:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 56
+video_camera:
+    max: 25
+    min: 23
+    rad: 63
+    cov: 47
+video_game:
+    max: 24
+    min: 22
+    rad: 59
+    cov: 55
+videocassette:
+    max: 23
+    min: 23
+    rad: 58
+    cov: 69
+violin:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 40
+virgo:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+volcano:
+    max: 26
+    min: 26
+    rad: 65
+    cov: 43
+volleyball:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 95
+vs_button:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+vulcan_salute:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 68
+waffle:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 63
+waning_crescent_moon:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 98
+waning_gibbous_moon:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 98
+warning:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 38
+wastebasket:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 56
+watch:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 71
+water_buffalo:
+    max: 26
+    min: 24
+    rad: 64
+    cov: 46
+water_closet:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+water_pistol:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 37
+water_wave:
+    max: 28
+    min: 25
+    rad: 69
+    cov: 45
+watermelon:
+    max: 25
+    min: 22
+    rad: 62
+    cov: 63
+waving_hand:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 50
+wavy_dash:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 19
+waxing_crescent_moon:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 100
+waxing_gibbous_moon:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+weary_cat:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 56
+weary_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+wedding:
+    max: 28
+    min: 26
+    rad: 69
+    cov: 46
+whale:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 59
+wheel:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 74
+wheel_of_dharma:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+wheelchair_symbol:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+white_cane:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 13
+white_circle:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 96
+white_exclamation_mark:
+    max: 20
+    min: 20
+    rad: 50
+    cov: 20
+white_flag:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 35
+white_flower:
+    max: 22
+    min: 21
+    rad: 54
+    cov: 85
+white_heart:
+    max: 23
+    min: 23
+    rad: 56
+    cov: 65
+white_large_square:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+white_medium_small_square:
+    max: 16
+    min: 15
+    rad: 39
+    cov: 74
+white_medium_square:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 75
+white_question_mark:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 36
+white_small_square:
+    max: 10
+    min: 10
+    rad: 24
+    cov: 72
+white_square_button:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 70
+wilted_flower:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 36
+wind_chime:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 38
+wind_face:
+    max: 28
+    min: 28
+    rad: 70
+    cov: 43
+window:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 76
+wine_glass:
+    max: 22
+    min: 22
+    rad: 54
+    cov: 51
+wing:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 45
+winking_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+winking_face_with_tongue:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+wireless:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+wolf:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 60
+woman:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 73
+woman_and_man_holding_hands:
+    max: 24
+    min: 24
+    rad: 58
+    cov: 48
+woman_artist:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 48
+woman_astronaut:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 51
+woman_bald:
+    max: 19
+    min: 19
+    rad: 47
+    cov: 83
+woman_beard:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 73
+woman_biking:
+    max: 28
+    min: 26
+    rad: 68
+    cov: 33
+woman_blond_hair:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 69
+woman_bouncing_ball:
+    max: 24
+    min: 22
+    rad: 58
+    cov: 37
+woman_bowing:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 51
+woman_cartwheeling:
+    max: 29
+    min: 27
+    rad: 71
+    cov: 18
+woman_climbing:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 46
+woman_construction_worker:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 46
+woman_cook:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 53
+woman_curly_hair:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 82
+woman_dancing:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 51
+woman_detective:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 50
+woman_elf:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 49
+woman_facepalming:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 51
+woman_factory_worker:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 50
+woman_fairy:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 35
+woman_farmer:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 52
+woman_feeding_baby:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 44
+woman_firefighter:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 48
+woman_frowning:
+    max: 25
+    min: 23
+    rad: 61
+    cov: 55
+woman_genie:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 42
+woman_gesturing_no:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 60
+woman_gesturing_ok:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 75
+woman_getting_haircut:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 41
+woman_getting_massage:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 49
+woman_golfing:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 28
+woman_guard:
+    max: 25
+    min: 25
+    rad: 61
+    cov: 47
+woman_health_worker:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 48
+woman_in_lotus_position:
+    max: 24
+    min: 21
+    rad: 59
+    cov: 52
+woman_in_manual_wheelchair:
+    max: 24
+    min: 22
+    rad: 59
+    cov: 43
+woman_in_manual_wheelchair_facing_right:
+    max: 24
+    min: 23
+    rad: 59
+    cov: 40
+woman_in_motorized_wheelchair:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 37
+woman_in_motorized_wheelchair_facing_right:
+    max: 24
+    min: 23
+    rad: 60
+    cov: 37
+woman_in_steamy_room:
+    max: 28
+    min: 28
+    rad: 70
+    cov: 48
+woman_in_tuxedo:
+    max: 26
+    min: 25
+    rad: 63
+    cov: 48
+woman_judge:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 47
+woman_juggling:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 53
+woman_kneeling:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 26
+woman_kneeling_facing_right:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 26
+woman_lifting_weights:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 37
+woman_mage:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 52
+woman_mechanic:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 50
+woman_mountain_biking:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 52
+woman_office_worker:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 48
+woman_pilot:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 49
+woman_playing_handball:
+    max: 24
+    min: 24
+    rad: 60
+    cov: 31
+woman_playing_water_polo:
+    max: 28
+    min: 28
+    rad: 69
+    cov: 48
+woman_police_officer:
+    max: 26
+    min: 25
+    rad: 65
+    cov: 47
+woman_pouting:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 53
+woman_raising_hand:
+    max: 27
+    min: 26
+    rad: 67
+    cov: 53
+woman_red_hair:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 69
+woman_rowing_boat:
+    max: 28
+    min: 27
+    rad: 69
+    cov: 41
+woman_running:
+    max: 25
+    min: 25
+    rad: 61
+    cov: 27
+woman_running_facing_right:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 27
+woman_s_boot:
+    max: 29
+    min: 28
+    rad: 71
+    cov: 45
+woman_s_clothes:
+    max: 22
+    min: 21
+    rad: 55
+    cov: 58
+woman_s_hat:
+    max: 21
+    min: 20
+    rad: 52
+    cov: 66
+woman_s_sandal:
+    max: 24
+    min: 22
+    rad: 58
+    cov: 32
+woman_scientist:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 48
+woman_shrugging:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 72
+woman_singer:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 49
+woman_standing:
+    max: 21
+    min: 21
+    rad: 53
+    cov: 32
+woman_student:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 53
+woman_superhero:
+    max: 28
+    min: 28
+    rad: 70
+    cov: 43
+woman_supervillain:
+    max: 28
+    min: 28
+    rad: 69
+    cov: 46
+woman_surfing:
+    max: 28
+    min: 25
+    rad: 69
+    cov: 33
+woman_swimming:
+    max: 27
+    min: 26
+    rad: 67
+    cov: 55
+woman_teacher:
+    max: 26
+    min: 26
+    rad: 64
+    cov: 70
+woman_technologist:
+    max: 28
+    min: 28
+    rad: 70
+    cov: 43
+woman_tipping_hand:
+    max: 28
+    min: 25
+    rad: 69
+    cov: 49
+woman_vampire:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 53
+woman_walking:
+    max: 23
+    min: 22
+    rad: 58
+    cov: 30
+woman_walking_facing_right:
+    max: 23
+    min: 22
+    rad: 57
+    cov: 30
+woman_wearing_turban:
+    max: 24
+    min: 24
+    rad: 58
+    cov: 68
+woman_white_hair:
+    max: 25
+    min: 24
+    rad: 62
+    cov: 69
+woman_with_headscarf:
+    max: 25
+    min: 25
+    rad: 62
+    cov: 46
+woman_with_veil:
+    max: 25
+    min: 25
+    rad: 63
+    cov: 58
+woman_with_white_cane:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 24
+woman_with_white_cane_facing_right:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 23
+woman_zombie:
+    max: 25
+    min: 23
+    rad: 62
+    cov: 55
+women_holding_hands:
+    max: 24
+    min: 23
+    rad: 58
+    cov: 49
+women_s_room:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+women_with_bunny_ears:
+    max: 27
+    min: 26
+    rad: 68
+    cov: 34
+women_wrestling:
+    max: 27
+    min: 25
+    rad: 66
+    cov: 42
+wood:
+    max: 20
+    min: 20
+    rad: 49
+    cov: 78
+woozy_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+world_map:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 61
+worm:
+    max: 25
+    min: 24
+    rad: 63
+    cov: 23
+worried_face:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 97
+wrapped_gift:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 69
+wrench:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 26
+writing_hand:
+    max: 27
+    min: 27
+    rad: 68
+    cov: 47
+x_ray:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+yarn:
+    max: 22
+    min: 22
+    rad: 55
+    cov: 40
+yawning_face:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 84
+yellow_circle:
+    max: 21
+    min: 21
+    rad: 52
+    cov: 95
+yellow_heart:
+    max: 23
+    min: 22
+    rad: 56
+    cov: 66
+yellow_square:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+yen_banknote:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 68
+yin_yang:
+    max: 27
+    min: 26
+    rad: 66
+    cov: 73
+yo_yo:
+    max: 23
+    min: 21
+    rad: 57
+    cov: 62
+zany_face:
+    max: 22
+    min: 21
+    rad: 53
+    cov: 96
+zebra:
+    max: 25
+    min: 24
+    rad: 61
+    cov: 47
+zipper_mouth_face:
+    max: 27
+    min: 25
+    rad: 68
+    cov: 60
+zombie:
+    max: 26
+    min: 25
+    rad: 64
+    cov: 48
+zzz:
+    max: 24
+    min: 24
+    rad: 59
+    cov: 29
