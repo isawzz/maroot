@@ -858,6 +858,7 @@ const STYLES = {
       return `${n} solid ${colorFrom(color)}`;
     } else return v;
   },
+  borderRadius: 'border-radius',
   box: v => ['box-sizing', v ? 'border-box' : 'content-box'],
   breakWord: ['overflow-wrap', 'break-word'],
   caret: 'caret-color',

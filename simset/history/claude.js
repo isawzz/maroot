@@ -1,3 +1,4 @@
+
 /**
  * uiTypeCard52  (improved)
  * ─────────────────────────────────────────────────────────────────────────────
@@ -42,7 +43,7 @@ function uiTypeCard52(ckey, h = 100, bg = 'red', border = 'black', borderthickne
   const div = mDom(null, {
     h, w,
     background: bg,
-    rounding: Math.round(w / 20), // matches SVG rx="12" in viewBox width 240: 12/240*w = w/20
+    borderRadius: Math.round(w / 20), // matches SVG rx="12" in viewBox width 240: 12/240*w = w/20
     overflow: 'hidden'                 // clips any stroke bleed at the corners
   }, { html });
 

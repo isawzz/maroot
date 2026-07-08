@@ -42,7 +42,7 @@ function uiTypeCard52(ckey, h = 100, bg = 'red', border = 'black', borderthickne
   const div = mDom(null, {
     h, w,
     background: bg,
-    rounding: Math.round(w / 20), // matches SVG rx="12" in viewBox width 240: 12/240*w = w/20
+    rounding: Math.ceil(w / 20), // matches SVG rx="12" in viewBox width 240: 12/240*w = w/20
     overflow: 'hidden'                 // clips any stroke bleed at the corners
   }, { html });
 
@@ -166,14 +166,10 @@ function _flipAnimate(card, toHtml, durationMs) {
   return new Promise(resolve => {
     const div  = card.div;
     const half = durationMs / 2;
-    // Preserve any rotation applied by splayCards so the card stays in its
-    // fanned/splayed position throughout the flip.
-    const rot  = card.splayRotation || 0;
-    const base = rot ? `rotate(${rot.toFixed(2)}deg)` : '';
 
     // Phase 1 — fold away: 0 → 90deg
     div.style.transition = `transform ${half}ms ease-in`;
-    div.style.transform  = `perspective(600px) rotateY(90deg) ${base}`;
+    div.style.transform  = 'perspective(600px) rotateY(90deg)';
 
     setTimeout(() => {
       // Swap content at the fold point (card is edge-on, invisible)
@@ -181,21 +177,17 @@ function _flipAnimate(card, toHtml, durationMs) {
 
       // Jump to −90deg (other side, still edge-on) without animation
       div.style.transition = 'none';
-      div.style.transform  = `perspective(600px) rotateY(-90deg) ${base}`;
+      div.style.transform  = 'perspective(600px) rotateY(-90deg)';
 
       // Force reflow so the browser registers −90deg before we transition
       void div.offsetHeight;
 
       // Phase 2 — unfold: −90 → 0deg
       div.style.transition = `transform ${half}ms ease-out`;
-      div.style.transform  = `perspective(600px) rotateY(0deg) ${base}`;
+      div.style.transform  = 'perspective(600px) rotateY(0deg)';
 
-      setTimeout(() => {
-        // Clean up perspective from transform, leaving only the splay rotation
-        div.style.transition = 'none';
-        div.style.transform  = base;
-        resolve();
-      }, half);
+      // Resolve once the second half completes
+      setTimeout(resolve, half);
     }, half);
   });
 }
