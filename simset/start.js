@@ -1,6 +1,6 @@
 onload = start; VERBOSE = false; TESTING = true; DEV = false; POLLING = true;
 
-function start() { test0_cardbasics(); }
+function start() { test0_createGame(); }
 
 async function test0_cardbasics() {
 	await loadAssetsStaticPreload();
@@ -8,10 +8,11 @@ async function test0_cardbasics() {
 
 	let cards = ['2C', '3C', '4C','KH', 'QS', 'QH', '2H', '3H', '4H', '5H', '6H', '7H', '8H', '9H', 'TH', 'JH', 'QH', 'KH', 'AH'];
 
-	let c = uiTypeCard52('QH', 200); mAppend(d, c.div);
-	let c1 = uiTypeCard52('KH', 200); mAppend(d, c.div);
-	let c2 = uiTypeCard52('QS', 200); mAppend(d, c.div);
+	let c = uiTypeCard52('QH', 200); mAppend(d, c.div); 
+	let c1 = uiTypeCard52('KH', 200); mAppend(d, c1.div);
+	let c2 = uiTypeCard52('QS', 200); mAppend(d, c2.div);
 	let dc = iDiv(c);
+	return;
 	//setCardBorder(c, 'red', 3);
 	// await mSleep(1000);
 	// for (const i of range(10)) { await flipCard(c); }

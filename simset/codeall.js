@@ -906,9 +906,9 @@ function addAnnotationsToEmojiDict(x, en, es, fr, de) {
   }
   mergeFallbackAnnotations(x);
 }
-function addBadge(dg, text) {
+function addBadge(dg, text, bottom=-4, right=-2) {
   mStyle(dg, { position: 'relative' });
-  let badge = mDom(dg, { position: 'absolute', bottom: 7, right: 7, bg: 'red', fg: 'white', fz: 12, z: 1000, round: true, pahv: '6 2' }, { html: text })
+  let badge = mDom(dg, { position: 'absolute', bottom, right, bg: 'red', fg: 'white', fz: 12, z: 1000, round: true, pahv: '6 2' }, { html: text })
 }
 function addCardSymbol(svg, id, x, y, width, height, rotate = false) {
   const use = document.createElementNS("http://www.w3.org/2000/svg", "use");

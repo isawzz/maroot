@@ -12,7 +12,7 @@ function ari_present(me, table) {
   let dOpenTable = Items.dOpenTable = mDom(dt, { gap: 4 }, { id: 'dOpenTable' }); mFlexWrap(dOpenTable);
 
   let deckCards = Items.deckCards = fen.deck.map(key => uiTypeCard52(key));
-  let cont = ariContainer(dOpenTable, 'dDeck', 'deck'); //mDom(dOpenTable, { bg: 'green', fg: 'white', align: 'center' }, { id: 'dDeck' });
+  let cont = ariContainer(dOpenTable, 'dDeck', 'deck'); 
   let deck = Items.deck = uiTypeDeck(deckCards, cont);
 
   if (exp_church(table.options)) {
@@ -25,6 +25,7 @@ function ari_present(me, table) {
   let marketCards = Items.marketCards = fen.market.map(key => uiTypeCard52(key));
   cont = ariContainer(dOpenTable, 'dMarket', 'market');
   let market = Items.market = cSplay(marketCards, cont, dir = 'right', splay = 1.1);
+  INTERRUPT()
 
   let openDiscardCards = Items.openDiscardCards = fen.openDiscard.map(key => uiTypeCard52(key));
   cont = ariContainer(dOpenTable, 'dOpenDiscard', 'buy');

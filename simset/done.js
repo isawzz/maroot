@@ -285,34 +285,6 @@ function createKeys(n, group, subgroupRegex) {
   let keys = rChoose(keypool, n);
   return keys;
 }
-function face_down(item, color, texture) {
-  if (!item.faceUp) return;
-  if (isdef(texture) || lookup(item, ['live', 'dCover'])) {
-    face_down_alt(item, color, texture);
-  } else {
-    let svgCode = M.c52.card_2B;
-    item.div.innerHTML = svgCode;
-    if (nundef(color)) color = item.color;
-    if (isdef(item.color)) item.div.children[0].children[1].setAttribute('fill', item.color);
-  }
-  item.faceUp = false;
-}
-function face_down_alt(item, bg, texture_name) {
-  //console.log('ALE!!!')
-  let dCover = item.live.dCover;
-  if (nundef(dCover)) {
-    let d = iDiv(item);
-    dCover = item.live.dCover = mDiv(d, { background: bg, rounding: mGetStyle(d, 'rounding'), position: 'absolute', width: '100%', height: '100%', left: 0, top: 0 });
-    let t = getTexture(texture_name);
-    mStyle(dCover, { bgImage: t, bgSize: '80%', bgRepeat: 'repeat' });
-  } else mStyle(dCover, { display: 'block' });
-}
-function face_up(item) {
-  if (item.faceUp) return;
-  if (lookup(item, ['live', 'dCover'])) mStyle(item.live.dCover, { display: 'none' });
-  else item.div.innerHTML = isdef(item.c52key) ? C52[item.c52key] : item.html;
-  item.faceUp = true;
-}
 function getCatKeys(symsObject, cat = 'best100') {
   // 1. Get all main object keys (e.g., 'abacus', 'adhesive bandage')
   const allKeys = Object.keys(symsObject);
@@ -6006,55 +5978,6 @@ async function tableSaveUpdateFS(table) {
   }
   updateUI();
   return res;
-}
-function uiTypeDeck(cards, dParent, face = 'down', splay = 0.002, nTop = 2) {
-  const n = cards.length;
-  visualCount = Math.max(2, Math.min(n, Math.ceil(n / 15)));
-  visualCount = Math.max(nTop + 1, visualCount);
-  let part = cards.slice(-visualCount); //console.log('part', part.map(x => x.key));
-  let dg = cSplayDiagonal(part, dParent, splay);
-  let topCard = cards[n - 1];
-  if (face == 'down') part.map(x => face_down(x));
-  let bottomCard = part[0];
-  if (n > 0) addBadge(dg, n)
-  return {
-    topCard,
-    bottomCard,
-    dg,
-  }
-}
-function uiTypeStar(cards, dParent, face = 'up') {
-  const n = cards.length;
-  let dg = mDom(dParent, { h: 130, wmin: 120, display: 'inline-grid', placeItems: 'center', position: 'relative' });
-  // let dg = mDom(dParent,{bg:'blue',position:'relative'});
-  let inc = 180 / n;// n == 4 ? 45 : n == 2 ? 90 : 360 / n; 
-  //console.log('inc', inc)
-  let rotation = inc;
-  //cSplay(cards, dg, 'right');
-  for (const card of cards) {
-    remove_card_shadow(card);
-    const angle = rotation; //i * angleStep;
-    mAppend(dg, card.div);
-    mStyle(card.div, {
-      position: 'absolute',
-      left: 25,
-      top: 20,
-      transform: `rotate(${angle}deg)`, // translateY(-50px)
-      transformOrigin: 'center' // Rotates around the card's center
-    });
-    rotation += inc;
-    if (face === 'down') {
-      face_down(card);
-    } else {
-      face_up(card);
-    }
-  }
-
-  return {
-    dg,
-    cards,
-    topCard: cards[n - 1]
-  };
 }
 async function updateMain(forceUI = false, table = null) {
   let hasChanges = await updateData();

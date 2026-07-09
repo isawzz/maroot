@@ -19,6 +19,7 @@
     "**/_*/*",
     "**/z_*.js",
     "**/_*/",
+    "**/history/",
     "bella/testing",
     "bella",
     "ilms",

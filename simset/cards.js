@@ -1,4 +1,68 @@
 
+function face_down(item, color, texture) {
+  //console.log(item)
+  if (!item.faceUp) return;
+  if (isdef(texture) || lookup(item, ['live', 'dCover'])) {
+    face_down_alt(item, color, texture);
+  } else {
+    let svgCode = M.c52.card_2B;
+    item.div.innerHTML = svgCode;
+    if (nundef(color)) color = item.color;
+    if (isdef(item.color)) item.div.children[0].children[1].setAttribute('fill', item.color);
+  }
+  item.faceUp = false;
+}
+function face_down_alt(item, bg, texture_name) {
+  //console.log('ALE!!!')
+  let dCover = item.live.dCover;
+  if (nundef(dCover)) {
+    let d = iDiv(item);
+    dCover = item.live.dCover = mDiv(d, { background: bg, rounding: mGetStyle(d, 'rounding'), position: 'absolute', width: '100%', height: '100%', left: 0, top: 0 });
+    let t = getTexture(texture_name);
+    mStyle(dCover, { bgImage: t, bgSize: '80%', bgRepeat: 'repeat' });
+  } else mStyle(dCover, { display: 'block' });
+}
+function face_up(item) {
+  if (item.faceUp) return;
+  if (lookup(item, ['live', 'dCover'])) mStyle(item.live.dCover, { display: 'none' });
+  else item.div.innerHTML = isdef(item.c52key) ? C52[item.c52key] : item.html;
+  item.faceUp = true;
+}
+function uiTypeStar(cards, dParent, face = 'up') {
+  const n = cards.length;
+  let dg = mDom(dParent, { h: 130, wmin: 120, display: 'inline-grid', placeItems: 'center', position: 'relative' });
+  // let dg = mDom(dParent,{bg:'blue',position:'relative'});
+  let inc = 180 / n;// n == 4 ? 45 : n == 2 ? 90 : 360 / n; 
+  //console.log('inc', inc)
+  let rotation = inc;
+  //cSplay(cards, dg, 'right');
+  for (const card of cards) {
+    remove_card_shadow(card);
+    const angle = rotation; //i * angleStep;
+    mAppend(dg, card.div);
+    mStyle(card.div, {
+      position: 'absolute',
+      left: 25,
+      top: 20,
+      transform: `rotate(${angle}deg)`, // translateY(-50px)
+      transformOrigin: 'center' // Rotates around the card's center
+    });
+    rotation += inc;
+    if (face === 'down') {
+      face_down(card);
+    } else {
+      face_up(card);
+    }
+  }
+
+  return {
+    dg,
+    cards,
+    topCard: cards[n - 1]
+  };
+}
+
+
 function _cardOuterRect(div) {
   /**
    * uiTypeCard52  (improved)
@@ -28,38 +92,6 @@ function _cardOuterRect(div) {
   );
 }
 
-function uiTypeCard52(ckey, h = 100, bg = 'red', border = 'black', borderthickness = 1, shadow = true, bgFace = 'white') {
-  const CARD_RATIO = 240 / 336;          // exact ratio from SVG viewBox 240×336
-  const w = Math.round(h * CARD_RATIO);  // was h*0.7 (≈1.4% too narrow)
-
-  let html = M.c52['card_' + ckey.slice(0, 2)];
-
-  // Remove drop-shadow: strip the class attribute from the <svg> root only.
-  // The original regex could hit nested elements with a "card" class.
-  if (!shadow) {
-    html = html.replace(/(<svg\b[^>]*?)\s+class="[^"]*"/, '$1');
-  }
-
-  const div = mDom(null, {
-    h, w,
-    background: bg,
-    rounding: Math.round(w / 20), // matches SVG rx="12" in viewBox width 240: 12/240*w = w/20
-    overflow: 'hidden'                 // clips any stroke bleed at the corners
-  }, { html });
-
-  // Style the OUTER rect (largest area = card background/border).
-  // face cards have a smaller inner decorative rect that must not be targeted.
-  const rect = _cardOuterRect(div);
-  if (rect) {
-    rect.setAttribute('fill', bgFace);
-    rect.setAttribute('stroke', border);
-    rect.setAttribute('stroke-width', String(borderthickness));
-  }
-
-  const svgUp = div.innerHTML; // reflects final patched state
-
-  return { key: ckey, w, h, svgUp, faceUp: true, div, bg, border, borderthickness, shadow, bgFace };
-}
 
 
 function setCardBorder(card, color, thickness) {
@@ -512,7 +544,7 @@ async function splayItems(items, container, {
 
   if (animate) await new Promise(r => setTimeout(r, durationMs));
 
-  return { width: totalW, height: totalH };
+  return { container,width: totalW, height: totalH };
 }
 
 const splayRight = (items, el, opts = {}) => splayItems(items, el, { ...opts, direction: 'right' });
