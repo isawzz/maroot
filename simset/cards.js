@@ -28,40 +28,6 @@ function face_up(item) {
   else item.div.innerHTML = isdef(item.c52key) ? C52[item.c52key] : item.html;
   item.faceUp = true;
 }
-function uiTypeStar(cards, dParent, face = 'up') {
-  const n = cards.length;
-  let dg = mDom(dParent, { h: 130, wmin: 120, display: 'inline-grid', placeItems: 'center', position: 'relative' });
-  // let dg = mDom(dParent,{bg:'blue',position:'relative'});
-  let inc = 180 / n;// n == 4 ? 45 : n == 2 ? 90 : 360 / n; 
-  //console.log('inc', inc)
-  let rotation = inc;
-  //cSplay(cards, dg, 'right');
-  for (const card of cards) {
-    remove_card_shadow(card);
-    const angle = rotation; //i * angleStep;
-    mAppend(dg, card.div);
-    mStyle(card.div, {
-      position: 'absolute',
-      left: 25,
-      top: 20,
-      transform: `rotate(${angle}deg)`, // translateY(-50px)
-      transformOrigin: 'center' // Rotates around the card's center
-    });
-    rotation += inc;
-    if (face === 'down') {
-      face_down(card);
-    } else {
-      face_up(card);
-    }
-  }
-
-  return {
-    dg,
-    cards,
-    topCard: cards[n - 1]
-  };
-}
-
 
 function _cardOuterRect(div) {
   /**
@@ -444,6 +410,7 @@ async function splayItems(items, container, {
   spreadDeg = 40,
   arcRadius,
   padding = 6,
+  interactive = 'all',
   hoverRaise = 10,
   selectionColor = 'red',
   selectionWidth = 3,
@@ -539,12 +506,15 @@ async function splayItems(items, container, {
     el.style.top = `${Math.round(top + padding)}px`;
     el.style.transform = rotation ? `rotate(${rotation.toFixed(2)}deg)` : '';
 
-    _bindInteractions(el, { hoverRaise, selectionColor, selectionWidth });
+    if (interactive == 'all' || interactive == 'top' && i == n - 1 || interactive == 'bottom' && i == 0) {
+
+      _bindInteractions(el, { hoverRaise, selectionColor, selectionWidth });
+    }
   });
 
   if (animate) await new Promise(r => setTimeout(r, durationMs));
 
-  return { container,width: totalW, height: totalH };
+  return { container, width: totalW, height: totalH, direction, overlap };
 }
 
 const splayRight = (items, el, opts = {}) => splayItems(items, el, { ...opts, direction: 'right' });

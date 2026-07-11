@@ -5836,24 +5836,6 @@ async function showGamePlayers(dParent, users) {
   }
   await setPlayerPlaying(DA.allPlayers[me], DA.gamename);
 }
-function showHandSortingButtonsFor(pl, ui) {
-  if (pl.hand.length <= 1) return;
-  let x = ui.hand;
-  let d = x.dg.parentNode;
-  let bstyles = { z: 10000, position: 'absolute', hmin: 20, wmin: 50, h: 20, fz: 12, rounding: 6, bg: 'silver', fg: 'black' };
-  let b1 = mDom(d, { ...bstyles, left: 20, bottom: 2 }, { tag: 'button', innerHTML: 'rank' });
-  b1.onclick = () => {
-    let cardItems = cSort(ui.handCards, null, 'A23456789TJQK');
-    cSplay(cardItems, null, x.dir, x.splay);
-
-  }
-  let b2 = mDom(d, { ...bstyles, right: 20, bottom: 2 }, { tag: 'button', innerHTML: 'suit' });
-  b2.onclick = () => {
-    let cardItems = cSort(ui.handCards, 'CDSH', 'A23456789TJQK');
-    cSplay(cardItems, null, x.dir, x.splay);
-
-  }
-}
 function showWaitingShield(show = true, message = "Waiting for other players...") {
   //showMessage(message);return;
 

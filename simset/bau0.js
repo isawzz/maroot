@@ -13,7 +13,7 @@ function ariHideBuildings(ui) {
     b.hiddenCards.map(x => face_down(x));
   }
 }
-function ariPresentPlayer(table, me, plName, dt, styles, smallsz, isHidden = false) {
+async function ariPresentPlayer(table, me, plName, dt, styles, smallsz, isHidden = false) {
   let fen = table.fen;
   let pl = table.players[plName];
 
@@ -28,21 +28,28 @@ function ariPresentPlayer(table, me, plName, dt, styles, smallsz, isHidden = fal
   let handCards = ui.handCards = pl.hand.map(key => uiTypeCard52(key));
   if (isHidden) { handCards.map(x => face_down(x)); }
   cont = ariContainer(d, `d${capitalize(plName)}Hand`, 'hand');
-  let hand = ui.hand = cSplay(handCards, cont, dir = 'right', splay = .25);
+  cont = mDom(cont, { margin: 10 });
+  let hand = ui.hand = await splayItems(handCards, cont, { direction: 'right', overlap: 0.8 });
+  hand.splay = 0.8;
+  // let hand = ui.hand = cSplay(handCards, cont, dir = 'right', splay = .25);
 
   let stallCards = ui.stallCards = pl.stall.map(key => uiTypeCard52(key));
   cont = ariContainer(d, `d${capitalize(plName)}Stall`, 'stall');
-  let stall = ui.stall = cSplay(stallCards, cont, dir = 'right', splay = 1.2);
+  // let stall = ui.stall = cSplay(stallCards, cont, dir = 'right', splay = 1.2);
+  cont = mDom(cont, { margin: 10 });
+  let stall = ui.stall = await splayItems(stallCards, cont, { direction: 'right', overlap: -0.1 });
   if (fen.stage < 5 && isHidden) { stallCards.map(x => face_down(x)); }
 
-  let peasantCards = ui.peasantCards = pl.peasants.map(key => uiTypeCard52(key, smallsz, 'green'));
-  cont = ariContainer(d, `d${capitalize(plName)}Peasants`, 'peasants');
-  let peasants = ui.peasants = cSplay(peasantCards, cont, dir = 'right', splay = 1.2);
+  if (exp_peasants(table.options)) {
+    let peasantCards = ui.peasantCards = pl.peasants.map(key => uiTypeCard52(key, smallsz, 'green'));
+    cont = ariContainer(d, `d${capitalize(plName)}Peasants`, 'peasants');
+    let peasants = ui.peasants = cSplay(peasantCards, cont, dir = 'right', splay = 1.2);
 
-  let peasantUsedCards = ui.peasantUsedCards = pl.peasantsUsed.map(key => uiTypeCard52(key, smallsz, 'green'));
-  cont = ariContainer(d, `d${capitalize(plName)}PeasantUsed`, 'used');
-  let peasantUsed = ui.peasantUsed = cSplay(peasantUsedCards, cont, dir = 'right', splay = 1.2);
-  peasantUsedCards.map(x => face_down(x));
+    let peasantUsedCards = ui.peasantUsedCards = pl.peasantsUsed.map(key => uiTypeCard52(key, smallsz, 'green'));
+    cont = ariContainer(d, `d${capitalize(plName)}PeasantUsed`, 'used');
+    let peasantUsed = ui.peasantUsed = cSplay(peasantUsedCards, cont, dir = 'right', splay = 1.2);
+    peasantUsedCards.map(x => face_down(x));
+  }
 
   if (exp_commissions(table.options)) {
     if (!isHidden) pl.commissions = cSort(pl.commissions, null, 'A23456789TJQK');
@@ -66,14 +73,16 @@ function ariPresentPlayer(table, me, plName, dt, styles, smallsz, isHidden = fal
     else mMagnifyOnHoverControlPopup(cont);
   }
 
-  ui.journeys = [];
-  let i = 0;
-  for (const j of pl.journeys) {
-    let jCards = j.map(key => uiTypeCard52(key));
-    let cont = ariContainer(d, `d${capitalize(plName)}Journey${i}`, 'journey');
-    let jui = cSplay(jCards, cont, dir = 'right', splay = 0.2);
-    i += 1;
-    ui.journeys.push({ jCards, cont, jui });
+  if (exp_journeys(table.options)) {
+    ui.journeys = [];
+    let i = 0;
+    for (const j of pl.journeys) {
+      let jCards = j.map(key => uiTypeCard52(key));
+      let cont = ariContainer(d, `d${capitalize(plName)}Journey${i}`, 'journey');
+      let jui = cSplay(jCards, cont, dir = 'right', splay = 0.2);
+      i += 1;
+      ui.journeys.push({ jCards, cont, jui });
+    }
   }
   mLinebreak(d, 8);
   ui.buildinglist = [];
@@ -190,12 +199,12 @@ function ariSetupRumorAssignment(me, table, testing = false) {
     let dParent = mBy('dInstruction');
     mClear(dParent); //mClass(dParent,'section')
 
-    let d = mDom(dParent, { padding: 10, margin: 10,w100:true },{className:'section',}); mCenterFlex(d);
+    let d = mDom(dParent, { padding: 10, margin: 10, w100: true }, { className: 'section', }); mCenterFlex(d);
     let line1 = mDom(d, { display: 'flex', gap: 10, margin: 10, place: 'center' },);//mCenterCenterFlex(line1);
     mDom(line1, {}, { html: 'drag user images to rumor cards, then confirm' });
     //mDom(line1, {}, { tag: 'button', html: 'confirm' });
     mButton('commit', async () => ariFinalizeRumorAssignment(me, table, connections), line1, { maleft: 10, rounding: 6, padding: '4px 12px 5px 12px', border: '0px solid transparent', outline: 'none' }, 'selectbutton', 'bCommit');
-    mStyle(mBy('bCommit'), { border:'gray' }, {className:'disabled',disabled:true});
+    mStyle(mBy('bCommit'), { border: 'gray' }, { className: 'disabled', disabled: true });
     mLinebreak(d)
     let dg = mGrid(2, table.plorder.length - 1, d, { place: 'center', gap: 10, margin: 20 });
 

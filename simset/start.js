@@ -6,29 +6,36 @@ async function test0_cardbasics() {
 	await loadAssetsStaticPreload();
 	let d = mDom('dPage', { padding: 50 }, {}); mFlexWrap(d);
 
-	let cards = ['2C', '3C', '4C','KH', 'QS', 'QH', '2H', '3H', '4H', '5H', '6H', '7H', '8H', '9H', 'TH', 'JH', 'QH', 'KH', 'AH'];
+	let list = ['2C', '3C', '4C', 'KH', 'QS', 'QH', '2H', '3H', '4H', '5H', '6H', '7H', '8H', '9H', 'TH', 'JH', 'QH', 'KH', 'AH'];
 
-	let c = uiTypeCard52('QH', 200); mAppend(d, c.div); 
-	let c1 = uiTypeCard52('KH', 200); mAppend(d, c1.div);
-	let c2 = uiTypeCard52('QS', 200); mAppend(d, c2.div);
-	let dc = iDiv(c);
-	return;
-	//setCardBorder(c, 'red', 3);
-	// await mSleep(1000);
-	// for (const i of range(10)) { await flipCard(c); }
+	let n=8;
+	let cards = list.slice(0, n).map(key => uiTypeCard52(key, 200)); //[c, c1, c2];
+	let el = mDom('dPage', { bg: 'green' }, {});
 
-	let hand = cards.slice(0, 10).map(key => uiTypeCard52(key, 200)); //[c, c1, c2];
-	let handEl = mDom('dPage', { bg:'green' }, {});
+	// Full wheel — evenly spaced 360° (clock face)
+	//await wheelItems(cards, el);
 
+	// Half-fan exactly like uiTypeStar — n cards from 0° to 180°
+	let i=180/n;
+	let startAngle = 360-i*(n-1); console.log('angle', startAngle,n);
+	await wheelItems(cards, el, { sweep: 180, startAngle, interactive: 'all' });//, inclusive: true });
+
+	// 4-card compass, first card pointing north (12 o'clock = 0°)
+	//await wheelItems(cards, el, { sweep: 360, startAngle: 0 });
+
+	// Works with plain divs too
+
+	//await wheelItems(Array.from(el.children), el, { sweep: 180 });
 	// Fan hand of cards — returns container size
-	let { width, height } = await splayFan(hand, handEl, { spreadDeg: 5 });
+	//let { width, height } = await splayFan(hand, handEl, { spreadDeg: 5 });
 	// console.log(width, height);
+	return;
 
 	// // Deck pile, tight diagonal
 	let deck = cards.slice(0, 10).map(key => uiTypeCard52(key, 100)); //[c, c1, c2];
 	let deckEl = mDom('dPage', { padding: 50 }, {});
 	let o = await splayDiagonal(deck, deckEl, 'down-right', { overlap: 0.86 });
-	console.log(o.width,o.height);
+	console.log(o.width, o.height);
 
 	// // Works with plain divs too
 	await splayRight(Array.from(handEl.children), handEl);
@@ -42,6 +49,7 @@ async function test0_cardbasics() {
 	//flashCardBorder(c, 'red', 1000, 3);
 	//make_card_selectable(c);
 }
+
 async function test0_createGame() {
 	await prelim();
 	initUI();
@@ -56,7 +64,7 @@ async function test0_createGame() {
 
 	console.log('________________________')
 	let table = createGameTable('aristo', ['amanda', 'mimi'], //, 'felix'], //,'amanda','lauren','mac','nasi'],
-		{ church: 'no', rumors: 'no', peasants: 'no', commission: 'no', journey: 'no', winning_score: 5, adaptive: 'yes', num_symbols: '10', num_cards: '2', },
+		{ church: 'yes', rumors: 'no', peasants: 'no', commission: 'no', journey: 'no', winning_score: 5, adaptive: 'yes', num_symbols: '10', num_cards: '2', },
 		{
 			amanda: { playmode: 'human', hint: 2 },
 			mimi: { playmode: 'human', hint: 2 },
@@ -69,6 +77,46 @@ async function test0_createGame() {
 	await updateMain();
 	console.log('done')
 
+}
+async function test01_cardbasics() {
+	await loadAssetsStaticPreload();
+	let d = mDom('dPage', { padding: 50 }, {}); mFlexWrap(d);
+
+	let cards = ['2C', '3C', '4C', 'KH', 'QS', 'QH', '2H', '3H', '4H', '5H', '6H', '7H', '8H', '9H', 'TH', 'JH', 'QH', 'KH', 'AH'];
+
+	let c = uiTypeCard52('QH', 200); mAppend(d, c.div);
+	let c1 = uiTypeCard52('KH', 200); mAppend(d, c1.div);
+	let c2 = uiTypeCard52('QS', 200); mAppend(d, c2.div);
+	let dc = iDiv(c);
+	return;
+	//setCardBorder(c, 'red', 3);
+	// await mSleep(1000);
+	// for (const i of range(10)) { await flipCard(c); }
+
+	let hand = cards.slice(0, 10).map(key => uiTypeCard52(key, 200)); //[c, c1, c2];
+	let handEl = mDom('dPage', { bg: 'green' }, {});
+
+	// Fan hand of cards — returns container size
+	let { width, height } = await splayFan(hand, handEl, { spreadDeg: 5 });
+	// console.log(width, height);
+
+	// // Deck pile, tight diagonal
+	let deck = cards.slice(0, 10).map(key => uiTypeCard52(key, 100)); //[c, c1, c2];
+	let deckEl = mDom('dPage', { padding: 50 }, {});
+	let o = await splayDiagonal(deck, deckEl, 'down-right', { overlap: 0.86 });
+	console.log(o.width, o.height);
+
+	// // Works with plain divs too
+	await splayRight(Array.from(handEl.children), handEl);
+
+	// // Get selected card objects back
+	const picked = getSelected(handEl, hand);
+
+	// // Get selected plain elements
+	// const pickedEls = getSelected(handEl);
+	//set_card_border(c,3, 'red', true)
+	//flashCardBorder(c, 'red', 1000, 3);
+	//make_card_selectable(c);
 }
 async function test0_specialKeys() {
 	await loadAssetsStaticPreload();

@@ -1,7 +1,27 @@
 
+function showHandSortingButtonsFor(pl, ui) {
+	if (pl.hand.length <= 1) return;
+	let x = ui.hand; //console.log(x)
+	let d = x.container.parentNode;
+	let bstyles = { z: 10000, position: 'absolute', hmin: 20, wmin: 50, h: 20, fz: 12, rounding: 6, bg: 'silver', fg: 'black' };
+	let b1 = mDom(d, { ...bstyles, left: 20, bottom: 2 }, { tag: 'button', innerHTML: 'rank' });
+	b1.onclick = () => {
+		let cardItems = cSort(ui.handCards, null, 'A23456789TJQK');
+		// cSplay(cardItems, null, x.dir, x.splay);
+		splayItems(cardItems, x.container, { direction: x.direction, overlap: x.overlap });
+
+	}
+	let b2 = mDom(d, { ...bstyles, right: 20, bottom: 2 }, { tag: 'button', innerHTML: 'suit' });
+	b2.onclick = () => {
+		//let cont = x.container;
+		let cardItems = cSort(ui.handCards, 'CDSH', 'A23456789TJQK');
+		splayItems(cardItems, x.container, { direction: x.direction, overlap: x.overlap });
+
+	}
+}
 
 function ari_pre_action(me, table, ui) {
-	//return;
+	return;
 	let [stage, fen, pl, upl, phase, deck, market] = [table.fen.stage, table.fen, table.players[me], ui.players[me], table.fen.phase, table.fen.deck, table.fen.market];
 	if (fen.numActions > 0) fen.progress = `&nbsp;&nbsp;(action ${fen.action_number} of ${fen.total_pl_actions})`; else delete fen.progress;
 	let stageText = ARI.stage[stage];
