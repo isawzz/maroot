@@ -1,9 +1,9 @@
 onload = start;
 
-async function start() { }//libsAll();}//mlib_vio();}//splitClosureVio(); } //project_ilms(); }//return;mlib_p5();return;project_p5(); }
+async function start() {libsAll();}//mlib_vio();}//splitClosureVio(); } //project_ilms(); }//return;mlib_p5();return;project_p5(); }
 
 async function libsAll() {
-	codeAllInOne(`../games98`, ['codefun','todo','done','bau0','bau1','bau2','bau3','bau4','bau5','bau6']);
+	codeAllInOne(`../simset`, ['codeall','done','bau0','bau1','bau2','bau3','bau4','bau5','bau6','cards']);
 }
 async function mlib_vio98() {
 	codePackSplit('../vio98', ['codebig', 'eliminated', 'experimental', 'coderest', 'closure', 'done', 'bau1', 'bau2', 'bau3', 'bau4'], ['../vio98/start.js'], ['test0']);

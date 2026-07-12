@@ -15,18 +15,6 @@ async function ari_present(me, table) {
   let cont = ariContainer(dOpenTable, 'dDeck', 'deck');
   let deck = Items.deck = uiTypeDeck(deckCards, cont);
 
-  if (exp_church(table.options)) {
-    //fen.church = ['KS', '2C', '3C', '4H', 'QS', 'KC', 'AC', '2H', '3H', '4S'].slice(0,2);
-    let churchCards = Items.churchCards = fen.church.map(key => uiTypeCard52(key));
-    let cont = ariContainer(dOpenTable, 'dChurch', 'church');
-    // let church = Items.church = uiTypeStar(churchCards, cont);
-    //let church = Items.church = wheelItems(churchCards, cont);
-    let n = churchCards.length;
-    let i = 180 / n;
-    let startAngle = 360 - i * (n - 1); console.log('angle', startAngle, n);
-    let church = Items.church = await wheelItems(churchCards, cont, { sweep: 180, startAngle, interactive: 'none' });//, inclusive: true });
-  }
-
   let marketCards = Items.marketCards = fen.market.map(key => uiTypeCard52(key));
   cont = ariContainer(dOpenTable, 'dMarket', 'market');
   cont = mDom(cont, { margin: 10 });
@@ -47,6 +35,18 @@ async function ari_present(me, table) {
   let deckDiscardCards = Items.deckDiscardCards = fen.deckDiscard.map(key => uiTypeCard52(key));
   cont = ariContainer(dOpenTable, 'dDeckDiscard', 'discard');
   let deckDiscard = Items.deckDiscard = uiTypeDeck(deckDiscardCards, cont);
+
+  if (exp_church(table.options)) {
+    //fen.church = ['KS', '2C', '3C', '4H', 'QS', 'KC', 'AC', '2H', '3H', '4S'].slice(0,2);
+    let churchCards = Items.churchCards = fen.church.map(key => uiTypeCard52(key));
+    let cont = ariContainer(dOpenTable, 'dChurch', 'church');
+    // let church = Items.church = uiTypeStar(churchCards, cont);
+    //let church = Items.church = wheelItems(churchCards, cont);
+    let n = churchCards.length;
+    let i = 180 / n;
+    let startAngle = 360 - i * (n - 1); console.log('angle', startAngle, n);
+    let church = Items.church = await wheelItems(churchCards, cont, { sweep: 180, startAngle, interactive: 'none' });//, inclusive: true });
+  }
 
 
 
