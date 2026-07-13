@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hearts</title>
+  <link rel="icon" href="../assets/icons/ball.png" style="height: 40px" />
+  <link rel="stylesheet" href="../alibs/css/all.min.css" />
+  <link rel="stylesheet" href="../assets/fonts/fonts.css" />
+  <link rel="stylesheet" href="../simset1/styles.css" />
+  <script src="../alibs/jq3.js"></script>
+  <script src="../alibs/yaml.min.js"></script>
+  <script src="../alibs/jstat.min.js"></script>
+  <script src="../alibs/w3color.js"></script>
+</head>
+
+<body>
+  <svg style="visibility: hidden; position: fixed" width="0" height="0" xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <symbol id="Treff" viewBox="-600 -600 1200 1200" preserveAspectRatio="xMinYMid">
+      <path d="M30 150C35 385 85 400 130 500L-130 500C-85 400 -35 385 -30 150A10 10 0 0 0 -50 150A210 210 0 1 1 -124 -51A10 10 0 0 0 -110 -65A230 230 0 1 1 110 -65A10 10 0 0 0 124 -51A210 210 0 1 1 50 150A10 10 0 0 0 30 150Z" fill="black"></path>
+    </symbol>
+    <symbol id="Karo" viewBox="-600 -600 1200 1200" preserveAspectRatio="xMinYMid">
+      <path d="M-400 0C-350 0 0 -450 0 -500C0 -450 350 0 400 0C350 0 0 450 0 500C0 450 -350 0 -400 0Z" fill="red"></path>
+    </symbol>
+    <symbol id="Herz" viewBox="-600 -600 1200 1200" preserveAspectRatio="xMinYMid">
+      <path d="M0 -300C0 -400 100 -500 200 -500C300 -500 400 -400 400 -250C400 0 0 400 0 500C0 400 -400 0 -400 -250C-400 -400 -300 -500 -200 -500C-100 -500 0 -400 -0 -300Z" fill="red"></path>
+    </symbol>
+    <symbol id="Pik" viewBox="-600 -600 1200 1200" preserveAspectRatio="xMinYMid">
+      <path d="M0 -500C100 -250 355 -100 355 185A150 150 0 0 1 55 185A10 10 0 0 0 35 185C35 385 85 400 130 500L-130 500C-85 400 -35 385 -35 185A10 10 0 0 0 -55 185A150 150 0 0 1 -355 185C-355 -100 -100 -250 0 -500Z" fill="black"></path>
+    </symbol>
+  </svg>
+  <svg id="svgDefsGlobal" xmlns="http://www.w3.org/2000/svg"
+    style="position:absolute; width:0; height:0; overflow:hidden;"></svg>
+
+  <div id="dPage"></div>
+</body>
+
+<script src="../simset1/globals.js"></script>
+<script src="../simset1/codeall.js"></script>
+
+<script src="hearts.js"></script>
+<script src="hearts_ui.js"></script>
+<script src="start.js"></script>
+
+</html>

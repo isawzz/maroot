@@ -4,7 +4,7 @@
     "target": "es6"
   },
   "include": [
-    "simset",
+    "simset1",
   ],
   "exclude": [
     "_more",

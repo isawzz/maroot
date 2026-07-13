@@ -2,6 +2,8 @@ onload = start; VERBOSE = false; TESTING = true; DEV = false; POLLING = true;
 
 function start() { test0_createGame(); }
 
+// To run unit tests, change above to: function start() { runAllTests(); }
+
 async function test0_cardbasics() {
 	await loadAssetsStaticPreload();
 	let d = mDom('dPage', { padding: 50 }, {}); mFlexWrap(d);
