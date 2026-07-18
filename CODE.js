@@ -1,4 +1,96 @@
 
+//#region hearts
+function heartsUIInit() {
+  HG = heartsNewGame(ALL_PLAYERS);
+  mClear('dPage');
+  dBoard = mDom('dPage', {
+    w: '100vw', h: '100vh', box: true, overy: 'auto',
+    bg: '#1a5c2a', display: 'flex', dir: 'column', alignItems: 'center'
+  });
+
+  let dTopBar = mDom(dBoard, {
+    w100: true, box: true, padding: '8px 20px',
+    bg: '#0d3318', display: 'flex', justifyContent: 'space-between', alignItems: 'center'
+  });
+  dStatus = mDom(dTopBar, { fg: '#e0e0e0', fz: 18, weight: 'bold' });
+  dScores = mDom(dTopBar, { fg: '#e0e0e0', fz: 14 });
+
+  // let dGame = mDom(dBoard, { flex: 1, w100: true, box: true, position: 'relative', overflow: 'hidden' });
+
+  // let dNorth = mDom(dGame, { position: 'absolute', top: 10, left: '50%', transform: 'translateX(-50%)' });
+  // renderOpponent(dNorth, 'North');
+
+  // let dWest = mDom(dGame, { position: 'absolute', left: 10, top: '50%', transform: 'translateY(-50%)' });
+  // renderOpponentVertical(dWest, 'West');
+
+  // let dEast = mDom(dGame, { position: 'absolute', right: 10, top: '50%', transform: 'translateY(-50%)' });
+  // renderOpponentVertical(dEast, 'East');
+
+  // dTrick = mDom(dGame, {
+  //   position: 'absolute', top: '50%', left: '50%',
+  //   transform: 'translate(-50%, -50%)',
+  //   w: CARD_W * 4 + 40, h: CARD_H + 60,
+  //   display: 'flex', justifyContent: 'center', alignItems: 'center',
+  //   bg: '#0d331880', rounding: 12, padding: 10
+  // });
+
+  // dPassArea = mDom(dBoard, {
+  //   w100: true, box: true, padding: '5px 20px', bg: '#0d3318cc',
+  //   display: 'none', justifyContent: 'center', alignItems: 'center', gap: 15
+  // });
+
+  // let dHandWrap = mDom(dBoard, {
+  //   w100: true, box: true, padding: '10px 20px 20px',
+  //   bg: '#0d3318', display: 'flex', justifyContent: 'center', alignItems: 'center',
+  //   position: 'relative'
+  // });
+  // 1. Give dGame a fixed or max-height so it doesn't push elements completely to the bottom
+  let dGame = mDom(dBoard, {
+    h: 460, w100: true, box: true, position: 'relative', overflow: 'hidden'
+  });
+
+  let dNorth = mDom(dGame, { position: 'absolute', top: 10, left: '50%', transform: 'translateX(-50%)' });
+  renderOpponent(dNorth, 'North');
+
+  let dWest = mDom(dGame, { position: 'absolute', left: 10, top: '50%', transform: 'translateY(-50%)' });
+  renderOpponentVertical(dWest, 'West');
+
+  let dEast = mDom(dGame, { position: 'absolute', right: 10, top: '50%', transform: 'translateY(-50%)' });
+  renderOpponentVertical(dEast, 'East');
+
+  dTrick = mDom(dGame, {
+    position: 'absolute', top: '50%', left: '50%',
+    transform: 'translate(-50%, -50%)',
+    w: CARD_W * 4 + 40, h: CARD_H + 60,
+    display: 'flex', justifyContent: 'center', alignItems: 'center',
+    bg: '#0d331880', rounding: 12, padding: 10
+  });
+
+  // 2. Reduce the padding/gap on the pass area to sit tightly under the game board
+  dPassArea = mDom(dBoard, {
+    w100: true, box: true, padding: '2px 20px', bg: '#0d3318cc',
+    display: 'none', justifyContent: 'center', alignItems: 'center', gap: 15
+  });
+
+  // 3. Bring the hand wrapper up closer by trimming top padding
+  let dHandWrap = mDom(dBoard, {
+    w100: true, box: true, padding: '5px 20px 15px',
+    bg: '#0d3318', display: 'flex', justifyContent: 'center', alignItems: 'center',
+    position: 'relative'
+  }); let dHandLabel = mDom(dHandWrap, {
+    position: 'absolute', top: 4, left: '50%', transform: 'translateX(-50%)',
+    fg: '#aaa', fz: 12
+  }, { html: HUMAN });
+  dHand = mDom(dHandWrap, { display: 'flex', justifyContent: 'center', gap: -10, position: 'relative' });
+
+  heartsUIStartHand();
+}
+
+
+
+//#endregion
+
+
 //#region cards try 1
 
 
@@ -383,7 +475,6 @@ function flashCardBorder(card, color, durationMs = 800, thickness) {
   };
 }
 //#endregion
-
 
 
 //#region arrange algorithms nicht so gut

@@ -16,67 +16,82 @@ let pendingTrickClear = false;
 function heartsUIInit() {
   HG = heartsNewGame(ALL_PLAYERS);
   mClear('dPage');
+
+  // Outer container setup as a full-height column flex box
   dBoard = mDom('dPage', {
-    w: '100vw', h: '100vh', box: true, overy: 'auto',
-    bg: '#1a5c2a', display: 'flex', dir: 'column', alignItems: 'center'
+    margin: 'auto', w: 800, h: '100vh', box: true, overflow: 'hidden',
+    bg: '#1a5c2a', display: 'flex', dir: 'column'
   });
 
+  // --- ROW 1: TOP BAR (Status & Scores) ---
   let dTopBar = mDom(dBoard, {
-    w100: true, box: true, padding: '8px 20px',
+    w100: true, box: true, padding: '8px 20px', h: 45,
     bg: '#0d3318', display: 'flex', justifyContent: 'space-between', alignItems: 'center'
   });
   dStatus = mDom(dTopBar, { fg: '#e0e0e0', fz: 18, weight: 'bold' });
   dScores = mDom(dTopBar, { fg: '#e0e0e0', fz: 14 });
 
+  // --- ROW 2: MAIN GAME BOARD (Opponents & Central Trick Area) ---
+  // Taking up the bulk of the upper/middle screen space
   let dGame = mDom(dBoard, {
-    flex: 1, w100: true, box: true, position: 'relative', overflow: 'hidden'
+    h: 500, w100: true, box: true, position: 'relative', overflow: 'hidden'
   });
 
   let dNorth = mDom(dGame, { position: 'absolute', top: 10, left: '50%', transform: 'translateX(-50%)' });
   renderOpponent(dNorth, 'North');
 
-  let dWest = mDom(dGame, { position: 'absolute', left: 10, top: '50%', transform: 'translateY(-50%)' });
+  let dWest = mDom(dGame, { position: 'absolute', left: 20, top: '56%', transform: 'translateY(-50%)' });
   renderOpponentVertical(dWest, 'West');
 
-  let dEast = mDom(dGame, { position: 'absolute', right: 10, top: '50%', transform: 'translateY(-50%)' });
+  let dEast = mDom(dGame, { position: 'absolute', right: 20, top: '56%', transform: 'translateY(-50%)' });
   renderOpponentVertical(dEast, 'East');
 
   dTrick = mDom(dGame, {
-    position: 'absolute', top: '50%', left: '50%',
+    position: 'absolute', top: '60%', left: '50%',
     transform: 'translate(-50%, -50%)',
     w: CARD_W * 4 + 40, h: CARD_H + 60,
     display: 'flex', justifyContent: 'center', alignItems: 'center',
     bg: '#0d331880', rounding: 12, padding: 10
   });
 
-  dPassArea = mDom(dBoard, {
-    w100: true, box: true, padding: '5px 20px', bg: '#0d3318cc',
+  // --- ROW 3: HUMAN PLAYER SECTION (Entire Bottom Area) ---
+  // This wrapper groups the Pass Area and the Hand vertically so they sit tightly together
+  let dHumanSection = mDom(dBoard, {
+    flex: 1, w100: true, box: true, bg: '#0d3318',
+    display: 'flex', dir: 'column', alignItems: 'center'
+  });
+
+  // Pass Area sits cleanly right at the top of the human section
+  dPassArea = mDom(dHumanSection, {
+    w100: true, box: true, padding: '8px 20px', bg: '#0d3318cc',
     display: 'none', justifyContent: 'center', alignItems: 'center', gap: 15
   });
 
-  let dHandWrap = mDom(dBoard, {
+  // Hand Wrap sits directly underneath the pass area at the absolute bottom
+  let dHandWrap = mDom(dHumanSection, {
     w100: true, box: true, padding: '10px 20px 20px',
-    bg: '#0d3318', display: 'flex', justifyContent: 'center', alignItems: 'center',
+    display: 'flex', justifyContent: 'center', alignItems: 'center',
     position: 'relative'
   });
+
   let dHandLabel = mDom(dHandWrap, {
     position: 'absolute', top: 4, left: '50%', transform: 'translateX(-50%)',
     fg: '#aaa', fz: 12
   }, { html: HUMAN });
+
   dHand = mDom(dHandWrap, { display: 'flex', justifyContent: 'center', gap: -10, position: 'relative' });
 
   heartsUIStartHand();
 }
-
 function renderOpponent(dParent, name) {
   let label = mDom(dParent, { fg: '#ccc', fz: 13, align: 'center', matop: 2 }, { html: name });
-  let dCards = mDom(dParent, { display: 'flex', gap: -8, matop: 4, justifyContent: 'center' });
+  let dCards = mDom(dParent, { display: 'flex', matop: 4, justifyContent: 'center' });
   oppCardContainers[name] = { label, cards: dCards };
 }
 
 function renderOpponentVertical(dParent, name) {
   let label = mDom(dParent, { fg: '#ccc', fz: 13, align: 'center' }, { html: name });
-  let dCards = mDom(dParent, { display: 'flex', dir: 'column', gap: -30, matop: 4, alignItems: 'center' });
+  let dCards = mDom(dParent, { gap: -90, matop: 90, display: 'flex', dir: 'column', alignItems: 'center' });
   oppCardContainers[name] = { label, cards: dCards };
 }
 
@@ -118,7 +133,7 @@ function renderHumanHand(selectable = false) {
     let d = item.div;
     mStyle(d, {
       cursor: (selectable || isPlayable) ? 'pointer' : 'default',
-      margin: '0 -8px',
+      margin: '0 -28px',
       transition: 'transform 0.15s, box-shadow 0.15s',
       rounding: 8,
       position: 'relative',
@@ -171,16 +186,22 @@ function renderOpponentCards() {
     mClear(cont.cards);
     let count = HG.hands[name].length;
     let isVert = (name === 'West' || name === 'East');
-    let cardH = isVert ? 40 : 50;
+    let cardH = 100; //isVert ?40 : 50;
+
     for (let i = 0; i < count; i++) {
       let item = uiTypeCard52('2B', cardH);
       face_down(item, '#1a3a6e');
       let d = item.div;
+      //let margin = isVert ? `-${cardH * .25}px 0` : `0 -${cardH * .10}px`;
+      //margin=isVert?-25;
       mStyle(d, {
         position: 'relative',
-        margin: isVert ? '-18px 0' : '0 -6px',
+        // margin: isVert ? '-18px 0' : '0 -6px',
+        //margin,
         rounding: 4,
       });
+      if (isVert) mStyle(d, { matop: -85 });
+      else mStyle(d, { margin: '0 -25px' });
       mAppend(cont.cards, d);
     }
   }
@@ -404,7 +425,7 @@ function aiOpponentsHaveCardsOfSuit(suit, player, played) {
 
 function aiChooseCard(player, valid) {
   if (valid.length === 1) return valid[0];
-  
+
   let hand = HG.hands[player];
   let played = aiGetAllPlayed();
   let trickPts = aiTrickPoints();
