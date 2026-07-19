@@ -5294,8 +5294,8 @@ async function getDA(key, fast = true) {
   DA.isLive = DA.isLocal && !DA.isLocalhost; //!loc.includes('8080');
   DA.project = stringAfterLast(stringBeforeLast(loc, '/'), '/'); //console.log('project', DA.project);
   DA.staticUrl = DA.isLive ? '../' : DA.isLocalhost ? 'http://localhost/maroot/' : DA.isMoxito ? 'https://moxito.online/' : 'https://www.telecave.net/ma/'; //'https://moxito.online/';
-  DA.phpUrl = (DA.isLocal ? 'http://localhost/maroot/' : DA.isMoxito ? 'https://moxito.online/' : 'https://www.telecave.net/ma/') + DA.project + '/php/';
-  DA.dbUrl = (DA.isLocal ? 'http://localhost/maroot/' : DA.isMoxito ? 'https://moxito.online/' : 'https://www.telecave.net/ma/') + DA.project + '/php/db_api.php';
+  DA.phpUrl = (DA.isLocal ? 'http://localhost/maroot/' : DA.isMoxito ? 'https://moxito.online/' : 'https://www.telecave.net/ma/') + DA.project + '/ppph/';
+  DA.dbUrl = (DA.isLocal ? 'http://localhost/maroot/' : DA.isMoxito ? 'https://moxito.online/' : 'https://www.telecave.net/ma/') + DA.project + '/ppph/db_api.php';
   DA.flaskUrl = (DA.isLocal ? 'http://localhost:5000/' : 'https://moxito.online/flaskgame0/');
   DA.nodeUrl = (DA.isLocal ? 'http://localhost:3000/' : 'https://games.moxito.online/');
   if (!fast) {

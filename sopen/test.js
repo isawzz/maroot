@@ -511,12 +511,12 @@ async function testcard3() {
 	mDom('dPage', { h: 200, w: 100 }, { html: getJ1() });
 }
 async function testdb0() {
-	let res = await fetch("http://localhost/maroot/swl99/php/dbtest1.php");
+	let res = await fetch("http://localhost/maroot/swl99/ppph/dbtest1.php");
 	let text = await res.text();
 	console.log(text);
 }
 async function testdb1() {
-	let res = await fetch("http://localhost/maroot/swl99/php/db_api.php");
+	let res = await fetch("http://localhost/maroot/swl99/ppph/db_api.php");
 	let text = await res.json();
 	console.log(text);
 }

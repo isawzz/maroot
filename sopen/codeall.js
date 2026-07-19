@@ -13030,7 +13030,7 @@ async function mFlaskUrl() {
   console.log(DA);
   let session = detectSessionType();
   let server = sessionType == 'fastcomet' ? 'https://moxito.online/' : sessionType == 'telecave' ? 'https://www.telecave.net/' : `http://localhost/${DA.serverdir}/`;
-  return server + `${projectName}/php/`;
+  return server + `${projectName}/ppph/`;
 }
 function mFlex(d, wrap = true, halign = 'start', valign = 'center', row = true) {
   d = toElem(d);
@@ -13554,7 +13554,7 @@ async function mNodeUrl() {
   console.log(DA);
   let session = detectSessionType();
   let server = sessionType == 'fastcomet' ? 'https://moxito.online/' : sessionType == 'telecave' ? 'https://www.telecave.net/' : `http://localhost/${DA.serverdir}/`;
-  return server + `${projectName}/php/`;
+  return server + `${projectName}/ppph/`;
 }
 function mOnEnter(elem, handler) {
   elem.addEventListener('keydown', ev => {
@@ -19959,7 +19959,7 @@ function uploadImage(dataUrl, path) {
   if (isdef(path) && (path.startsWith('zdata') || path.startsWith('y'))) path = '../../' + path;
   let sessionType = detectSessionType();
   let server = sessionType == 'fastcomet' ? 'https://moxito.online/' : 'http://localhost/fastcomet/';
-  fetch(server + 'ilms/php/upload_image.php', {
+  fetch(server + 'ilms/ppph/upload_image.php', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ image: dataUrl, path })

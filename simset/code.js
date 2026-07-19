@@ -12493,8 +12493,8 @@ async function getDA(key, fast = true) {
 	DA.isLive = DA.isLocal && !DA.isLocalhost;
 	DA.project = stringAfterLast(stringBeforeLast(loc, '/'), '/'); //console.log('project', DA.project);
 	DA.staticUrl = DA.isLive ? '../' : DA.isLocalhost ? 'http://localhost/maroot/' : DA.isMoxito ? 'https://moxito.online/' : 'https://www.telecave.net/ma/'; //'https://moxito.online/';
-	DA.phpUrl = (DA.isLocal ? 'http://localhost/maroot/' : DA.isMoxito ? 'https://moxito.online/' : 'https://www.telecave.net/ma/') + DA.project + '/php/';
-	DA.dbUrl = (DA.isLocal ? 'http://localhost/maroot/' : DA.isMoxito ? 'https://moxito.online/' : 'https://www.telecave.net/ma/') + DA.project + '/php/db_api.php';
+	DA.phpUrl = (DA.isLocal ? 'http://localhost/maroot/' : DA.isMoxito ? 'https://moxito.online/' : 'https://www.telecave.net/ma/') + DA.project + '/ppph/';
+	DA.dbUrl = (DA.isLocal ? 'http://localhost/maroot/' : DA.isMoxito ? 'https://moxito.online/' : 'https://www.telecave.net/ma/') + DA.project + '/ppph/db_api.php';
 	DA.flaskUrl = (DA.isLocal ? 'http://localhost:5000/' : 'https://moxito.online/flaskgame0/');
 	DA.nodeUrl = (DA.isLocal ? 'http://localhost:3000/' : 'https://games.moxito.online/');
 	if (!fast) {
@@ -16687,7 +16687,7 @@ async function mFlaskUrl() {
 	console.log(DA);
 	let session = detectSessionType();
 	let server = sessionType == 'fastcomet' ? 'https://moxito.online/' : sessionType == 'telecave' ? 'https://www.telecave.net/' : `http://localhost/${DA.serverdir}/`;
-	return server + `${projectName}/php/`;
+	return server + `${projectName}/ppph/`;
 }
 function mFlex(d, wrap = true, halign = 'start', valign = 'center', row = true) {
 	d = toElem(d);
@@ -17280,7 +17280,7 @@ async function mNodeUrl() {
 	console.log(DA);
 	let session = detectSessionType();
 	let server = sessionType == 'fastcomet' ? 'https://moxito.online/' : sessionType == 'telecave' ? 'https://www.telecave.net/' : `http://localhost/${DA.serverdir}/`;
-	return server + `${projectName}/php/`;
+	return server + `${projectName}/ppph/`;
 }
 function mOnEnter(elem, handler) {
 	elem.addEventListener('keydown', ev => {
@@ -25362,7 +25362,7 @@ function uploadImage(dataUrl, path) {
 	if (isdef(path) && (path.startsWith('zdata') || path.startsWith('y'))) path = '../../' + path;
 	let sessionType = detectSessionType();
 	let server = sessionType == 'fastcomet' ? 'https://moxito.online/' : 'http://localhost/fastcomet/';
-	fetch(server + 'ilms/php/upload_image.php', {
+	fetch(server + 'ilms/ppph/upload_image.php', {
 		method: 'POST',
 		headers: { 'Content-Type': 'application/json' },
 		body: JSON.stringify({ image: dataUrl, path })
