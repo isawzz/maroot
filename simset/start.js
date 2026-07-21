@@ -1,6 +1,6 @@
 onload = start; VERBOSE = false; TESTING = true; DEV = false; POLLING = true;
 
-function start() { test0_createGame(); }
+function start() { test0(); }
 
 async function test0_cardbasics() {
 	await loadAssetsStaticPreload();

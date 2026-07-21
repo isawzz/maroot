@@ -17,6 +17,10 @@ amanda:
       level: 5
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random
 annabel:
   name: annabel
   color: '#0892d0'
@@ -36,6 +40,10 @@ annabel:
       level: 7
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random
 diana:
   name: diana
   imgKey: das
@@ -56,6 +64,10 @@ diana:
       level: 7
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random
 felix:
   name: felix
   color: '#0e1e76'
@@ -75,6 +87,10 @@ felix:
       level: 5
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random
 guest:
   name: guest
   color: '#b17304'
@@ -95,6 +111,10 @@ guest:
       level: 7
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random
 gul:
   name: gul
   imgKey: gul
@@ -115,6 +135,10 @@ gul:
       level: 7
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random
 lauren:
   name: lauren
   color: '#006c7f'
@@ -133,6 +157,10 @@ lauren:
       level: 7
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random
 mimi:
   name: mimi
   color: '#ffe4e1'
@@ -153,6 +181,10 @@ mimi:
       level: 1
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random
 mitra:
   name: mitra
   color: '#8c5939'
@@ -173,6 +205,10 @@ mitra:
       level: 7
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random
 mac:
   name: mac
   color: '#353839'
@@ -192,6 +228,10 @@ mac:
       level: 7
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random
 nasi:
   name: nasi
   color: '#ffdf00'
@@ -212,6 +252,10 @@ nasi:
       level: 7
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random
 sarah:
   name: sarah
   color: '#f77fbe'
@@ -231,6 +275,10 @@ sarah:
       level: 7
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random
 sheeba:
   name: sheeba
   color: '#c71585'
@@ -250,6 +298,10 @@ sheeba:
       level: 7
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random
 valerie:
   name: valerie
   color: '#fccc1a'
@@ -269,6 +321,10 @@ valerie:
       level: 7
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random
 wangari:
   name: wangari
   color: '#ffb94e'
@@ -289,6 +345,10 @@ wangari:
       level: 7
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random
 wolferl:
   name: wolferl
   color: '#253d50'
@@ -308,3 +368,7 @@ wolferl:
       level: 7
     aristo:
       level: 7
+    ttt:
+      strategy: random
+    reversi:
+      strategy: random

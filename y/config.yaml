@@ -341,6 +341,26 @@ games:
       - { rows: 6 }
       - { cols: 3, rows: 6 }
     winnerslist: []
+  ttt:
+    friendly: TicTacToe
+    logo: bee
+    color: sienna
+    options:
+      columns: '5,4,3'
+      rows: '5,4,3'
+      symbols: 'ABCD,ABC,XO'
+    ploptions:
+      playmode: 'bot,human'
+      strategy: 'clairvoyant,random'
+  reversi:
+    friendly: Reversi
+    logo: frog
+    color: forestgreen
+    options:
+      size: '8,6,4'
+    ploptions:
+      playmode: 'bot,human'
+      strategy: 'clairvoyant,random'
   wise:
     friendly: Wise
     logo: owl
